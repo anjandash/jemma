@@ -1,0 +1,12 @@
+Jemma_Properties_Methods_NAME.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NMLT.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NMOP.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NMRT.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NTID.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_SLOC.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_TLOC.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_CMPX.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NMPR.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NMTK.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_NUID.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Properties_Methods_MXIN.csv filter=lfs diff=lfs merge=lfs -text

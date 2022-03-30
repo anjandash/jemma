@@ -1,0 +1,4 @@
+Jemma_Metadata_Classes.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Metadata_Projects.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Metadata_Packages.csv filter=lfs diff=lfs merge=lfs -text
+Jemma_Metadata_Methods.csv filter=lfs diff=lfs merge=lfs -text
