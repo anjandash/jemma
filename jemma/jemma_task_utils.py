@@ -6,6 +6,7 @@ license: MIT
 """
 
 import javalang
+from subprocess import Popen, PIPE
 
 
 """
@@ -187,46 +188,81 @@ def get_actual_token(code_token):
 # ********** #
 
 
-def gen_TKNA_from_method_text(method_text):
+def gen_TKNA_from_method_text(method_id, method_text):
     tokens = list(javalang.tokenizer.tokenize(method_text))
     tokens = [str(t) for t in tokens]
     tokens = [t[t.index('"')+1:t.rindex('"')] for t in tokens]
     return " ".join(tokens)
 
 
-def gen_TKNB_from_method_text(method_text):
+def gen_TKNB_from_method_text(method_id, method_text):
     tokens = list(javalang.tokenizer.tokenize(method_text))
     tokens = [str(t) for t in tokens]
     tokens = [t[t.index('"')+1:t.rindex('"')] for t in tokens]
     tokens = [get_replaced_token(t) for t in tokens]
     return ",".join(tokens)
 
-def gen_C2VC_from_method_text(method_text):
+
+def gen_C2VC_from_method_text(method_id, method_text):
+    with open("./code2vec/Input.java", "w+") as f:
+        method_lines = method_text.split('\n')
+        for line in method_lines:
+            f.write(line + "\n")
+
+    command = "python3 ./code2vec/JavaExtractor/extract.py --file ./code2vec/Input.java --max_path_length 8 --max_path_width 2 --num_threads 8 --jar ./code2vec/JavaExtractor/JPredict/target/JavaExtractor-0.0.1-SNAPSHOT.jar" 
+    process = Popen(command, shell=True, stdout=PIPE, stderr=PIPE)  
+    outputs = process.communicate()[0].decode('utf-8')
+
+    try:
+        return (outputs.split(" ", 1)[1])
+    except:
+        # raise Error
+        print(outputs)
+        print("_WARNING_ There was a problem while generating code2vec representation for", method_id)
+        print("_WARNING_ A dummy code2vec representation has been generated instead, to avoid problems. Please check whether the method text is suitable AST path extraction:", method_id)
+        return "METHOD_NAME,0,METHOD_NAME"
+
+
+def gen_C2SQ_from_method_text(method_id, method_text):
+    with open("./code2seq/Input.java", "w+") as f:
+        method_lines = method_text.split('\n')
+        for line in method_lines:
+            f.write(line + "\n")
+
+    command = "python3 ./code2seq/JavaExtractor/extract.py --file ./code2seq/Input.java --max_path_length 8 --max_path_width 2 --num_threads 8 --jar ./code2seq/JavaExtractor/JPredict/target/JavaExtractor-0.0.1-SNAPSHOT.jar" 
+    process = Popen(command, shell=True, stdout=PIPE, stderr=PIPE)  
+    outputs = process.communicate()[0].decode('utf-8')
+
+    try:
+        return (outputs.split(" ", 1)[1])
+    except:
+        # raise Error
+        print("_WARNING_ There was a problem while generating code2seq representation for", method_id)
+        print("_WARNING_ A dummy code2seq representation has been generated instead, to avoid problems. Please check whether the method text is suitable AST path extraction:", method_id)        
+        return "METHOD_NAME,0,METHOD_NAME"
+
+
+def gen_FTGR_from_method_text(method_id, method_text):
     pass
 
-def gen_C2SQ_from_method_text(method_text):
+def gen_REPR_from_method_text(method_id, method_text):
     pass
 
-def gen_FTGR_from_method_text(method_text):
-    pass
-
-def gen_REPR_from_method_text(method_text):
-    pass
 
 def gen_representation(representation, method_id, custom_method_text):
 
-    masked_text = custom_method_text
+    masked_text = custom_method_text 
 
     if   representation == "TKNA":
-        return gen_TKNA_from_method_text(masked_text)
+        return gen_TKNA_from_method_text(method_id, custom_method_text)
     elif representation == "TKNB":
-        return gen_TKNB_from_method_text(masked_text)
+        return gen_TKNB_from_method_text(method_id, custom_method_text)
     elif representation == "C2VC":
-        return gen_C2VC_from_method_text(masked_text)
+        return gen_C2VC_from_method_text(method_id, custom_method_text)
     elif representation == "C2SQ":
-        return gen_C2SQ_from_method_text(masked_text)
+        return gen_C2SQ_from_method_text(method_id, custom_method_text)
     elif representation == "FTGR":
-        return gen_FTGR_from_method_text(masked_text)
+        return gen_FTGR_from_method_text(method_id, custom_method_text)
 
 
 
