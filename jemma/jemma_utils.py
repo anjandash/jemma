@@ -8,14 +8,15 @@ license: MIT
 import pandas as pd 
 
 
-projects_csv = "./data/Giganticode_50PLUS_DB_projects_CENTOS.csv"
-classes_csv  = "./data/Giganticode_50PLUS_DB_classes_CENTOS.csv"
-methods_csv  = "./data/Giganticode_50PLUS_DB_methods_CENTOS.csv"
+projects_csv = "./jemma_datasets/metatdata/Jemma_Metadata_Projects.csv"
+packages_csv = "./jemma_datasets/metatdata/Jemma_Metadata_Packages.csv"
+classes_csv  = "./jemma_datasets/metatdata/Jemma_Metadata_Classes.csv"
+methods_csv  = "./jemma_datasets/metatdata/Jemma_Metadata_Methods.csv"
 
-metrics = { 
-    "CMPX": "./data/Giganticode_50PLUS_DB_metrics_CMPX_CENTOS.csv",
-    "SLOC": "./data/Giganticode_50PLUS_DB_metrics_SLOC_CENTOS.csv",
-    "MXIN": "./data/Giganticode_50PLUS_DB_metrics_MXIN_CENTOS.csv",
+properties = { 
+    "CMPX": "./jemma_datasets/properties/Jemma_Properties_Methods_CMPX.csv",
+    "SLOC": "./jemma_datasets/properties/Jemma_Properties_Methods_SLOC.csv",
+    "MXIN": "./jemma_datasets/properties/Jemma_Properties_Methods_MXIN.csv",
 }
 
 representations = {
@@ -175,26 +176,46 @@ def get_properties(property, methods):
 
     Parameters:
     * property : (str) - property code
-    * methods : list[str] - list of unique methods ids
+    * methods : (list[str]) - list of unique methods ids
 
     Returns:
+    * pd.Dataframe object (with method_id, property) of the passed list of methods
     """
 
-    # read the csv of the property
-    # merge the property csv with the list of methods passed and return it
-    pass
+    df_m = pd.DataFrame({'method_id': methods})
+    df_p = pd.read_csv(properties.get(property, None), header=0)
+    df_f = pd.merge(df_p, df_m, on="method_id")
 
-def get_representations(representation="C2VC", methods=method_ids):
+    return df_f
+
+def get_representations(representation, methods):
     """
     Get representation values of a list of methods
 
     Parameters:
     * representation : (str) - representation code
-    * methods : list[str] - list of unique methods ids
+    * methods : (list[str]) - list of unique methods ids
+
+    Returns:
+    * pd.Dataframe object (with method_id, representation) of the passed list of methods
     """
-    pass 
+
+    df_m = pd.DataFrame({'method_id': methods})
+    df_r = pd.read_csv(properties.get(representation, None), header=0)
+    df_f = pd.merge(df_r, df_m, on="method_id")
+
+    return df_f
 
 def get_callees(method_id):
     """
     """
+    # get project_id from method_id
+    # get project_id-based callgraph csv (e.g. /path/to/Giganticode_50PLUS_DB_ALLCALLGRAPHS_MEGANODE_bucket_0a0dc599-0991-4902-a3c0-5c27a8647d8e_.csv)
+    pass
+
+def get_callers(method_id):
+    """
+    """
+    # get project_id from method_id
+    # get project_id-based callgraph csv (e.g. /path/to/Giganticode_50PLUS_DB_ALLCALLGRAPHS_MEGANODE_bucket_0a0dc599-0991-4902-a3c0-5c27a8647d8e_.csv)    
     pass
