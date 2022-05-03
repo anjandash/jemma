@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+16f20e8e-6390-4506-bec9-9f73c1af544f,a2bc3530-ba7c-45d7-b773-89e98c373806,8135477f-af9c-4d11-b42f-7839f7f5c72f,->,16f20e8e-6390-4506-bec9-9f73c1af544f,com/github/redpill/new_jee_skeleton/AppTest.java,assertTrue
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,878c90cd-f161-4b4a-a3f3-8ae6d815d826,->,16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,8dd80114-4a89-41e4-beef-a7dd46886b65
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,878c90cd-f161-4b4a-a3f3-8ae6d815d826,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver.java,manage
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,878c90cd-f161-4b4a-a3f3-8ae6d815d826,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver$Options.java,timeouts
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,878c90cd-f161-4b4a-a3f3-8ae6d815d826,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver$Timeouts.java,implicitlyWait
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,2d1a99f9-2105-46a7-88fc-470d6821492a,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver.java,quit
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,4b873902-eb6a-4bd7-b2a4-0d45b3d4ed79,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver.java,get
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,4b873902-eb6a-4bd7-b2a4-0d45b3d4ed79,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver.java,get
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,8dd80114-4a89-41e4-beef-a7dd46886b65,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/WebDriver.java,getCurrentUrl
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,8dd80114-4a89-41e4-beef-a7dd46886b65,->,16f20e8e-6390-4506-bec9-9f73c1af544f,org/openqa/selenium/remote/DesiredCapabilities.java,firefox
+16f20e8e-6390-4506-bec9-9f73c1af544f,e12d783c-370b-4c09-b430-a3332fc97f74,8dd80114-4a89-41e4-beef-a7dd46886b65,->,16f20e8e-6390-4506-bec9-9f73c1af544f,java/net/MalformedURLException.java,printStackTrace
+16f20e8e-6390-4506-bec9-9f73c1af544f,com/github/redpill/new_jee_skeleton/core/BaseTest.java,<clinit>,->,16f20e8e-6390-4506-bec9-9f73c1af544f,368bd107-8d06-48ad-95a9-d158438055a9,907c5f04-987a-40c2-b674-722beb4aa651
+16f20e8e-6390-4506-bec9-9f73c1af544f,com/github/redpill/new_jee_skeleton/core/BaseTest.java,<clinit>,->,16f20e8e-6390-4506-bec9-9f73c1af544f,368bd107-8d06-48ad-95a9-d158438055a9,7d9e6ce0-f908-455e-a5df-713db6076906
+16f20e8e-6390-4506-bec9-9f73c1af544f,368bd107-8d06-48ad-95a9-d158438055a9,907c5f04-987a-40c2-b674-722beb4aa651,->,16f20e8e-6390-4506-bec9-9f73c1af544f,java/lang/System.java,getProperty
+16f20e8e-6390-4506-bec9-9f73c1af544f,368bd107-8d06-48ad-95a9-d158438055a9,7d9e6ce0-f908-455e-a5df-713db6076906,->,16f20e8e-6390-4506-bec9-9f73c1af544f,java/lang/System.java,getProperty
+16f20e8e-6390-4506-bec9-9f73c1af544f,b762e1fd-2c6d-497e-acfd-b23be803efd9,53daf52a-2092-4c76-b2fe-2b0d93be8bd4,->,16f20e8e-6390-4506-bec9-9f73c1af544f,java/io/PrintStream.java,println

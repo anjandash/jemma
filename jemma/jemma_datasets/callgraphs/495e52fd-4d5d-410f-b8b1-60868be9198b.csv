@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+495e52fd-4d5d-410f-b8b1-60868be9198b,71b185ed-ec57-4cd4-803f-0650595849e1,10749121-306a-4f1e-b39f-f8076bfd845f,->,495e52fd-4d5d-410f-b8b1-60868be9198b,caccc409-4ad0-4e47-b1b9-56673b6370f4,9b98065d-144b-43bd-b5ac-abc5eb96e10d
+495e52fd-4d5d-410f-b8b1-60868be9198b,71b185ed-ec57-4cd4-803f-0650595849e1,10749121-306a-4f1e-b39f-f8076bfd845f,->,495e52fd-4d5d-410f-b8b1-60868be9198b,org/junit/Assert.java,assertNotNull
+495e52fd-4d5d-410f-b8b1-60868be9198b,a8969b18-173c-4bd5-801c-be6af84720e3,b0c6aeed-2d6f-4cf6-9314-dca8cb447a5a,->,495e52fd-4d5d-410f-b8b1-60868be9198b,java/util/logging/Logger.java,log
+495e52fd-4d5d-410f-b8b1-60868be9198b,com/axiomaticit/interceptor/PersonInterceptor.java,<clinit>,->,495e52fd-4d5d-410f-b8b1-60868be9198b,java/lang/Class.java,getName
+495e52fd-4d5d-410f-b8b1-60868be9198b,com/axiomaticit/interceptor/PersonInterceptor.java,<clinit>,->,495e52fd-4d5d-410f-b8b1-60868be9198b,java/util/logging/Logger.java,getLogger
+495e52fd-4d5d-410f-b8b1-60868be9198b,8909fc8f-d25c-472c-bf98-ac5c0eae7cfb,a1e8eaee-c91e-4948-9961-6ce15a7a8d40,->,495e52fd-4d5d-410f-b8b1-60868be9198b,db0d5f48-185c-4b3d-a4ee-b33035e6cfff,209cd8b4-638e-49f3-8d7a-26bc6c4c26e5
+495e52fd-4d5d-410f-b8b1-60868be9198b,8909fc8f-d25c-472c-bf98-ac5c0eae7cfb,a1e8eaee-c91e-4948-9961-6ce15a7a8d40,->,495e52fd-4d5d-410f-b8b1-60868be9198b,caccc409-4ad0-4e47-b1b9-56673b6370f4,9b98065d-144b-43bd-b5ac-abc5eb96e10d
+495e52fd-4d5d-410f-b8b1-60868be9198b,8909fc8f-d25c-472c-bf98-ac5c0eae7cfb,a1e8eaee-c91e-4948-9961-6ce15a7a8d40,->,495e52fd-4d5d-410f-b8b1-60868be9198b,1d09186f-3496-477c-8fd8-fbd00007dc17,f54a10af-5034-4c34-a5b8-c7f9463268b0
+495e52fd-4d5d-410f-b8b1-60868be9198b,8909fc8f-d25c-472c-bf98-ac5c0eae7cfb,a1e8eaee-c91e-4948-9961-6ce15a7a8d40,->,495e52fd-4d5d-410f-b8b1-60868be9198b,java/util/List.java,addAll
+495e52fd-4d5d-410f-b8b1-60868be9198b,8909fc8f-d25c-472c-bf98-ac5c0eae7cfb,a1e8eaee-c91e-4948-9961-6ce15a7a8d40,->,495e52fd-4d5d-410f-b8b1-60868be9198b,c57dfa8b-36a9-4fa7-bfd8-3d5bbd3f8dc1,70847775-437a-41b2-87d0-0df98f0801c5

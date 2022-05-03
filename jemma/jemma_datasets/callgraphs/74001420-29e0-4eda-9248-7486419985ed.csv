@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+74001420-29e0-4eda-9248-7486419985ed,net/expantra/aisles/DBTypes$2.java,isSatisfiedBy,->,74001420-29e0-4eda-9248-7486419985ed,0d9d46ab-cca7-460b-929f-23b64cb0417d,e7fef44a-15a6-4d3a-bcd9-250adcd47abb
+74001420-29e0-4eda-9248-7486419985ed,d96e231e-4aa9-4073-8ae0-80beb06afad0,d8f8b01b-7b45-4d54-a8ab-0e5581376ae1,->,74001420-29e0-4eda-9248-7486419985ed,d96e231e-4aa9-4073-8ae0-80beb06afad0,5710fd0b-52e0-4b0e-abc5-1b519aea280f
+74001420-29e0-4eda-9248-7486419985ed,b235d32c-66e7-4b7b-bf89-4fadddf9255c,b7f731e3-1579-4896-9f99-18505215f3b9,->,74001420-29e0-4eda-9248-7486419985ed,net/expantra/aisles/AppTest.java,assertTrue
+74001420-29e0-4eda-9248-7486419985ed,41510159-3c40-4ff8-ba92-28400e43bc1a,5ec6cd48-c127-4a94-85f6-89856c0ae8a3,->,74001420-29e0-4eda-9248-7486419985ed,java/io/PrintStream.java,println

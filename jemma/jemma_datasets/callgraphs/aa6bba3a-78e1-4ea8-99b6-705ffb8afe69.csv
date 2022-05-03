@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,ef433677-2959-4edc-b15f-8fa717de1091,77c048a2-1742-4d63-8384-6d2c1a57a3de,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,java/lang/String.java,format
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,ef433677-2959-4edc-b15f-8fa717de1091,77c048a2-1742-4d63-8384-6d2c1a57a3de,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,java/lang/String.java,contains
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,ef433677-2959-4edc-b15f-8fa717de1091,77c048a2-1742-4d63-8384-6d2c1a57a3de,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,com/codahale/metrics/health/HealthCheck$Result.java,unhealthy
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,ef433677-2959-4edc-b15f-8fa717de1091,77c048a2-1742-4d63-8384-6d2c1a57a3de,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,com/codahale/metrics/health/HealthCheck$Result.java,healthy
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,fe4c88db-8b61-44a4-91c1-1ab8c309e3d9,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,9b072372-90cb-4867-bad3-b9a5823473eb,7cb013d9-cd4f-4876-96c9-1224f4db4daa
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,9b072372-90cb-4867-bad3-b9a5823473eb,bd7e9702-0b8c-4486-bea8-0571b476c36d
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,9b072372-90cb-4867-bad3-b9a5823473eb,7cb013d9-cd4f-4876-96c9-1224f4db4daa
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,io/dropwizard/setup/Environment.java,healthChecks
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,com/codahale/metrics/health/HealthCheckRegistry.java,register
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,io/dropwizard/setup/Environment.java,jersey
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,io/dropwizard/jersey/setup/JerseyEnvironment.java,register
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,b3d55a7f-6a48-4006-89b0-d52b41b72f2d,297da934-3e2f-4bac-a29f-b9573e92f2a6
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,61031923-0878-4df2-8b88-4d8398b8f5b6,51fbf4c0-9238-4422-afaa-8111f6afa52b,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,com/google/common/base/Optional.java,or
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,61031923-0878-4df2-8b88-4d8398b8f5b6,51fbf4c0-9238-4422-afaa-8111f6afa52b,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,java/lang/String.java,format
+aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,61031923-0878-4df2-8b88-4d8398b8f5b6,51fbf4c0-9238-4422-afaa-8111f6afa52b,->,aa6bba3a-78e1-4ea8-99b6-705ffb8afe69,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet

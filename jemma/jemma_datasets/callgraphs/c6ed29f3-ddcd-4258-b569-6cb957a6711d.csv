@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c6ed29f3-ddcd-4258-b569-6cb957a6711d,5044ca73-d31c-4224-b829-8d6443633bb2,eb28b66f-1679-45a9-8da8-bff76d2333f4,->,c6ed29f3-ddcd-4258-b569-6cb957a6711d,edu/nwnu/ququzone/sjw/skeleton/user/dao/jpa/UserRepository.java,save
+c6ed29f3-ddcd-4258-b569-6cb957a6711d,5044ca73-d31c-4224-b829-8d6443633bb2,04cf1552-fa31-47c1-aea8-55eb66b54f27,->,c6ed29f3-ddcd-4258-b569-6cb957a6711d,javax/persistence/EntityManager.java,createQuery
+c6ed29f3-ddcd-4258-b569-6cb957a6711d,5044ca73-d31c-4224-b829-8d6443633bb2,04cf1552-fa31-47c1-aea8-55eb66b54f27,->,c6ed29f3-ddcd-4258-b569-6cb957a6711d,javax/persistence/TypedQuery.java,setParameter
+c6ed29f3-ddcd-4258-b569-6cb957a6711d,5044ca73-d31c-4224-b829-8d6443633bb2,04cf1552-fa31-47c1-aea8-55eb66b54f27,->,c6ed29f3-ddcd-4258-b569-6cb957a6711d,javax/persistence/TypedQuery.java,getResultList
+c6ed29f3-ddcd-4258-b569-6cb957a6711d,45cf192b-05b5-447e-9ab1-3d56148d0d6d,4fa0d181-80fa-49a4-82ab-ca3eb428ddf7,->,c6ed29f3-ddcd-4258-b569-6cb957a6711d,ebdaa94a-d317-46f0-bf9b-e3ea3d389961,16688e78-2fb1-4dc4-b4cb-05242882ff14

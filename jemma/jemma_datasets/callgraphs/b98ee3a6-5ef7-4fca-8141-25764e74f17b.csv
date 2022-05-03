@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,1d7bd058-05a8-4b48-90a9-504705382b12,b408c596-1989-4cf1-9739-d50b8bdaded9,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,java/util/List.java,add
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,1d7bd058-05a8-4b48-90a9-504705382b12,875d84dc-473d-475f-83d7-9418ffc20a30,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,1d7bd058-05a8-4b48-90a9-504705382b12,875d84dc-473d-475f-83d7-9418ffc20a30,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,c454c38c-c9af-4d6b-8e34-5b56c60a7bae,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,b1cfd122-8005-4fa0-998f-4d6ccb16b7ac,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,cd383651-45a4-46e9-8fbe-2e50e55ff3b7,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/validation/BindingResult.java,hasErrors
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/validation/BindingResult.java,getFieldError
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/validation/FieldError.java,getDefaultMessage
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,java/lang/StringBuilder.java,append
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,c8db305a-b593-4b00-a5a7-b48af8576823,29b5f11a-e186-4e7a-8299-bb61c5ca1d87
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,java/lang/StringBuilder.java,append
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b2c4ddac-d213-4be0-bdb5-67de6c08aa45,22be4eb8-0241-4d8f-ae63-88705dc994d1,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,java/lang/StringBuilder.java,toString
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b9c40dee-c62e-4211-8f8f-abd9ccf30f73,3f368079-b574-40be-ab01-3b05e7798031,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,java/lang/String.java,equals
+b98ee3a6-5ef7-4fca-8141-25764e74f17b,b9c40dee-c62e-4211-8f8f-abd9ccf30f73,3f368079-b574-40be-ab01-3b05e7798031,->,b98ee3a6-5ef7-4fca-8141-25764e74f17b,org/springframework/ui/Model.java,addAttribute

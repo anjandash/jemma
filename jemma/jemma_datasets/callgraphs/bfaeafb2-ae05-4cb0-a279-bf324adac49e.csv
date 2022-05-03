@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,8e98177b-1b03-47de-a823-8bfa9abace71,873f8528-4be4-421d-b0c9-f94abc656267,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/io/PrintStream.java,println
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/lang/StringBuilder.java,append
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/lang/StringBuilder.java,append
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/lang/StringBuilder.java,append
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,org/xml/sax/Attributes.java,getLength
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/lang/StringBuilder.java,append
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/lang/StringBuilder.java,toString
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,9cc4fcf5-70b4-4efc-a616-5207085fbbb2,c89fae42-c741-4e6f-889a-a29025631fa5,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,java/io/PrintStream.java,println
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,df53c038-5739-449a-94fd-026e12b23c05,ade6a043-9f5f-46e5-b7af-26af401e9b4d,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,org/xml/sax/helpers/XMLReaderFactory.java,createXMLReader
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,df53c038-5739-449a-94fd-026e12b23c05,ade6a043-9f5f-46e5-b7af-26af401e9b4d,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,org/xml/sax/XMLReader.java,setContentHandler
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,df53c038-5739-449a-94fd-026e12b23c05,ade6a043-9f5f-46e5-b7af-26af401e9b4d,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,org/xml/sax/XMLReader.java,setErrorHandler
+bfaeafb2-ae05-4cb0-a279-bf324adac49e,df53c038-5739-449a-94fd-026e12b23c05,ade6a043-9f5f-46e5-b7af-26af401e9b4d,->,bfaeafb2-ae05-4cb0-a279-bf324adac49e,org/xml/sax/XMLReader.java,parse

@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ed8d320a-bf5f-4570-a14e-27325eef1d64,431f9b4f-735f-49a1-b2d4-c6dd3bc2339a,e075d9ba-918f-457e-9365-b43739beece6,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,java/util/ArrayList.java,add
+ed8d320a-bf5f-4570-a14e-27325eef1d64,431f9b4f-735f-49a1-b2d4-c6dd3bc2339a,e075d9ba-918f-457e-9365-b43739beece6,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,java/util/ArrayList.java,add
+ed8d320a-bf5f-4570-a14e-27325eef1d64,431f9b4f-735f-49a1-b2d4-c6dd3bc2339a,e075d9ba-918f-457e-9365-b43739beece6,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,java/util/ArrayList.java,add
+ed8d320a-bf5f-4570-a14e-27325eef1d64,431f9b4f-735f-49a1-b2d4-c6dd3bc2339a,e075d9ba-918f-457e-9365-b43739beece6,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,java/util/ArrayList.java,add
+ed8d320a-bf5f-4570-a14e-27325eef1d64,Gender.java,values,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,Gender.java,clone
+ed8d320a-bf5f-4570-a14e-27325eef1d64,Gender.java,valueOf,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,java/lang/Enum.java,valueOf
+ed8d320a-bf5f-4570-a14e-27325eef1d64,d39350e2-f26a-4a59-bab0-f523a371d5a1,dcf31723-a15b-4703-bb12-58918992130a,->,ed8d320a-bf5f-4570-a14e-27325eef1d64,MovieController.java,getByTitle

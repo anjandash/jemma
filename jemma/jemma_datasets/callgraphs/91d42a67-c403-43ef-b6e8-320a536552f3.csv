@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Experience.java,values,->,91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Experience.java,clone
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Experience.java,valueOf,->,91d42a67-c403-43ef-b6e8-320a536552f3,java/lang/Enum.java,valueOf
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Attribute.java,values,->,91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Attribute.java,clone
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Attribute.java,valueOf,->,91d42a67-c403-43ef-b6e8-320a536552f3,java/lang/Enum.java,valueOf
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Amenity.java,values,->,91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Amenity.java,clone
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/Amenity.java,valueOf,->,91d42a67-c403-43ef-b6e8-320a536552f3,java/lang/Enum.java,valueOf
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/TimeUnit.java,values,->,91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/TimeUnit.java,clone
+91d42a67-c403-43ef-b6e8-320a536552f3,de/consistec/jobad/domain/TimeUnit.java,valueOf,->,91d42a67-c403-43ef-b6e8-320a536552f3,java/lang/Enum.java,valueOf
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,1157ba80-e388-48e5-8df0-06a3fee63ccf,0285517c-6850-43e9-aa66-cee80008ebf1
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,4c936ed9-284c-4578-ba1c-7b7dfb1cac97,ba7bc379-0f28-4203-86f5-2e18875b6490
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,ad2c3373-37e8-4402-8f11-dc3b4320263d,e155e1ab-332c-44d7-9c74-e018ebdaf02f
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,ad2c3373-37e8-4402-8f11-dc3b4320263d,2c6c25c4-9f45-42f1-9dac-c1937ddc83d7
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,ad2c3373-37e8-4402-8f11-dc3b4320263d,018cdf8f-5f42-4302-998c-50ebf01fe7ce
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,ad2c3373-37e8-4402-8f11-dc3b4320263d,fa366d49-9894-4111-984c-868aa34391c3
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,ad2c3373-37e8-4402-8f11-dc3b4320263d,c1c825f9-368f-45e9-b4af-75f4202c998d
+91d42a67-c403-43ef-b6e8-320a536552f3,2259e18a-79fc-4c30-b20d-5ecf99f5ae42,5c026082-c148-41c1-9e41-854b6c5aade0,->,91d42a67-c403-43ef-b6e8-320a536552f3,ad2c3373-37e8-4402-8f11-dc3b4320263d,e92a2ed1-a394-4116-8c5c-70c39c12d994

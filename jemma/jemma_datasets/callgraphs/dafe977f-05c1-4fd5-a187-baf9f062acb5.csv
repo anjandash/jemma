@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+dafe977f-05c1-4fd5-a187-baf9f062acb5,a1232360-745d-454d-89e8-9aa48ab29f07,b2de415f-84a7-454a-899b-75597b0afad3,->,dafe977f-05c1-4fd5-a187-baf9f062acb5,org/springframework/test/context/TestContext.java,getApplicationContext
+dafe977f-05c1-4fd5-a187-baf9f062acb5,a1232360-745d-454d-89e8-9aa48ab29f07,b2de415f-84a7-454a-899b-75597b0afad3,->,dafe977f-05c1-4fd5-a187-baf9f062acb5,org/springframework/test/context/TestContext.java,getApplicationContext
+dafe977f-05c1-4fd5-a187-baf9f062acb5,a1232360-745d-454d-89e8-9aa48ab29f07,b2de415f-84a7-454a-899b-75597b0afad3,->,dafe977f-05c1-4fd5-a187-baf9f062acb5,org/springframework/context/support/GenericApplicationContext.java,getBeanFactory
+dafe977f-05c1-4fd5-a187-baf9f062acb5,a1232360-745d-454d-89e8-9aa48ab29f07,b2de415f-84a7-454a-899b-75597b0afad3,->,dafe977f-05c1-4fd5-a187-baf9f062acb5,org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java,registerScope
+dafe977f-05c1-4fd5-a187-baf9f062acb5,ac850760-70ee-4769-8664-811b3e37aea2,268d74cb-9c0b-4145-91f4-6be19d7a12d1,->,dafe977f-05c1-4fd5-a187-baf9f062acb5,java/io/PrintStream.java,println
+dafe977f-05c1-4fd5-a187-baf9f062acb5,ac850760-70ee-4769-8664-811b3e37aea2,02ca17c5-aafa-4f99-b284-1bc3271919d0,->,dafe977f-05c1-4fd5-a187-baf9f062acb5,java/io/PrintStream.java,println

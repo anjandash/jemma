@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,java/lang/StringBuilder.java,append
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,org/springframework/security/core/Authentication.java,getName
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,java/lang/StringBuilder.java,append
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,java/lang/StringBuilder.java,toString
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,java/io/PrintStream.java,println
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,org/springframework/security/core/Authentication.java,getPrincipal
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,org/springframework/security/core/Authentication.java,getCredentials
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,ea9246bb-a244-4b4d-9607-a4ecc4c0763e,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,org/springframework/security/core/authority/AuthorityUtils.java,createAuthorityList
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,65d5dcd7-87f8-4d9c-a40f-80fabe7965b3,619a8928-0363-4091-b833-756486fc4011,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,java/lang/Object.java,equals
+66ea8f71-6034-4b1a-b5e7-b8e5a20429be,ace0dd14-b549-4e2a-b9df-e78b4d87f119,dfd33343-41e5-4ee7-a97d-72c80b722221,->,66ea8f71-6034-4b1a-b5e7-b8e5a20429be,java/lang/Exception.java,printStackTrace

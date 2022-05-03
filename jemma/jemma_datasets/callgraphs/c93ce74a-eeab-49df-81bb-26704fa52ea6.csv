@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c93ce74a-eeab-49df-81bb-26704fa52ea6,7ec9ecc3-3790-4191-b07d-adc814357703,de8878d6-6593-4336-ac85-9a6edf23524a,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,32615b76-deaa-4400-b283-343cfdb92e6a,812bd6d7-6bd4-4fc8-869e-18ea734cdf51
+c93ce74a-eeab-49df-81bb-26704fa52ea6,7ec9ecc3-3790-4191-b07d-adc814357703,0639656b-aae0-4699-947c-b570da511fa8,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,32615b76-deaa-4400-b283-343cfdb92e6a,1d8f2739-3071-48c6-8017-3a87901d64aa
+c93ce74a-eeab-49df-81bb-26704fa52ea6,7ec9ecc3-3790-4191-b07d-adc814357703,3365d616-b9eb-44f3-9b1b-3a73c8277e6a,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,32615b76-deaa-4400-b283-343cfdb92e6a,62fc8877-8122-4399-93ba-44faafeeac0d
+c93ce74a-eeab-49df-81bb-26704fa52ea6,7ec9ecc3-3790-4191-b07d-adc814357703,253296a4-29a8-401c-9f74-412395db9a60,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,32615b76-deaa-4400-b283-343cfdb92e6a,55275d44-e242-4ef2-9175-abbbc9123063
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,98b5867b-b0ff-4b67-aab0-5e9506a2b3eb,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/util/Set.java,contains
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,98b5867b-b0ff-4b67-aab0-5e9506a2b3eb,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/util/Set.java,iterator
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,98b5867b-b0ff-4b67-aab0-5e9506a2b3eb,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/util/Iterator.java,hasNext
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,98b5867b-b0ff-4b67-aab0-5e9506a2b3eb,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/util/Iterator.java,next
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,98b5867b-b0ff-4b67-aab0-5e9506a2b3eb,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,a32bff15-77b4-4c0f-8e75-1dae7a9796b3,afaa2bf1-0746-4122-bf1e-46c9e9fbac43
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,c8cc9270-cb4f-43be-a77e-019b2ad03753,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/util/Set.java,add
+c93ce74a-eeab-49df-81bb-26704fa52ea6,00278970-aa60-44a4-970c-3b4ada7561ad,5159637b-a344-4fea-9f6b-4aced26576ee,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/util/Set.java,remove
+c93ce74a-eeab-49df-81bb-26704fa52ea6,a32bff15-77b4-4c0f-8e75-1dae7a9796b3,76e6f171-293d-4e52-9cf6-585a966ea4d5,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/lang/String.java,hashCode
+c93ce74a-eeab-49df-81bb-26704fa52ea6,a32bff15-77b4-4c0f-8e75-1dae7a9796b3,afaa2bf1-0746-4122-bf1e-46c9e9fbac43,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/lang/Object.java,getClass
+c93ce74a-eeab-49df-81bb-26704fa52ea6,a32bff15-77b4-4c0f-8e75-1dae7a9796b3,afaa2bf1-0746-4122-bf1e-46c9e9fbac43,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/lang/Object.java,getClass
+c93ce74a-eeab-49df-81bb-26704fa52ea6,a32bff15-77b4-4c0f-8e75-1dae7a9796b3,afaa2bf1-0746-4122-bf1e-46c9e9fbac43,->,c93ce74a-eeab-49df-81bb-26704fa52ea6,java/lang/String.java,equals

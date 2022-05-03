@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,d1cc8bd1-4d65-41be-b676-d36a1dff416c,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,9cbddd56-1620-4481-b0c5-0e343c6643c5
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,d1cc8bd1-4d65-41be-b676-d36a1dff416c,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,39ab0290-6a64-4a4f-aceb-4b837a9e3091
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,39ab0290-6a64-4a4f-aceb-4b837a9e3091,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/sql/DriverManager.java,getConnection
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,39ab0290-6a64-4a4f-aceb-4b837a9e3091,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/io/PrintStream.java,println
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,39ab0290-6a64-4a4f-aceb-4b837a9e3091,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/sql/SQLException.java,printStackTrace
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,9cbddd56-1620-4481-b0c5-0e343c6643c5,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/lang/Class.java,forName
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,9cbddd56-1620-4481-b0c5-0e343c6643c5,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/io/PrintStream.java,println
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,d0c2e3e5-dd20-4f9d-bf6c-d0bc315b0a04,9cbddd56-1620-4481-b0c5-0e343c6643c5,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/lang/ClassNotFoundException.java,printStackTrace
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,8284ee4a-6c26-41ae-8ea9-41ca45a3bac3,e4856a02-d962-4b5f-aab4-9ad606608430,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/util/Map.java,put
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,07246f96-afd7-4451-973d-89b90e1a03c1,e5972d22-2e28-41c7-9907-c9c08431ec40,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/io/PrintStream.java,println
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,com/provisiontree/sqltorest/infra/DbProperties$Key.java,values,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,com/provisiontree/sqltorest/infra/DbProperties$Key.java,clone
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,com/provisiontree/sqltorest/infra/DbProperties$Key.java,valueOf,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/lang/Enum.java,valueOf
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,fe6d2ca1-ff24-4833-a839-28c44c319ae5,4906f94d-795a-4862-9bc3-2b4f5bf814c0,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,com/provisiontree/sqltorest/infra/DbProperties$Key.java,toString
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,fe6d2ca1-ff24-4833-a839-28c44c319ae5,4906f94d-795a-4862-9bc3-2b4f5bf814c0,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,java/util/Properties.java,getProperty
+9408d4a1-77fd-466b-8add-df3ef10e5c2e,fe6d2ca1-ff24-4833-a839-28c44c319ae5,61debc1c-8427-48ac-9096-ecfaa4b14adc,->,9408d4a1-77fd-466b-8add-df3ef10e5c2e,fe6d2ca1-ff24-4833-a839-28c44c319ae5,4906f94d-795a-4862-9bc3-2b4f5bf814c0

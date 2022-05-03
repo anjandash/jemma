@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,788af980-62a8-4a98-8bb5-a989fd16b618,e5ca0750-2b8a-4937-8725-10d3e7ede652,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,org/springframework/boot/SpringApplication.java,run
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,02bb6717-9fa4-4d7c-9f64-07a64e863f31,4e717f39-f509-4bd3-9800-b831873bfa84,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,org/springframework/messaging/simp/config/MessageBrokerRegistry.java,enableSimpleBroker
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,02bb6717-9fa4-4d7c-9f64-07a64e863f31,4e717f39-f509-4bd3-9800-b831873bfa84,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,org/springframework/messaging/simp/config/MessageBrokerRegistry.java,setApplicationDestinationPrefixes
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,02bb6717-9fa4-4d7c-9f64-07a64e863f31,14e1072c-9211-45d0-9713-829eaa140f38,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,org/springframework/web/socket/config/annotation/StompEndpointRegistry.java,addEndpoint
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,02bb6717-9fa4-4d7c-9f64-07a64e863f31,14e1072c-9211-45d0-9713-829eaa140f38,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,org/springframework/web/socket/config/annotation/StompWebSocketEndpointRegistration.java,withSockJS
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,bb2135f7-a3eb-40f4-a514-910fad358f4d,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,com/example/quizapp/dao/TaskRepository.java,save
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,fe9a3c65-017d-4582-81a6-0e3fdc531532,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,com/example/quizapp/dao/TaskRepository.java,save
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,45037069-828d-4667-a27b-063b7c1a8d58,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,com/example/quizapp/dao/TaskRepository.java,findAll
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,7bcb91dd-2233-46a2-b86d-3907c70de32c,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,java/lang/StringBuilder.java,append
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,7bcb91dd-2233-46a2-b86d-3907c70de32c,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,java/lang/StringBuilder.java,append
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,7bcb91dd-2233-46a2-b86d-3907c70de32c,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,java/lang/StringBuilder.java,toString
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,7bcb91dd-2233-46a2-b86d-3907c70de32c,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,java/io/PrintStream.java,println
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,7bcb91dd-2233-46a2-b86d-3907c70de32c,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,f55dd789-d604-4cce-a922-3d8c8212b811
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,7bcb91dd-2233-46a2-b86d-3907c70de32c,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,java/lang/Thread.java,sleep
+43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,d3ebfbec-cbf4-4092-a4fe-aad08ef604ac,f55dd789-d604-4cce-a922-3d8c8212b811,->,43ad2eb5-2ca4-43e2-9cdc-33a9e2e61b8a,java/io/PrintStream.java,println

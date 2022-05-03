@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/hexi/controller/Index$2.java,call,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/hexi/controller/Index$2.java,call
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/hexi/controller/Index$1.java,call,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/google/common/collect/Lists.java,newArrayList
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/hexi/controller/Index$1.java,call,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/hexi/controller/Index$1.java,call
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,2de5b1d5-5a40-4a19-868e-743a930487a5,2dc1b969-f34d-43aa-b78b-90b8e32d5619,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/google/common/collect/Lists.java,newArrayList
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,3a7e04bc-a9b7-491b-984d-e5b63966e8d3,146d4d49-9d83-4f60-a16a-926be978f0eb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,44410adc-f181-4feb-9363-2098fb84ba72,491350da-89fb-47df-aa7e-035b5390f161
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,3a7e04bc-a9b7-491b-984d-e5b63966e8d3,146d4d49-9d83-4f60-a16a-926be978f0eb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/Assertions.java,assertThat
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,3a7e04bc-a9b7-491b-984d-e5b63966e8d3,146d4d49-9d83-4f60-a16a-926be978f0eb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/AbstractListAssert.java,isNotEmpty
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,3a7e04bc-a9b7-491b-984d-e5b63966e8d3,146d4d49-9d83-4f60-a16a-926be978f0eb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/Assertions.java,assertThat
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,3a7e04bc-a9b7-491b-984d-e5b63966e8d3,146d4d49-9d83-4f60-a16a-926be978f0eb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/AbstractListAssert.java,hasSize
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,84649373-5022-4235-9be5-a2ac5366544e,59ad8db7-efae-439c-a227-d9d1e8a4e05e,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/fasterxml/jackson/databind/ObjectMapper.java,readValue
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,84649373-5022-4235-9be5-a2ac5366544e,59ad8db7-efae-439c-a227-d9d1e8a4e05e,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/Assertions.java,assertThat
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,84649373-5022-4235-9be5-a2ac5366544e,59ad8db7-efae-439c-a227-d9d1e8a4e05e,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/AbstractListAssert.java,hasSize
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,84649373-5022-4235-9be5-a2ac5366544e,54d8d5a7-9d87-4993-88ce-914f73367efb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,com/fasterxml/jackson/databind/ObjectMapper.java,readValue
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,84649373-5022-4235-9be5-a2ac5366544e,54d8d5a7-9d87-4993-88ce-914f73367efb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/Assertions.java,assertThat
+37bc1f98-9eb4-42ef-a068-0f40381ea9b9,84649373-5022-4235-9be5-a2ac5366544e,54d8d5a7-9d87-4993-88ce-914f73367efb,->,37bc1f98-9eb4-42ef-a068-0f40381ea9b9,org/assertj/core/api/AbstractListAssert.java,hasSize

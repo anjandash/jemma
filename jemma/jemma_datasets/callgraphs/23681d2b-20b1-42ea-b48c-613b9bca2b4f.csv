@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,ee6b4c54-64c5-4f09-a36a-aa5d3c091fe4,316c429a-b24f-4608-ba97-d2c7a371d110,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,java/io/PrintStream.java,println
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,ee6b4c54-64c5-4f09-a36a-aa5d3c091fe4,316c429a-b24f-4608-ba97-d2c7a371d110,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,com/example/AppTest.java,assertTrue
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,ee6b4c54-64c5-4f09-a36a-aa5d3c091fe4,043d8ba2-557e-4bbf-8404-a7129e355b26,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,java/io/PrintStream.java,println
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,ee6b4c54-64c5-4f09-a36a-aa5d3c091fe4,043d8ba2-557e-4bbf-8404-a7129e355b26,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,com/example/AppTest.java,assertTrue
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,ee6b4c54-64c5-4f09-a36a-aa5d3c091fe4,93b805d2-2a09-45c2-b3ff-026e8465c221,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,java/io/PrintStream.java,println
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,ee6b4c54-64c5-4f09-a36a-aa5d3c091fe4,93b805d2-2a09-45c2-b3ff-026e8465c221,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,com/example/AppTest.java,assertTrue
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,a1e434e0-fbd7-4446-bf59-79dc00e2e7cd,cb8dd2b3-8885-43af-96b3-2b5da6d06819,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,java/io/PrintStream.java,println
+23681d2b-20b1-42ea-b48c-613b9bca2b4f,728f0883-8ca1-48f0-9587-3fd5fb3a22f4,17cdad46-4dfe-4b58-9414-272ffd101590,->,23681d2b-20b1-42ea-b48c-613b9bca2b4f,org/junit/Assert.java,fail

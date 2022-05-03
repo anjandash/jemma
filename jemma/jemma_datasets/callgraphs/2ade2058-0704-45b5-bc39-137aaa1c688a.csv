@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2ade2058-0704-45b5-bc39-137aaa1c688a,a0472917-9225-4733-97f7-7c32c750ec81,79228148-7aff-4f1e-b8bb-0797d7b8f41a,->,2ade2058-0704-45b5-bc39-137aaa1c688a,net/smktarunabhakti/penjualan/AppTest.java,assertTrue
+2ade2058-0704-45b5-bc39-137aaa1c688a,0f8c29c9-5189-4c08-98b4-2f33112516c8,cfc2d7a5-d426-4c67-b3e3-3d5df9e806ba,->,2ade2058-0704-45b5-bc39-137aaa1c688a,java/io/PrintStream.java,println

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,70a90d43-83ff-4c1d-9137-68ed801245fe,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/firefox/FirefoxDriver.java,get
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,7e49729c-43ce-43b4-b0ba-dba68dcf0d74,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/firefox/FirefoxDriver.java,quit
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,3763a1ff-8e69-4a70-88fa-b092b2af18fd,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/By.java,id
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,3763a1ff-8e69-4a70-88fa-b092b2af18fd,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/firefox/FirefoxDriver.java,findElement
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,3763a1ff-8e69-4a70-88fa-b092b2af18fd,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/WebElement.java,sendKeys
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,c3a0f6fc-c962-4de0-8eba-67de2ff40588,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/By.java,id
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,c3a0f6fc-c962-4de0-8eba-67de2ff40588,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/firefox/FirefoxDriver.java,findElement
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,c3a0f6fc-c962-4de0-8eba-67de2ff40588,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/WebElement.java,sendKeys
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,c3a0f6fc-c962-4de0-8eba-67de2ff40588,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/By.java,id
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,c3a0f6fc-c962-4de0-8eba-67de2ff40588,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/firefox/FirefoxDriver.java,findElement
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,c3a0f6fc-c962-4de0-8eba-67de2ff40588,->,83603479-87da-49bf-85ee-955e4e25b03e,org/openqa/selenium/WebElement.java,sendKeys
+83603479-87da-49bf-85ee-955e4e25b03e,83ded93d-6f81-47e7-991e-432f2f58a9b7,28a17051-e417-4b5b-9049-874372370356,->,83603479-87da-49bf-85ee-955e4e25b03e,java/io/PrintStream.java,println

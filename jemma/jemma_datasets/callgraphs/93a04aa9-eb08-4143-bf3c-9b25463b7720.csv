@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+93a04aa9-eb08-4143-bf3c-9b25463b7720,org/code_house/exchange/api/ExchangePattern.java,values,->,93a04aa9-eb08-4143-bf3c-9b25463b7720,org/code_house/exchange/api/ExchangePattern.java,clone
+93a04aa9-eb08-4143-bf3c-9b25463b7720,org/code_house/exchange/api/ExchangePattern.java,valueOf,->,93a04aa9-eb08-4143-bf3c-9b25463b7720,java/lang/Enum.java,valueOf
+93a04aa9-eb08-4143-bf3c-9b25463b7720,21eb2833-3992-4d7f-ac66-a2c82f3df3e4,3b3f912a-2930-4c8d-a4d3-5faec2ca5d60,->,93a04aa9-eb08-4143-bf3c-9b25463b7720,java/util/EventObject.java,getSource
+93a04aa9-eb08-4143-bf3c-9b25463b7720,21eb2833-3992-4d7f-ac66-a2c82f3df3e4,3b3f912a-2930-4c8d-a4d3-5faec2ca5d60,->,93a04aa9-eb08-4143-bf3c-9b25463b7720,21eb2833-3992-4d7f-ac66-a2c82f3df3e4,3b3f912a-2930-4c8d-a4d3-5faec2ca5d60

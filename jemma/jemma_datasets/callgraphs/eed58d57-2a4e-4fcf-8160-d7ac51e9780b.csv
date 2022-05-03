@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,java/util/Map.java,put
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,java/util/Map.java,put
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,java/util/Map.java,put
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,org/codehaus/jackson/map/ObjectMapper.java,writeValueAsString
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource.java,path
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource.java,type
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource$Builder.java,post
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,org/codehaus/jackson/map/ObjectMapper.java,readValue
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,26983cc5-73a1-402c-882a-e5e13c7c1869,0e87f1b0-9bfe-41e2-9246-5774545c45a9,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,java/io/IOException.java,getMessage
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,a3561f4c-eac8-47b3-a423-6e5fc0fce56d,"74484406-db0e-48a5-b88c-992c22c1081c,7ca78673-4c35-459a-9d34-e546e75c4e9f",->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,java/util/Arrays.java,asList
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,3b824895-1024-4d47-a56d-6aff8530d23e,420c5ee1-d1b6-4cd3-9b31-15bd62ac1367,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource.java,path
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,3b824895-1024-4d47-a56d-6aff8530d23e,420c5ee1-d1b6-4cd3-9b31-15bd62ac1367,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource.java,queryParam
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,3b824895-1024-4d47-a56d-6aff8530d23e,420c5ee1-d1b6-4cd3-9b31-15bd62ac1367,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource.java,accept
+eed58d57-2a4e-4fcf-8160-d7ac51e9780b,3b824895-1024-4d47-a56d-6aff8530d23e,420c5ee1-d1b6-4cd3-9b31-15bd62ac1367,->,eed58d57-2a4e-4fcf-8160-d7ac51e9780b,com/sun/jersey/api/client/WebResource$Builder.java,post

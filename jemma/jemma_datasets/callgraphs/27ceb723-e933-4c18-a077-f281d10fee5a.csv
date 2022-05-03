@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+27ceb723-e933-4c18-a077-f281d10fee5a,e5c35fd8-32f8-48e0-968e-3c66ff1dd9f4,63a0bf0d-5d37-4255-b7bd-fd7334953bf6,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,debug
+27ceb723-e933-4c18-a077-f281d10fee5a,mtmk/demo/testlog4j/Bar.java,<clinit>,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,getLogger
+27ceb723-e933-4c18-a077-f281d10fee5a,10d8c7c8-fd93-4aeb-a143-755eebd89446,d0fc9cd9-6863-4a44-8c3d-65f4ef2d685e,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,debug
+27ceb723-e933-4c18-a077-f281d10fee5a,mtmk/demo/testlog4j/Bar2.java,<clinit>,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,getLogger
+27ceb723-e933-4c18-a077-f281d10fee5a,0adfe544-9969-4895-954e-e655f8b95d26,d347249e-1a8e-412b-aa5b-0f23576844d8,->,27ceb723-e933-4c18-a077-f281d10fee5a,mtmk/demo/testlog4j/AppTest.java,assertTrue
+27ceb723-e933-4c18-a077-f281d10fee5a,c59d5cb8-0d24-42c8-8795-6dcf9704b7c9,b7407d63-751d-47c3-b768-57ca1f80d209,->,27ceb723-e933-4c18-a077-f281d10fee5a,java/io/PrintStream.java,println
+27ceb723-e933-4c18-a077-f281d10fee5a,622690fa-d3ad-46bd-a7b3-9ab0802f1b31,45c67dfc-092d-46d3-ab6e-d31002b96a2d,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,info
+27ceb723-e933-4c18-a077-f281d10fee5a,622690fa-d3ad-46bd-a7b3-9ab0802f1b31,45c67dfc-092d-46d3-ab6e-d31002b96a2d,->,27ceb723-e933-4c18-a077-f281d10fee5a,e5c35fd8-32f8-48e0-968e-3c66ff1dd9f4,63a0bf0d-5d37-4255-b7bd-fd7334953bf6
+27ceb723-e933-4c18-a077-f281d10fee5a,622690fa-d3ad-46bd-a7b3-9ab0802f1b31,45c67dfc-092d-46d3-ab6e-d31002b96a2d,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,info
+27ceb723-e933-4c18-a077-f281d10fee5a,mtmk/demo/testlog4j/MyApp2.java,<clinit>,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,getLogger
+27ceb723-e933-4c18-a077-f281d10fee5a,9817b56f-ced0-47c6-9f70-9f6deb1f80f5,7384a908-95c4-4477-8c50-d6d66f53b700,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,info
+27ceb723-e933-4c18-a077-f281d10fee5a,9817b56f-ced0-47c6-9f70-9f6deb1f80f5,7384a908-95c4-4477-8c50-d6d66f53b700,->,27ceb723-e933-4c18-a077-f281d10fee5a,e5c35fd8-32f8-48e0-968e-3c66ff1dd9f4,63a0bf0d-5d37-4255-b7bd-fd7334953bf6
+27ceb723-e933-4c18-a077-f281d10fee5a,9817b56f-ced0-47c6-9f70-9f6deb1f80f5,7384a908-95c4-4477-8c50-d6d66f53b700,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,warn
+27ceb723-e933-4c18-a077-f281d10fee5a,mtmk/demo/testlog4j/MyApp.java,<clinit>,->,27ceb723-e933-4c18-a077-f281d10fee5a,org/apache/log4j/Logger.java,getLogger

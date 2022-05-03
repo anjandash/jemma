@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,736d1f7d-b086-428b-b75e-a623f15a2ae8,4583cac3-c5f7-4ed7-81d2-90cb29266180,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,java/lang/StringBuilder.java,append
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,736d1f7d-b086-428b-b75e-a623f15a2ae8,4583cac3-c5f7-4ed7-81d2-90cb29266180,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,java/lang/StringBuilder.java,append
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,736d1f7d-b086-428b-b75e-a623f15a2ae8,4583cac3-c5f7-4ed7-81d2-90cb29266180,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,java/lang/StringBuilder.java,toString
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,736d1f7d-b086-428b-b75e-a623f15a2ae8,4583cac3-c5f7-4ed7-81d2-90cb29266180,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,java/io/PrintStream.java,print
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,c1c7a370-3ece-423d-aae5-eb42005c8939,3cfa9218-14ec-4fc5-a364-fb305e2af8b6,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,org/slf4j/LoggerFactory.java,getLogger
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,c1c7a370-3ece-423d-aae5-eb42005c8939,3cfa9218-14ec-4fc5-a364-fb305e2af8b6,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,org/slf4j/Logger.java,debug
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,a06d6cfc-89f1-4694-9b23-9c7adea06cf8,bb25e909-fa69-49bf-93c5-ed90dacbbc9a,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,org/slf4j/Logger.java,debug
+f349f4dd-39e3-48e7-a19a-f9ae08619df2,org/slf4j/test/LoggerUtils.java,<clinit>,->,f349f4dd-39e3-48e7-a19a-f9ae08619df2,org/slf4j/LoggerFactory.java,getLogger

@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,e24ed069-2f39-4b96-8321-6b28a66fc746,3c4802a6-2ffc-4221-8993-99391e2f6934,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/hibernate/SessionFactory.java,getCurrentSession
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,e24ed069-2f39-4b96-8321-6b28a66fc746,3c4802a6-2ffc-4221-8993-99391e2f6934,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/hibernate/classic/Session.java,createQuery
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,e24ed069-2f39-4b96-8321-6b28a66fc746,3c4802a6-2ffc-4221-8993-99391e2f6934,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/hibernate/Query.java,list
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,8ac70094-8bc0-4e77-ab1f-08d13600cccc,eb074619-0412-4e11-b077-d5aa40ce69c4,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,b2c00b48-c0a9-4f26-8c80-be2a0e8b9ac0,fd01f94b-7680-4296-9fe3-676c79dccdf0
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,bfb94bd0-25ad-42e3-aae5-aa2dbc4d2275,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java,postHandle
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,bfb94bd0-25ad-42e3-aae5-aa2dbc4d2275,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/springframework/web/servlet/ModelAndView.java,getViewName
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,bfb94bd0-25ad-42e3-aae5-aa2dbc4d2275,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,java/lang/String.java,startsWith
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,bfb94bd0-25ad-42e3-aae5-aa2dbc4d2275,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,java/lang/String.java,startsWith
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,java/lang/String.java,length
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,java/lang/String.java,substring
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/springframework/web/servlet/ModelAndView.java,setViewName
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/springframework/web/servlet/ModelAndView.java,addObject
+9bc239b5-e56c-43b4-a903-c2cc426f82e5,523ac090-2c0d-4e40-8601-9c4540b5085d,51bc4d9f-6d38-4880-b6d1-19de307c4e82,->,9bc239b5-e56c-43b4-a903-c2cc426f82e5,org/springframework/web/servlet/ModelAndView.java,setViewName

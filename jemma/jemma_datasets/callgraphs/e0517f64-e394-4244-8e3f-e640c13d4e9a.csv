@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,217f4d50-2e54-4787-a5fd-af6fa33729b7,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/util/List.java,add
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/util/List.java,iterator
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/util/Iterator.java,hasNext
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/util/Iterator.java,next
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,3cf486c1-8651-426a-8881-a667db21a785
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/lang/Integer.java,intValue
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/lang/Integer.java,intValue
+e0517f64-e394-4244-8e3f-e640c13d4e9a,2804f761-3af3-4769-854f-de26ca5d1aba,fd845e13-228f-46aa-8bb4-70f36038e92d,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/lang/Integer.java,valueOf
+e0517f64-e394-4244-8e3f-e640c13d4e9a,376a2bc4-d956-4a66-ba9d-b6fe24dd2015,2faa0a97-e153-4b77-9e16-72211e9f9a56,->,e0517f64-e394-4244-8e3f-e640c13d4e9a,java/util/Arrays.java,asList

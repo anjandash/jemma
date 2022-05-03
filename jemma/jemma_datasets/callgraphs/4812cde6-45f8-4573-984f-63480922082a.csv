@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4812cde6-45f8-4573-984f-63480922082a,proyecto/piezaTipo.java,values,->,4812cde6-45f8-4573-984f-63480922082a,proyecto/piezaTipo.java,clone
+4812cde6-45f8-4573-984f-63480922082a,proyecto/piezaTipo.java,valueOf,->,4812cde6-45f8-4573-984f-63480922082a,java/lang/Enum.java,valueOf
+4812cde6-45f8-4573-984f-63480922082a,b4d7ff53-fdb5-4cad-a3b6-8a24b0bc7b3a,d8651a71-4ad4-43dc-8b56-d68ecd9855a6,->,4812cde6-45f8-4573-984f-63480922082a,proyecto/piezaVampire.java,setLP
+4812cde6-45f8-4573-984f-63480922082a,b4d7ff53-fdb5-4cad-a3b6-8a24b0bc7b3a,66b5d749-af2e-4b99-bd13-c5154c5ccb18,->,4812cde6-45f8-4573-984f-63480922082a,proyecto/piezaVampire.java,setLP

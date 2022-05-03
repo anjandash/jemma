@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+44438db5-31ae-494a-b822-afb0380d0110,ec5f522d-f342-4161-b3e5-6acb94d375b7,34fd7b18-c8fe-478c-8f39-5739d000c0fb,->,44438db5-31ae-494a-b822-afb0380d0110,f9b7afdb-882d-4a72-a692-4490856afba1,370d6fab-67db-4eb2-9161-1489c41eb817
+44438db5-31ae-494a-b822-afb0380d0110,f9b7afdb-882d-4a72-a692-4490856afba1,370d6fab-67db-4eb2-9161-1489c41eb817,->,44438db5-31ae-494a-b822-afb0380d0110,java/lang/StringBuilder.java,append
+44438db5-31ae-494a-b822-afb0380d0110,f9b7afdb-882d-4a72-a692-4490856afba1,370d6fab-67db-4eb2-9161-1489c41eb817,->,44438db5-31ae-494a-b822-afb0380d0110,java/lang/StringBuilder.java,append
+44438db5-31ae-494a-b822-afb0380d0110,f9b7afdb-882d-4a72-a692-4490856afba1,370d6fab-67db-4eb2-9161-1489c41eb817,->,44438db5-31ae-494a-b822-afb0380d0110,java/lang/StringBuilder.java,toString
+44438db5-31ae-494a-b822-afb0380d0110,f9b7afdb-882d-4a72-a692-4490856afba1,370d6fab-67db-4eb2-9161-1489c41eb817,->,44438db5-31ae-494a-b822-afb0380d0110,java/io/PrintStream.java,println

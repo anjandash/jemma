@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,induce,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,f1bbba2a-48fa-4a9c-a733-b7aa7ccd948c
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,induce,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,cbd5d101-cce5-482e-b430-9c4a781adda9
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,induce,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,a9e58c90-e2ba-4203-a340-3e1017b7ea35
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,induce,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,1173a91b-ca04-41cd-ad8f-9e9c572bbc5f
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,sanction,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,f1bbba2a-48fa-4a9c-a733-b7aa7ccd948c
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,sanction,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,cbd5d101-cce5-482e-b430-9c4a781adda9
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,sanction,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,a9e58c90-e2ba-4203-a340-3e1017b7ea35
+a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,Power.java,sanction,->,a9ab61e2-08e3-4a82-a541-bb0d3fca3a89,ebaf4695-f359-473f-8ec8-cbbc61ed7e3a,1173a91b-ca04-41cd-ad8f-9e9c572bbc5f

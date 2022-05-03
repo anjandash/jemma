@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c2d5837f-9321-4a33-83f5-ad02478185aa,430fcbe2-beb0-4ae2-9875-cbab3a16390c,84f04d3d-fe34-41f4-8eb5-c6e25e1614ab,->,c2d5837f-9321-4a33-83f5-ad02478185aa,ApplicationTest.java,GET
+c2d5837f-9321-4a33-83f5-ad02478185aa,430fcbe2-beb0-4ae2-9875-cbab3a16390c,84f04d3d-fe34-41f4-8eb5-c6e25e1614ab,->,c2d5837f-9321-4a33-83f5-ad02478185aa,ApplicationTest.java,assertIsOk
+c2d5837f-9321-4a33-83f5-ad02478185aa,430fcbe2-beb0-4ae2-9875-cbab3a16390c,84f04d3d-fe34-41f4-8eb5-c6e25e1614ab,->,c2d5837f-9321-4a33-83f5-ad02478185aa,ApplicationTest.java,assertContentType
+c2d5837f-9321-4a33-83f5-ad02478185aa,430fcbe2-beb0-4ae2-9875-cbab3a16390c,84f04d3d-fe34-41f4-8eb5-c6e25e1614ab,->,c2d5837f-9321-4a33-83f5-ad02478185aa,ApplicationTest.java,assertCharset
+c2d5837f-9321-4a33-83f5-ad02478185aa,05057789-00b1-41d1-9559-31b8f8255bff,208a7567-536b-48b5-9e31-e3f596a6a28d,->,c2d5837f-9321-4a33-83f5-ad02478185aa,BasicTest.java,assertEquals
+c2d5837f-9321-4a33-83f5-ad02478185aa,807f32a5-ae88-4c8a-8a58-d28cf2f23574,1904580f-bc17-46a2-a4d3-d249be0e7c47,->,c2d5837f-9321-4a33-83f5-ad02478185aa,controllers/Application.java,render

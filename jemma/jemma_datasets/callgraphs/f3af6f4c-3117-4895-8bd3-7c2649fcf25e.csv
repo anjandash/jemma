@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,7d9e31f5-4382-445d-a6d4-a7e81fff08e6,d730d2c5-4396-44ad-9703-b64c0f0f3c20,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,redis/clients/jedis/Jedis.java,hgetAll
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,7d9e31f5-4382-445d-a6d4-a7e81fff08e6,d730d2c5-4396-44ad-9703-b64c0f0f3c20,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/io/PrintStream.java,println
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,977b3cf4-12ce-4054-a776-053efefb773a,f1ccecf6-4e39-490c-bede-07e856db5ba6,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,977b3cf4-12ce-4054-a776-053efefb773a,f1ccecf6-4e39-490c-bede-07e856db5ba6,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,977b3cf4-12ce-4054-a776-053efefb773a,f1ccecf6-4e39-490c-bede-07e856db5ba6,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,977b3cf4-12ce-4054-a776-053efefb773a,f1ccecf6-4e39-490c-bede-07e856db5ba6,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,977b3cf4-12ce-4054-a776-053efefb773a,f1ccecf6-4e39-490c-bede-07e856db5ba6,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,977b3cf4-12ce-4054-a776-053efefb773a,f1ccecf6-4e39-490c-bede-07e856db5ba6,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,toString
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,a83bb301-8ddd-437b-9ff5-6863dad695e5,3bd73ff9-e51f-4f19-b25b-65d16b74257c,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/util/Timer.java,schedule
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,a83bb301-8ddd-437b-9ff5-6863dad695e5,3bd73ff9-e51f-4f19-b25b-65d16b74257c,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/io/PrintStream.java,println
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,270689fd-416d-4b39-a91b-f9d36dbd60d9,4eac5c43-b0a6-4b56-a6a5-39811d9d5600,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,270689fd-416d-4b39-a91b-f9d36dbd60d9,4eac5c43-b0a6-4b56-a6a5-39811d9d5600,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/util/Date.java,getTime
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,270689fd-416d-4b39-a91b-f9d36dbd60d9,4eac5c43-b0a6-4b56-a6a5-39811d9d5600,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,append
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,270689fd-416d-4b39-a91b-f9d36dbd60d9,4eac5c43-b0a6-4b56-a6a5-39811d9d5600,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/lang/StringBuilder.java,toString
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,270689fd-416d-4b39-a91b-f9d36dbd60d9,4eac5c43-b0a6-4b56-a6a5-39811d9d5600,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,java/io/PrintStream.java,println
+f3af6f4c-3117-4895-8bd3-7c2649fcf25e,9ec1423f-1f9a-4a4b-81aa-f8a7c49bc015,2e1ce535-b3dd-446e-80bc-84735c94c591,->,f3af6f4c-3117-4895-8bd3-7c2649fcf25e,com/light/study/AppTest.java,assertTrue

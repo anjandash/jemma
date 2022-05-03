@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,b20aca5d-9895-40a1-bed4-4375fc7586ed,85eb697b-d0e9-4515-8bf2-a6a39989f792,->,68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,b20aca5d-9895-40a1-bed4-4375fc7586ed,85eb697b-d0e9-4515-8bf2-a6a39989f792,->,68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,java/lang/String.java,format
+68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,d207fded-6014-4e5e-a3f2-67aed5966755,abe39853-6b4e-426f-8c9d-eee57f6cf30f,->,68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,org/springframework/boot/SpringApplication.java,run
+68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,fc9e1b74-81cd-41b6-ab94-5d90c71b7f0e,777a0a97-c250-4b14-ab21-ea185d6db3e0,->,68b48ae4-b666-48d2-a5d8-9adbf04f1e2d,org/springframework/boot/builder/SpringApplicationBuilder.java,sources

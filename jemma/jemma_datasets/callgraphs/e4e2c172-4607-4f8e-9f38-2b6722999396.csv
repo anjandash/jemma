@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e4e2c172-4607-4f8e-9f38-2b6722999396,Health/FeedingTime.java,values,->,e4e2c172-4607-4f8e-9f38-2b6722999396,Health/FeedingTime.java,clone
+e4e2c172-4607-4f8e-9f38-2b6722999396,Health/FeedingTime.java,valueOf,->,e4e2c172-4607-4f8e-9f38-2b6722999396,java/lang/Enum.java,valueOf
+e4e2c172-4607-4f8e-9f38-2b6722999396,Health/FoodType.java,values,->,e4e2c172-4607-4f8e-9f38-2b6722999396,Health/FoodType.java,clone
+e4e2c172-4607-4f8e-9f38-2b6722999396,Health/FoodType.java,valueOf,->,e4e2c172-4607-4f8e-9f38-2b6722999396,java/lang/Enum.java,valueOf
+e4e2c172-4607-4f8e-9f38-2b6722999396,activity/ActivityType.java,values,->,e4e2c172-4607-4f8e-9f38-2b6722999396,activity/ActivityType.java,clone
+e4e2c172-4607-4f8e-9f38-2b6722999396,activity/ActivityType.java,valueOf,->,e4e2c172-4607-4f8e-9f38-2b6722999396,java/lang/Enum.java,valueOf
+e4e2c172-4607-4f8e-9f38-2b6722999396,pet/BreedType.java,values,->,e4e2c172-4607-4f8e-9f38-2b6722999396,pet/BreedType.java,clone
+e4e2c172-4607-4f8e-9f38-2b6722999396,pet/BreedType.java,valueOf,->,e4e2c172-4607-4f8e-9f38-2b6722999396,java/lang/Enum.java,valueOf
+e4e2c172-4607-4f8e-9f38-2b6722999396,pet/FurType.java,values,->,e4e2c172-4607-4f8e-9f38-2b6722999396,pet/FurType.java,clone
+e4e2c172-4607-4f8e-9f38-2b6722999396,pet/FurType.java,valueOf,->,e4e2c172-4607-4f8e-9f38-2b6722999396,java/lang/Enum.java,valueOf

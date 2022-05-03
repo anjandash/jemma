@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,00448506-dcea-4a4c-84fb-9939af56a36e,ef5b50ed-6509-4300-8316-52c5cdd736c7,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,java/lang/Math.java,random
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,00448506-dcea-4a4c-84fb-9939af56a36e,ef5b50ed-6509-4300-8316-52c5cdd736c7,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,java/lang/Math.java,random
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,00448506-dcea-4a4c-84fb-9939af56a36e,ef5b50ed-6509-4300-8316-52c5cdd736c7,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,java/lang/Math.java,random
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,00448506-dcea-4a4c-84fb-9939af56a36e,ef5b50ed-6509-4300-8316-52c5cdd736c7,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,java/lang/Math.java,random
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,00448506-dcea-4a4c-84fb-9939af56a36e,ef5b50ed-6509-4300-8316-52c5cdd736c7,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,java/lang/Math.java,random
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,00448506-dcea-4a4c-84fb-9939af56a36e,ef5b50ed-6509-4300-8316-52c5cdd736c7,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,9478ad10-fd60-43f4-91ff-f86d828dd36c,1d4514e9-a5c6-409b-a097-90f4337f0eca
+2eeddf1b-53da-4ee1-bfff-149ac9b00c05,9478ad10-fd60-43f4-91ff-f86d828dd36c,1d4514e9-a5c6-409b-a097-90f4337f0eca,->,2eeddf1b-53da-4ee1-bfff-149ac9b00c05,java/io/PrintStream.java,println

@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,55562edd-7976-4ade-a699-4ff8031afe18,ee49dc99-ac64-499b-9c56-5fb8df568bee,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,46b39e72-2046-4aab-bc1b-89db1a9d46d6,28ebd1ab-92e5-4462-8402-54416811ece9
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,412b7315-fdcc-4bc0-98c2-609a2f669df3,e81fea6c-5132-4fa5-a8ad-d1b91521ce45,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,beginning/View/GUIFrame.java,setContentPane
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,412b7315-fdcc-4bc0-98c2-609a2f669df3,e81fea6c-5132-4fa5-a8ad-d1b91521ce45,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,beginning/View/GUIFrame.java,setSize
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,412b7315-fdcc-4bc0-98c2-609a2f669df3,e81fea6c-5132-4fa5-a8ad-d1b91521ce45,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,beginning/View/GUIFrame.java,setVisible
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,68295cf7-ee99-43df-a57a-cca4b3f6f23b,51e5dea5-6c55-4286-9b5a-67be7426eb9a,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,javax/swing/SpringLayout.java,putConstraint
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,68295cf7-ee99-43df-a57a-cca4b3f6f23b,51e5dea5-6c55-4286-9b5a-67be7426eb9a,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,javax/swing/SpringLayout.java,putConstraint
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,68295cf7-ee99-43df-a57a-cca4b3f6f23b,3626de85-b6fd-42ef-ad9b-4cae1c2edebe,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,beginning/View/GUIPanel.java,setLayout
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,68295cf7-ee99-43df-a57a-cca4b3f6f23b,3626de85-b6fd-42ef-ad9b-4cae1c2edebe,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,beginning/View/GUIPanel.java,add
+c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,68295cf7-ee99-43df-a57a-cca4b3f6f23b,3626de85-b6fd-42ef-ad9b-4cae1c2edebe,->,c83fe7ed-66db-4def-9cf8-c2bec0f0a6fb,beginning/View/GUIPanel.java,add

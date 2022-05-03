@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4c326ef1-a711-4fc9-8358-ff9760e02f04,9c289300-02f4-4af0-b3f0-cf2aec772c3b,6db719c6-878e-4a0e-8777-40508ac05eaf,->,4c326ef1-a711-4fc9-8358-ff9760e02f04,e492b36a-f4ba-4e07-a03e-49dc133ab928,bab3fc8f-c23f-4296-a389-88238888effe
+4c326ef1-a711-4fc9-8358-ff9760e02f04,9c289300-02f4-4af0-b3f0-cf2aec772c3b,6db719c6-878e-4a0e-8777-40508ac05eaf,->,4c326ef1-a711-4fc9-8358-ff9760e02f04,5ae2b67a-a492-4b2a-ab9a-98e664567527,53a6a820-7d88-4adc-acad-3f405e874131
+4c326ef1-a711-4fc9-8358-ff9760e02f04,5ae2b67a-a492-4b2a-ab9a-98e664567527,53a6a820-7d88-4adc-acad-3f405e874131,->,4c326ef1-a711-4fc9-8358-ff9760e02f04,java/util/ArrayList.java,add
+4c326ef1-a711-4fc9-8358-ff9760e02f04,e492b36a-f4ba-4e07-a03e-49dc133ab928,bab3fc8f-c23f-4296-a389-88238888effe,->,4c326ef1-a711-4fc9-8358-ff9760e02f04,java/util/ArrayList.java,add

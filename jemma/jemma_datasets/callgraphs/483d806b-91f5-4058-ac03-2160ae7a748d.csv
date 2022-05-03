@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/io/File.java,exists
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/io/File.java,toURI
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/net/URI.java,toURL
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/net/MalformedURLException.java,printStackTrace
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,e3058e0b-4a47-44ba-b10d-53f1374e2222,2f18fff7-a912-482d-8b11-833dba92dc9b
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/io/PrintStream.java,println
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,ee5df5ea-6e80-42ee-95c7-55fee899a69c,a3dc074c-6fbc-40c6-9d02-6babd0da018e
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/lang/StringBuilder.java,append
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/lang/StringBuilder.java,append
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/lang/StringBuilder.java,toString
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/io/PrintStream.java,println
+483d806b-91f5-4058-ac03-2160ae7a748d,6b8cabab-73b4-45ce-a36d-65a51d142d23,3517a2f4-ef84-4d1e-a36c-bb680477418f,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/lang/System.java,exit
+483d806b-91f5-4058-ac03-2160ae7a748d,e3058e0b-4a47-44ba-b10d-53f1374e2222,2f18fff7-a912-482d-8b11-833dba92dc9b,->,483d806b-91f5-4058-ac03-2160ae7a748d,javax/xml/ws/Service.java,getPort
+483d806b-91f5-4058-ac03-2160ae7a748d,e3058e0b-4a47-44ba-b10d-53f1374e2222,b02f8014-42c0-42e3-a8b8-2a5997aac3b7,->,483d806b-91f5-4058-ac03-2160ae7a748d,javax/xml/ws/Service.java,getPort
+483d806b-91f5-4058-ac03-2160ae7a748d,com/mulesoft/wcfconsumer/WCFRetailService.java,<clinit>,->,483d806b-91f5-4058-ac03-2160ae7a748d,java/io/PrintStream.java,println

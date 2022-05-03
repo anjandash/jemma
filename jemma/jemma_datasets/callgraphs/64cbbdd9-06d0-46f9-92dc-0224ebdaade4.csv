@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,fde46eba-f3b7-446f-b85a-8e35b0531178,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,18fa5d0f-1cec-467b-8e5d-2bd072e5adc6,5917f432-0094-4412-b343-b03b97d421fc
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,fde46eba-f3b7-446f-b85a-8e35b0531178,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,18fa5d0f-1cec-467b-8e5d-2bd072e5adc6,df638586-69e4-4dbc-ba7c-e9f14402df9d
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,org/slf4j/Logger.java,info
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,org/springframework/boot/SpringApplication.java,setShowBanner
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,org/springframework/boot/SpringApplication.java,setLogStartupInfo
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,org/springframework/boot/SpringApplication.java,run
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,org/springframework/context/ApplicationContext.java,getBeanDefinitionNames
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/lang/String.java,split
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,e58043a1-90e5-42c2-b113-3bf5c2bb251e,5aba6b93-c1ce-457b-afe0-4cd1edd056a3,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/io/PrintStream.java,printf
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,at/spenger/spring/Application.java,<clinit>,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,org/slf4j/LoggerFactory.java,getLogger
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,f0d4df9b-1ed3-41ad-af15-be1f9091afbe,d38293a2-d953-4a2e-9047-31459036d0f8,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/lang/StringBuilder.java,append
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,f0d4df9b-1ed3-41ad-af15-be1f9091afbe,d38293a2-d953-4a2e-9047-31459036d0f8,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/lang/Class.java,getName
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,f0d4df9b-1ed3-41ad-af15-be1f9091afbe,d38293a2-d953-4a2e-9047-31459036d0f8,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/lang/StringBuilder.java,append
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,f0d4df9b-1ed3-41ad-af15-be1f9091afbe,d38293a2-d953-4a2e-9047-31459036d0f8,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/lang/StringBuilder.java,toString
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,f0d4df9b-1ed3-41ad-af15-be1f9091afbe,d38293a2-d953-4a2e-9047-31459036d0f8,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,da2d09ce-1c10-4ff6-82ed-a0f9bde605ce,98879201-5d85-4868-a057-340e27ca2e5a
+64cbbdd9-06d0-46f9-92dc-0224ebdaade4,f0d4df9b-1ed3-41ad-af15-be1f9091afbe,d38293a2-d953-4a2e-9047-31459036d0f8,->,64cbbdd9-06d0-46f9-92dc-0224ebdaade4,java/io/PrintStream.java,println

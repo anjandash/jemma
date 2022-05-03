@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c4227cc5-fbf2-4dc8-bd11-a60da2800dee,7bcc095f-867e-4066-af47-70765555db0e,e47fd105-8436-4c7d-a711-dabdb85049f7,->,c4227cc5-fbf2-4dc8-bd11-a60da2800dee,muistipeli/muistipeli/AppTest.java,assertTrue
+c4227cc5-fbf2-4dc8-bd11-a60da2800dee,1a7dc659-5d29-4642-aad5-1f3e29064b40,e75d415a-e885-48d4-9e2f-7ae667497bfe,->,c4227cc5-fbf2-4dc8-bd11-a60da2800dee,java/io/PrintStream.java,println

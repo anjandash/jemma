@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,cec74bb8-4de1-4e6a-bcc1-35b56dba1c02,b4185c7a-ee47-420b-90cd-bb572436bf53,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/io/PrintStream.java,println
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,cec74bb8-4de1-4e6a-bcc1-35b56dba1c02,b4185c7a-ee47-420b-90cd-bb572436bf53,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/io/PrintStream.java,println
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,5712703b-4cb0-4fd9-a3cc-1a36c0112426,bee1a1e9-d98b-41c4-9968-608b64952a54,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,b750d878-e72e-4bac-9e4e-89bb7241d58a
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,5712703b-4cb0-4fd9-a3cc-1a36c0112426,bee1a1e9-d98b-41c4-9968-608b64952a54,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/io/PrintStream.java,println
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,e7ee4715-fac0-49cd-87d6-8e3193d0f94f,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/Double.java,doubleToLongBits
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,e7ee4715-fac0-49cd-87d6-8e3193d0f94f,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/String.java,hashCode
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,a3ecb4ad-d673-47bc-8167-b6087f66deb9,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/Object.java,getClass
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,a3ecb4ad-d673-47bc-8167-b6087f66deb9,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/Object.java,getClass
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,a3ecb4ad-d673-47bc-8167-b6087f66deb9,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/Double.java,doubleToLongBits
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,a3ecb4ad-d673-47bc-8167-b6087f66deb9,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/Double.java,doubleToLongBits
+b82b9625-dc73-4aa3-b35d-29374b1afbe7,8db641af-1123-4ec0-8ce7-dce508a761a8,a3ecb4ad-d673-47bc-8167-b6087f66deb9,->,b82b9625-dc73-4aa3-b35d-29374b1afbe7,java/lang/String.java,equals

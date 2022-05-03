@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cb449209-d8ba-4d60-8529-951f8ef85c44,ddfa5e2e-e958-4ee3-a3b6-5cd7cb6d72ce,1578bdd4-3dab-4f7a-8512-0eceddc4abfc,->,cb449209-d8ba-4d60-8529-951f8ef85c44,java/lang/StringBuilder.java,append
+cb449209-d8ba-4d60-8529-951f8ef85c44,ddfa5e2e-e958-4ee3-a3b6-5cd7cb6d72ce,1578bdd4-3dab-4f7a-8512-0eceddc4abfc,->,cb449209-d8ba-4d60-8529-951f8ef85c44,java/lang/StringBuilder.java,append
+cb449209-d8ba-4d60-8529-951f8ef85c44,ddfa5e2e-e958-4ee3-a3b6-5cd7cb6d72ce,1578bdd4-3dab-4f7a-8512-0eceddc4abfc,->,cb449209-d8ba-4d60-8529-951f8ef85c44,java/lang/StringBuilder.java,append
+cb449209-d8ba-4d60-8529-951f8ef85c44,ddfa5e2e-e958-4ee3-a3b6-5cd7cb6d72ce,1578bdd4-3dab-4f7a-8512-0eceddc4abfc,->,cb449209-d8ba-4d60-8529-951f8ef85c44,java/lang/StringBuilder.java,toString
+cb449209-d8ba-4d60-8529-951f8ef85c44,f2d0dbec-fae5-4f2d-80d3-ecad64cf74d7,cf968c98-e044-4ab3-8381-132efa9f3799,->,cb449209-d8ba-4d60-8529-951f8ef85c44,Concrete/SalaryPlusBonusEmployee.java,getPaycheck
+cb449209-d8ba-4d60-8529-951f8ef85c44,72072768-db91-4e7a-9b54-cee87cb9b1c4,ed4cf1ff-9982-44b1-b750-368330f3fab6,->,cb449209-d8ba-4d60-8529-951f8ef85c44,abstract1/SalaryPlusBonusEmployee.java,getPaycheck
+cb449209-d8ba-4d60-8529-951f8ef85c44,55d5ceb9-963b-42df-ba47-968a26f1cd90,52d6a87a-8ed6-42ac-913f-bfa5e403756c,->,cb449209-d8ba-4d60-8529-951f8ef85c44,interface1/SalaryPlusBonusEmployee.java,getPaycheck

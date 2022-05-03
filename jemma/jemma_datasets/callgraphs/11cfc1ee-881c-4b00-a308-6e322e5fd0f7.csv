@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,b48e7090-33b2-42fc-99eb-577802300777,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,java/lang/System.java,arraycopy
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,e8a6779f-99a7-4fd6-84cd-2caad4d39a4c,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,d5a859b9-437b-4909-bffd-5fb33eedfad4,6d0611fd-1f64-4e6a-856e-0ae2fc87a8a9
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,e8a6779f-99a7-4fd6-84cd-2caad4d39a4c,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,b24929e4-d485-4ff8-963e-fe7669f34319,6a0aab1b-4d63-4a2b-b173-f9e072816a94
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,e8a6779f-99a7-4fd6-84cd-2caad4d39a4c,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,985a40ad-eeac-43aa-b2cb-6c404ec39558
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,985a40ad-eeac-43aa-b2cb-6c404ec39558,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,5b9876c1-6d5c-4e5d-a4cf-393666755717,91f9c601-1bb1-4fee-b84e-35d53bdcc91e
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,985a40ad-eeac-43aa-b2cb-6c404ec39558,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,5b9876c1-6d5c-4e5d-a4cf-393666755717,3b22e9f8-b6da-470c-8006-ae004fc5cd7c
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,985a40ad-eeac-43aa-b2cb-6c404ec39558,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,5b9876c1-6d5c-4e5d-a4cf-393666755717,3b22e9f8-b6da-470c-8006-ae004fc5cd7c
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,3d5af13d-ab1c-4c66-a932-58749762b539,62475c68-728d-4420-a795-32bc545762f6,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,d5a859b9-437b-4909-bffd-5fb33eedfad4,6d0611fd-1f64-4e6a-856e-0ae2fc87a8a9
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,discountstrategyv2/ItemType.java,values,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,discountstrategyv2/ItemType.java,clone
+11cfc1ee-881c-4b00-a308-6e322e5fd0f7,discountstrategyv2/ItemType.java,valueOf,->,11cfc1ee-881c-4b00-a308-6e322e5fd0f7,java/lang/Enum.java,valueOf

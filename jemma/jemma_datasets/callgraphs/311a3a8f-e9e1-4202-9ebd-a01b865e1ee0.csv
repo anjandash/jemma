@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,cards/CardValue.java,values,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,cards/CardValue.java,clone
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,cards/CardValue.java,valueOf,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,java/lang/Enum.java,valueOf
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,cards/CardType.java,values,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,cards/CardType.java,clone
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,cards/CardType.java,valueOf,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,java/lang/Enum.java,valueOf
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,741a21a7-0436-489a-a249-5215dfbb8992,4853c741-da3d-4702-8de2-16469501755b,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,java/lang/StringBuilder.java,append
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,741a21a7-0436-489a-a249-5215dfbb8992,4853c741-da3d-4702-8de2-16469501755b,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,java/lang/StringBuilder.java,append
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,741a21a7-0436-489a-a249-5215dfbb8992,4853c741-da3d-4702-8de2-16469501755b,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,java/lang/StringBuilder.java,append
+311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,741a21a7-0436-489a-a249-5215dfbb8992,4853c741-da3d-4702-8de2-16469501755b,->,311a3a8f-e9e1-4202-9ebd-a01b865e1ee0,java/lang/StringBuilder.java,toString

@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/io/File.java,exists
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/io/File.java,isDirectory
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/io/File.java,getAbsolutePath
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/lang/String.java,endsWith
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/io/BufferedReader.java,readLine
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/util/StringTokenizer.java,hasMoreElements
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/util/StringTokenizer.java,nextElement
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/util/ArrayList.java,add
+e933f87c-e673-489a-bd5b-4b9c622c5808,6be6a01b-fb95-4f84-800a-90bdd75a86a9,18b6ff4f-54be-4dd4-b191-501e2afbb0ff,->,e933f87c-e673-489a-bd5b-4b9c622c5808,java/util/ArrayList.java,add

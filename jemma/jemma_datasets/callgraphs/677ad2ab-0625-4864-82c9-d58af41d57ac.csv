@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+677ad2ab-0625-4864-82c9-d58af41d57ac,fa60e3da-fdd9-4216-a57f-305b99569b81,adc1f81c-821d-4bee-a52b-cd17c6b4e684,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/microsoft/windowsazure/WamsServiceToolTest.java,assertTrue
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,edb43270-12ae-4852-a741-98fb786f97f3,->,677ad2ab-0625-4864-82c9-d58af41d57ac,java/io/PrintStream.java,println
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,edb43270-12ae-4852-a741-98fb786f97f3,->,677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/beust/jcommander/JCommander.java,parse
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/beust/jcommander/ParameterException.java,getMessage
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,java/io/PrintStream.java,println
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/beust/jcommander/JCommander.java,usage
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,java/lang/System.java,exit
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,c11f7233-724e-4457-95e1-29bb50f03b05,7b8a6242-ba8a-4809-a1bd-ad88649a9a6a
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/beust/jcommander/JCommander.java,usage
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,java/lang/System.java,exit
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,java/lang/Class.java,isInstance
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,org/apache/commons/configuration/ConfigurationException.java,printStackTrace
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,java/lang/System.java,exit
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/microsoft/windowsazure/services/media/MediaConfiguration.java,configureWithOAuthAuthentication
+677ad2ab-0625-4864-82c9-d58af41d57ac,81a953c2-a86b-4453-9bab-912eda8f4225,3a5530f2-99b5-4987-b71e-828a59973c20,->,677ad2ab-0625-4864-82c9-d58af41d57ac,com/microsoft/windowsazure/services/media/MediaService.java,create

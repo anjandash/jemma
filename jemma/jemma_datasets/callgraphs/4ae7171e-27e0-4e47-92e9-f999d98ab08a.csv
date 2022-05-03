@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,8876fd38-a061-456a-95b0-db6def257a3a,390b73b0-d0ee-46cd-9ed9-fe22353716ba,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/rmi/Naming.java,rebind
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,8876fd38-a061-456a-95b0-db6def257a3a,390b73b0-d0ee-46cd-9ed9-fe22353716ba,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/StringBuilder.java,append
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,8876fd38-a061-456a-95b0-db6def257a3a,390b73b0-d0ee-46cd-9ed9-fe22353716ba,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/StringBuilder.java,append
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,8876fd38-a061-456a-95b0-db6def257a3a,390b73b0-d0ee-46cd-9ed9-fe22353716ba,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/StringBuilder.java,toString
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,8876fd38-a061-456a-95b0-db6def257a3a,390b73b0-d0ee-46cd-9ed9-fe22353716ba,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/io/PrintStream.java,println
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,8876fd38-a061-456a-95b0-db6def257a3a,390b73b0-d0ee-46cd-9ed9-fe22353716ba,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/Exception.java,printStackTrace
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,3ba07b1e-0233-4295-affa-fcfe1574b55b,c5ff4723-59c7-425b-b302-7b37eea5ca9e,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/StringBuilder.java,append
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,3ba07b1e-0233-4295-affa-fcfe1574b55b,c5ff4723-59c7-425b-b302-7b37eea5ca9e,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/StringBuilder.java,append
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,3ba07b1e-0233-4295-affa-fcfe1574b55b,c5ff4723-59c7-425b-b302-7b37eea5ca9e,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/StringBuilder.java,toString
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,3ba07b1e-0233-4295-affa-fcfe1574b55b,c5ff4723-59c7-425b-b302-7b37eea5ca9e,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/io/PrintStream.java,println
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,b2cb3a82-666e-4f4c-b428-203f9649f685,a85ab752-e6e2-47df-8354-1c8ab72d016c,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/rmi/Naming.java,lookup
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,b2cb3a82-666e-4f4c-b428-203f9649f685,a85ab752-e6e2-47df-8354-1c8ab72d016c,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,79b7c49d-0765-4776-aa81-d16226778a7a,8e716292-4a26-4645-85ba-a20039b98915
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,b2cb3a82-666e-4f4c-b428-203f9649f685,a85ab752-e6e2-47df-8354-1c8ab72d016c,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,ec9ed000-864c-425b-b826-f4a685db8c60,a4d9dcb4-be4d-430a-a539-7ab6f5672a14
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,b2cb3a82-666e-4f4c-b428-203f9649f685,a85ab752-e6e2-47df-8354-1c8ab72d016c,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/rmi/Naming.java,rebind
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,b2cb3a82-666e-4f4c-b428-203f9649f685,a85ab752-e6e2-47df-8354-1c8ab72d016c,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/Exception.java,printStackTrace
+4ae7171e-27e0-4e47-92e9-f999d98ab08a,b2cb3a82-666e-4f4c-b428-203f9649f685,a85ab752-e6e2-47df-8354-1c8ab72d016c,->,4ae7171e-27e0-4e47-92e9-f999d98ab08a,java/lang/System.java,exit

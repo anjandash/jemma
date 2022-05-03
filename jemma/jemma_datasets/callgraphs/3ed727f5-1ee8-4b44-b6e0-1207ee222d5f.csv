@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,commonj/work/WorkCompletedException.java,getExceptionList,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,commonj/work/WorkCompletedException.java,getCause
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,commonj/work/WorkCompletedException.java,getExceptionList,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,commonj/work/WorkCompletedException.java,getCause
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,commonj/work/WorkCompletedException.java,getExceptionList,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,java/util/ArrayList.java,add
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,2e6e3081-7c52-4047-84a2-a6558c6a927e,f9a0abd6-1332-4a20-9871-f91dce444454,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,43d07e2d-7628-4c8d-884b-7a7c1a132cd6,8b76eec2-1851-4456-9129-09be3a3ab45f
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,2e6e3081-7c52-4047-84a2-a6558c6a927e,f9a0abd6-1332-4a20-9871-f91dce444454,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,8f0eeb77-ee4d-4506-a6ed-947ecd08c94b,a4fc97c8-7dfb-44b9-888f-8ab82e7236e2
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,2e6e3081-7c52-4047-84a2-a6558c6a927e,f9a0abd6-1332-4a20-9871-f91dce444454,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/jms/TopicSubscriber.java,receive
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,2e6e3081-7c52-4047-84a2-a6558c6a927e,4d1b21f8-b9ca-44d6-9b55-c0b5f57ec24a,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/jms/TopicSession.java,close
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,2e6e3081-7c52-4047-84a2-a6558c6a927e,4d1b21f8-b9ca-44d6-9b55-c0b5f57ec24a,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,eae9eec5-e854-4824-896e-1fcc00670a5c,039ef618-900c-4b96-82a5-0f84c803804d
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,9ff47bfb-7f48-4d22-8ac2-6978e9ac793e,348a528f-3d95-478b-bad1-4256e32dc7e4,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,43d07e2d-7628-4c8d-884b-7a7c1a132cd6,8b76eec2-1851-4456-9129-09be3a3ab45f
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,9ff47bfb-7f48-4d22-8ac2-6978e9ac793e,348a528f-3d95-478b-bad1-4256e32dc7e4,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,cb1cc547-e61f-4df0-b160-1acf194d739b,978361b1-1359-40dc-9e15-30c0fc138606
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,9ff47bfb-7f48-4d22-8ac2-6978e9ac793e,348a528f-3d95-478b-bad1-4256e32dc7e4,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/jms/QueueReceiver.java,receive
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,9ff47bfb-7f48-4d22-8ac2-6978e9ac793e,2ae94881-03ba-40b5-8cc8-97ffcfbb3b2a,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/jms/QueueSession.java,close
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,9ff47bfb-7f48-4d22-8ac2-6978e9ac793e,2ae94881-03ba-40b5-8cc8-97ffcfbb3b2a,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,91779fdb-8fbf-4c14-ae47-d9d69d0016ac,aac31877-f837-4ae3-af1c-00cb1d1cf071
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/annotation/Resource$AuthenticationType.java,values,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/annotation/Resource$AuthenticationType.java,clone
+3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,javax/annotation/Resource$AuthenticationType.java,valueOf,->,3ed727f5-1ee8-4b44-b6e0-1207ee222d5f,java/lang/Enum.java,valueOf

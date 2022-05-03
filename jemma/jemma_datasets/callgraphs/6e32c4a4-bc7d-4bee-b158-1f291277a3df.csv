@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,c9f34e65-767c-4547-a437-22f43bd4f485,6af393a3-29ce-4616-8e4a-7c850a02c968,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,c9f34e65-767c-4547-a437-22f43bd4f485,2981f351-5908-4c22-ba5b-9eac6ec9dd7d
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,c9f34e65-767c-4547-a437-22f43bd4f485,16f18862-59ca-4b3f-9d05-106eb60f454b,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/lang/Exception.java,printStackTrace
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,e534ca19-49d5-4ef2-8628-121f212fe91f,9aee8a8b-ac54-4762-b360-8335a75443c8,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,e534ca19-49d5-4ef2-8628-121f212fe91f,9aee8a8b-ac54-4762-b360-8335a75443c8,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau4.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/lang/StringBuilder.java,append
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau4.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/lang/Exception.java,getMessage
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau4.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/lang/StringBuilder.java,append
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau4.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/lang/StringBuilder.java,toString
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau4.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau2.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau2.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau2.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println
+6e32c4a4-bc7d-4bee-b158-1f291277a3df,asg08/TestCau2.java,main,->,6e32c4a4-bc7d-4bee-b158-1f291277a3df,java/io/PrintStream.java,println

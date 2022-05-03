@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+432e2254-6699-4f96-abe1-064bdbe86afe,com/mycompany/test1/NewHibernateUtil.java,<clinit>,->,432e2254-6699-4f96-abe1-064bdbe86afe,org/hibernate/cfg/AnnotationConfiguration.java,configure
+432e2254-6699-4f96-abe1-064bdbe86afe,com/mycompany/test1/NewHibernateUtil.java,<clinit>,->,432e2254-6699-4f96-abe1-064bdbe86afe,org/hibernate/cfg/AnnotationConfiguration.java,buildSessionFactory
+432e2254-6699-4f96-abe1-064bdbe86afe,com/mycompany/test1/NewHibernateUtil.java,<clinit>,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,append
+432e2254-6699-4f96-abe1-064bdbe86afe,com/mycompany/test1/NewHibernateUtil.java,<clinit>,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,append
+432e2254-6699-4f96-abe1-064bdbe86afe,com/mycompany/test1/NewHibernateUtil.java,<clinit>,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,toString
+432e2254-6699-4f96-abe1-064bdbe86afe,com/mycompany/test1/NewHibernateUtil.java,<clinit>,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/io/PrintStream.java,println
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,org/hibernate/Session.java,getTransaction
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,append
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,append
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,append
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/StringBuilder.java,toString
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,org/hibernate/Session.java,createQuery
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,org/hibernate/Query.java,list
+432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63,->,432e2254-6699-4f96-abe1-064bdbe86afe,java/lang/Exception.java,printStackTrace
+432e2254-6699-4f96-abe1-064bdbe86afe,6e917bea-af78-40eb-9fdd-dc1ec64b6c3e,ce60cab2-db54-4dd5-baec-d11af149e856,->,432e2254-6699-4f96-abe1-064bdbe86afe,9a745799-c255-43e6-83ab-2060e3f98190,3f22beed-1cb1-4966-9114-58c0af9aea63

@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+81f4e381-4a2b-42ab-9e40-3915da13f381,ce980fea-02bc-4e24-a891-7cccf0b0ebf6,1de30799-ef74-4555-95e1-c06df31a8e73,->,81f4e381-4a2b-42ab-9e40-3915da13f381,javax/persistence/EntityManager.java,createQuery
+81f4e381-4a2b-42ab-9e40-3915da13f381,ce980fea-02bc-4e24-a891-7cccf0b0ebf6,1de30799-ef74-4555-95e1-c06df31a8e73,->,81f4e381-4a2b-42ab-9e40-3915da13f381,javax/persistence/Query.java,getResultList
+81f4e381-4a2b-42ab-9e40-3915da13f381,2bd4eb58-a907-4219-87f4-18537938726b,531ac824-b98f-4734-89c1-a5ef073ae452,->,81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ad37ac68-c435-40f7-931c-2a2fdb573ca8
+81f4e381-4a2b-42ab-9e40-3915da13f381,2bd4eb58-a907-4219-87f4-18537938726b,531ac824-b98f-4734-89c1-a5ef073ae452,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/String.java,equals
+81f4e381-4a2b-42ab-9e40-3915da13f381,com/djeat/HelloWorldTest.java,<clinit>,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/Class.java,desiredAssertionStatus
+81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ed93da04-b9a1-45d4-a857-297c94f4ed95,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/Object.java,getClass
+81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ed93da04-b9a1-45d4-a857-297c94f4ed95,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/Class.java,getSimpleName
+81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ed93da04-b9a1-45d4-a857-297c94f4ed95,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/StringBuilder.java,append
+81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ed93da04-b9a1-45d4-a857-297c94f4ed95,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/StringBuilder.java,append
+81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ed93da04-b9a1-45d4-a857-297c94f4ed95,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/lang/StringBuilder.java,toString
+81f4e381-4a2b-42ab-9e40-3915da13f381,aef076d9-a4a3-4c14-9ba1-b2477410e655,ed93da04-b9a1-45d4-a857-297c94f4ed95,->,81f4e381-4a2b-42ab-9e40-3915da13f381,java/io/PrintStream.java,println

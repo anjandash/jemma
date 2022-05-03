@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f471c1ec-538a-4ea7-bc05-113683a31b7b,cf3b804c-b407-47bd-b6f8-93de357a7aff,02cb7b82-57b9-423c-8546-b3ed47551cf0,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,java/lang/String.java,format
+f471c1ec-538a-4ea7-bc05-113683a31b7b,cf3b804c-b407-47bd-b6f8-93de357a7aff,02cb7b82-57b9-423c-8546-b3ed47551cf0,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,java/lang/String.java,contains
+f471c1ec-538a-4ea7-bc05-113683a31b7b,cf3b804c-b407-47bd-b6f8-93de357a7aff,02cb7b82-57b9-423c-8546-b3ed47551cf0,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,com/yammer/metrics/core/HealthCheck$Result.java,unhealthy
+f471c1ec-538a-4ea7-bc05-113683a31b7b,cf3b804c-b407-47bd-b6f8-93de357a7aff,02cb7b82-57b9-423c-8546-b3ed47551cf0,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,com/yammer/metrics/core/HealthCheck$Result.java,healthy
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,4306bc12-4da8-4816-a240-c17d7b8067a7,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,f811659d-4e1c-4d0b-a626-d38e45f99109,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,com/yammer/dropwizard/config/Bootstrap.java,setName
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,e3b13c52-c109-41fa-b43a-0f7d08dd4ec8,694e71cc-b0e6-47ad-9a4e-d5910b9ca779
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,e3b13c52-c109-41fa-b43a-0f7d08dd4ec8,5c1b70b3-7c67-401c-ab37-20adf64d3d47
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,com/yammer/dropwizard/config/Environment.java,addResource
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,com/yammer/dropwizard/config/Environment.java,addHealthCheck
+f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,8c2e9297-c038-4237-80d5-6d0032a033eb,e9bd356c-5540-4d11-bb35-66ae3b34de92
+f471c1ec-538a-4ea7-bc05-113683a31b7b,d7edd051-6c13-4ca1-a32b-4b3fcdbdd3a5,6aa8d2cc-b7c7-4823-90c8-77a07659ad80,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+f471c1ec-538a-4ea7-bc05-113683a31b7b,d7edd051-6c13-4ca1-a32b-4b3fcdbdd3a5,6aa8d2cc-b7c7-4823-90c8-77a07659ad80,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,com/google/common/base/Optional.java,or
+f471c1ec-538a-4ea7-bc05-113683a31b7b,d7edd051-6c13-4ca1-a32b-4b3fcdbdd3a5,6aa8d2cc-b7c7-4823-90c8-77a07659ad80,->,f471c1ec-538a-4ea7-bc05-113683a31b7b,java/lang/String.java,format

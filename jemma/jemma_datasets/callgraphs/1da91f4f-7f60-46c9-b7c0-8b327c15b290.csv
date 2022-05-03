@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,org/hibernate/cfg/Configuration.java,configure
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,org/hibernate/cfg/Configuration.java,buildSessionFactory
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,java/lang/StringBuilder.java,append
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,java/lang/StringBuilder.java,append
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,java/lang/StringBuilder.java,toString
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,java/io/PrintStream.java,println
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,f594166a-179e-466c-9f52-2421c55461b4,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,8eed9e47-09d9-4f39-961d-c79b4e95ebc4
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,f594166a-179e-466c-9f52-2421c55461b4,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,org/hibernate/SessionFactory.java,close
+1da91f4f-7f60-46c9-b7c0-8b327c15b290,pl/luppo/ztz/data/HibernateUtil.java,<clinit>,->,1da91f4f-7f60-46c9-b7c0-8b327c15b290,cd866c35-adb6-4e4e-b363-52c66b8f0fb1,05c062f8-b834-4420-a001-6a6e3261b76f

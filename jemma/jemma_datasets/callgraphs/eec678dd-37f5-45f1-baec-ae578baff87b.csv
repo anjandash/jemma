@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+eec678dd-37f5-45f1-baec-ae578baff87b,2480d15f-708f-45b5-92fa-458910b6fa87,df3a38fb-f3da-460f-8b80-f689a1d1268c,->,eec678dd-37f5-45f1-baec-ae578baff87b,javax/servlet/http/HttpServletResponse.java,getWriter
+eec678dd-37f5-45f1-baec-ae578baff87b,2480d15f-708f-45b5-92fa-458910b6fa87,df3a38fb-f3da-460f-8b80-f689a1d1268c,->,eec678dd-37f5-45f1-baec-ae578baff87b,java/io/PrintWriter.java,write
+eec678dd-37f5-45f1-baec-ae578baff87b,2480d15f-708f-45b5-92fa-458910b6fa87,df3a38fb-f3da-460f-8b80-f689a1d1268c,->,eec678dd-37f5-45f1-baec-ae578baff87b,java/io/IOException.java,printStackTrace

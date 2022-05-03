@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,38b9792a-e0d4-4d49-81f2-874dfd0925c3,41ac5639-683e-4400-82d3-ab2b8af34edd,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,org/springframework/boot/SpringApplication.java,run
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,f0e9d146-89cf-4e80-a03f-51c447b35263,4aabd684-bf37-4e88-859e-2ea06db76bce,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,2578bee9-48b0-4966-a5e1-6a4d36ddc524,488825e8-f416-46f6-a080-779825052b4c
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,f0e9d146-89cf-4e80-a03f-51c447b35263,4aabd684-bf37-4e88-859e-2ea06db76bce,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,java/util/List.java,add
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,33ef4fdb-1607-4794-bcb3-fc9f4dd33973,e6bf263c-00fa-4f08-81d0-0a60ade55847,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,javax/servlet/http/HttpServletResponse.java,setHeader
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,33ef4fdb-1607-4794-bcb3-fc9f4dd33973,e6bf263c-00fa-4f08-81d0-0a60ade55847,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,javax/servlet/http/HttpServletResponse.java,setHeader
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,33ef4fdb-1607-4794-bcb3-fc9f4dd33973,e6bf263c-00fa-4f08-81d0-0a60ade55847,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,javax/servlet/http/HttpServletResponse.java,setHeader
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,33ef4fdb-1607-4794-bcb3-fc9f4dd33973,e6bf263c-00fa-4f08-81d0-0a60ade55847,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,javax/servlet/http/HttpServletResponse.java,setHeader
+9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,33ef4fdb-1607-4794-bcb3-fc9f4dd33973,e6bf263c-00fa-4f08-81d0-0a60ade55847,->,9c4fad8b-e3f9-42b2-8de1-bd80f49e6fc6,javax/servlet/FilterChain.java,doFilter

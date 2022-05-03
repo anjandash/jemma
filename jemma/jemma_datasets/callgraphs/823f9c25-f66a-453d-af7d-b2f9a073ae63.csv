@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+823f9c25-f66a-453d-af7d-b2f9a073ae63,76a3de10-4623-4f2c-92c4-1a1ac6422218,d28f1521-2f4e-4b8f-b181-d3eb11b0a9d3,->,823f9c25-f66a-453d-af7d-b2f9a073ae63,java/io/PrintStream.java,println
+823f9c25-f66a-453d-af7d-b2f9a073ae63,b5f687a4-0809-4e6d-89cb-c4cd7f92ac61,b7f2605d-6fe0-4a08-a8ce-1560a873b7e8,->,823f9c25-f66a-453d-af7d-b2f9a073ae63,java/io/PrintStream.java,println
+823f9c25-f66a-453d-af7d-b2f9a073ae63,com/byteslounge/bean/MessageTransportType.java,values,->,823f9c25-f66a-453d-af7d-b2f9a073ae63,com/byteslounge/bean/MessageTransportType.java,clone
+823f9c25-f66a-453d-af7d-b2f9a073ae63,com/byteslounge/bean/MessageTransportType.java,valueOf,->,823f9c25-f66a-453d-af7d-b2f9a073ae63,java/lang/Enum.java,valueOf
+823f9c25-f66a-453d-af7d-b2f9a073ae63,ec79c372-7fbb-4d29-8972-8727708a7a12,0ff66857-ed05-467d-9868-8e4cd7db46a9,->,823f9c25-f66a-453d-af7d-b2f9a073ae63,fc8e11a9-3b1b-476f-aadf-fa70e2eec46c,6cc0c00e-250d-4452-acd3-d6244319d2b3

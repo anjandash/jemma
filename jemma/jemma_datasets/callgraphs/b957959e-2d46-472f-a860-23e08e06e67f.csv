@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b957959e-2d46-472f-a860-23e08e06e67f,4c3cf4e7-e374-41cb-b802-8d69598490ff,08c4536e-f738-49fa-ac8a-974cd169bf17,->,b957959e-2d46-472f-a860-23e08e06e67f,org/eclipse/ui/plugin/AbstractUIPlugin.java,start
+b957959e-2d46-472f-a860-23e08e06e67f,4c3cf4e7-e374-41cb-b802-8d69598490ff,f4132775-1814-4790-ab15-7e85455532c6,->,b957959e-2d46-472f-a860-23e08e06e67f,org/eclipse/ui/plugin/AbstractUIPlugin.java,stop
+b957959e-2d46-472f-a860-23e08e06e67f,4c3cf4e7-e374-41cb-b802-8d69598490ff,9096e001-832a-4c6f-af82-2d027f8b5021,->,b957959e-2d46-472f-a860-23e08e06e67f,btool/Activator.java,imageDescriptorFromPlugin

@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,2c428c81-07bf-44f9-a79b-8059128b3823,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/Logger.java,debug
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,ae7defbf-2040-4fcf-a1f7-9cb743cddacd,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/Logger.java,debug
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,56ebbcf5-120f-4279-8cac-00208745f331,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/Logger.java,debug
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,56ebbcf5-120f-4279-8cac-00208745f331,->,9e19670b-b789-4576-a498-b057a0608a68,9468dd4d-f261-4bf8-b8ce-03805ee86008,c5e94213-91a0-48d8-9109-24456983aa2e
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,56ebbcf5-120f-4279-8cac-00208745f331,->,9e19670b-b789-4576-a498-b057a0608a68,org/junit/Assert.java,assertEquals
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,63f11de5-11c5-46e6-be0e-85934f7f18df,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/Logger.java,debug
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,63f11de5-11c5-46e6-be0e-85934f7f18df,->,9e19670b-b789-4576-a498-b057a0608a68,9468dd4d-f261-4bf8-b8ce-03805ee86008,c5e94213-91a0-48d8-9109-24456983aa2e
+9e19670b-b789-4576-a498-b057a0608a68,38850786-d935-4ab4-ac1f-4bd682a0d95e,63f11de5-11c5-46e6-be0e-85934f7f18df,->,9e19670b-b789-4576-a498-b057a0608a68,org/junit/Assert.java,assertEquals
+9e19670b-b789-4576-a498-b057a0608a68,com/ajk/SampleIntegrationTest.java,<clinit>,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/LoggerFactory.java,getLogger
+9e19670b-b789-4576-a498-b057a0608a68,com/ajk/workflow/RealConsumer.java,<clinit>,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/LoggerFactory.java,getLogger
+9e19670b-b789-4576-a498-b057a0608a68,com/ajk/TestBean.java,<clinit>,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/LoggerFactory.java,getLogger
+9e19670b-b789-4576-a498-b057a0608a68,com/ajk/FakeConsumer.java,<clinit>,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/LoggerFactory.java,getLogger
+9e19670b-b789-4576-a498-b057a0608a68,520fe13b-44d4-4d4c-8179-15198d9c2978,e17be45b-e549-451a-b36f-5314f1cd51b0,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/Logger.java,debug
+9e19670b-b789-4576-a498-b057a0608a68,com/ajk/api/PingApi.java,<clinit>,->,9e19670b-b789-4576-a498-b057a0608a68,org/slf4j/LoggerFactory.java,getLogger

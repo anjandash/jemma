@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/io/PrintStream.java,print
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/io/PrintStream.java,println
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,85938b88-c297-422f-84be-59473b9087e9,1925e4a7-eb89-4a2c-940f-364c8f07cd89
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,append
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,append
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,append
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,append
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,append
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,append
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/StringBuilder.java,toString
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,41ab838e-d10d-4875-bcad-d195d7a0dbde,14199884-6841-4e7a-a617-c08e30d59e76,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/io/PrintStream.java,println
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,VampireWargame/TipoFicha.java,values,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,VampireWargame/TipoFicha.java,clone
+8a8f13d9-f492-4161-8d4d-da41d3bce6fd,VampireWargame/TipoFicha.java,valueOf,->,8a8f13d9-f492-4161-8d4d-da41d3bce6fd,java/lang/Enum.java,valueOf

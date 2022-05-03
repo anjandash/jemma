@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5ebdebb7-f582-4c04-b568-6555af61eb81,49da7f05-a74b-4d06-8134-c78afd9a646c,c6ee9aff-d40a-4a35-bdba-409a4a7b799d,->,5ebdebb7-f582-4c04-b568-6555af61eb81,java/util/List.java,iterator
+5ebdebb7-f582-4c04-b568-6555af61eb81,49da7f05-a74b-4d06-8134-c78afd9a646c,c6ee9aff-d40a-4a35-bdba-409a4a7b799d,->,5ebdebb7-f582-4c04-b568-6555af61eb81,java/util/Iterator.java,hasNext
+5ebdebb7-f582-4c04-b568-6555af61eb81,49da7f05-a74b-4d06-8134-c78afd9a646c,c6ee9aff-d40a-4a35-bdba-409a4a7b799d,->,5ebdebb7-f582-4c04-b568-6555af61eb81,java/util/Iterator.java,next
+5ebdebb7-f582-4c04-b568-6555af61eb81,49da7f05-a74b-4d06-8134-c78afd9a646c,c6ee9aff-d40a-4a35-bdba-409a4a7b799d,->,5ebdebb7-f582-4c04-b568-6555af61eb81,52aaff80-2caa-4a9e-9820-ee40fc92bc68,27ed98ba-8182-4bcd-8b68-d411f4017e35
+5ebdebb7-f582-4c04-b568-6555af61eb81,49da7f05-a74b-4d06-8134-c78afd9a646c,c6ee9aff-d40a-4a35-bdba-409a4a7b799d,->,5ebdebb7-f582-4c04-b568-6555af61eb81,52aaff80-2caa-4a9e-9820-ee40fc92bc68,755f70c4-fed2-4349-9777-835dfc8210cd
+5ebdebb7-f582-4c04-b568-6555af61eb81,9b2b28cb-d623-4129-93ad-1790d547f354,1e7bf4d0-982b-4482-bbcf-6319e045030b,->,5ebdebb7-f582-4c04-b568-6555af61eb81,34d66707-6348-4560-a876-fc31d39a5767,2685fc28-6281-4a1b-ae12-d3903ccf51bd
+5ebdebb7-f582-4c04-b568-6555af61eb81,52aaff80-2caa-4a9e-9820-ee40fc92bc68,27ed98ba-8182-4bcd-8b68-d411f4017e35,->,5ebdebb7-f582-4c04-b568-6555af61eb81,java/lang/Object.java,getClass
+5ebdebb7-f582-4c04-b568-6555af61eb81,52aaff80-2caa-4a9e-9820-ee40fc92bc68,27ed98ba-8182-4bcd-8b68-d411f4017e35,->,5ebdebb7-f582-4c04-b568-6555af61eb81,java/lang/Object.java,getClass
+5ebdebb7-f582-4c04-b568-6555af61eb81,52aaff80-2caa-4a9e-9820-ee40fc92bc68,2e0ad1c3-b95b-4503-bf56-ab5280b58a70,->,5ebdebb7-f582-4c04-b568-6555af61eb81,49da7f05-a74b-4d06-8134-c78afd9a646c,c6ee9aff-d40a-4a35-bdba-409a4a7b799d
+5ebdebb7-f582-4c04-b568-6555af61eb81,34d66707-6348-4560-a876-fc31d39a5767,0a90b32e-ed01-4b9b-9f3c-c017734dd213,->,5ebdebb7-f582-4c04-b568-6555af61eb81,9b2b28cb-d623-4129-93ad-1790d547f354,ebc49744-d86b-4f0a-8c83-aef23dc99b37

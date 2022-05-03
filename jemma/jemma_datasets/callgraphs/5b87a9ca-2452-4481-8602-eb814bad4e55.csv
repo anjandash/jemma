@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5b87a9ca-2452-4481-8602-eb814bad4e55,675fa6a0-e462-48e9-ab77-0b0f157f24c6,fdb5012c-17c4-424d-a4a2-22716763b13d,->,5b87a9ca-2452-4481-8602-eb814bad4e55,f43ccf8c-db02-4aa0-9fb4-d49fefd7c2e9,b4c8cc42-5d51-4b28-aeaf-6487aff6a6cf
+5b87a9ca-2452-4481-8602-eb814bad4e55,675fa6a0-e462-48e9-ab77-0b0f157f24c6,fdb5012c-17c4-424d-a4a2-22716763b13d,->,5b87a9ca-2452-4481-8602-eb814bad4e55,org/springframework/ui/Model.java,addAttribute
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService.java,access$000
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,org/hibernate/SessionFactory.java,getCurrentSession
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,org/hibernate/Session.java,createQuery
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,org/hibernate/Query.java,list
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,java/util/List.java,isEmpty
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService.java,access$100
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,java/util/List.java,size
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,java/util/Random.java,nextInt
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,java/util/List.java,get
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,bf0108be-3b58-45fb-b00c-68241d7b86ec,517790d7-a608-4d96-aad4-48c702c205b2
+5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction,->,5b87a9ca-2452-4481-8602-eb814bad4e55,es/us/eii/sugus/xml/MessageService$1.java,doInTransaction
+5b87a9ca-2452-4481-8602-eb814bad4e55,f43ccf8c-db02-4aa0-9fb4-d49fefd7c2e9,b4c8cc42-5d51-4b28-aeaf-6487aff6a6cf,->,5b87a9ca-2452-4481-8602-eb814bad4e55,org/springframework/transaction/support/TransactionTemplate.java,execute
+5b87a9ca-2452-4481-8602-eb814bad4e55,56a2be8f-4cae-4ad3-90fc-8105afd4dd8b,68660370-b63c-40f7-b01c-fb8529910af3,->,5b87a9ca-2452-4481-8602-eb814bad4e55,f2892956-dce7-449c-be82-9c54d5c7e67b,e9f83fd9-c38d-467a-a033-0cdbdbcfaca5
+5b87a9ca-2452-4481-8602-eb814bad4e55,56a2be8f-4cae-4ad3-90fc-8105afd4dd8b,68660370-b63c-40f7-b01c-fb8529910af3,->,5b87a9ca-2452-4481-8602-eb814bad4e55,java/io/PrintStream.java,println

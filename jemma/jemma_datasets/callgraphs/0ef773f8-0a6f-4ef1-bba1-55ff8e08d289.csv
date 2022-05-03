@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,f3a05ee0-9a45-40d7-b827-555a2af4863f,e92a3793-4764-4d24-be40-17d8faf515b1,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,b0f002d9-3617-48cc-982a-621edd9bf8a0,10f0f72b-58cc-4b19-a4fa-e3ea292db1b6
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,f3a05ee0-9a45-40d7-b827-555a2af4863f,e92a3793-4764-4d24-be40-17d8faf515b1,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,javax/swing/JOptionPane.java,showMessageDialog
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,70e73c98-bdb9-4f32-9a95-e6b31038cb33,b41a915a-17a8-4192-b0d6-8ca94895b368,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,java/io/PrintStream.java,println
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,70e73c98-bdb9-4f32-9a95-e6b31038cb33,b41a915a-17a8-4192-b0d6-8ca94895b368,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,java/util/Scanner.java,nextLine
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,b4ee9575-4d39-4954-896a-81faa05077db,82e7d3ea-5d94-4fd8-8546-a2769243cda9,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,63d0ded6-7ba5-45f0-9327-ebab4243fe2f,eaf74d98-6889-46f3-9665-8f86b666d418
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,0b1209fa-0180-4257-b53a-736ecac5e12b,c2cc6522-30a6-4bdb-923b-5244ff29fed5,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,java/io/PrintStream.java,println
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,0b1209fa-0180-4257-b53a-736ecac5e12b,c2cc6522-30a6-4bdb-923b-5244ff29fed5,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,b0f002d9-3617-48cc-982a-621edd9bf8a0,10f0f72b-58cc-4b19-a4fa-e3ea292db1b6
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,0b1209fa-0180-4257-b53a-736ecac5e12b,c2cc6522-30a6-4bdb-923b-5244ff29fed5,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,java/io/PrintStream.java,println
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,27a92748-1da9-401d-b2fe-abc65e8f145a,dc8cd1b5-9258-4db2-904b-77b81162da87,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,javax/swing/JOptionPane.java,showInputDialog
+0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,63d0ded6-7ba5-45f0-9327-ebab4243fe2f,eaf74d98-6889-46f3-9665-8f86b666d418,->,0ef773f8-0a6f-4ef1-bba1-55ff8e08d289,35f71f53-aa7a-4ebf-b77d-4b6142b1c67f,0803eea5-3a31-43fe-a334-c9e66bd8b1ad

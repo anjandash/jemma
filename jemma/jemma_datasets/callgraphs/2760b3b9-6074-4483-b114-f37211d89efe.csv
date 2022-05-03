@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2760b3b9-6074-4483-b114-f37211d89efe,166bae1c-4c30-49bb-a970-a4c2425c0eef,3e6ec125-013f-4a41-a14f-1ee501ddc90b,->,2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,aaa15cb0-3a63-4ae2-9342-9e641fe9e711
+2760b3b9-6074-4483-b114-f37211d89efe,73e8054a-2e5a-4b28-abf4-dafea65422c3,232ee142-735e-4c9f-9e3b-86a1d1f73144,->,2760b3b9-6074-4483-b114-f37211d89efe,java/lang/StringBuilder.java,append
+2760b3b9-6074-4483-b114-f37211d89efe,73e8054a-2e5a-4b28-abf4-dafea65422c3,232ee142-735e-4c9f-9e3b-86a1d1f73144,->,2760b3b9-6074-4483-b114-f37211d89efe,java/lang/StringBuilder.java,append
+2760b3b9-6074-4483-b114-f37211d89efe,73e8054a-2e5a-4b28-abf4-dafea65422c3,232ee142-735e-4c9f-9e3b-86a1d1f73144,->,2760b3b9-6074-4483-b114-f37211d89efe,java/lang/StringBuilder.java,toString
+2760b3b9-6074-4483-b114-f37211d89efe,73e8054a-2e5a-4b28-abf4-dafea65422c3,232ee142-735e-4c9f-9e3b-86a1d1f73144,->,2760b3b9-6074-4483-b114-f37211d89efe,javax/ws/rs/core/Response.java,status
+2760b3b9-6074-4483-b114-f37211d89efe,73e8054a-2e5a-4b28-abf4-dafea65422c3,232ee142-735e-4c9f-9e3b-86a1d1f73144,->,2760b3b9-6074-4483-b114-f37211d89efe,javax/ws/rs/core/Response$ResponseBuilder.java,entity
+2760b3b9-6074-4483-b114-f37211d89efe,73e8054a-2e5a-4b28-abf4-dafea65422c3,232ee142-735e-4c9f-9e3b-86a1d1f73144,->,2760b3b9-6074-4483-b114-f37211d89efe,javax/ws/rs/core/Response$ResponseBuilder.java,build
+2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,aaa15cb0-3a63-4ae2-9342-9e641fe9e711,->,2760b3b9-6074-4483-b114-f37211d89efe,java/lang/Integer.java,valueOf
+2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,aaa15cb0-3a63-4ae2-9342-9e641fe9e711,->,2760b3b9-6074-4483-b114-f37211d89efe,javax/persistence/EntityManager.java,find
+2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,239b7d4b-ae2f-455e-9569-925599ff9622,->,2760b3b9-6074-4483-b114-f37211d89efe,java/util/List.java,iterator
+2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,239b7d4b-ae2f-455e-9569-925599ff9622,->,2760b3b9-6074-4483-b114-f37211d89efe,java/util/Iterator.java,hasNext
+2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,239b7d4b-ae2f-455e-9569-925599ff9622,->,2760b3b9-6074-4483-b114-f37211d89efe,java/util/Iterator.java,next
+2760b3b9-6074-4483-b114-f37211d89efe,48f4496f-b1fc-4d92-8ea2-8094d1e6b9cc,239b7d4b-ae2f-455e-9569-925599ff9622,->,2760b3b9-6074-4483-b114-f37211d89efe,javax/persistence/EntityManager.java,persist

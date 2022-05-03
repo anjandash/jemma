@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,04c070f6-42b8-40c8-beb5-69874e64119c,c8a9085e-df7c-4491-975d-b934c59d96d2
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,04c070f6-42b8-40c8-beb5-69874e64119c,644e29c7-0eda-4e9f-9e72-bc8282e69e94
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,javax/xml/bind/JAXBContext.java,newInstance
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,javax/xml/bind/JAXBContext.java,createMarshaller
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/lang/Boolean.java,valueOf
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,javax/xml/bind/Marshaller.java,setProperty
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,javax/xml/bind/Marshaller.java,marshal
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,javax/xml/bind/Marshaller.java,marshal
+700908b8-9e73-455c-9cec-9a2defe29f87,Objektsender.java,main,->,700908b8-9e73-455c-9cec-9a2defe29f87,javax/xml/bind/JAXBException.java,printStackTrace
+700908b8-9e73-455c-9cec-9a2defe29f87,2bf04bf4-886c-423c-8cb3-780e70e47167,2929ef53-5092-4c2f-ab4b-2ac237c7145a,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/net/ServerSocket.java,accept
+700908b8-9e73-455c-9cec-9a2defe29f87,2bf04bf4-886c-423c-8cb3-780e70e47167,2929ef53-5092-4c2f-ab4b-2ac237c7145a,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/net/Socket.java,getInputStream
+700908b8-9e73-455c-9cec-9a2defe29f87,2bf04bf4-886c-423c-8cb3-780e70e47167,2929ef53-5092-4c2f-ab4b-2ac237c7145a,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/io/BufferedReader.java,read
+700908b8-9e73-455c-9cec-9a2defe29f87,2bf04bf4-886c-423c-8cb3-780e70e47167,2929ef53-5092-4c2f-ab4b-2ac237c7145a,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/io/PrintStream.java,println
+700908b8-9e73-455c-9cec-9a2defe29f87,2bf04bf4-886c-423c-8cb3-780e70e47167,2929ef53-5092-4c2f-ab4b-2ac237c7145a,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/io/PrintStream.java,println
+700908b8-9e73-455c-9cec-9a2defe29f87,2bf04bf4-886c-423c-8cb3-780e70e47167,2929ef53-5092-4c2f-ab4b-2ac237c7145a,->,700908b8-9e73-455c-9cec-9a2defe29f87,java/io/IOException.java,printStackTrace

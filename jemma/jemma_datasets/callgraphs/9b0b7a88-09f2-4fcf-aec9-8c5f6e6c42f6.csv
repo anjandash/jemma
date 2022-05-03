@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,04d3d29a-e81a-41a2-8770-bab84f8f2b7c,7163d51a-b415-4598-a56d-66fbfe1eace5,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,org/apache/log4j/PropertyConfigurator.java,configure
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,04d3d29a-e81a-41a2-8770-bab84f8f2b7c,7163d51a-b415-4598-a56d-66fbfe1eace5,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,java/util/Calendar.java,getInstance
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,04d3d29a-e81a-41a2-8770-bab84f8f2b7c,7163d51a-b415-4598-a56d-66fbfe1eace5,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,java/util/Calendar.java,getTime
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,04d3d29a-e81a-41a2-8770-bab84f8f2b7c,7163d51a-b415-4598-a56d-66fbfe1eace5,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,org/springframework/context/ApplicationContext.java,getMessage
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,04d3d29a-e81a-41a2-8770-bab84f8f2b7c,7163d51a-b415-4598-a56d-66fbfe1eace5,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,java/io/PrintStream.java,println
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,fddace46-2840-46ce-9595-f30fb3ed2a2f,3dbd51d2-822f-4a59-89c8-07a887a94c9d,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,org/apache/log4j/PropertyConfigurator.java,configure
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,fddace46-2840-46ce-9595-f30fb3ed2a2f,3dbd51d2-822f-4a59-89c8-07a887a94c9d,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,org/springframework/beans/factory/xml/XmlBeanFactory.java,getBean
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,fddace46-2840-46ce-9595-f30fb3ed2a2f,3dbd51d2-822f-4a59-89c8-07a887a94c9d,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,c7819183-eaca-4663-83c7-60538b9299b1,6e17bf02-039a-456e-9bae-9d3dca25051f
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,fddace46-2840-46ce-9595-f30fb3ed2a2f,3dbd51d2-822f-4a59-89c8-07a887a94c9d,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,java/io/PrintStream.java,println
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,25238b9c-7a15-4a0e-93fd-e2c411a02113,5951964e-14a5-4553-8798-ee8f30cee0fe,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,java/lang/String.java,toLowerCase
+9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,09150495-2ca0-47bf-9896-06e1d604b1c5,68e6c4fa-c34e-4024-8bba-a4f014688c7d,->,9b0b7a88-09f2-4fcf-aec9-8c5f6e6c42f6,java/lang/String.java,toUpperCase

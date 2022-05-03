@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ed0f8121-603f-4368-897c-c95c7cad3348,br/ufmg/dcc/saotome/beholder/ui/form/Button$ButtonType.java,values,->,ed0f8121-603f-4368-897c-c95c7cad3348,br/ufmg/dcc/saotome/beholder/ui/form/Button$ButtonType.java,clone
+ed0f8121-603f-4368-897c-c95c7cad3348,br/ufmg/dcc/saotome/beholder/ui/form/Button$ButtonType.java,valueOf,->,ed0f8121-603f-4368-897c-c95c7cad3348,java/lang/Enum.java,valueOf

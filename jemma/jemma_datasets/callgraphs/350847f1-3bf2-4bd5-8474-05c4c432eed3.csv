@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/model/StatusPayment.java,values,->,350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/model/StatusPayment.java,clone
+350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/model/StatusPayment.java,valueOf,->,350847f1-3bf2-4bd5-8474-05c4c432eed3,java/lang/Enum.java,valueOf
+350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/type/Theme.java,values,->,350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/type/Theme.java,clone
+350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/type/Theme.java,valueOf,->,350847f1-3bf2-4bd5-8474-05c4c432eed3,java/lang/Enum.java,valueOf
+350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/type/TypePermission.java,values,->,350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/type/TypePermission.java,clone
+350847f1-3bf2-4bd5-8474-05c4c432eed3,com/canecaria/type/TypePermission.java,valueOf,->,350847f1-3bf2-4bd5-8474-05c4c432eed3,java/lang/Enum.java,valueOf

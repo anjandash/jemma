@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,setSize
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,setBackground
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,setFocusable
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,addKeyListener
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,getParent
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,java/awt/Container.java,getParent
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,java/awt/Frame.java,setTitle
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,bdd95e37-b395-4cb6-9437-18909347775c,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,getDocumentBase
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,d24e649b-e590-4d31-9bc2-0a7914b70957,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,java/lang/Thread.java,start
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,c6120483-6576-486d-8b5f-6a306f464646,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,Game.java,repaint
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,c6120483-6576-486d-8b5f-6a306f464646,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,java/lang/Thread.java,sleep
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,c6120483-6576-486d-8b5f-6a306f464646,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,java/lang/InterruptedException.java,printStackTrace
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,427d9531-91bf-4272-959c-f66b1964b163,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,cc3b67bb-9323-4d68-b46b-7399dbb35aa6,c7b8ae93-cff7-41f5-afbb-5a97d65ab15a
+0bb463ef-3bba-4d73-bf7d-7544486f1d7e,66a4d661-8742-4fb4-af73-ad75b23f7061,427d9531-91bf-4272-959c-f66b1964b163,->,0bb463ef-3bba-4d73-bf7d-7544486f1d7e,java/awt/Graphics.java,drawImage

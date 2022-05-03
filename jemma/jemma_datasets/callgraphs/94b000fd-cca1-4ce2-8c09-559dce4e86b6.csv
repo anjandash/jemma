@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,35b405d3-06c3-4963-a330-f5b384d489a7,2bdbd055-8cd2-4685-9758-04986f8da190,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,358c46f4-4910-406e-8f5d-9ea009dd72dc,2b2f0d55-040d-4373-99cf-4bb39c510d6e
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,35b405d3-06c3-4963-a330-f5b384d489a7,2bdbd055-8cd2-4685-9758-04986f8da190,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,org/hamcrest/core/IsEqual.java,equalTo
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,35b405d3-06c3-4963-a330-f5b384d489a7,2bdbd055-8cd2-4685-9758-04986f8da190,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,org/junit/Assert.java,assertThat
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,33c5e1ed-5932-4a13-9bf0-3c899ffed112,5b86e0f6-0293-4327-8825-8de726d6edce,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java,setLocalOverride
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,b520ef2f-fc1b-4e4e-9894-e3ce30b1b42e,19ed7a45-8537-43ee-b766-8be11647a7b1,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,org/springframework/context/annotation/AnnotationConfigApplicationContext.java,getEnvironment
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,b520ef2f-fc1b-4e4e-9894-e3ce30b1b42e,19ed7a45-8537-43ee-b766-8be11647a7b1,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,org/springframework/core/env/ConfigurableEnvironment.java,getProperty
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,b520ef2f-fc1b-4e4e-9894-e3ce30b1b42e,19ed7a45-8537-43ee-b766-8be11647a7b1,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,java/io/PrintStream.java,println
+94b000fd-cca1-4ce2-8c09-559dce4e86b6,66dc1fee-6b7c-4aa1-9234-be24790f5af1,bff19c00-4d1d-42e4-9ceb-d3e445e998d0,->,94b000fd-cca1-4ce2-8c09-559dce4e86b6,org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java,setLocalOverride

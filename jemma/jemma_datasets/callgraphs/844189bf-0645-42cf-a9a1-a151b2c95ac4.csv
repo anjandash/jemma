@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+844189bf-0645-42cf-a9a1-a151b2c95ac4,78c3dcce-05aa-4dac-8f8a-88ec22c94185,84d1ad58-6b53-4599-bb89-a5caf9e851d9,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,java/lang/StringBuilder.java,append
+844189bf-0645-42cf-a9a1-a151b2c95ac4,78c3dcce-05aa-4dac-8f8a-88ec22c94185,84d1ad58-6b53-4599-bb89-a5caf9e851d9,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,java/lang/StringBuilder.java,append
+844189bf-0645-42cf-a9a1-a151b2c95ac4,78c3dcce-05aa-4dac-8f8a-88ec22c94185,84d1ad58-6b53-4599-bb89-a5caf9e851d9,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,java/lang/StringBuilder.java,toString
+844189bf-0645-42cf-a9a1-a151b2c95ac4,0dd3faf2-64b8-4ceb-a038-02790de7d42b,6c9a1ab6-65ca-4529-82a8-17bdfe957607,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,java/lang/StringBuilder.java,append
+844189bf-0645-42cf-a9a1-a151b2c95ac4,0dd3faf2-64b8-4ceb-a038-02790de7d42b,6c9a1ab6-65ca-4529-82a8-17bdfe957607,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,java/lang/StringBuilder.java,append
+844189bf-0645-42cf-a9a1-a151b2c95ac4,0dd3faf2-64b8-4ceb-a038-02790de7d42b,6c9a1ab6-65ca-4529-82a8-17bdfe957607,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,java/lang/StringBuilder.java,toString
+844189bf-0645-42cf-a9a1-a151b2c95ac4,e379f013-f205-4a35-82c6-e9bc84344723,9f117569-9b69-4920-b614-43443f6243cc,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,javax/servlet/http/HttpServletRequest.java,setAttribute
+844189bf-0645-42cf-a9a1-a151b2c95ac4,e379f013-f205-4a35-82c6-e9bc84344723,9f117569-9b69-4920-b614-43443f6243cc,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,javax/servlet/http/HttpServletRequest.java,getRequestDispatcher
+844189bf-0645-42cf-a9a1-a151b2c95ac4,e379f013-f205-4a35-82c6-e9bc84344723,9f117569-9b69-4920-b614-43443f6243cc,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,javax/servlet/RequestDispatcher.java,forward
+844189bf-0645-42cf-a9a1-a151b2c95ac4,ecf97709-3861-4d51-b657-1e0dd0d42fcb,3ec88034-82bf-47b5-8f89-fc3b1db53ac8,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,javax/servlet/http/HttpServletResponse.java,setContentType
+844189bf-0645-42cf-a9a1-a151b2c95ac4,ecf97709-3861-4d51-b657-1e0dd0d42fcb,3ec88034-82bf-47b5-8f89-fc3b1db53ac8,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,javax/servlet/http/HttpServletRequest.java,getRequestDispatcher
+844189bf-0645-42cf-a9a1-a151b2c95ac4,ecf97709-3861-4d51-b657-1e0dd0d42fcb,3ec88034-82bf-47b5-8f89-fc3b1db53ac8,->,844189bf-0645-42cf-a9a1-a151b2c95ac4,javax/servlet/RequestDispatcher.java,forward

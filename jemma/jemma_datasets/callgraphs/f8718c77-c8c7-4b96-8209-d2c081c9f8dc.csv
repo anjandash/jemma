@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,utils/ServiceActionResponse.java,values,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,utils/ServiceActionResponse.java,clone
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,utils/ServiceActionResponse.java,valueOf,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,java/lang/Enum.java,valueOf
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,29df390b-9092-4fbe-8658-c8d6dd17fdcf,ef842fae-d5bf-446a-be7b-5b697aedc078
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,29df390b-9092-4fbe-8658-c8d6dd17fdcf,2618fe21-d2c5-4bc9-995c-5135fd0a2e3e
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,java/util/Set.java,add
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,java/util/Set.java,add
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,java/util/Set.java,add
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,29df390b-9092-4fbe-8658-c8d6dd17fdcf,909324f2-b960-4294-bbf9-673f6fa975ca
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,javax/xml/bind/JAXBContext.java,newInstance
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,javax/xml/bind/JAXBContext.java,createMarshaller
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,javax/xml/bind/Marshaller.java,setProperty
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,javax/xml/bind/Marshaller.java,marshal
+f8718c77-c8c7-4b96-8209-d2c081c9f8dc,86eddd75-ecca-4954-b08b-c648da26895d,47cc8694-dfc4-48c4-8918-8b0cd38ac7cd,->,f8718c77-c8c7-4b96-8209-d2c081c9f8dc,javax/xml/bind/Marshaller.java,marshal

@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,logprototype/LogPrototype.java,add
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Button.java,addActionListener
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,logprototype/LogPrototype.java,add
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Component.java,setVisible
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Component.java,setEnabled
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,fbe723c1-2306-417e-88a4-141625991357
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,logprototype/LogPrototype.java,setBackground
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,c59c87f6-2519-4931-a3d1-044c1dde4223,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,logprototype/LogPrototype.java,resize
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,74780bff-a5e0-49ba-ae3b-f587ea6d57c3,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/event/ActionEvent.java,getSource
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,74780bff-a5e0-49ba-ae3b-f587ea6d57c3,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,fbe723c1-2306-417e-88a4-141625991357
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,fbe723c1-2306-417e-88a4-141625991357,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Component.java,setVisible
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,fbe723c1-2306-417e-88a4-141625991357,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Component.java,setEnabled
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,fbe723c1-2306-417e-88a4-141625991357,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Component.java,setVisible
+ed9d12d2-43e3-41ab-91de-a5255ae7c70e,9222fb18-ef33-48f1-b8b8-f46885cb6a53,fbe723c1-2306-417e-88a4-141625991357,->,ed9d12d2-43e3-41ab-91de-a5255ae7c70e,java/awt/Component.java,setEnabled

@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,819b0b87-773e-4608-a048-c8a80f17d783,c4025b26-6abe-47fa-bd24-c89bde2d5712,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,org/junit/Assert.java,fail
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,fed5891e-9a25-4e5e-958f-e764e915ffb8,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,java/util/Set.java,add
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,76e71f7b-87f1-4afa-a5ab-528be2e34e51,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,java/util/Set.java,add
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,02fc7aa1-df85-4b73-b833-96c12d5c99e6,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,java/util/Map.java,get
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,c318cc28-6d04-41df-84e4-ebccfdc828e8,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,6024ef7c-b4af-4a92-b9b5-65e99796d2ee,e5763393-d6c0-4c07-9545-2c5eb56da77c
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,c318cc28-6d04-41df-84e4-ebccfdc828e8,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,java/util/Map.java,put
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,8f1598b0-f6ea-48f3-a4d3-ef6bf58f3838,e5ba8059-a0ce-4c36-977c-ead1f81df125,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,c318cc28-6d04-41df-84e4-ebccfdc828e8
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,a6494ceb-8135-4a02-b5df-47c39005215e,fc8009b1-3989-4714-96ae-4e1e076bd3a2,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,java/util/Set.java,add
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,be/ac/chaq/change/SimplePropertyChange.java,perform,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,6024ef7c-b4af-4a92-b9b5-65e99796d2ee,a9347d81-beac-4233-8f24-0f7685070def
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,be/ac/chaq/change/SimplePropertyChange.java,perform,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,d4f0aa90-b547-4782-b2a6-43b2c4faffb1,c318cc28-6d04-41df-84e4-ebccfdc828e8
+a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,be/ac/chaq/change/SimplePropertyChange.java,perform,->,a8e2717a-5609-4ac6-af2a-3ccbd7fc1b05,6024ef7c-b4af-4a92-b9b5-65e99796d2ee,bef7759e-cb59-4095-a021-3e93ee287ad4

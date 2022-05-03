@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,fbe4e423-761a-42af-aa66-b3517b4787fa,61f0311b-6687-4070-887a-1bf35c2fa68a,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,44e846dd-afff-40ed-b263-557fae2767e6,9a2339bb-549c-4c02-a06b-59691f3caa15
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,com/bogdan/cardgames/Suit.java,values,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,com/bogdan/cardgames/Suit.java,clone
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,com/bogdan/cardgames/Suit.java,valueOf,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,java/lang/Enum.java,valueOf
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,44e846dd-afff-40ed-b263-557fae2767e6,9a2339bb-549c-4c02-a06b-59691f3caa15,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,com/bogdan/cardgames/Suit.java,values
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,44e846dd-afff-40ed-b263-557fae2767e6,9a2339bb-549c-4c02-a06b-59691f3caa15,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,44e846dd-afff-40ed-b263-557fae2767e6,6d4dcca1-8731-427a-9a53-a2f4dd1157a2
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,44e846dd-afff-40ed-b263-557fae2767e6,9a2339bb-549c-4c02-a06b-59691f3caa15,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,java/lang/String.java,equals
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,84060feb-c74c-4ebf-9873-6aa90b2202d7,67f796d2-b691-4d64-94ab-d741deaf6541,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,junit/framework/Assert.java,assertNotNull
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,84060feb-c74c-4ebf-9873-6aa90b2202d7,45011f4d-4357-4545-9a40-437157251c32,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,fbe4e423-761a-42af-aa66-b3517b4787fa,7948d335-51ee-47ff-987d-48df79bfc523
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,84060feb-c74c-4ebf-9873-6aa90b2202d7,45011f4d-4357-4545-9a40-437157251c32,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,junit/framework/Assert.java,assertEquals
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,84060feb-c74c-4ebf-9873-6aa90b2202d7,da7ecce1-5289-4307-b9ee-cc88f98b9e29,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,fbe4e423-761a-42af-aa66-b3517b4787fa,ccbba515-bdc2-4288-b8f5-7533cc9b368b
+6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,84060feb-c74c-4ebf-9873-6aa90b2202d7,da7ecce1-5289-4307-b9ee-cc88f98b9e29,->,6a36cbbf-92e5-448d-86b4-4c3ecc316e8a,junit/framework/Assert.java,assertEquals

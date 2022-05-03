@@ -6,6 +6,8 @@ license: MIT
 """
 
 import javalang
+import jemma_utils as ju
+
 from subprocess import Popen, PIPE
 
 
@@ -242,10 +244,16 @@ def gen_C2SQ_from_method_text(method_id, method_text):
         return "METHOD_NAME,0,METHOD_NAME"
 
 
-def gen_FTGR_from_method_text(method_id, method_text):
+def gen_FTGR_from_method_text(method_id, method_text): # TODO
+    # get class_id from method_id
+    # get class_name, class_path from class_id
+    # get class_text by reading the .java file
+    # create .proto file
+    # spawn nodes (run spawnNodesDb*)
     pass
 
-def gen_REPR_from_method_text(method_id, method_text):
+
+def gen_REPR_from_method_text(method_id, method_text): 
     pass
 
 
@@ -269,6 +277,7 @@ def gen_representation(representation, method_id, custom_method_text):
 # ********** #
 #            #
 # ********** #
+
 
 def run_models(metric, representation, train_methods, test_methods, models=["MLP", "CNN", "BiLSTM"]):
     pass

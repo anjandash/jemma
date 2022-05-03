@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+62c92c2d-3872-494d-b0d2-0473c42a150b,718b5626-f972-401f-af42-c075b647257b,ec6097dd-8f11-497f-a206-692818c8c27b,->,62c92c2d-3872-494d-b0d2-0473c42a150b,ff20da63-5e61-433d-afc7-0c9ae9886758,3ae0fa5a-c556-46f9-bc81-ac4d7a464a6b
+62c92c2d-3872-494d-b0d2-0473c42a150b,ff20da63-5e61-433d-afc7-0c9ae9886758,3ae0fa5a-c556-46f9-bc81-ac4d7a464a6b,->,62c92c2d-3872-494d-b0d2-0473c42a150b,718b5626-f972-401f-af42-c075b647257b,ec6097dd-8f11-497f-a206-692818c8c27b
+62c92c2d-3872-494d-b0d2-0473c42a150b,e0f67fed-c10d-45ea-8685-e13cc3fa9546,b401f8fc-ce4c-4da3-8064-24e2deb7169b,->,62c92c2d-3872-494d-b0d2-0473c42a150b,718b5626-f972-401f-af42-c075b647257b,ec6097dd-8f11-497f-a206-692818c8c27b
+62c92c2d-3872-494d-b0d2-0473c42a150b,4a42cecb-58fe-45f3-8e13-400d98f04108,9cf91acf-7096-4889-9d48-9f37f0a9a55a,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/io/BufferedReader.java,readLine
+62c92c2d-3872-494d-b0d2-0473c42a150b,4a42cecb-58fe-45f3-8e13-400d98f04108,9cf91acf-7096-4889-9d48-9f37f0a9a55a,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/io/PrintStream.java,println
+62c92c2d-3872-494d-b0d2-0473c42a150b,4a42cecb-58fe-45f3-8e13-400d98f04108,c4b89f87-da8f-470a-b25e-9181442f6aea,->,62c92c2d-3872-494d-b0d2-0473c42a150b,4a42cecb-58fe-45f3-8e13-400d98f04108,9cf91acf-7096-4889-9d48-9f37f0a9a55a
+62c92c2d-3872-494d-b0d2-0473c42a150b,4a42cecb-58fe-45f3-8e13-400d98f04108,c4b89f87-da8f-470a-b25e-9181442f6aea,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/io/BufferedReader.java,close
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$1.java,run,->,62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bow
+62c92c2d-3872-494d-b0d2-0473c42a150b,eafa993b-4802-49fa-809d-fd6b219faa68,1d845106-daa1-46c3-9ea7-6196c421de62,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/lang/Thread.java,start
+62c92c2d-3872-494d-b0d2-0473c42a150b,eafa993b-4802-49fa-809d-fd6b219faa68,1d845106-daa1-46c3-9ea7-6196c421de62,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/lang/Thread.java,start
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bow,->,62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,getName
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bow,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/io/PrintStream.java,format
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bow,->,62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bowBack
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bowBack,->,62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,getName
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bowBack,->,62c92c2d-3872-494d-b0d2-0473c42a150b,java/io/PrintStream.java,format
+62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$2.java,run,->,62c92c2d-3872-494d-b0d2-0473c42a150b,nl/cwi/saga/deadlock/Deadlock$Friend.java,bow

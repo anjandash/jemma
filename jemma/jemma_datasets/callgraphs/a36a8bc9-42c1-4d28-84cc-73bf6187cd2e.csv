@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a36a8bc9-42c1-4d28-84cc-73bf6187cd2e,fa7bf595-4d0a-42de-8d77-4280e6369822,41b40424-99b6-4872-b62c-15bb02efe2e8,->,a36a8bc9-42c1-4d28-84cc-73bf6187cd2e,com/gougou/gougou_entity/AppTest.java,assertTrue

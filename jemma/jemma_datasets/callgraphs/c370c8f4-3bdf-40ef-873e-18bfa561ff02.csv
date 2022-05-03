@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/Jsoup.java,connect
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/Connection.java,get
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/nodes/Document.java,select
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/select/Elements.java,iterator
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/util/Iterator.java,hasNext
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/util/Iterator.java,next
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/io/PrintStream.java,println
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/nodes/Element.java,select
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/select/Elements.java,iterator
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/util/Iterator.java,hasNext
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/util/Iterator.java,next
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,org/jsoup/nodes/Element.java,toString
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/lang/String.java,replaceAll
+c370c8f4-3bdf-40ef-873e-18bfa561ff02,23c3908a-3fbe-4afb-8d44-b06e38229b26,2944b1ea-6d51-4a13-a98f-c0dec565bacb,->,c370c8f4-3bdf-40ef-873e-18bfa561ff02,java/io/PrintStream.java,println

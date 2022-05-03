@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+433fc9af-4cb5-463e-80ce-258884e08b65,3408cc86-48fa-4592-a2f6-1fd3ce5e45dd,cf0e82ee-6424-44c9-94f5-05dfdf63f8a8,->,433fc9af-4cb5-463e-80ce-258884e08b65,com/dao/impl/UserDaoImpl.java,getHibernateTemplate
+433fc9af-4cb5-463e-80ce-258884e08b65,3408cc86-48fa-4592-a2f6-1fd3ce5e45dd,cf0e82ee-6424-44c9-94f5-05dfdf63f8a8,->,433fc9af-4cb5-463e-80ce-258884e08b65,org/springframework/orm/hibernate3/HibernateTemplate.java,save
+433fc9af-4cb5-463e-80ce-258884e08b65,6f7e5a57-703b-4f70-9027-80ca6c876baf,fc3c8635-5e28-45ea-8776-05e5b8de125e,->,433fc9af-4cb5-463e-80ce-258884e08b65,f4342d05-f1a3-478f-9337-64e36e65db01,8e6af207-18e0-4a41-bae2-5f0d0b604f00
+433fc9af-4cb5-463e-80ce-258884e08b65,da092b1a-ff32-4cf1-b01c-399d86316d4e,c0fea46e-ae63-4ce6-b067-db83117e04b5,->,433fc9af-4cb5-463e-80ce-258884e08b65,9c1f50e8-d931-4c4f-a419-70564671bda4,684e05cc-dda4-47ba-9019-eedd53a7b954
+433fc9af-4cb5-463e-80ce-258884e08b65,da092b1a-ff32-4cf1-b01c-399d86316d4e,c0fea46e-ae63-4ce6-b067-db83117e04b5,->,433fc9af-4cb5-463e-80ce-258884e08b65,9c1f50e8-d931-4c4f-a419-70564671bda4,8b9e936e-0067-4ea9-aee1-287b24fc55ef
+433fc9af-4cb5-463e-80ce-258884e08b65,da092b1a-ff32-4cf1-b01c-399d86316d4e,c0fea46e-ae63-4ce6-b067-db83117e04b5,->,433fc9af-4cb5-463e-80ce-258884e08b65,8c6cea49-c60a-4ae6-82d3-c68c7f167486,7ed4d1d7-9697-46df-9467-067857e01247
+433fc9af-4cb5-463e-80ce-258884e08b65,da092b1a-ff32-4cf1-b01c-399d86316d4e,c0fea46e-ae63-4ce6-b067-db83117e04b5,->,433fc9af-4cb5-463e-80ce-258884e08b65,java/lang/Exception.java,printStackTrace
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,ff5476a0-f699-4c6e-8a33-9b6d13de84dc,->,433fc9af-4cb5-463e-80ce-258884e08b65,org/springframework/context/support/ClassPathXmlApplicationContext.java,getBean
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,f3b9d123-5231-4b83-bd42-ef33e5c32410,->,433fc9af-4cb5-463e-80ce-258884e08b65,org/hibernate/SessionFactory.java,openSession
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,f3b9d123-5231-4b83-bd42-ef33e5c32410,->,433fc9af-4cb5-463e-80ce-258884e08b65,org/hibernate/classic/Session.java,beginTransaction
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,f3b9d123-5231-4b83-bd42-ef33e5c32410,->,433fc9af-4cb5-463e-80ce-258884e08b65,9c1f50e8-d931-4c4f-a419-70564671bda4,684e05cc-dda4-47ba-9019-eedd53a7b954
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,f3b9d123-5231-4b83-bd42-ef33e5c32410,->,433fc9af-4cb5-463e-80ce-258884e08b65,9c1f50e8-d931-4c4f-a419-70564671bda4,8b9e936e-0067-4ea9-aee1-287b24fc55ef
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,f3b9d123-5231-4b83-bd42-ef33e5c32410,->,433fc9af-4cb5-463e-80ce-258884e08b65,org/hibernate/classic/Session.java,save
+433fc9af-4cb5-463e-80ce-258884e08b65,4aa0b0c5-cb5a-40cc-80fd-5a154c2b1be5,f3b9d123-5231-4b83-bd42-ef33e5c32410,->,433fc9af-4cb5-463e-80ce-258884e08b65,org/hibernate/Transaction.java,commit

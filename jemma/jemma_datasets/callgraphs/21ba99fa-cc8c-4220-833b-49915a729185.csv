@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+21ba99fa-cc8c-4220-833b-49915a729185,app/models/BookCategory.java,values,->,21ba99fa-cc8c-4220-833b-49915a729185,app/models/BookCategory.java,clone
+21ba99fa-cc8c-4220-833b-49915a729185,app/models/BookCategory.java,valueOf,->,21ba99fa-cc8c-4220-833b-49915a729185,java/lang/Enum.java,valueOf
+21ba99fa-cc8c-4220-833b-49915a729185,357b4ca9-6fe8-496a-b12a-221c809db7ec,cabd977c-48e7-4dd3-95dc-e08ab3d758df,->,21ba99fa-cc8c-4220-833b-49915a729185,app/models/Book.java,save
+21ba99fa-cc8c-4220-833b-49915a729185,357b4ca9-6fe8-496a-b12a-221c809db7ec,cabd977c-48e7-4dd3-95dc-e08ab3d758df,->,21ba99fa-cc8c-4220-833b-49915a729185,com/thoughtworks/mvc/model/ModelMap.java,put
+21ba99fa-cc8c-4220-833b-49915a729185,357b4ca9-6fe8-496a-b12a-221c809db7ec,23b66192-51a3-455c-9a43-a234a8aba8ec,->,21ba99fa-cc8c-4220-833b-49915a729185,com/thoughtworks/orm/finder/ModelFinder.java,findAll
+21ba99fa-cc8c-4220-833b-49915a729185,357b4ca9-6fe8-496a-b12a-221c809db7ec,23b66192-51a3-455c-9a43-a234a8aba8ec,->,21ba99fa-cc8c-4220-833b-49915a729185,com/thoughtworks/mvc/model/ModelMap.java,put
+21ba99fa-cc8c-4220-833b-49915a729185,0c5e42e9-10f3-4949-93d0-174fb71bc3ca,793c219b-4835-482d-81b1-409dbe490328,->,21ba99fa-cc8c-4220-833b-49915a729185,com/thoughtworks/mvc/model/ModelMap.java,put
+21ba99fa-cc8c-4220-833b-49915a729185,3c018ae2-7101-46ec-9513-b89f23272154,30e7df1a-c514-46d0-8e1f-1da900fbad20,->,21ba99fa-cc8c-4220-833b-49915a729185,org/mortbay/jetty/servlet/Context.java,addServlet
+21ba99fa-cc8c-4220-833b-49915a729185,3c018ae2-7101-46ec-9513-b89f23272154,30e7df1a-c514-46d0-8e1f-1da900fbad20,->,21ba99fa-cc8c-4220-833b-49915a729185,org/mortbay/jetty/servlet/Context.java,addServlet
+21ba99fa-cc8c-4220-833b-49915a729185,3c018ae2-7101-46ec-9513-b89f23272154,30e7df1a-c514-46d0-8e1f-1da900fbad20,->,21ba99fa-cc8c-4220-833b-49915a729185,org/mortbay/jetty/Server.java,start

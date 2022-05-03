@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f3a52e0f-03be-4537-9eba-52b0a11d93db,bb5e6598-a990-4a15-aa57-f2d1456e674f,1f2607f7-02ee-477d-9e9e-e15fc3b501b4,->,f3a52e0f-03be-4537-9eba-52b0a11d93db,java/awt/event/ActionEvent.java,getActionCommand
+f3a52e0f-03be-4537-9eba-52b0a11d93db,bb5e6598-a990-4a15-aa57-f2d1456e674f,1f2607f7-02ee-477d-9e9e-e15fc3b501b4,->,f3a52e0f-03be-4537-9eba-52b0a11d93db,java/lang/String.java,equalsIgnoreCase
+f3a52e0f-03be-4537-9eba-52b0a11d93db,bb5e6598-a990-4a15-aa57-f2d1456e674f,1f2607f7-02ee-477d-9e9e-e15fc3b501b4,->,f3a52e0f-03be-4537-9eba-52b0a11d93db,gui/AFDWindow.java,setVisible
+f3a52e0f-03be-4537-9eba-52b0a11d93db,2c134e37-a1be-4b31-b3fd-d3fbaec67a0a,5125236a-1c66-4a6f-b4fb-7bb696924ddf,->,f3a52e0f-03be-4537-9eba-52b0a11d93db,gui/MainWindow.java,setVisible

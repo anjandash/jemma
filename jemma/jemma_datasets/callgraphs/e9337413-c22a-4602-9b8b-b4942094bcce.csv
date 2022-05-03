@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e9337413-c22a-4602-9b8b-b4942094bcce,ca3c4cd2-ee07-4d09-baf6-efb58da61a4b,c96aca3b-1460-446c-ac97-646f1aca9207,->,e9337413-c22a-4602-9b8b-b4942094bcce,java/io/PrintStream.java,println
+e9337413-c22a-4602-9b8b-b4942094bcce,c6271c27-4845-441a-974a-d64ddc276497,96a15d65-091f-4121-8a96-06d6678d4a9c,->,e9337413-c22a-4602-9b8b-b4942094bcce,javax/swing/JOptionPane.java,showMessageDialog
+e9337413-c22a-4602-9b8b-b4942094bcce,d41af890-8bb7-4092-8857-087b16f71614,9fb03762-1db1-490e-9ee8-c2bfe226b854,->,e9337413-c22a-4602-9b8b-b4942094bcce,javax/swing/JOptionPane.java,showMessageDialog
+e9337413-c22a-4602-9b8b-b4942094bcce,37c9a70b-d266-42ae-914d-f4cbe7f84167,bf8b0b60-925b-4e5c-a964-4c074b127f44,->,e9337413-c22a-4602-9b8b-b4942094bcce,javax/swing/JOptionPane.java,showMessageDialog

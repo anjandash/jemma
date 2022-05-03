@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3a7e352f-db64-4376-9b1c-24415387f61a,7644a367-7e84-4e00-a77c-810bb650c52b,d34c620b-8b16-4f80-904d-f54bc0414a8f,->,3a7e352f-db64-4376-9b1c-24415387f61a,dcaddc94-d484-4201-ad76-91f73907d931,0294a85f-1f9f-4a97-a6fc-1122377cd739
+3a7e352f-db64-4376-9b1c-24415387f61a,054e0ddc-0f1c-4051-9c1f-d26bdd454c17,7f52649c-1282-4466-95f8-b4f2be40fddf,->,3a7e352f-db64-4376-9b1c-24415387f61a,dcaddc94-d484-4201-ad76-91f73907d931,1794d9a3-5c4e-4578-9645-fea222c597b9
+3a7e352f-db64-4376-9b1c-24415387f61a,054e0ddc-0f1c-4051-9c1f-d26bdd454c17,7f52649c-1282-4466-95f8-b4f2be40fddf,->,3a7e352f-db64-4376-9b1c-24415387f61a,java/io/PrintStream.java,println
+3a7e352f-db64-4376-9b1c-24415387f61a,dcaddc94-d484-4201-ad76-91f73907d931,1794d9a3-5c4e-4578-9645-fea222c597b9,->,3a7e352f-db64-4376-9b1c-24415387f61a,ee1934cd-b65b-42a7-8d72-b47c4e9d2efa,84cd06b1-5310-4821-b658-30f9749a9535
+3a7e352f-db64-4376-9b1c-24415387f61a,96ffa850-3cda-458d-b6fb-61f9a13b6d5a,0d31f3a6-2598-4c54-b437-e1415f557714,->,3a7e352f-db64-4376-9b1c-24415387f61a,dcaddc94-d484-4201-ad76-91f73907d931,0294a85f-1f9f-4a97-a6fc-1122377cd739
+3a7e352f-db64-4376-9b1c-24415387f61a,dbaf71a2-ace0-45a0-993f-7668253d794a,02fc4f8f-d14d-46b5-b228-71674c7a0970,->,3a7e352f-db64-4376-9b1c-24415387f61a,dcaddc94-d484-4201-ad76-91f73907d931,0294a85f-1f9f-4a97-a6fc-1122377cd739
+3a7e352f-db64-4376-9b1c-24415387f61a,6351734f-13be-4687-91fe-9582dd34a275,8a5ab160-7dd5-4f3d-9362-964292343c1a,->,3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/ReservaVooAntiPattern.java,calculaTotal
+3a7e352f-db64-4376-9b1c-24415387f61a,6351734f-13be-4687-91fe-9582dd34a275,8a5ab160-7dd5-4f3d-9362-964292343c1a,->,3a7e352f-db64-4376-9b1c-24415387f61a,java/io/PrintStream.java,println
+3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/TipoViagem.java,values,->,3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/TipoViagem.java,clone
+3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/TipoViagem.java,valueOf,->,3a7e352f-db64-4376-9b1c-24415387f61a,java/lang/Enum.java,valueOf
+3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/ReservaVooAntiPattern.java,calculaTotal,->,3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/TipoViagem.java,equals
+3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/ReservaVooAntiPattern.java,calculaTotal,->,3a7e352f-db64-4376-9b1c-24415387f61a,strategy/anti_pattern/TipoViagem.java,equals

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+86d6267b-c57f-410f-ae02-f932044ff13a,191b9fe9-dcaf-47a6-a769-3831824020fc,7d3869e7-069b-4dad-acf5-66d8230ab86d,->,86d6267b-c57f-410f-ae02-f932044ff13a,javax/servlet/http/HttpServletRequest.java,getParameter
+86d6267b-c57f-410f-ae02-f932044ff13a,191b9fe9-dcaf-47a6-a769-3831824020fc,7d3869e7-069b-4dad-acf5-66d8230ab86d,->,86d6267b-c57f-410f-ae02-f932044ff13a,e7e07b69-5cea-4124-8d14-6051d9976e86,23b54057-f8f0-457d-9a93-55007c0d0953
+86d6267b-c57f-410f-ae02-f932044ff13a,191b9fe9-dcaf-47a6-a769-3831824020fc,7d3869e7-069b-4dad-acf5-66d8230ab86d,->,86d6267b-c57f-410f-ae02-f932044ff13a,javax/servlet/http/HttpServletRequest.java,setAttribute
+86d6267b-c57f-410f-ae02-f932044ff13a,191b9fe9-dcaf-47a6-a769-3831824020fc,7d3869e7-069b-4dad-acf5-66d8230ab86d,->,86d6267b-c57f-410f-ae02-f932044ff13a,javax/servlet/http/HttpServletRequest.java,getRequestDispatcher
+86d6267b-c57f-410f-ae02-f932044ff13a,191b9fe9-dcaf-47a6-a769-3831824020fc,7d3869e7-069b-4dad-acf5-66d8230ab86d,->,86d6267b-c57f-410f-ae02-f932044ff13a,javax/servlet/RequestDispatcher.java,forward
+86d6267b-c57f-410f-ae02-f932044ff13a,e7e07b69-5cea-4124-8d14-6051d9976e86,23b54057-f8f0-457d-9a93-55007c0d0953,->,86d6267b-c57f-410f-ae02-f932044ff13a,30cfe2fa-44b6-4892-b5ab-556ba28d5174,fad47588-7379-464c-ae0a-236031837447
+86d6267b-c57f-410f-ae02-f932044ff13a,325a5232-5825-4f6f-8479-15a0311fa35d,0cdec3af-3c21-4923-b50b-79411562e65b,->,86d6267b-c57f-410f-ae02-f932044ff13a,org/apache/log4j/Logger.java,info
+86d6267b-c57f-410f-ae02-f932044ff13a,325a5232-5825-4f6f-8479-15a0311fa35d,fe8bb4aa-9c2d-4590-8a56-67a4189a61ca,->,86d6267b-c57f-410f-ae02-f932044ff13a,java/util/List.java,get

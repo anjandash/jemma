@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa67d6fc-6fc3-48b7-aa86-d7a797754a4c,d4969d3f-fb8d-49e2-9035-d62d2778d464,1a3bc738-d33a-499c-82c5-757a42b2f8e7,->,aa67d6fc-6fc3-48b7-aa86-d7a797754a4c,com/ht/view/MainPage.java,setJMenuBar
+aa67d6fc-6fc3-48b7-aa86-d7a797754a4c,2d07c7cb-3d1f-4af3-897d-faff0c7d349b,716482db-8eb4-488e-8947-f243f2d5d3ce,->,aa67d6fc-6fc3-48b7-aa86-d7a797754a4c,javax/swing/JMenu.java,add
+aa67d6fc-6fc3-48b7-aa86-d7a797754a4c,2d07c7cb-3d1f-4af3-897d-faff0c7d349b,716482db-8eb4-488e-8947-f243f2d5d3ce,->,aa67d6fc-6fc3-48b7-aa86-d7a797754a4c,javax/swing/JMenu.java,add

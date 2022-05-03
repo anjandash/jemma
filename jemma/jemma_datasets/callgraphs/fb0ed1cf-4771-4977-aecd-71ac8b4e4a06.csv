@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,d7600ef1-6b6e-424d-866a-65a9304ecfaf,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,3e3e3add-f0eb-4130-b2bd-4c2363e45529
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,d7600ef1-6b6e-424d-866a-65a9304ecfaf,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,java/lang/Object.java,equals
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,d7600ef1-6b6e-424d-866a-65a9304ecfaf,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,java/util/List.java,add
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,3e3e3add-f0eb-4130-b2bd-4c2363e45529,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,2f8a8f76-bd72-48c1-ad1c-84460112c807,f6aa8fca-7a49-4949-b34d-0e246be6ad32
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,3e3e3add-f0eb-4130-b2bd-4c2363e45529,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,241bcff2-0791-41b2-bbd3-18d89ba808ae,7595fa79-d087-41d9-9a28-7208f5173965
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,b7b46434-7629-4fd3-8343-9840a7b393f8,3e3e3add-f0eb-4130-b2bd-4c2363e45529,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,java/util/List.java,size
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,66b53d53-930d-4567-a132-897b88bf096a,cba7c421-d5ad-47d9-8754-e6da3b233201,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,javax/persistence/Persistence.java,createEntityManagerFactory
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,66b53d53-930d-4567-a132-897b88bf096a,cba7c421-d5ad-47d9-8754-e6da3b233201,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,javax/persistence/EntityManagerFactory.java,createEntityManager
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,66b53d53-930d-4567-a132-897b88bf096a,cba7c421-d5ad-47d9-8754-e6da3b233201,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,javax/persistence/EntityManager.java,getTransaction
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,66b53d53-930d-4567-a132-897b88bf096a,cba7c421-d5ad-47d9-8754-e6da3b233201,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,javax/persistence/EntityTransaction.java,begin
+fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,66b53d53-930d-4567-a132-897b88bf096a,cba7c421-d5ad-47d9-8754-e6da3b233201,->,fb0ed1cf-4771-4977-aecd-71ac8b4e4a06,javax/persistence/EntityTransaction.java,commit

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefQuality.java,values,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefQuality.java,clone
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefQuality.java,valueOf,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,java/lang/Enum.java,valueOf
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,d38d239f-aded-4ede-b1b4-f210f2e021e9,9be7d1ef-dd9a-4a1f-a274-34c306f1bc2e,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefQuality.java,values
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,d38d239f-aded-4ede-b1b4-f210f2e021e9,9be7d1ef-dd9a-4a1f-a274-34c306f1bc2e,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,java/lang/String.java,equals
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefDirection.java,values,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefDirection.java,clone
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefDirection.java,valueOf,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,java/lang/Enum.java,valueOf
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,b756c27d-c265-4ee0-bb3a-161c0ee24fba,dab9c351-38d7-4694-a196-8cd7fe85aa69,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,org/musicbrainz/mmd2/DefDirection.java,values
+9dc52e71-2454-45c8-aa7f-360c8566dcc9,b756c27d-c265-4ee0-bb3a-161c0ee24fba,dab9c351-38d7-4694-a196-8cd7fe85aa69,->,9dc52e71-2454-45c8-aa7f-360c8566dcc9,java/lang/String.java,equals

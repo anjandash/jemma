@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,e6faabf5-4cd1-46a7-ace2-9504678da112,2dd53921-2da1-4715-a9ae-a5ce2d22a606,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,java/lang/String.java,equals
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,e6faabf5-4cd1-46a7-ace2-9504678da112,27082529-155a-4fb7-8ad9-3b14c74524e6,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,java/lang/String.java,hashCode
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,3432e936-4b7a-4d0c-832f-175a58e61d89,ec35df50-a76f-4b18-b817-cf0e7300d200,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,e6faabf5-4cd1-46a7-ace2-9504678da112,2dd53921-2da1-4715-a9ae-a5ce2d22a606
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,3432e936-4b7a-4d0c-832f-175a58e61d89,ec35df50-a76f-4b18-b817-cf0e7300d200,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,java/util/Date.java,equals
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,3432e936-4b7a-4d0c-832f-175a58e61d89,ec35df50-a76f-4b18-b817-cf0e7300d200,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,java/lang/String.java,equals
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,3432e936-4b7a-4d0c-832f-175a58e61d89,d7fe0b1f-ed95-40c4-a6fe-1ff98c0632d3,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,java/lang/String.java,hashCode
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,3432e936-4b7a-4d0c-832f-175a58e61d89,d7fe0b1f-ed95-40c4-a6fe-1ff98c0632d3,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,java/util/Date.java,hashCode
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,3432e936-4b7a-4d0c-832f-175a58e61d89,d7fe0b1f-ed95-40c4-a6fe-1ff98c0632d3,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,e6faabf5-4cd1-46a7-ace2-9504678da112,27082529-155a-4fb7-8ad9-3b14c74524e6
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,051b2a56-f979-4749-bc62-add5ac1adb6d,f277131e-ba7c-49f0-b666-0df5d2d9e03a,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,org/mael/spring/boot/web/repo/AuthorRepository.java,save
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,051b2a56-f979-4749-bc62-add5ac1adb6d,f277131e-ba7c-49f0-b666-0df5d2d9e03a,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,org/mael/spring/boot/web/repo/PostRepository.java,save
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,a55b2e02-eba8-4462-8a59-8a3798832388,c083bd62-a5cd-4b14-8b42-08a299553d43,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,org/slf4j/Logger.java,info
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,org/mael/spring/boot/web/web/IndexController.java,<clinit>,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,org/slf4j/LoggerFactory.java,getLogger
+44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,a2ebb97c-2fab-4042-97a0-3f536df96859,7ffd6e8a-134d-413a-a2ce-efb33bde6207,->,44309a3a-fbb4-41c4-a1f2-5ff7e5f16e8f,org/springframework/boot/SpringApplication.java,run

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Gender.java,values,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Gender.java,clone
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Gender.java,valueOf,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,java/lang/Enum.java,valueOf
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Appellation.java,values,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Appellation.java,clone
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Appellation.java,valueOf,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,java/lang/Enum.java,valueOf
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/ActivityState.java,values,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/ActivityState.java,clone
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/ActivityState.java,valueOf,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,java/lang/Enum.java,valueOf
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Encription.java,values,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Encription.java,clone
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/Encription.java,valueOf,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,java/lang/Enum.java,valueOf
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/PersonalIdentityType.java,values,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/PersonalIdentityType.java,clone
+aae9beb6-7d7a-486c-802e-6b5936c29c73,org/helianto/core/def/PersonalIdentityType.java,valueOf,->,aae9beb6-7d7a-486c-802e-6b5936c29c73,java/lang/Enum.java,valueOf

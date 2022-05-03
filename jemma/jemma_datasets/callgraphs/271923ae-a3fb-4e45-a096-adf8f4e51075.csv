@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+271923ae-a3fb-4e45-a096-adf8f4e51075,45cb3204-573c-441d-a7ad-e7e035fc9201,a4d83bed-70e9-493f-b5d4-c90ce40d7678,->,271923ae-a3fb-4e45-a096-adf8f4e51075,8fdfc403-dd80-4f3d-85c0-7e81f6ec62fa,800314bd-6b51-4bfc-9b88-b4328d27c4da
+271923ae-a3fb-4e45-a096-adf8f4e51075,45cb3204-573c-441d-a7ad-e7e035fc9201,a4d83bed-70e9-493f-b5d4-c90ce40d7678,->,271923ae-a3fb-4e45-a096-adf8f4e51075,org/elasticsearch/common/lang3/StringUtils.java,isNotBlank
+271923ae-a3fb-4e45-a096-adf8f4e51075,45cb3204-573c-441d-a7ad-e7e035fc9201,a4d83bed-70e9-493f-b5d4-c90ce40d7678,->,271923ae-a3fb-4e45-a096-adf8f4e51075,91ce9b42-f6a6-4112-b7e3-6cee2ca36cae,d652f5c7-8274-4d6a-b130-bc7861d45ec4
+271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/controller/UserController.java,<clinit>,->,271923ae-a3fb-4e45-a096-adf8f4e51075,org/slf4j/LoggerFactory.java,getLogger
+271923ae-a3fb-4e45-a096-adf8f4e51075,8fdfc403-dd80-4f3d-85c0-7e81f6ec62fa,800314bd-6b51-4bfc-9b88-b4328d27c4da,->,271923ae-a3fb-4e45-a096-adf8f4e51075,org/elasticsearch/common/lang3/StringUtils.java,isNotEmpty
+271923ae-a3fb-4e45-a096-adf8f4e51075,8fdfc403-dd80-4f3d-85c0-7e81f6ec62fa,800314bd-6b51-4bfc-9b88-b4328d27c4da,->,271923ae-a3fb-4e45-a096-adf8f4e51075,132024df-0543-41c2-ae40-d671149efc55,33d61167-3f7d-4bf2-9b19-a9199917d0fd
+271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/common/MsgmodeException$MsgmodeError.java,values,->,271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/common/MsgmodeException$MsgmodeError.java,clone
+271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/common/MsgmodeException$MsgmodeError.java,valueOf,->,271923ae-a3fb-4e45-a096-adf8f4e51075,java/lang/Enum.java,valueOf
+271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/enums/UserChannelPermission.java,values,->,271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/enums/UserChannelPermission.java,clone
+271923ae-a3fb-4e45-a096-adf8f4e51075,net/jitix/msgmode/webapp/enums/UserChannelPermission.java,valueOf,->,271923ae-a3fb-4e45-a096-adf8f4e51075,java/lang/Enum.java,valueOf

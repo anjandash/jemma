@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,6dbf893b-cff2-46f1-b4e2-f3d9955ae322,6b7ee3cb-9665-4096-a8fe-462730da3f19,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/springframework/web/servlet/ModelAndView.java,addObject
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,f0cb68ad-f874-43f1-b697-42d1ff54a483,718ba9e4-758b-475c-a658-f619ee767a98,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/apache/log4j/Logger.java,info
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,f0cb68ad-f874-43f1-b697-42d1ff54a483,718ba9e4-758b-475c-a658-f619ee767a98,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/apache/log4j/Logger.java,debug
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,f0cb68ad-f874-43f1-b697-42d1ff54a483,718ba9e4-758b-475c-a658-f619ee767a98,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/springframework/ui/ModelMap.java,addAttribute
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,c22cf77c-59af-4ea5-a3f3-e9f207ad233d,6a0b82fd-9557-454d-a33d-b48c5887f7f6,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/apache/log4j/Logger.java,info
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,c22cf77c-59af-4ea5-a3f3-e9f207ad233d,6a0b82fd-9557-454d-a33d-b48c5887f7f6,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/springframework/context/ApplicationContext.java,getBean
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,c22cf77c-59af-4ea5-a3f3-e9f207ad233d,6a0b82fd-9557-454d-a33d-b48c5887f7f6,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,ad005370-b02d-4c57-b012-ea0a48b7d7d5,b1d68569-5e37-4093-af06-2ed28035b144
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,c22cf77c-59af-4ea5-a3f3-e9f207ad233d,6a0b82fd-9557-454d-a33d-b48c5887f7f6,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/apache/log4j/Logger.java,info
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,com/hollywood/logtest/TestLog.java,<clinit>,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,java/lang/Class.java,getName
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,com/hollywood/logtest/TestLog.java,<clinit>,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,org/apache/log4j/Logger.java,getLogger
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,ad005370-b02d-4c57-b012-ea0a48b7d7d5,b1d68569-5e37-4093-af06-2ed28035b144,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,java/lang/StringBuilder.java,append
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,ad005370-b02d-4c57-b012-ea0a48b7d7d5,b1d68569-5e37-4093-af06-2ed28035b144,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,java/lang/StringBuilder.java,append
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,ad005370-b02d-4c57-b012-ea0a48b7d7d5,b1d68569-5e37-4093-af06-2ed28035b144,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,java/lang/StringBuilder.java,toString
+071ae5e0-ea2e-45d8-9bff-5d252e2c51de,ad005370-b02d-4c57-b012-ea0a48b7d7d5,b1d68569-5e37-4093-af06-2ed28035b144,->,071ae5e0-ea2e-45d8-9bff-5d252e2c51de,java/io/PrintStream.java,println

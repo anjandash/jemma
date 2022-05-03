@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,values,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,clone
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,valueOf,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,java/lang/Enum.java,valueOf
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,b70d2039-5b2d-43d5-b637-225fe2513ca2,2c137b5a-f699-4cbe-ac39-7aedbfda9dc4,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,java/security/MessageDigest.java,getInstance
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,b70d2039-5b2d-43d5-b637-225fe2513ca2,a795b342-8a30-463f-9487-54fd0dd38c0a,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,java/util/Map.java,get
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,<clinit>,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,values
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,<clinit>,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,java/util/Map.java,put
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/DigestAlgorithm.java,<clinit>,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,java/util/Collections.java,unmodifiableMap
+d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,ff0bb8ab-896d-4f6b-ae45-46f300c3237b,dc7bccf7-a707-4055-a238-acd3360bc157,->,d2ad5136-42f8-4f8d-9eb5-417ae74c2baa,org/jboss/idm/AppTest.java,assertTrue

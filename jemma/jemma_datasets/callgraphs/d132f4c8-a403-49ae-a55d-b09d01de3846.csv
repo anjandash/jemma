@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d132f4c8-a403-49ae-a55d-b09d01de3846,d7950401-9050-4103-88dc-a6cc407780a1,0a38053e-4f48-4a47-85e7-252cf888bdf9,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,d7950401-9050-4103-88dc-a6cc407780a1,0a38053e-4f48-4a47-85e7-252cf888bdf9,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,86e76234-d254-4456-b5c6-8b6f4a3a17a0,a189c306-437a-414e-ac31-fab01fcc638b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,86e76234-d254-4456-b5c6-8b6f4a3a17a0,a189c306-437a-414e-ac31-fab01fcc638b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,462fa924-542e-478b-a200-8b41702d94db,faf6d80b-d974-44c3-adf2-3b3d36daa29b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,462fa924-542e-478b-a200-8b41702d94db,faf6d80b-d974-44c3-adf2-3b3d36daa29b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,462fa924-542e-478b-a200-8b41702d94db,faf6d80b-d974-44c3-adf2-3b3d36daa29b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,462fa924-542e-478b-a200-8b41702d94db,faf6d80b-d974-44c3-adf2-3b3d36daa29b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,462fa924-542e-478b-a200-8b41702d94db,faf6d80b-d974-44c3-adf2-3b3d36daa29b,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,384e2abf-9ac4-40db-b586-4440ec031010,2a989edb-6f20-4245-b953-87448e2239b3,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,384e2abf-9ac4-40db-b586-4440ec031010,2a989edb-6f20-4245-b953-87448e2239b3,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,384e2abf-9ac4-40db-b586-4440ec031010,2a989edb-6f20-4245-b953-87448e2239b3,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs
+d132f4c8-a403-49ae-a55d-b09d01de3846,384e2abf-9ac4-40db-b586-4440ec031010,2a989edb-6f20-4245-b953-87448e2239b3,->,d132f4c8-a403-49ae-a55d-b09d01de3846,java/lang/Math.java,abs

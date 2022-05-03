@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TicketState.java,values,->,4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TicketState.java,clone
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TicketState.java,valueOf,->,4370f405-ddca-4523-891a-9cb305c608df,java/lang/Enum.java,valueOf
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/UserRole.java,values,->,4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/UserRole.java,clone
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/UserRole.java,valueOf,->,4370f405-ddca-4523-891a-9cb305c608df,java/lang/Enum.java,valueOf
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TicketType.java,values,->,4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TicketType.java,clone
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TicketType.java,valueOf,->,4370f405-ddca-4523-891a-9cb305c608df,java/lang/Enum.java,valueOf
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TaskState.java,values,->,4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TaskState.java,clone
+4370f405-ddca-4523-891a-9cb305c608df,de/tgehring/tsheduler/bean/TaskState.java,valueOf,->,4370f405-ddca-4523-891a-9cb305c608df,java/lang/Enum.java,valueOf

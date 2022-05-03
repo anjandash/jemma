@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+67403ccf-cd30-4ed6-8232-7ef721558c65,975b2e23-5421-4dea-8c86-7d2fc658f9ba,e2fb11a7-1d5e-490f-9066-00f17d4ca1ee,->,67403ccf-cd30-4ed6-8232-7ef721558c65,0facd4bd-090e-4a1e-98b9-e28eb7ddd0df,23da54a2-3890-4a86-964a-963125fbbcd8
+67403ccf-cd30-4ed6-8232-7ef721558c65,0facd4bd-090e-4a1e-98b9-e28eb7ddd0df,23da54a2-3890-4a86-964a-963125fbbcd8,->,67403ccf-cd30-4ed6-8232-7ef721558c65,javax/xml/parsers/DocumentBuilderFactory.java,newInstance
+67403ccf-cd30-4ed6-8232-7ef721558c65,0facd4bd-090e-4a1e-98b9-e28eb7ddd0df,23da54a2-3890-4a86-964a-963125fbbcd8,->,67403ccf-cd30-4ed6-8232-7ef721558c65,javax/xml/parsers/DocumentBuilderFactory.java,newDocumentBuilder
+67403ccf-cd30-4ed6-8232-7ef721558c65,0facd4bd-090e-4a1e-98b9-e28eb7ddd0df,23da54a2-3890-4a86-964a-963125fbbcd8,->,67403ccf-cd30-4ed6-8232-7ef721558c65,org/springframework/core/io/ClassPathResource.java,getInputStream
+67403ccf-cd30-4ed6-8232-7ef721558c65,0facd4bd-090e-4a1e-98b9-e28eb7ddd0df,23da54a2-3890-4a86-964a-963125fbbcd8,->,67403ccf-cd30-4ed6-8232-7ef721558c65,javax/xml/parsers/DocumentBuilder.java,parse
+67403ccf-cd30-4ed6-8232-7ef721558c65,0facd4bd-090e-4a1e-98b9-e28eb7ddd0df,23da54a2-3890-4a86-964a-963125fbbcd8,->,67403ccf-cd30-4ed6-8232-7ef721558c65,org/w3c/dom/Document.java,getDocumentElement
+67403ccf-cd30-4ed6-8232-7ef721558c65,a58f18b2-76fa-452f-b47b-ad60b5e02f60,78dc7459-89e3-457c-b830-407616ff4afd,->,67403ccf-cd30-4ed6-8232-7ef721558c65,dcll/adial/ws_covoiturage/AppTest.java,assertTrue

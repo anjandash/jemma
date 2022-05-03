@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,8f9f0318-4a50-4c2f-87aa-ad08a4853ec8,87ccd1b6-2a38-46da-bce2-7d24db34e90e,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,java/util/Collections.java,unmodifiableCollection
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,shared/SectionType.java,values,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,shared/SectionType.java,clone
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,shared/SectionType.java,valueOf,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,java/lang/Enum.java,valueOf
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,shared/Department.java,values,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,shared/Department.java,clone
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,shared/Department.java,valueOf,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,java/lang/Enum.java,valueOf
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,ee299226-98e6-4324-8de8-7c16d132b87b,239375d9-38cd-4e48-a01f-82051d3dcea5,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,java/util/Collection.java,contains
+2d0de2b4-7054-42c2-b42b-accc7cde39dd,ee299226-98e6-4324-8de8-7c16d132b87b,239375d9-38cd-4e48-a01f-82051d3dcea5,->,2d0de2b4-7054-42c2-b42b-accc7cde39dd,java/util/Collection.java,add

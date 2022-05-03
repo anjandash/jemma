@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,hasNext
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/Scanner.java,next
+4ede6891-8f67-4da2-a55e-370bfd6182db,4d30ae9b-98e9-4c63-9b9a-8bbd46f9c667,e99ad36c-fd7a-4be8-8b86-027fafa3d0bf,->,4ede6891-8f67-4da2-a55e-370bfd6182db,java/util/ArrayList.java,add

@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a867a2d6-ece7-4644-941e-05df7ec023fb,85fe8533-dd71-4bfc-b92c-f1974363d993,e93cfdf7-86d0-4af3-8de6-4df3cfa8f8fd,->,a867a2d6-ece7-4644-941e-05df7ec023fb,bcd9b943-8e28-4c8a-9c45-d9552cc5be8c,40bb1233-c076-4ac4-ac88-f2e9771286f4
+a867a2d6-ece7-4644-941e-05df7ec023fb,7b411f41-cd53-4f2a-b63e-cf70f6b3e9b5,49691b6e-6cc3-46e8-a5ed-42c85d87baec,->,a867a2d6-ece7-4644-941e-05df7ec023fb,05abc71b-c443-44eb-8284-07c6f51c5332,a1d226c0-53cc-44e2-96ea-67fa7ad27271
+a867a2d6-ece7-4644-941e-05df7ec023fb,7b411f41-cd53-4f2a-b63e-cf70f6b3e9b5,49691b6e-6cc3-46e8-a5ed-42c85d87baec,->,a867a2d6-ece7-4644-941e-05df7ec023fb,05abc71b-c443-44eb-8284-07c6f51c5332,a1d226c0-53cc-44e2-96ea-67fa7ad27271
+a867a2d6-ece7-4644-941e-05df7ec023fb,7b411f41-cd53-4f2a-b63e-cf70f6b3e9b5,49691b6e-6cc3-46e8-a5ed-42c85d87baec,->,a867a2d6-ece7-4644-941e-05df7ec023fb,java/util/List.java,add
+a867a2d6-ece7-4644-941e-05df7ec023fb,7b411f41-cd53-4f2a-b63e-cf70f6b3e9b5,49691b6e-6cc3-46e8-a5ed-42c85d87baec,->,a867a2d6-ece7-4644-941e-05df7ec023fb,java/util/List.java,add

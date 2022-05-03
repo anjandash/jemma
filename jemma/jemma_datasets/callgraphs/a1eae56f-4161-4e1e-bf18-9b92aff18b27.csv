@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a1eae56f-4161-4e1e-bf18-9b92aff18b27,c436c8d1-8c7c-4d82-81dc-64addea00d68,9e033b4b-2f2d-4dfd-a701-cbf826cadb56,->,a1eae56f-4161-4e1e-bf18-9b92aff18b27,81dcaddc-c289-4080-b700-6291c58e6708,bd7bb99f-d25a-4122-9336-9e27f8cf3103
+a1eae56f-4161-4e1e-bf18-9b92aff18b27,ada94244-e8ed-46e4-92d3-51da52bd0531,569e65aa-8663-4228-9a41-78b978f982b5,->,a1eae56f-4161-4e1e-bf18-9b92aff18b27,org/springframework/boot/SpringApplication.java,run
+a1eae56f-4161-4e1e-bf18-9b92aff18b27,ada94244-e8ed-46e4-92d3-51da52bd0531,43a7b91a-2308-4cf6-8f93-6d13672b104e,->,a1eae56f-4161-4e1e-bf18-9b92aff18b27,java/io/PrintStream.java,println
+a1eae56f-4161-4e1e-bf18-9b92aff18b27,78f1528b-ce64-4046-8a24-5da4802ab8dd,7cd57ffc-a3a0-4bf1-97ca-2903944050e4,->,a1eae56f-4161-4e1e-bf18-9b92aff18b27,com/mongodb/Mongo.java,getDB
+a1eae56f-4161-4e1e-bf18-9b92aff18b27,78f1528b-ce64-4046-8a24-5da4802ab8dd,9b832745-3965-44f0-81e2-0680b69d0100,->,a1eae56f-4161-4e1e-bf18-9b92aff18b27,com/mongodb/DB.java,getCollection
+a1eae56f-4161-4e1e-bf18-9b92aff18b27,78f1528b-ce64-4046-8a24-5da4802ab8dd,9b832745-3965-44f0-81e2-0680b69d0100,->,a1eae56f-4161-4e1e-bf18-9b92aff18b27,com/mongodb/DBCollection.java,find

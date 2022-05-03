@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,fcebc1bd-913e-430c-818e-fdeea6c1f3e7,45f87e2f-ac3e-4e08-a4a7-ea74f7aaa201,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,org/slf4j/Logger.java,info
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,net/degiere/service/MessageServiceImpl.java,<clinit>,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,org/slf4j/LoggerFactory.java,getLogger
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,85df91a7-2882-4eeb-a7c6-5f7eb5051415,bd5a5c35-a01c-4bc1-9cd3-cd4f622cdc29,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,org/springframework/context/ApplicationContext.java,getBean
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,85df91a7-2882-4eeb-a7c6-5f7eb5051415,bd5a5c35-a01c-4bc1-9cd3-cd4f622cdc29,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,317d9ca4-df8e-4790-9c4e-13b024b67cf2,a0e9f1ca-d714-44df-8334-ebc8f8066921
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,85df91a7-2882-4eeb-a7c6-5f7eb5051415,bd5a5c35-a01c-4bc1-9cd3-cd4f622cdc29,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,junit/framework/Assert.java,assertNotNull
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,9dd9bb63-e7a8-4e2a-b207-b28f8ae97e4c,0c8f980c-4691-4052-92f7-7756203dc71e,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,317d9ca4-df8e-4790-9c4e-13b024b67cf2,a0e9f1ca-d714-44df-8334-ebc8f8066921
+b55fbd11-8b2d-4683-8680-a5aa2b1b227b,net/degiere/scheduler/ScheduledMessageProcessor.java,<clinit>,->,b55fbd11-8b2d-4683-8680-a5aa2b1b227b,org/slf4j/LoggerFactory.java,getLogger

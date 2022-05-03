@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,25277b48-8dc4-4945-bcad-0f93438e22fe,72683f2a-5559-4031-81ae-bdb3e69fe8ee,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/springframework/boot/SpringApplication.java,run
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,25277b48-8dc4-4945-bcad-0f93438e22fe,ad5b906c-8737-439d-af2b-19059eaf3bcf,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/springframework/remoting/caucho/HessianServiceExporter.java,setService
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,25277b48-8dc4-4945-bcad-0f93438e22fe,ad5b906c-8737-439d-af2b-19059eaf3bcf,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/springframework/remoting/caucho/HessianServiceExporter.java,setServiceInterface
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,c0067189-a5f9-4e4e-805b-b6eaa5e08863,26c79df7-ada0-4b6f-b25e-f230e173c4c3,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/springframework/remoting/caucho/HessianProxyFactoryBean.java,setServiceUrl
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,c0067189-a5f9-4e4e-805b-b6eaa5e08863,26c79df7-ada0-4b6f-b25e-f230e173c4c3,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/springframework/remoting/caucho/HessianProxyFactoryBean.java,setServiceInterface
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,df9c1dec-e845-41d4-bd72-7aedac3e1fdb,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,97cdb1e2-8970-46f7-80e3-f3f4bdc1a78e,931b279c-47ad-4294-be70-3c886fea10f1
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,df9c1dec-e845-41d4-bd72-7aedac3e1fdb,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/assertj/core/api/BDDAssertions.java,then
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,df9c1dec-e845-41d4-bd72-7aedac3e1fdb,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/assertj/core/api/AbstractCharSequenceAssert.java,isNotEmpty
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,df9c1dec-e845-41d4-bd72-7aedac3e1fdb,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/assertj/core/api/AbstractCharSequenceAssert.java,isEqualTo
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,4e3b50a3-32b6-487d-9389-14a82fb242a3,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,97cdb1e2-8970-46f7-80e3-f3f4bdc1a78e,3f7546d2-8fe6-4f35-aeb5-6ca1adeb4c3c
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,4e3b50a3-32b6-487d-9389-14a82fb242a3,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,d2b3a18f-bd73-413e-b5f4-47524d2b8fe3,f4966de7-9671-433c-bd4f-7300b8a320d5
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,4e3b50a3-32b6-487d-9389-14a82fb242a3,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/assertj/core/api/BDDAssertions.java,then
+49e4568e-ae74-4da1-8f1d-cacb20a41c90,9d38d9ec-3d47-4b43-8590-77a3da9e0be2,4e3b50a3-32b6-487d-9389-14a82fb242a3,->,49e4568e-ae74-4da1-8f1d-cacb20a41c90,org/assertj/core/api/AbstractCharSequenceAssert.java,isEqualTo

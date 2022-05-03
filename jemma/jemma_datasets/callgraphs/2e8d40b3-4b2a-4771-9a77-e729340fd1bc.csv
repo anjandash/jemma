@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2e8d40b3-4b2a-4771-9a77-e729340fd1bc,f0ae95c3-c828-4e63-a2bb-67506988ad86,baa29153-9b91-41f3-8ad9-8c49a108f232,->,2e8d40b3-4b2a-4771-9a77-e729340fd1bc,27569db0-41c9-416a-97bb-6a2151ae8d6a,8b187d9f-9f27-4881-b170-5144cdde1240
+2e8d40b3-4b2a-4771-9a77-e729340fd1bc,f0ae95c3-c828-4e63-a2bb-67506988ad86,baa29153-9b91-41f3-8ad9-8c49a108f232,->,2e8d40b3-4b2a-4771-9a77-e729340fd1bc,org/junit/Assert.java,assertEquals

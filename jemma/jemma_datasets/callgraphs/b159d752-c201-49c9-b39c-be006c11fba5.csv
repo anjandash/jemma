@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b159d752-c201-49c9-b39c-be006c11fba5,1f945730-d8e3-4666-a7d0-8571c7ff32c1,d5465e38-0623-4a72-b9d9-de5a70fa9aa8,->,b159d752-c201-49c9-b39c-be006c11fba5,ecda606e-6e97-4044-8a7f-e8ea62cd8b3e,aa822f2a-2b81-41be-ac8c-1500e98db19d
+b159d752-c201-49c9-b39c-be006c11fba5,1f945730-d8e3-4666-a7d0-8571c7ff32c1,d5465e38-0623-4a72-b9d9-de5a70fa9aa8,->,b159d752-c201-49c9-b39c-be006c11fba5,11c90bd6-6d11-4f95-babb-5e41b4f236bb,5705124a-b7e6-408d-b8cf-9d4d1911a2d2
+b159d752-c201-49c9-b39c-be006c11fba5,1f945730-d8e3-4666-a7d0-8571c7ff32c1,d5465e38-0623-4a72-b9d9-de5a70fa9aa8,->,b159d752-c201-49c9-b39c-be006c11fba5,java/io/PrintStream.java,println
+b159d752-c201-49c9-b39c-be006c11fba5,e5901b20-268d-464e-8003-c921bd0ff6f4,25dcfbeb-1b11-43f1-b0dc-a0e6f84dc88c,->,b159d752-c201-49c9-b39c-be006c11fba5,org/junit/Assert.java,assertTrue
+b159d752-c201-49c9-b39c-be006c11fba5,ecda606e-6e97-4044-8a7f-e8ea62cd8b3e,aa822f2a-2b81-41be-ac8c-1500e98db19d,->,b159d752-c201-49c9-b39c-be006c11fba5,javax/xml/ws/Service.java,getPort
+b159d752-c201-49c9-b39c-be006c11fba5,ecda606e-6e97-4044-8a7f-e8ea62cd8b3e,66f9c43a-a13e-40eb-931e-c9e794d011ac,->,b159d752-c201-49c9-b39c-be006c11fba5,javax/xml/ws/Service.java,getPort
+b159d752-c201-49c9-b39c-be006c11fba5,innova4b/ejemplows1/StringServiceImplService.java,<clinit>,->,b159d752-c201-49c9-b39c-be006c11fba5,java/lang/Class.java,getName
+b159d752-c201-49c9-b39c-be006c11fba5,innova4b/ejemplows1/StringServiceImplService.java,<clinit>,->,b159d752-c201-49c9-b39c-be006c11fba5,java/util/logging/Logger.java,getLogger
+b159d752-c201-49c9-b39c-be006c11fba5,innova4b/ejemplows1/StringServiceImplService.java,<clinit>,->,b159d752-c201-49c9-b39c-be006c11fba5,java/lang/Class.java,getResource
+b159d752-c201-49c9-b39c-be006c11fba5,innova4b/ejemplows1/StringServiceImplService.java,<clinit>,->,b159d752-c201-49c9-b39c-be006c11fba5,java/util/logging/Logger.java,warning
+b159d752-c201-49c9-b39c-be006c11fba5,innova4b/ejemplows1/StringServiceImplService.java,<clinit>,->,b159d752-c201-49c9-b39c-be006c11fba5,java/net/MalformedURLException.java,getMessage
+b159d752-c201-49c9-b39c-be006c11fba5,innova4b/ejemplows1/StringServiceImplService.java,<clinit>,->,b159d752-c201-49c9-b39c-be006c11fba5,java/util/logging/Logger.java,warning

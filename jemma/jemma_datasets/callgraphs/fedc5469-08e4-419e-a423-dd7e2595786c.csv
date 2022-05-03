@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fedc5469-08e4-419e-a423-dd7e2595786c,com/dat/web/BugFix.java,main,->,fedc5469-08e4-419e-a423-dd7e2595786c,java/io/PrintStream.java,println
+fedc5469-08e4-419e-a423-dd7e2595786c,com/dat/web/BugFix.java,main,->,fedc5469-08e4-419e-a423-dd7e2595786c,java/io/PrintStream.java,println
+fedc5469-08e4-419e-a423-dd7e2595786c,a33356ec-a844-407b-a3a3-22df55962a31,31e9b32a-757e-4a76-8130-1f6e1d4877fa,->,fedc5469-08e4-419e-a423-dd7e2595786c,java/io/PrintStream.java,println
+fedc5469-08e4-419e-a423-dd7e2595786c,6a7e66f3-6638-4d2e-9f98-27066ed00ea2,34a138da-4cff-444d-8c23-3b7615792fc0,->,fedc5469-08e4-419e-a423-dd7e2595786c,java/io/PrintStream.java,println
+fedc5469-08e4-419e-a423-dd7e2595786c,8778c4c0-8263-4541-a559-c6a6c97a1129,c454c5db-ab49-4116-85d4-3951f95783e7,->,fedc5469-08e4-419e-a423-dd7e2595786c,org/slf4j/Logger.java,info
+fedc5469-08e4-419e-a423-dd7e2595786c,8778c4c0-8263-4541-a559-c6a6c97a1129,c454c5db-ab49-4116-85d4-3951f95783e7,->,fedc5469-08e4-419e-a423-dd7e2595786c,java/text/DateFormat.java,getDateTimeInstance
+fedc5469-08e4-419e-a423-dd7e2595786c,8778c4c0-8263-4541-a559-c6a6c97a1129,c454c5db-ab49-4116-85d4-3951f95783e7,->,fedc5469-08e4-419e-a423-dd7e2595786c,java/text/DateFormat.java,format
+fedc5469-08e4-419e-a423-dd7e2595786c,8778c4c0-8263-4541-a559-c6a6c97a1129,c454c5db-ab49-4116-85d4-3951f95783e7,->,fedc5469-08e4-419e-a423-dd7e2595786c,org/springframework/ui/Model.java,addAttribute
+fedc5469-08e4-419e-a423-dd7e2595786c,com/dat/web/HomeController.java,<clinit>,->,fedc5469-08e4-419e-a423-dd7e2595786c,org/slf4j/LoggerFactory.java,getLogger

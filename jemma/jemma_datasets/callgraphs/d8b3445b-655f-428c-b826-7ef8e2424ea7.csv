@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d8b3445b-655f-428c-b826-7ef8e2424ea7,GitProject.java,main,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,java/io/PrintStream.java,println
+d8b3445b-655f-428c-b826-7ef8e2424ea7,GitProject.java,main,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,java/io/PrintStream.java,println
+d8b3445b-655f-428c-b826-7ef8e2424ea7,GitProject.java,main,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,java/io/PrintStream.java,println
+d8b3445b-655f-428c-b826-7ef8e2424ea7,73306bf4-2bbc-4f49-9e9e-4eea3ee73b07,ea832284-0d3a-4d09-b928-f0682a6dafcc,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,b4ac70b2-9e86-49c8-acce-88a0a60d8faf,820a946d-c67f-42c5-8fc3-b3baa7691cf9
+d8b3445b-655f-428c-b826-7ef8e2424ea7,73306bf4-2bbc-4f49-9e9e-4eea3ee73b07,ea832284-0d3a-4d09-b928-f0682a6dafcc,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,b4ac70b2-9e86-49c8-acce-88a0a60d8faf,352c52a3-f429-4333-af21-2b141de84398
+d8b3445b-655f-428c-b826-7ef8e2424ea7,73306bf4-2bbc-4f49-9e9e-4eea3ee73b07,87be322f-8d8b-4c7b-8336-bf11987f3eb7,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,b4ac70b2-9e86-49c8-acce-88a0a60d8faf,b2bf11f5-14d6-4191-858d-8163bfcd5166
+d8b3445b-655f-428c-b826-7ef8e2424ea7,73306bf4-2bbc-4f49-9e9e-4eea3ee73b07,87be322f-8d8b-4c7b-8336-bf11987f3eb7,->,d8b3445b-655f-428c-b826-7ef8e2424ea7,org/junit/Assert.java,assertEquals

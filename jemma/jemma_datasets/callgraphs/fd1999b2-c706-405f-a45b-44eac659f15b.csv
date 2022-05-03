@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fd1999b2-c706-405f-a45b-44eac659f15b,model/Type.java,values,->,fd1999b2-c706-405f-a45b-44eac659f15b,model/Type.java,clone
+fd1999b2-c706-405f-a45b-44eac659f15b,model/Type.java,valueOf,->,fd1999b2-c706-405f-a45b-44eac659f15b,java/lang/Enum.java,valueOf

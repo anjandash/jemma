@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+157e1bdb-c604-4875-bc5f-6038c7625776,1ff062ba-fa93-4919-a08c-a85769467169,a1b5d863-f22f-4c36-afb1-45a01129f192,->,157e1bdb-c604-4875-bc5f-6038c7625776,org/springframework/beans/factory/BeanFactory.java,getBean
+157e1bdb-c604-4875-bc5f-6038c7625776,1ff062ba-fa93-4919-a08c-a85769467169,a1b5d863-f22f-4c36-afb1-45a01129f192,->,157e1bdb-c604-4875-bc5f-6038c7625776,a028ef05-79ed-4bbe-aa0f-a46c31a34543,09a8b5f8-f0d4-4a22-806c-1117454f0dde
+157e1bdb-c604-4875-bc5f-6038c7625776,1ff062ba-fa93-4919-a08c-a85769467169,a1b5d863-f22f-4c36-afb1-45a01129f192,->,157e1bdb-c604-4875-bc5f-6038c7625776,java/io/PrintStream.java,println

@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1fa103e2-fca9-4307-9d8b-5ad921ade877,ua/ks/alexchuprin/jdiskuse/gui/MainForm$1.java,run,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,ua/ks/alexchuprin/jdiskuse/gui/MainForm.java,setVisible
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,3e1ad8d4-22b3-4a84-9f26-eed878eac059,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/tree/DefaultMutableTreeNode.java,setAllowsChildren
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/tree/DefaultMutableTreeNode.java,add
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/JTree.java,expandRow
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/JTree.java,putClientProperty
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/JTree.java,getSelectionModel
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/tree/TreeSelectionModel.java,setSelectionMode
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,91a4ee25-8ad1-45de-a9d2-508885c6335b,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/JTree.java,setRootVisible
+1fa103e2-fca9-4307-9d8b-5ad921ade877,6f09a44c-ea3e-467a-92a0-3fad742498ad,b34d0969-1f80-422a-b35b-ad22a98296d0,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,javax/swing/tree/DefaultMutableTreeNode.java,getLevel
+1fa103e2-fca9-4307-9d8b-5ad921ade877,cd13bdb4-e7c8-4c96-8885-71bf2065ed5b,11642e98-1436-42db-a4ff-fa10839e0813,->,1fa103e2-fca9-4307-9d8b-5ad921ade877,java/lang/Object.java,toString

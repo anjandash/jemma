@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+90c332cc-e347-4160-b525-05d359c1169e,999a3949-33dd-4cdc-a5ec-a5c83f413300,7273767f-0999-48c8-b07f-e8b19647a752,->,90c332cc-e347-4160-b525-05d359c1169e,java/lang/Class.java,getName
+90c332cc-e347-4160-b525-05d359c1169e,999a3949-33dd-4cdc-a5ec-a5c83f413300,7273767f-0999-48c8-b07f-e8b19647a752,->,90c332cc-e347-4160-b525-05d359c1169e,org/osgi/framework/BundleContext.java,getServiceReference
+90c332cc-e347-4160-b525-05d359c1169e,999a3949-33dd-4cdc-a5ec-a5c83f413300,7273767f-0999-48c8-b07f-e8b19647a752,->,90c332cc-e347-4160-b525-05d359c1169e,org/osgi/framework/BundleContext.java,getService
+90c332cc-e347-4160-b525-05d359c1169e,999a3949-33dd-4cdc-a5ec-a5c83f413300,40d958cd-fc66-4bda-a0c7-ad002602944f,->,90c332cc-e347-4160-b525-05d359c1169e,23eb4760-bbe7-4b92-abf5-511c21805943,1fdfc7f7-eea9-447c-82b7-6e668b168c15
+90c332cc-e347-4160-b525-05d359c1169e,com/axxes/tim/osgi/consumer/HelloWorldConsumer$ServiceTimerTask.java,run,->,90c332cc-e347-4160-b525-05d359c1169e,ac8b8ddf-161f-4fca-8afa-d1c4c87de771,f8d23365-4556-4208-a513-1773e72fd869
+90c332cc-e347-4160-b525-05d359c1169e,23eb4760-bbe7-4b92-abf5-511c21805943,1fdfc7f7-eea9-447c-82b7-6e668b168c15,->,90c332cc-e347-4160-b525-05d359c1169e,java/util/Timer.java,cancel
+90c332cc-e347-4160-b525-05d359c1169e,cddbedd6-b45d-4d8b-8e69-c07cc0ed83fe,a919ad92-420e-47ce-bdbe-9c8d5ed6a65b,->,90c332cc-e347-4160-b525-05d359c1169e,java/io/PrintStream.java,println
+90c332cc-e347-4160-b525-05d359c1169e,cddbedd6-b45d-4d8b-8e69-c07cc0ed83fe,a919ad92-420e-47ce-bdbe-9c8d5ed6a65b,->,90c332cc-e347-4160-b525-05d359c1169e,java/lang/Class.java,getName
+90c332cc-e347-4160-b525-05d359c1169e,cddbedd6-b45d-4d8b-8e69-c07cc0ed83fe,a919ad92-420e-47ce-bdbe-9c8d5ed6a65b,->,90c332cc-e347-4160-b525-05d359c1169e,org/osgi/framework/BundleContext.java,registerService
+90c332cc-e347-4160-b525-05d359c1169e,cddbedd6-b45d-4d8b-8e69-c07cc0ed83fe,70194e89-1147-40de-84a8-bbeb927ff0bf,->,90c332cc-e347-4160-b525-05d359c1169e,java/io/PrintStream.java,println
+90c332cc-e347-4160-b525-05d359c1169e,cddbedd6-b45d-4d8b-8e69-c07cc0ed83fe,70194e89-1147-40de-84a8-bbeb927ff0bf,->,90c332cc-e347-4160-b525-05d359c1169e,org/osgi/framework/ServiceRegistration.java,unregister
+90c332cc-e347-4160-b525-05d359c1169e,6f03bb49-9d8f-4f6b-be10-da054ce4e3dc,e3c5f27c-99c7-4ada-867f-1548056a2e02,->,90c332cc-e347-4160-b525-05d359c1169e,java/io/PrintStream.java,println

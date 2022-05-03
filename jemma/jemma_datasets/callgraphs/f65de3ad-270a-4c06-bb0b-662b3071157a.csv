@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,92fccb9b-56fa-4994-92bc-5bba19acf5de,->,f65de3ad-270a-4c06-bb0b-662b3071157a,org/mockito/Mockito.java,reset
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,92fccb9b-56fa-4994-92bc-5bba19acf5de,->,f65de3ad-270a-4c06-bb0b-662b3071157a,16f2715b-6eaf-4358-8c48-c46d5b0e74bb,4168a5ec-aff4-40d6-9915-7516891c2111
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,16f2715b-6eaf-4358-8c48-c46d5b0e74bb,d4427402-6977-4fe1-a0f9-2ed6ef56ecd7
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,org/mockito/ArgumentCaptor.java,forClass
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,org/mockito/Mockito.java,verify
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,org/mockito/ArgumentCaptor.java,capture
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,157e5b3f-bad7-4a44-a1b1-f1616ab026e2,8f7eab6c-9892-4c9b-add3-af3a8052bab4
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,org/mockito/ArgumentCaptor.java,getValue
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,8db358a9-d132-4554-aef6-05f640e39c70,4697f763-6bb6-45b2-b757-047a770cfb78
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,junit/framework/Assert.java,assertEquals
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,org/mockito/ArgumentCaptor.java,getValue
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,8db358a9-d132-4554-aef6-05f640e39c70,d26af57f-00b5-4888-8022-c2aa98c09c0a
+f65de3ad-270a-4c06-bb0b-662b3071157a,3237a65b-6b2a-449b-b7bf-489d1f38e6c7,de5716e2-4ec9-4eaf-9676-af96acc6518a,->,f65de3ad-270a-4c06-bb0b-662b3071157a,junit/framework/Assert.java,assertEquals
+f65de3ad-270a-4c06-bb0b-662b3071157a,16f2715b-6eaf-4358-8c48-c46d5b0e74bb,d4427402-6977-4fe1-a0f9-2ed6ef56ecd7,->,f65de3ad-270a-4c06-bb0b-662b3071157a,157e5b3f-bad7-4a44-a1b1-f1616ab026e2,8f7eab6c-9892-4c9b-add3-af3a8052bab4

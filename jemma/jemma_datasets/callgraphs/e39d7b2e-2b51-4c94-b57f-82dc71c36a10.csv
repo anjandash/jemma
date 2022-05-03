@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e39d7b2e-2b51-4c94-b57f-82dc71c36a10,3a94384c-3f73-455e-a27e-f73ff83f410c,0554e7ae-fc59-4d77-9f1a-86fcb50e2160,->,e39d7b2e-2b51-4c94-b57f-82dc71c36a10,java/lang/Exception.java,getMessage
+e39d7b2e-2b51-4c94-b57f-82dc71c36a10,3a94384c-3f73-455e-a27e-f73ff83f410c,42225e0a-ae60-4005-9853-9f67e7de96c2,->,e39d7b2e-2b51-4c94-b57f-82dc71c36a10,java/lang/Exception.java,getStackTrace
+e39d7b2e-2b51-4c94-b57f-82dc71c36a10,3a94384c-3f73-455e-a27e-f73ff83f410c,dbb21144-eb49-4013-bef3-476f6d65b3e6,->,e39d7b2e-2b51-4c94-b57f-82dc71c36a10,java/lang/Exception.java,printStackTrace
+e39d7b2e-2b51-4c94-b57f-82dc71c36a10,3a94384c-3f73-455e-a27e-f73ff83f410c,e51ef70e-7a72-46a0-84ae-1559fa2ca6ac,->,e39d7b2e-2b51-4c94-b57f-82dc71c36a10,java/lang/Exception.java,printStackTrace

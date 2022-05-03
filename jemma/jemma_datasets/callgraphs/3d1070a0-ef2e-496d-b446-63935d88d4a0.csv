@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3d1070a0-ef2e-496d-b446-63935d88d4a0,com/test/packex/packone/PackageDemo.java,main,->,3d1070a0-ef2e-496d-b446-63935d88d4a0,java/io/PrintStream.java,println
+3d1070a0-ef2e-496d-b446-63935d88d4a0,com/test/packex/packone/PackageDemo.java,main,->,3d1070a0-ef2e-496d-b446-63935d88d4a0,java/io/PrintStream.java,println
+3d1070a0-ef2e-496d-b446-63935d88d4a0,com/test/packex/packone/PackageDemo.java,main,->,3d1070a0-ef2e-496d-b446-63935d88d4a0,java/io/PrintStream.java,println
+3d1070a0-ef2e-496d-b446-63935d88d4a0,com/test/packex/packone/PackageDemo.java,main,->,3d1070a0-ef2e-496d-b446-63935d88d4a0,java/io/PrintStream.java,println
+3d1070a0-ef2e-496d-b446-63935d88d4a0,a463b9c7-bc41-4c94-ae51-d32be8718287,ccba973c-bc5f-42c6-bba1-9c408d01ee01,->,3d1070a0-ef2e-496d-b446-63935d88d4a0,com/test/packex/AppTest.java,assertTrue
+3d1070a0-ef2e-496d-b446-63935d88d4a0,1b19f66e-317c-4c4e-9857-b56d20c69e0e,9df216f5-5ed3-4b89-becb-620d717ee419,->,3d1070a0-ef2e-496d-b446-63935d88d4a0,java/io/PrintStream.java,println

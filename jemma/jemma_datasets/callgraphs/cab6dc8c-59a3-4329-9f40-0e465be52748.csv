@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cab6dc8c-59a3-4329-9f40-0e465be52748,c0fdcfb8-c888-41de-8b81-34cce5c5a9ac,f840cb24-a25f-40f7-872f-919ec4ddbc33,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/util/Map.java,keySet
+cab6dc8c-59a3-4329-9f40-0e465be52748,c0fdcfb8-c888-41de-8b81-34cce5c5a9ac,55641ad0-f6c5-4d2b-a72d-c5eb4f1c76fb,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/util/Map.java,containsKey
+cab6dc8c-59a3-4329-9f40-0e465be52748,c0fdcfb8-c888-41de-8b81-34cce5c5a9ac,55641ad0-f6c5-4d2b-a72d-c5eb4f1c76fb,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/util/Map.java,get
+cab6dc8c-59a3-4329-9f40-0e465be52748,ef421598-90d0-4db3-804c-6ab6e7379c85,e7e89554-0eda-4c54-ab81-8a7e5ea93620,->,cab6dc8c-59a3-4329-9f40-0e465be52748,c0fdcfb8-c888-41de-8b81-34cce5c5a9ac,55641ad0-f6c5-4d2b-a72d-c5eb4f1c76fb
+cab6dc8c-59a3-4329-9f40-0e465be52748,ef421598-90d0-4db3-804c-6ab6e7379c85,e7e89554-0eda-4c54-ab81-8a7e5ea93620,->,cab6dc8c-59a3-4329-9f40-0e465be52748,c0fdcfb8-c888-41de-8b81-34cce5c5a9ac,7d60f003-7adc-4b0c-a06d-23fd00062f60
+cab6dc8c-59a3-4329-9f40-0e465be52748,ef421598-90d0-4db3-804c-6ab6e7379c85,e7e89554-0eda-4c54-ab81-8a7e5ea93620,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/lang/StringBuilder.java,append
+cab6dc8c-59a3-4329-9f40-0e465be52748,ef421598-90d0-4db3-804c-6ab6e7379c85,e7e89554-0eda-4c54-ab81-8a7e5ea93620,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/lang/StringBuilder.java,append
+cab6dc8c-59a3-4329-9f40-0e465be52748,ef421598-90d0-4db3-804c-6ab6e7379c85,e7e89554-0eda-4c54-ab81-8a7e5ea93620,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/lang/StringBuilder.java,toString
+cab6dc8c-59a3-4329-9f40-0e465be52748,ef421598-90d0-4db3-804c-6ab6e7379c85,e7e89554-0eda-4c54-ab81-8a7e5ea93620,->,cab6dc8c-59a3-4329-9f40-0e465be52748,java/io/PrintStream.java,print

@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,java/lang/StringBuilder.java,append
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,java/lang/StringBuilder.java,append
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,java/lang/StringBuilder.java,append
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,java/lang/StringBuilder.java,append
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,java/lang/StringBuilder.java,append
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,java/lang/StringBuilder.java,toString
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,14d223c7-e17c-4c3d-93fb-501b2e472b69,71aecea8-c419-4468-aa69-c01f52d17a2e,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,cfc24763-1b9f-45ca-9b55-288b8ca9ae11,72241769-a43b-4bdd-acfa-92325db17a7c
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,14d223c7-e17c-4c3d-93fb-501b2e472b69,71aecea8-c419-4468-aa69-c01f52d17a2e,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,org/testng/Assert.java,assertEquals
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,de04a366-c9d9-468c-b466-67bef1ed0fb4,8de42651-a4c4-4297-beb9-e4130d782079,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,fabaf819-730b-4137-9c49-9161845df42d,ff3c4325-22e9-4c91-9e26-96dcd4086218
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,de04a366-c9d9-468c-b466-67bef1ed0fb4,8de42651-a4c4-4297-beb9-e4130d782079,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,org/testng/Assert.java,assertEquals
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,a5db665f-8a3f-4fc0-ac9e-1d4b247fddba,4f094eed-a6f5-4137-8caf-b3192b674415,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,3d684f89-52e6-4da5-b6e3-0face169586c,47010cf3-ed4b-48ba-ad06-296874bcea34
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,a5db665f-8a3f-4fc0-ac9e-1d4b247fddba,4f094eed-a6f5-4137-8caf-b3192b674415,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,org/testng/Assert.java,assertEquals
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,68284de2-ac9e-4c9b-99ca-c9c1be027c25,da585bac-5ea0-4215-a072-40aa47148e94,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,d6d3943b-b700-4c54-a138-b2424885b625,60d02b0d-1c5c-4b91-8fd4-e2b96c000496
+5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,68284de2-ac9e-4c9b-99ca-c9c1be027c25,da585bac-5ea0-4215-a072-40aa47148e94,->,5f51ea5d-d1c1-4482-9c21-e1dc05f8b050,org/testng/Assert.java,assertEquals

@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/FormationClass.java,numLiberties,->,095e9504-be22-4dba-8c5e-87030aeb06a2,java/util/Vector.java,size
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/FormationClass.java,numLiberties,->,095e9504-be22-4dba-8c5e-87030aeb06a2,java/util/Vector.java,get
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/FormationClass.java,numLiberties,->,095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/StoneClass.java,numLiberties
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/BoardClass.java,updateBoard,->,095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/PointClass.java,getOccupant
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/BoardClass.java,updateBoard,->,095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/PointClass.java,addOccupant
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/ColorEnum.java,values,->,095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/ColorEnum.java,clone
+095e9504-be22-4dba-8c5e-87030aeb06a2,eecs285/proj4/ColorEnum.java,valueOf,->,095e9504-be22-4dba-8c5e-87030aeb06a2,java/lang/Enum.java,valueOf

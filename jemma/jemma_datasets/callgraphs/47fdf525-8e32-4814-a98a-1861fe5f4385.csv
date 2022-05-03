@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/Client.java,getContext
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/Context.java,getParameters
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/util/Series.java,add
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/util/Series.java,add
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/util/Series.java,add
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,93ab0b50-2178-4c73-9180-4a25d69b0d2c,f9565040-821b-4096-9b59-a997b7fa721f
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,93ab0b50-2178-4c73-9180-4a25d69b0d2c,89fb84c3-8fdc-4ba3-96e8-ebc46ba0faa8
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,ed71307e-f4c9-497b-b3b2-8444051b529f,2447d247-9d3f-491b-8c49-00b0cd30acba
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/ext/jaxb/JaxbRepresentation.java,setFormattedOutput
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/resource/ClientResource.java,setNext
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/resource/ClientResource.java,post
+47fdf525-8e32-4814-a98a-1861fe5f4385,2259ac85-0520-45df-8b58-45968eec3e9b,cb2378bb-daa2-4fee-ab8f-da96f9b53c67,->,47fdf525-8e32-4814-a98a-1861fe5f4385,org/restlet/representation/Representation.java,write

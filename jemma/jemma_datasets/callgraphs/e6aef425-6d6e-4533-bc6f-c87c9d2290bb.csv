@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/lang/String.java,charAt
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,296f3a8b-7785-4d4a-9502-846aea79aa5e,b734391c-e5e8-4242-ae8c-2c521d840453
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/lang/StringBuilder.java,append
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/lang/StringBuilder.java,append
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/lang/StringBuilder.java,append
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/lang/StringBuilder.java,toString
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/io/PrintStream.java,println
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,296f3a8b-7785-4d4a-9502-846aea79aa5e,b734391c-e5e8-4242-ae8c-2c521d840453,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,java/util/List.java,get
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,157367df-cd59-4a29-8a23-8b42e8d2453b,b5fecaf3-ccf6-4c7f-a995-3463b66d27bb,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,org/springframework/context/ApplicationContext.java,getBean
+e6aef425-6d6e-4533-bc6f-c87c9d2290bb,157367df-cd59-4a29-8a23-8b42e8d2453b,b5fecaf3-ccf6-4c7f-a995-3463b66d27bb,->,e6aef425-6d6e-4533-bc6f-c87c9d2290bb,179b9b1e-e899-4aeb-a0c5-d29555335354,94ee53ed-a1e0-4dd5-aced-c10893e6f5e3

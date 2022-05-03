@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+42fb66c1-a4c6-4706-b0e3-bf219a6d835a,9f205f16-f4da-4b4d-9fce-791049c528bc,0ce7e81d-5135-474f-9089-bf540bd3db5c,->,42fb66c1-a4c6-4706-b0e3-bf219a6d835a,javax/xml/ws/Service.java,getPort
+42fb66c1-a4c6-4706-b0e3-bf219a6d835a,9f205f16-f4da-4b4d-9fce-791049c528bc,9ec2ddae-8828-45de-b8de-89f000f2fec2,->,42fb66c1-a4c6-4706-b0e3-bf219a6d835a,javax/xml/ws/Service.java,getPort
+42fb66c1-a4c6-4706-b0e3-bf219a6d835a,ru/spb/iac/ldapname/NewLdapService.java,<clinit>,->,42fb66c1-a4c6-4706-b0e3-bf219a6d835a,java/lang/Class.java,getName
+42fb66c1-a4c6-4706-b0e3-bf219a6d835a,ru/spb/iac/ldapname/NewLdapService.java,<clinit>,->,42fb66c1-a4c6-4706-b0e3-bf219a6d835a,java/util/logging/Logger.java,getLogger
+42fb66c1-a4c6-4706-b0e3-bf219a6d835a,ru/spb/iac/ldapname/NewLdapService.java,<clinit>,->,42fb66c1-a4c6-4706-b0e3-bf219a6d835a,java/util/logging/Logger.java,log

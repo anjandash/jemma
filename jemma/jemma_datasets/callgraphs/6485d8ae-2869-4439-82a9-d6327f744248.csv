@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6485d8ae-2869-4439-82a9-d6327f744248,bd2158d1-f203-4de5-bb04-3ed214c69684,63aa3533-97cf-4c28-9aa3-23cc29a1f25d,->,6485d8ae-2869-4439-82a9-d6327f744248,fc4fbd30-49b0-43be-b356-1c22c41ee902,064a61f8-cc7b-4b40-b0b8-f6c798c39efc
+6485d8ae-2869-4439-82a9-d6327f744248,fc4fbd30-49b0-43be-b356-1c22c41ee902,713cf108-534c-45ae-9bb7-d5471ecd1e3a,->,6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/menu/MenuService$Service.java,access$100
+6485d8ae-2869-4439-82a9-d6327f744248,fc4fbd30-49b0-43be-b356-1c22c41ee902,064a61f8-cc7b-4b40-b0b8-f6c798c39efc,->,6485d8ae-2869-4439-82a9-d6327f744248,java/util/List.java,add
+6485d8ae-2869-4439-82a9-d6327f744248,fc4fbd30-49b0-43be-b356-1c22c41ee902,064a61f8-cc7b-4b40-b0b8-f6c798c39efc,->,6485d8ae-2869-4439-82a9-d6327f744248,java/util/List.java,add
+6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/menu/MenuService$Service.java,values,->,6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/menu/MenuService$Service.java,clone
+6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/menu/MenuService$Service.java,valueOf,->,6485d8ae-2869-4439-82a9-d6327f744248,java/lang/Enum.java,valueOf
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,a6ff4a98-a0de-4f55-ad6e-79dd58dc103b,->,6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/PizzaStoreTest.java,enable
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,a6ff4a98-a0de-4f55-ad6e-79dd58dc103b,->,6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/PizzaStoreTest.java,enable
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,0e3ebcce-cb59-48ea-8a7a-ac989a97d8bc,->,6485d8ae-2869-4439-82a9-d6327f744248,com/jishnu/pizzastore/PizzaStoreTest.java,target
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,0e3ebcce-cb59-48ea-8a7a-ac989a97d8bc,->,6485d8ae-2869-4439-82a9-d6327f744248,javax/ws/rs/client/WebTarget.java,path
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,0e3ebcce-cb59-48ea-8a7a-ac989a97d8bc,->,6485d8ae-2869-4439-82a9-d6327f744248,javax/ws/rs/client/WebTarget.java,request
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,0e3ebcce-cb59-48ea-8a7a-ac989a97d8bc,->,6485d8ae-2869-4439-82a9-d6327f744248,javax/ws/rs/client/Invocation$Builder.java,get
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,0e3ebcce-cb59-48ea-8a7a-ac989a97d8bc,->,6485d8ae-2869-4439-82a9-d6327f744248,java/lang/String.java,contains
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,0e3ebcce-cb59-48ea-8a7a-ac989a97d8bc,->,6485d8ae-2869-4439-82a9-d6327f744248,org/junit/Assert.java,assertTrue
+6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,a6ff4a98-a0de-4f55-ad6e-79dd58dc103b,->,6485d8ae-2869-4439-82a9-d6327f744248,6eb69775-1eaf-4147-8e6b-da0791025015,a6ff4a98-a0de-4f55-ad6e-79dd58dc103b

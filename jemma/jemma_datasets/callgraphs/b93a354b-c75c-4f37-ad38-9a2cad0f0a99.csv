@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,7807c9f6-a882-49f2-b6ff-41298cf7e003,6baa60fe-8a7b-44ed-a353-99b2a381a94b,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,java/io/PrintStream.java,print
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,7807c9f6-a882-49f2-b6ff-41298cf7e003,6baa60fe-8a7b-44ed-a353-99b2a381a94b,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,a0aa82df-6e8c-435c-a910-3678135b34e4,083a3d90-4702-493e-9fcc-176b8566d520
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,7807c9f6-a882-49f2-b6ff-41298cf7e003,6baa60fe-8a7b-44ed-a353-99b2a381a94b,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,org/junit/Assert.java,assertEquals
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,7807c9f6-a882-49f2-b6ff-41298cf7e003,6baa60fe-8a7b-44ed-a353-99b2a381a94b,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,e4c61b2a-5482-4564-a6ae-043531c8f500,033c7d62-8cc1-4e16-883d-3417f0e85e06
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,7807c9f6-a882-49f2-b6ff-41298cf7e003,6baa60fe-8a7b-44ed-a353-99b2a381a94b,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,java/util/List.java,size
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,7807c9f6-a882-49f2-b6ff-41298cf7e003,6baa60fe-8a7b-44ed-a353-99b2a381a94b,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,org/junit/Assert.java,assertEquals
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,1ec236a7-0963-4221-8a88-d29b5cb79494,81d49eba-7eb9-4d31-af34-578704cec8b9,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,a0aa82df-6e8c-435c-a910-3678135b34e4,192b0c68-7bc7-4806-9733-a89f72821f1d
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,be98522d-ba0e-4c87-bc68-48afe1e1366a,efe2d600-03b8-4740-9aed-ce9b5f7a698c,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,e4c61b2a-5482-4564-a6ae-043531c8f500,033c7d62-8cc1-4e16-883d-3417f0e85e06
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,be98522d-ba0e-4c87-bc68-48afe1e1366a,efe2d600-03b8-4740-9aed-ce9b5f7a698c,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,java/util/List.java,iterator
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,be98522d-ba0e-4c87-bc68-48afe1e1366a,efe2d600-03b8-4740-9aed-ce9b5f7a698c,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,java/util/Iterator.java,hasNext
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,be98522d-ba0e-4c87-bc68-48afe1e1366a,efe2d600-03b8-4740-9aed-ce9b5f7a698c,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,java/util/Iterator.java,next
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,be98522d-ba0e-4c87-bc68-48afe1e1366a,efe2d600-03b8-4740-9aed-ce9b5f7a698c,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,6e6c1d68-9f74-4f9f-b8ac-edc2e626127a,6b4cf986-9034-4b0e-a93e-7cc6594450f2
+b93a354b-c75c-4f37-ad38-9a2cad0f0a99,be98522d-ba0e-4c87-bc68-48afe1e1366a,efe2d600-03b8-4740-9aed-ce9b5f7a698c,->,b93a354b-c75c-4f37-ad38-9a2cad0f0a99,java/io/PrintStream.java,println

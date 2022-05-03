@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,6998f143-ee58-4c58-8978-445f6609a5bc,80b1dd9e-ac23-4556-a356-dc2f113d5167,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,javax/xml/ws/Service.java,create
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,6998f143-ee58-4c58-8978-445f6609a5bc,80b1dd9e-ac23-4556-a356-dc2f113d5167,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,javax/xml/ws/Service.java,getPort
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,6998f143-ee58-4c58-8978-445f6609a5bc,80b1dd9e-ac23-4556-a356-dc2f113d5167,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,39874fee-f290-4293-99ed-0110d8278b31,b6a0e445-eb36-4e62-bb62-03f857706b86
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,6998f143-ee58-4c58-8978-445f6609a5bc,80b1dd9e-ac23-4556-a356-dc2f113d5167,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,java/io/PrintStream.java,println
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,8d3b14ba-9db1-422d-9193-c81ceda5e925,08832c30-0636-4815-8b94-e21ec32e9e83,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,javax/xml/ws/Endpoint.java,publish
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,ee21ce09-2409-4b71-a4d8-90aaf0ad56a2,b9fc47d6-f271-41dd-9596-1140c165bd22,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,gr/theofilis/javawebserviceproject/AppTest.java,assertTrue
+21e79380-cd7e-4c67-b6a4-c7b99db9def3,f46bf7d1-1d20-4123-80c2-bb91f93f92fe,89369580-f87d-4fbe-b7df-1d24c7cb75c3,->,21e79380-cd7e-4c67-b6a4-c7b99db9def3,java/util/Date.java,toString

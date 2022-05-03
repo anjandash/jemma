@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,76ce987e-8e8a-4482-8f40-8b004e78cc3b,e48e7fb6-cac4-4580-b5ec-bf499c7bde0f,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,4f114711-1eb2-4a9c-a7a6-638f55361679,f688fd16-359e-484d-acc5-8feb98001418
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,eb4db818-4657-4ede-9c62-b17414204ca3,2ef865c7-7e58-4afb-bd45-1e52a829c354,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,org/activiti/engine/TaskService.java,createTaskQuery
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,eb4db818-4657-4ede-9c62-b17414204ca3,2ef865c7-7e58-4afb-bd45-1e52a829c354,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,b110e72f-3e07-4aed-8bde-b8de2b21d3d5,5154708f-23bb-4e93-bc05-506de5e89121
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,eb4db818-4657-4ede-9c62-b17414204ca3,2ef865c7-7e58-4afb-bd45-1e52a829c354,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,org/activiti/engine/task/TaskQuery.java,taskAssignee
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,eb4db818-4657-4ede-9c62-b17414204ca3,2ef865c7-7e58-4afb-bd45-1e52a829c354,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,org/activiti/engine/task/TaskQuery.java,list
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,4f114711-1eb2-4a9c-a7a6-638f55361679,f688fd16-359e-484d-acc5-8feb98001418,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,java/util/List.java,add
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,4f114711-1eb2-4a9c-a7a6-638f55361679,f688fd16-359e-484d-acc5-8feb98001418,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,java/util/List.java,size
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,4f114711-1eb2-4a9c-a7a6-638f55361679,f688fd16-359e-484d-acc5-8feb98001418,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,java/util/List.java,get
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,4f114711-1eb2-4a9c-a7a6-638f55361679,f688fd16-359e-484d-acc5-8feb98001418,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,java/util/List.java,remove
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,3fb815e4-b31b-405b-a43a-17e74f28ef8b,e62d2d73-c033-4889-ba69-aa4dabd07434,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,org/activiti/engine/RepositoryService.java,createProcessDefinitionQuery
+b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,3fb815e4-b31b-405b-a43a-17e74f28ef8b,e62d2d73-c033-4889-ba69-aa4dabd07434,->,b5e75fa6-d355-4e21-93b0-307b4c4fa3b6,org/activiti/engine/repository/ProcessDefinitionQuery.java,list

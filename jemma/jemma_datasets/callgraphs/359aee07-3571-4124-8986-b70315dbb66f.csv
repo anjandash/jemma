@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+359aee07-3571-4124-8986-b70315dbb66f,1ad01d39-03ed-4771-ac0a-f59df651c9cf,2e3fab68-60b9-4434-962a-21dfccffd8c5,->,359aee07-3571-4124-8986-b70315dbb66f,1ce67725-8558-46a3-a1ed-3fde0cd4e7ef,8b439c4b-85e0-41dc-af9a-a60c3230c55a
+359aee07-3571-4124-8986-b70315dbb66f,1ad01d39-03ed-4771-ac0a-f59df651c9cf,74d81b6f-d5eb-4ac0-9d9c-9c58807bdb39,->,359aee07-3571-4124-8986-b70315dbb66f,1ce67725-8558-46a3-a1ed-3fde0cd4e7ef,e01f5178-9e57-4b5d-a850-e969ac286952
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,75f0ae16-695a-4930-9462-0833e7557e3e,->,359aee07-3571-4124-8986-b70315dbb66f,org/springframework/boot/SpringApplication.java,run
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,java/io/PrintStream.java,println
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,1ad01d39-03ed-4771-ac0a-f59df651c9cf,2e3fab68-60b9-4434-962a-21dfccffd8c5
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,java/io/PrintStream.java,println
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,1ad01d39-03ed-4771-ac0a-f59df651c9cf,74d81b6f-d5eb-4ac0-9d9c-9c58807bdb39
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,java/lang/StringBuilder.java,append
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,dd754e70-7052-4b97-9a31-08b2635774d4,8d846696-e09a-4cc5-b6ad-a10bded02eb0
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,java/lang/StringBuilder.java,append
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,java/lang/StringBuilder.java,toString
+359aee07-3571-4124-8986-b70315dbb66f,c8c5c8af-7093-4a4a-8f1d-bfe7cbb8da9e,265a2b49-f25b-4573-9bc0-b742b3a2e568,->,359aee07-3571-4124-8986-b70315dbb66f,java/io/PrintStream.java,println
+359aee07-3571-4124-8986-b70315dbb66f,3c7c097d-36dc-4f13-a868-a5477a2dec65,bae38795-f0b3-483a-97fc-9c43db629513,->,359aee07-3571-4124-8986-b70315dbb66f,org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseBuilder.java,setType
+359aee07-3571-4124-8986-b70315dbb66f,3c7c097d-36dc-4f13-a868-a5477a2dec65,bae38795-f0b3-483a-97fc-9c43db629513,->,359aee07-3571-4124-8986-b70315dbb66f,org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseBuilder.java,build
+359aee07-3571-4124-8986-b70315dbb66f,3c7c097d-36dc-4f13-a868-a5477a2dec65,697fd9f0-d619-409b-b3a6-2ee17d1e9c57,->,359aee07-3571-4124-8986-b70315dbb66f,org/mybatis/spring/SqlSessionFactoryBean.java,setDataSource
+359aee07-3571-4124-8986-b70315dbb66f,3c7c097d-36dc-4f13-a868-a5477a2dec65,697fd9f0-d619-409b-b3a6-2ee17d1e9c57,->,359aee07-3571-4124-8986-b70315dbb66f,org/mybatis/spring/SqlSessionFactoryBean.java,getObject

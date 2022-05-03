@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,112c6c58-5b9e-4728-8428-269b442b211a,fc20b2d7-a1a3-4309-9c4e-f18a1078b04a,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,org/springframework/context/ApplicationEventPublisher.java,publishEvent
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,d4b435cb-08fb-414c-b734-3b7e8aab2266,abd61c71-9c1d-4b92-a180-9a21ac37c92c,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,112c6c58-5b9e-4728-8428-269b442b211a,fc20b2d7-a1a3-4309-9c4e-f18a1078b04a
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,d4b435cb-08fb-414c-b734-3b7e8aab2266,abd61c71-9c1d-4b92-a180-9a21ac37c92c,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,org/apache/camel/component/mock/MockEndpoint.java,expectedMessageCount
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,d4b435cb-08fb-414c-b734-3b7e8aab2266,abd61c71-9c1d-4b92-a180-9a21ac37c92c,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,org/apache/camel/component/mock/MockEndpoint.java,assertIsSatisfied
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,7330d47d-3652-489f-8412-d633814831fb,891cddbd-7fc7-4e79-9e67-b377dc5aa1c7,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,7330d47d-3652-489f-8412-d633814831fb,891cddbd-7fc7-4e79-9e67-b377dc5aa1c7
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,b6fbd821-b83a-4ea9-a01f-98dccd9a5dfc,818ba6ed-1828-47f6-a3f7-852d8ec1294e,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,7330d47d-3652-489f-8412-d633814831fb,1dd37862-1da9-4ae2-8b25-9b1662fde15c
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,b6fbd821-b83a-4ea9-a01f-98dccd9a5dfc,818ba6ed-1828-47f6-a3f7-852d8ec1294e,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,112c6c58-5b9e-4728-8428-269b442b211a,fc20b2d7-a1a3-4309-9c4e-f18a1078b04a
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,b6fbd821-b83a-4ea9-a01f-98dccd9a5dfc,818ba6ed-1828-47f6-a3f7-852d8ec1294e,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,7330d47d-3652-489f-8412-d633814831fb,beff5855-fb2f-4c62-82b6-726390217cd1
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,b6fbd821-b83a-4ea9-a01f-98dccd9a5dfc,818ba6ed-1828-47f6-a3f7-852d8ec1294e,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,org/fest/assertions/Assertions.java,assertThat
+ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,b6fbd821-b83a-4ea9-a01f-98dccd9a5dfc,818ba6ed-1828-47f6-a3f7-852d8ec1294e,->,ca1c1bbe-a6e0-4d68-b5d9-5eabcfc64ef7,org/fest/assertions/ObjectAssert.java,isNotNull

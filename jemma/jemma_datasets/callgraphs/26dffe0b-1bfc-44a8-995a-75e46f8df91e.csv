@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,7bb170d9-82f1-4303-b0bd-5f2e45d7f2c9,639be4a9-f55d-44f2-acbb-5923de090069,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,7bb170d9-82f1-4303-b0bd-5f2e45d7f2c9,9272ffda-3dbe-4a1c-a7a7-91db929044f2
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,1ba5acb9-dfb6-43c2-a26c-5512d616dc12,6e5fec3d-e39d-4836-b674-9d40cea2918b,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,483b7cd4-7467-45cc-b69f-2bfe91e97338,7f73440a-c7a0-48c8-8e51-ac299d84a482
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,1ba5acb9-dfb6-43c2-a26c-5512d616dc12,6e5fec3d-e39d-4836-b674-9d40cea2918b,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,java/io/PrintStream.java,println
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,483b7cd4-7467-45cc-b69f-2bfe91e97338,7f73440a-c7a0-48c8-8e51-ac299d84a482,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,fr/youtix/inheritance/A.java,getSomething
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,45034893-5fe3-43c7-a578-ce52a7cad4f4,a8bdc443-5826-47e0-bae7-865b2731e894,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,45034893-5fe3-43c7-a578-ce52a7cad4f4,720db3ee-f8d4-4f51-bb3b-039cb808e1ed
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,072646d2-15ca-45d5-8ddc-80eb19188df4,2f350a72-c144-4594-a521-3ec498bc2c60,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,9f25943a-5df3-4a62-9455-64ff10e8d8e8,95bafc80-07b5-4c47-9e39-8ee9bfd60059
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,072646d2-15ca-45d5-8ddc-80eb19188df4,2f350a72-c144-4594-a521-3ec498bc2c60,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,java/io/PrintStream.java,println
+26dffe0b-1bfc-44a8-995a-75e46f8df91e,9f25943a-5df3-4a62-9455-64ff10e8d8e8,95bafc80-07b5-4c47-9e39-8ee9bfd60059,->,26dffe0b-1bfc-44a8-995a-75e46f8df91e,45034893-5fe3-43c7-a578-ce52a7cad4f4,a8bdc443-5826-47e0-bae7-865b2731e894

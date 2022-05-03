@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8384e117-3e40-4cbc-a508-c7956e794ae8,f8ae6479-d900-4bf7-9b1c-be21a4ff6623,5bcb4e70-700f-47f6-998d-01c5b57da1e9,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/io/PrintStream.java,println
+8384e117-3e40-4cbc-a508-c7956e794ae8,153fcc68-fc55-472c-a633-202e27cff2a7,64f7373b-ec5e-4587-91de-3ac50196dacc,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/io/BufferedReader.java,readLine
+8384e117-3e40-4cbc-a508-c7956e794ae8,170107ff-6df6-4a66-8186-5724ceeb682d,2e3934e3-0bba-4374-9479-1ca4f3de612f,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/io/File.java,getName
+8384e117-3e40-4cbc-a508-c7956e794ae8,170107ff-6df6-4a66-8186-5724ceeb682d,2e3934e3-0bba-4374-9479-1ca4f3de612f,->,8384e117-3e40-4cbc-a508-c7956e794ae8,org/apache/commons/io/FilenameUtils.java,getExtension
+8384e117-3e40-4cbc-a508-c7956e794ae8,170107ff-6df6-4a66-8186-5724ceeb682d,2e3934e3-0bba-4374-9479-1ca4f3de612f,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/lang/String.java,equals
+8384e117-3e40-4cbc-a508-c7956e794ae8,170107ff-6df6-4a66-8186-5724ceeb682d,2e3934e3-0bba-4374-9479-1ca4f3de612f,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/lang/String.java,equals
+8384e117-3e40-4cbc-a508-c7956e794ae8,7a1f1f6b-41c4-4757-917d-292caa1efe62,478d5a6a-c59b-48c9-ad04-f3f45494a773,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/io/File.java,isDirectory
+8384e117-3e40-4cbc-a508-c7956e794ae8,7a1f1f6b-41c4-4757-917d-292caa1efe62,478d5a6a-c59b-48c9-ad04-f3f45494a773,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/io/File.java,listFiles
+8384e117-3e40-4cbc-a508-c7956e794ae8,7a1f1f6b-41c4-4757-917d-292caa1efe62,478d5a6a-c59b-48c9-ad04-f3f45494a773,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/io/File.java,isFile
+8384e117-3e40-4cbc-a508-c7956e794ae8,7a1f1f6b-41c4-4757-917d-292caa1efe62,478d5a6a-c59b-48c9-ad04-f3f45494a773,->,8384e117-3e40-4cbc-a508-c7956e794ae8,java/util/List.java,add
+8384e117-3e40-4cbc-a508-c7956e794ae8,e488fa41-11b9-480a-afc0-024de7daeff1,3fa73a6b-64b3-4a6e-b02b-0a2525e62427,->,8384e117-3e40-4cbc-a508-c7956e794ae8,170107ff-6df6-4a66-8186-5724ceeb682d,2e3934e3-0bba-4374-9479-1ca4f3de612f

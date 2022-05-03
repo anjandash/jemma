@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0bec541b-0eca-41fa-bc16-e106bae186ca,javax/annotation/Resource$AuthenticationType.java,values,->,0bec541b-0eca-41fa-bc16-e106bae186ca,javax/annotation/Resource$AuthenticationType.java,clone
+0bec541b-0eca-41fa-bc16-e106bae186ca,javax/annotation/Resource$AuthenticationType.java,valueOf,->,0bec541b-0eca-41fa-bc16-e106bae186ca,java/lang/Enum.java,valueOf

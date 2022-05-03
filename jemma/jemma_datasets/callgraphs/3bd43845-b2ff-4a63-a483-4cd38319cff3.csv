@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3bd43845-b2ff-4a63-a483-4cd38319cff3,ac6ab1cf-1cd5-4643-9c42-958f64050f24,b4c3e13a-e0d8-4839-81f6-80bba5222672,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,java/lang/StringBuilder.java,append
+3bd43845-b2ff-4a63-a483-4cd38319cff3,ac6ab1cf-1cd5-4643-9c42-958f64050f24,b4c3e13a-e0d8-4839-81f6-80bba5222672,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,java/lang/StringBuilder.java,append
+3bd43845-b2ff-4a63-a483-4cd38319cff3,ac6ab1cf-1cd5-4643-9c42-958f64050f24,b4c3e13a-e0d8-4839-81f6-80bba5222672,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,java/lang/StringBuilder.java,toString
+3bd43845-b2ff-4a63-a483-4cd38319cff3,dcccc132-1061-42d7-a2bb-f92752e116bb,f9d182ee-198b-4ecd-8558-904a55853aae,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,java/util/ArrayList.java,add
+3bd43845-b2ff-4a63-a483-4cd38319cff3,dcccc132-1061-42d7-a2bb-f92752e116bb,f9d182ee-198b-4ecd-8558-904a55853aae,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,java/util/ArrayList.java,add
+3bd43845-b2ff-4a63-a483-4cd38319cff3,dcccc132-1061-42d7-a2bb-f92752e116bb,f9d182ee-198b-4ecd-8558-904a55853aae,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,java/util/ArrayList.java,add
+3bd43845-b2ff-4a63-a483-4cd38319cff3,231ceeb4-aaf1-413c-8b69-054a622b82b1,740d1101-9bc1-4849-9b2e-ad9452eb0d4a,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,javax/servlet/http/HttpServletRequest.java,setAttribute
+3bd43845-b2ff-4a63-a483-4cd38319cff3,231ceeb4-aaf1-413c-8b69-054a622b82b1,740d1101-9bc1-4849-9b2e-ad9452eb0d4a,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,javax/servlet/http/HttpServletRequest.java,getRequestDispatcher
+3bd43845-b2ff-4a63-a483-4cd38319cff3,231ceeb4-aaf1-413c-8b69-054a622b82b1,740d1101-9bc1-4849-9b2e-ad9452eb0d4a,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,javax/servlet/RequestDispatcher.java,forward
+3bd43845-b2ff-4a63-a483-4cd38319cff3,b1be27af-5cbe-43a3-993c-fb042b405234,66a38cf1-587f-44d8-81d9-369e4ff9866b,->,3bd43845-b2ff-4a63-a483-4cd38319cff3,dcccc132-1061-42d7-a2bb-f92752e116bb,f9d182ee-198b-4ecd-8558-904a55853aae

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,11dc3dc8-a1fd-469d-84cf-db19181de0bb,->,200c459e-ac48-4a89-ad04-e48926de2eeb,com/cinglevue/dao/ResultsDaoImpl.java,getHibernateTemplate
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,11dc3dc8-a1fd-469d-84cf-db19181de0bb,->,200c459e-ac48-4a89-ad04-e48926de2eeb,org/springframework/orm/hibernate3/HibernateTemplate.java,find
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,11dc3dc8-a1fd-469d-84cf-db19181de0bb,->,200c459e-ac48-4a89-ad04-e48926de2eeb,java/lang/String.java,format
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,11dc3dc8-a1fd-469d-84cf-db19181de0bb,->,200c459e-ac48-4a89-ad04-e48926de2eeb,com/cinglevue/dao/ResultsDaoImpl.java,getHibernateTemplate
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,11dc3dc8-a1fd-469d-84cf-db19181de0bb,->,200c459e-ac48-4a89-ad04-e48926de2eeb,org/springframework/orm/hibernate3/HibernateTemplate.java,find
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,c06c5e38-4451-498a-9a36-49fb0440ead6,->,200c459e-ac48-4a89-ad04-e48926de2eeb,com/cinglevue/dao/ResultsDaoImpl.java,getHibernateTemplate
+200c459e-ac48-4a89-ad04-e48926de2eeb,31d248fc-6a49-45ae-93d5-099dc7615da4,c06c5e38-4451-498a-9a36-49fb0440ead6,->,200c459e-ac48-4a89-ad04-e48926de2eeb,org/springframework/orm/hibernate3/HibernateTemplate.java,find
+200c459e-ac48-4a89-ad04-e48926de2eeb,8914e346-fceb-49a5-af94-63129506e49e,15a8a647-25cc-476e-8513-feec86eb099d,->,200c459e-ac48-4a89-ad04-e48926de2eeb,java/lang/String.java,equals
+200c459e-ac48-4a89-ad04-e48926de2eeb,8914e346-fceb-49a5-af94-63129506e49e,15a8a647-25cc-476e-8513-feec86eb099d,->,200c459e-ac48-4a89-ad04-e48926de2eeb,d3c0a203-76d5-4888-b5d9-fdca2e479911,6fe2e38a-f641-4335-8ee3-833776cf6283
+200c459e-ac48-4a89-ad04-e48926de2eeb,8914e346-fceb-49a5-af94-63129506e49e,6cc4f9e5-5813-42d9-a5e0-8a98e5406bf3,->,200c459e-ac48-4a89-ad04-e48926de2eeb,d3c0a203-76d5-4888-b5d9-fdca2e479911,b4c7f5f8-7c20-4d2d-ac15-1a6abe23cfa4
+200c459e-ac48-4a89-ad04-e48926de2eeb,520999f5-a41f-467f-b84a-0cf469c0f4ec,ad659a15-d7b0-4187-8e64-cd15a90da3f2,->,200c459e-ac48-4a89-ad04-e48926de2eeb,3a1981d4-c16c-4edd-95db-fe1e7272212b,a3ccc1c6-d5cb-498d-9b41-6447ac46d166
+200c459e-ac48-4a89-ad04-e48926de2eeb,520999f5-a41f-467f-b84a-0cf469c0f4ec,ad659a15-d7b0-4187-8e64-cd15a90da3f2,->,200c459e-ac48-4a89-ad04-e48926de2eeb,3a1981d4-c16c-4edd-95db-fe1e7272212b,ac0fd065-68aa-4c8e-8a04-6270b26164d5

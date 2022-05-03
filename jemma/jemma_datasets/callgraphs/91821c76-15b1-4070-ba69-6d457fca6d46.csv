@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+91821c76-15b1-4070-ba69-6d457fca6d46,348d4455-0420-4019-8c95-c996e75d0107,f7b86065-a609-4007-a215-e728fed20ab7,->,91821c76-15b1-4070-ba69-6d457fca6d46,javax/xml/ws/Service.java,getPort
+91821c76-15b1-4070-ba69-6d457fca6d46,348d4455-0420-4019-8c95-c996e75d0107,e6b042ab-ddd0-4375-8492-01654f25618e,->,91821c76-15b1-4070-ba69-6d457fca6d46,javax/xml/ws/Service.java,getPort
+91821c76-15b1-4070-ba69-6d457fca6d46,05ca1753-fe02-4aad-a926-9c80a1d2152b,102af757-dfa8-44b7-bc8a-2509b2196282,->,91821c76-15b1-4070-ba69-6d457fca6d46,javax/xml/ws/Service.java,getPort
+91821c76-15b1-4070-ba69-6d457fca6d46,05ca1753-fe02-4aad-a926-9c80a1d2152b,93ec539c-067f-478b-b0af-2db47b868472,->,91821c76-15b1-4070-ba69-6d457fca6d46,javax/xml/ws/Service.java,getPort

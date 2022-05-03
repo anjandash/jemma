@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,com/google/appengine/api/users/UserServiceFactory.java,getUserService
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,com/google/appengine/api/users/UserService.java,getCurrentUser
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,javax/servlet/http/HttpServletResponse.java,setContentType
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,javax/servlet/http/HttpServletResponse.java,getWriter
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,java/lang/StringBuilder.java,append
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,com/google/appengine/api/users/User.java,getNickname
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,java/lang/StringBuilder.java,append
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,java/lang/StringBuilder.java,toString
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,java/io/PrintWriter.java,println
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,javax/servlet/http/HttpServletRequest.java,getRequestURI
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,com/google/appengine/api/users/UserService.java,createLoginURL
+4e5856c0-8f91-4120-89cf-877210898ce3,a57462b6-403b-4a1d-8b54-23a57dc06961,06143105-74df-4e6b-a58c-1a6798ae1924,->,4e5856c0-8f91-4120-89cf-877210898ce3,javax/servlet/http/HttpServletResponse.java,sendRedirect

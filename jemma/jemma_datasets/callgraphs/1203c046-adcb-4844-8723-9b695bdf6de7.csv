@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,43bf7fb4-98c5-44be-8ea2-6f63b9b9a70b,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/Object.java,getClass
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,43bf7fb4-98c5-44be-8ea2-6f63b9b9a70b,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/Object.java,getClass
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,43bf7fb4-98c5-44be-8ea2-6f63b9b9a70b,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/String.java,equals
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,d870a494-44fb-4627-b66d-6838b3afcb29,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/String.java,hashCode
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,b9e56ade-cf07-41d8-9d47-8807aca3046a,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/StringBuilder.java,append
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,b9e56ade-cf07-41d8-9d47-8807aca3046a,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/StringBuilder.java,append
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,b9e56ade-cf07-41d8-9d47-8807aca3046a,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/StringBuilder.java,append
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,b9e56ade-cf07-41d8-9d47-8807aca3046a,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/StringBuilder.java,append
+1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,b9e56ade-cf07-41d8-9d47-8807aca3046a,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/lang/StringBuilder.java,toString
+1203c046-adcb-4844-8723-9b695bdf6de7,a376bac9-4965-4164-a136-bc682ab06a44,6364e370-3a8f-405d-9671-1996d0ae84ad,->,1203c046-adcb-4844-8723-9b695bdf6de7,d02a0a1c-4cc7-4042-a1f9-e7251d40af2e,57a03304-ffa0-49b8-bff9-4eb2df513a9c
+1203c046-adcb-4844-8723-9b695bdf6de7,100641b8-969f-4d3e-b735-9113f233d39e,2c1a7e86-b7ea-437e-a1c9-4dcf3925b493,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/util/UUID.java,randomUUID
+1203c046-adcb-4844-8723-9b695bdf6de7,100641b8-969f-4d3e-b735-9113f233d39e,2c1a7e86-b7ea-437e-a1c9-4dcf3925b493,->,1203c046-adcb-4844-8723-9b695bdf6de7,java/util/UUID.java,toString
+1203c046-adcb-4844-8723-9b695bdf6de7,100641b8-969f-4d3e-b735-9113f233d39e,2c1a7e86-b7ea-437e-a1c9-4dcf3925b493,->,1203c046-adcb-4844-8723-9b695bdf6de7,00464644-a921-4d0f-9cb2-35bc6fb0a1a1,dfa3b529-e92e-4a16-b7d7-2d497629adf9
+1203c046-adcb-4844-8723-9b695bdf6de7,100641b8-969f-4d3e-b735-9113f233d39e,2c1a7e86-b7ea-437e-a1c9-4dcf3925b493,->,1203c046-adcb-4844-8723-9b695bdf6de7,org/junit/Assert.java,assertEquals

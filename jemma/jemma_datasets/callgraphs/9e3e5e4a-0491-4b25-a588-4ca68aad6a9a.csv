@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main.java,access$000
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,javax/swing/JFormattedTextField.java,getValue
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main.java,access$000
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,javax/swing/JFormattedTextField.java,getValue
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,java/lang/Long.java,longValue
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main.java,access$100
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,javax/swing/JComboBox.java,getSelectedItem
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main.java,access$200
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main.java,access$200
+9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,main/Main$1.java,actionPerformed,->,9e3e5e4a-0491-4b25-a588-4ca68aad6a9a,ea6a539b-88cd-41f3-b4ad-a98af16e009a,54063f38-175c-4aaf-982e-ba1b8559eaa5

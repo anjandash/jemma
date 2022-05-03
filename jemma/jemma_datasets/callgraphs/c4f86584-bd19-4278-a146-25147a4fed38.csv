@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c4f86584-bd19-4278-a146-25147a4fed38,1a3bae59-36ad-4497-9203-cf2d07e79748,32ef40cd-7d57-4663-b02b-0e4c9b78357a,->,c4f86584-bd19-4278-a146-25147a4fed38,1a3bae59-36ad-4497-9203-cf2d07e79748,4adcc76c-d70e-409d-af84-de70bbdaa4c5
+c4f86584-bd19-4278-a146-25147a4fed38,1a3bae59-36ad-4497-9203-cf2d07e79748,32ef40cd-7d57-4663-b02b-0e4c9b78357a,->,c4f86584-bd19-4278-a146-25147a4fed38,cb0ae24b-1ad1-4695-88c9-3afbc9a31524,0e52eb24-ae7e-4f42-b9b7-b5899c3133b8
+c4f86584-bd19-4278-a146-25147a4fed38,084c5751-8fcb-4151-9674-795081640d9f,a427699f-a20a-405a-adbb-dc28234cbfba,->,c4f86584-bd19-4278-a146-25147a4fed38,java/sql/DriverManager.java,getConnection

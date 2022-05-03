@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,23383c6e-213b-4bfe-961d-dd700767bbca,8a167c99-1345-4151-a721-5239d1f8b52b,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,java/io/PrintStream.java,println
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,registerDefaultProvider,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,registerProvider
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,registerProvider,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,java/util/Map.java,put
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,java/util/Map.java,get
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,java/lang/StringBuilder.java,append
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,java/lang/StringBuilder.java,append
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,java/lang/StringBuilder.java,toString
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Provider.java,newService
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,main,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,registerDefaultProvider
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,main,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,newInstance
+6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Services.java,main,->,6048b070-2366-4ae5-9b19-a8b7cb7f8cf4,com/effectivejava/note1/Service.java,doService

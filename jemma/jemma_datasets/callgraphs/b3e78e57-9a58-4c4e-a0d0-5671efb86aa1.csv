@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,579b7576-66f8-4c6d-8b2d-dd3beb62788e,b48465f3-0a04-4a39-8c6a-bcaba25f4145,->,b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,by/manhattan/trinity/services/AppTest.java,assertTrue
+b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,3b84d0a0-e6f2-437f-a4b4-16a0382d7ed8,156444d7-7843-4328-b089-9f871394e8f9,->,b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,java/io/PrintStream.java,println
+b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,cd9cc8cc-f857-4c5e-ada1-60b6808354dd,77e19b9b-54c3-4991-8284-6724e1462dab,->,b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,by/manhattan/trinity/ejb/AppTest.java,assertTrue
+b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,9e2918bc-c904-4043-90d5-7b3d32e2e08a,e70efab8-4d52-4526-859b-7569c6dcc8d3,->,b3e78e57-9a58-4c4e-a0d0-5671efb86aa1,java/io/PrintStream.java,println

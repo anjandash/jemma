@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ea6b52f2-b9c9-415f-90be-36512831ea57,b1c06e16-fd94-4d67-827a-fe7bb0116ee5,a29074be-a399-4e13-9674-fd2879f38d86,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/lang/Object.java,getClass
+ea6b52f2-b9c9-415f-90be-36512831ea57,b1c06e16-fd94-4d67-827a-fe7bb0116ee5,a29074be-a399-4e13-9674-fd2879f38d86,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/lang/Object.java,getClass
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/cfg/Configuration.java,configure
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/cfg/Configuration.java,getProperties
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/service/ServiceRegistryBuilder.java,applySettings
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/service/ServiceRegistryBuilder.java,buildServiceRegistry
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/cfg/Configuration.java,buildSessionFactory
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/lang/StringBuilder.java,append
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/lang/StringBuilder.java,append
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/lang/StringBuilder.java,toString
+ea6b52f2-b9c9-415f-90be-36512831ea57,com/neevtech/jaxb/util/HibernateUtil.java,<clinit>,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/io/PrintStream.java,println
+ea6b52f2-b9c9-415f-90be-36512831ea57,2215e132-f032-47f8-93e8-147583020039,d7f0de40-1e93-4543-9f37-5d7f96053cd1,->,ea6b52f2-b9c9-415f-90be-36512831ea57,java/io/PrintStream.java,println
+ea6b52f2-b9c9-415f-90be-36512831ea57,2215e132-f032-47f8-93e8-147583020039,d7f0de40-1e93-4543-9f37-5d7f96053cd1,->,ea6b52f2-b9c9-415f-90be-36512831ea57,a5911b72-95bc-4812-94a1-451431ca2e1f,ec194746-711b-4418-ae14-a4d9399f7f96
+ea6b52f2-b9c9-415f-90be-36512831ea57,2215e132-f032-47f8-93e8-147583020039,d7f0de40-1e93-4543-9f37-5d7f96053cd1,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/SessionFactory.java,openSession
+ea6b52f2-b9c9-415f-90be-36512831ea57,2215e132-f032-47f8-93e8-147583020039,d7f0de40-1e93-4543-9f37-5d7f96053cd1,->,ea6b52f2-b9c9-415f-90be-36512831ea57,org/hibernate/Session.java,close

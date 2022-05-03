@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,1ec0eac2-0377-463f-b834-653bb6fbec9c,->,b30d81ec-2b84-4788-88a3-1185a387ef93,3951d432-c163-4f58-86e1-7084d5d6c33b,14bfcaef-79e9-4137-9887-2a3b0be6050b
+b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,1ec0eac2-0377-463f-b834-653bb6fbec9c,->,b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,1ec0eac2-0377-463f-b834-653bb6fbec9c
+b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,1ec0eac2-0377-463f-b834-653bb6fbec9c,->,b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,1ec0eac2-0377-463f-b834-653bb6fbec9c
+b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,02bf8dce-1b5f-4c1b-9578-614b834e87d5,->,b30d81ec-2b84-4788-88a3-1185a387ef93,43bb9536-cc74-4d83-81ec-91dfe74b6461,02bf8dce-1b5f-4c1b-9578-614b834e87d5
+b30d81ec-2b84-4788-88a3-1185a387ef93,com/mng/gwt/ebus/client/MyEntryPoint$2.java,onClick,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/event/shared/SimpleEventBus.java,fireEvent
+b30d81ec-2b84-4788-88a3-1185a387ef93,bdaf07fa-fa55-4f12-a77b-0347b27369b3,9120f760-4097-4e93-ad7e-31e0c3379a49,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/user/client/ui/RootPanel.java,get
+b30d81ec-2b84-4788-88a3-1185a387ef93,bdaf07fa-fa55-4f12-a77b-0347b27369b3,9120f760-4097-4e93-ad7e-31e0c3379a49,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/user/client/ui/RootPanel.java,add
+b30d81ec-2b84-4788-88a3-1185a387ef93,bdaf07fa-fa55-4f12-a77b-0347b27369b3,9120f760-4097-4e93-ad7e-31e0c3379a49,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/user/client/ui/RootPanel.java,get
+b30d81ec-2b84-4788-88a3-1185a387ef93,bdaf07fa-fa55-4f12-a77b-0347b27369b3,9120f760-4097-4e93-ad7e-31e0c3379a49,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/user/client/ui/RootPanel.java,add
+b30d81ec-2b84-4788-88a3-1185a387ef93,bdaf07fa-fa55-4f12-a77b-0347b27369b3,9120f760-4097-4e93-ad7e-31e0c3379a49,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/event/shared/SimpleEventBus.java,addHandler
+b30d81ec-2b84-4788-88a3-1185a387ef93,bdaf07fa-fa55-4f12-a77b-0347b27369b3,9120f760-4097-4e93-ad7e-31e0c3379a49,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/user/client/ui/Button.java,addClickHandler
+b30d81ec-2b84-4788-88a3-1185a387ef93,com/mng/gwt/ebus/client/MyEntryPoint$1.java,onImOut,->,b30d81ec-2b84-4788-88a3-1185a387ef93,aa58e591-bfa2-4512-8d9e-b057bb9d62e7,68c52517-b8a7-477b-aa65-89e72dea818a
+b30d81ec-2b84-4788-88a3-1185a387ef93,com/mng/gwt/ebus/client/MyEntryPoint$1.java,onImOut,->,b30d81ec-2b84-4788-88a3-1185a387ef93,com/google/gwt/user/client/ui/Label.java,setText

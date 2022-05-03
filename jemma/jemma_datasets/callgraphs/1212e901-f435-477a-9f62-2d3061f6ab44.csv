@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,8e39dae0-9d2e-429d-8eeb-3b087d0dbad0,->,1212e901-f435-477a-9f62-2d3061f6ab44,javax/persistence/EntityManager.java,find
+1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,0f16437e-2b6b-4a3b-bda8-6b32cfc7d296,->,1212e901-f435-477a-9f62-2d3061f6ab44,javax/persistence/EntityManager.java,persist
+1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,eaf328b8-9fc5-4b35-852f-d60baadd8e13,->,1212e901-f435-477a-9f62-2d3061f6ab44,javax/persistence/EntityManager.java,merge
+1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,21aef689-abe3-490c-b4ba-dac951dcdbbe,->,1212e901-f435-477a-9f62-2d3061f6ab44,javax/persistence/EntityManager.java,remove
+1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,03e3063d-7836-409f-ad90-f6a67b1e2698,->,1212e901-f435-477a-9f62-2d3061f6ab44,javax/persistence/EntityManager.java,createQuery
+1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,03e3063d-7836-409f-ad90-f6a67b1e2698,->,1212e901-f435-477a-9f62-2d3061f6ab44,javax/persistence/Query.java,getResultList
+1212e901-f435-477a-9f62-2d3061f6ab44,58afb0ae-fce2-47fa-a49f-d19df5d7ca78,3f5e381a-2e66-4cc1-a9c4-3b616188d97f,->,1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,03e3063d-7836-409f-ad90-f6a67b1e2698
+1212e901-f435-477a-9f62-2d3061f6ab44,58afb0ae-fce2-47fa-a49f-d19df5d7ca78,3f5e381a-2e66-4cc1-a9c4-3b616188d97f,->,1212e901-f435-477a-9f62-2d3061f6ab44,org/springframework/ui/Model.java,addAttribute
+1212e901-f435-477a-9f62-2d3061f6ab44,58afb0ae-fce2-47fa-a49f-d19df5d7ca78,a0602c15-3176-4ca4-a375-9d1931a8313a,->,1212e901-f435-477a-9f62-2d3061f6ab44,15ce5c06-6483-4ae9-99c2-23b1afadb6c4,0f16437e-2b6b-4a3b-bda8-6b32cfc7d296

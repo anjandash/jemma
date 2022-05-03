@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+05beaf3e-f18c-46be-b9c8-9bbad7ae6684,1834ac4c-00f6-418e-83a2-b3262652f28e,66ee1498-4a86-4208-a38c-9791aa36cce1,->,05beaf3e-f18c-46be-b9c8-9bbad7ae6684,org/slf4j/Logger.java,info
+05beaf3e-f18c-46be-b9c8-9bbad7ae6684,br/com/jgalvao/quickstart/springmvc/service/Test1ServiceImpl.java,<clinit>,->,05beaf3e-f18c-46be-b9c8-9bbad7ae6684,org/slf4j/LoggerFactory.java,getLogger
+05beaf3e-f18c-46be-b9c8-9bbad7ae6684,e8aa1cc2-3eb9-4f61-97e2-36ce6590efc6,e7b4ab62-b8d2-477b-9332-84e9750b08f1,->,05beaf3e-f18c-46be-b9c8-9bbad7ae6684,br/com/jgalvao/quickstart/springmvc/repository/PersonRepository.java,save
+05beaf3e-f18c-46be-b9c8-9bbad7ae6684,4d33c6b7-718f-4907-9350-c5851a5ddbc6,d1e55ba0-25a9-49f3-af00-7dab5a9ac4c0,->,05beaf3e-f18c-46be-b9c8-9bbad7ae6684,9cf8f9da-2ef6-4108-acb6-ac108b8555d6,775468f9-0b9c-4ed8-aebb-7437b18337a9
+05beaf3e-f18c-46be-b9c8-9bbad7ae6684,4d33c6b7-718f-4907-9350-c5851a5ddbc6,0d061dcc-6987-486a-96f2-cf1485b5684b,->,05beaf3e-f18c-46be-b9c8-9bbad7ae6684,c6ea8ae9-bca1-4e46-9a69-aee65021168e,1a89c616-a0d8-4324-9fb2-5e026728ad89

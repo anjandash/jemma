@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/FolderVisibility.java,values,->,72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/FolderVisibility.java,clone
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/FolderVisibility.java,valueOf,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Enum.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/RoomServicePoweredFeatures.java,values,->,72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/RoomServicePoweredFeatures.java,clone
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/RoomServicePoweredFeatures.java,valueOf,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Enum.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveReturnCode.java,values,->,72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveReturnCode.java,clone
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveReturnCode.java,valueOf,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Enum.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveParameterKey.java,values,->,72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveParameterKey.java,clone
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveParameterKey.java,valueOf,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Enum.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveOperation.java,values,->,72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveOperation.java,clone
+72b9de69-f370-4f70-ae1e-9091f284862d,hk/samwong/roomservice/forgdrive/commons/enums/GDriveOperation.java,valueOf,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Enum.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,f0940518-92cc-4232-acc4-587258627dfe,12869439-d2c0-4f8f-927c-3369afb43180,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/String.java,format
+72b9de69-f370-4f70-ae1e-9091f284862d,a9a8ebb7-848f-46e7-ac8f-e06dbf2809dc,4f5d3bd8-c565-4c32-9350-b26a7ece6096,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Boolean.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,a9a8ebb7-848f-46e7-ac8f-e06dbf2809dc,4f5d3bd8-c565-4c32-9350-b26a7ece6096,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Integer.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,a9a8ebb7-848f-46e7-ac8f-e06dbf2809dc,4f5d3bd8-c565-4c32-9350-b26a7ece6096,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/Boolean.java,valueOf
+72b9de69-f370-4f70-ae1e-9091f284862d,a9a8ebb7-848f-46e7-ac8f-e06dbf2809dc,4f5d3bd8-c565-4c32-9350-b26a7ece6096,->,72b9de69-f370-4f70-ae1e-9091f284862d,java/lang/String.java,format

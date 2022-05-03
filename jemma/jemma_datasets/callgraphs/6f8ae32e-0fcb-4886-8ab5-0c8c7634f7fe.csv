@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6f8ae32e-0fcb-4886-8ab5-0c8c7634f7fe,a47bce0d-ad75-40a4-a2d5-7df1a30dd89b,62d20cc1-6cd7-4ca0-9641-36e3da23d28c,->,6f8ae32e-0fcb-4886-8ab5-0c8c7634f7fe,org/springframework/boot/SpringApplication.java,run
+6f8ae32e-0fcb-4886-8ab5-0c8c7634f7fe,13e4c29c-2bdc-40f8-b14f-f1fd4f4d921b,c9e530c0-bc83-4bec-a7d9-c3e7d818f617,->,6f8ae32e-0fcb-4886-8ab5-0c8c7634f7fe,org/springframework/boot/SpringApplication.java,run
+6f8ae32e-0fcb-4886-8ab5-0c8c7634f7fe,5d91533d-77f1-4a24-a8df-bd2a5fa6c955,d5bdb832-5732-43b0-9669-7a72399a1b47,->,6f8ae32e-0fcb-4886-8ab5-0c8c7634f7fe,org/springframework/boot/SpringApplication.java,run

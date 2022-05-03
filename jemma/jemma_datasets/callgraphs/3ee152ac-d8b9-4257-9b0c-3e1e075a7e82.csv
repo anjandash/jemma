@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,786b953f-4e1f-474b-a610-554b10323cd0,47b535c4-d2f2-420b-aeb2-5e2a6dd472e1,->,3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,java/lang/Object.java,getClass
+3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,786b953f-4e1f-474b-a610-554b10323cd0,47b535c4-d2f2-420b-aeb2-5e2a6dd472e1,->,3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,java/lang/Object.java,getClass
+3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,397ced58-a66b-4eea-8147-ac19f916e32a,09cde4de-b6c0-4b7f-b87f-539ddc0a1af9,->,3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,java/lang/Object.java,getClass
+3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,397ced58-a66b-4eea-8147-ac19f916e32a,09cde4de-b6c0-4b7f-b87f-539ddc0a1af9,->,3ee152ac-d8b9-4257-9b0c-3e1e075a7e82,java/lang/Object.java,getClass

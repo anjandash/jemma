@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UsersFactory$1.java,<clinit>,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,values
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UsersFactory$1.java,<clinit>,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,ordinal
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UsersFactory$1.java,<clinit>,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,ordinal
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UsersFactory$1.java,<clinit>,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,ordinal
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,36eb30e2-d3f0-4132-8c2b-7bbf47ddeb82,5a317d0a-b5fb-4bd6-a0ea-e8edd30886cd,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,ordinal
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,values,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,clone
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/login/UserType.java,valueOf,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,java/lang/Enum.java,valueOf
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/auctionsystem/AuctionState.java,values,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/auctionsystem/AuctionState.java,clone
+dac559a9-e978-4bc4-b376-d56e4f9deeb1,fr/esiea/poo/auctionsystem/AuctionState.java,valueOf,->,dac559a9-e978-4bc4-b376-d56e4f9deeb1,java/lang/Enum.java,valueOf

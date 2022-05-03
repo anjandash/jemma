@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,equals,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,id
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,equals,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,id
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,weightOf,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,equals
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,update,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,out
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,update,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,weightOf
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,update,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,bias
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,update,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,sigma
+3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,sigma,->,3ea32d11-b44d-4357-9cff-71b847526fce,java/lang/Math.java,pow
+3ea32d11-b44d-4357-9cff-71b847526fce,45690c8a-2e8d-4b99-bcaa-5f5db96c0b7c,20faa274-fb6e-4d85-9113-5a69bfa07728,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,delta
+3ea32d11-b44d-4357-9cff-71b847526fce,45690c8a-2e8d-4b99-bcaa-5f5db96c0b7c,20faa274-fb6e-4d85-9113-5a69bfa07728,->,3ea32d11-b44d-4357-9cff-71b847526fce,Neuron.java,weightOf

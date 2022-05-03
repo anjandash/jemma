@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0a86fba7-e4e6-40bb-89de-710f6f25e4ce,org/offerplatform/offer/OfferType.java,values,->,0a86fba7-e4e6-40bb-89de-710f6f25e4ce,org/offerplatform/offer/OfferType.java,clone
+0a86fba7-e4e6-40bb-89de-710f6f25e4ce,org/offerplatform/offer/OfferType.java,valueOf,->,0a86fba7-e4e6-40bb-89de-710f6f25e4ce,java/lang/Enum.java,valueOf
+0a86fba7-e4e6-40bb-89de-710f6f25e4ce,org/offerplatform/offer/OfferComponentType.java,values,->,0a86fba7-e4e6-40bb-89de-710f6f25e4ce,org/offerplatform/offer/OfferComponentType.java,clone
+0a86fba7-e4e6-40bb-89de-710f6f25e4ce,org/offerplatform/offer/OfferComponentType.java,valueOf,->,0a86fba7-e4e6-40bb-89de-710f6f25e4ce,java/lang/Enum.java,valueOf

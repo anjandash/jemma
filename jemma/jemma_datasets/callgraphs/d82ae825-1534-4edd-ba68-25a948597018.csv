@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,31bb3fed-0853-49c7-a0c5-6931adc2ffba,->,d82ae825-1534-4edd-ba68-25a948597018,java/util/List.java,add
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,1e7c2013-56ee-4d76-a93d-437119cacadb,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionContext.java,getContext
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,1e7c2013-56ee-4d76-a93d-437119cacadb,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionContext.java,getName
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,1e7c2013-56ee-4d76-a93d-437119cacadb,->,d82ae825-1534-4edd-ba68-25a948597018,java/lang/String.java,contains
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,1e7c2013-56ee-4d76-a93d-437119cacadb,->,d82ae825-1534-4edd-ba68-25a948597018,org/apache/commons/lang/StringUtils.java,isEmpty
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,1e7c2013-56ee-4d76-a93d-437119cacadb,->,d82ae825-1534-4edd-ba68-25a948597018,pl/dmcs/nsai/struts2/actions/AjaxAction.java,getText
+d82ae825-1534-4edd-ba68-25a948597018,446e8e0c-3881-446e-9f6c-9ee54763d060,1e7c2013-56ee-4d76-a93d-437119cacadb,->,d82ae825-1534-4edd-ba68-25a948597018,pl/dmcs/nsai/struts2/actions/AjaxAction.java,addFieldError
+d82ae825-1534-4edd-ba68-25a948597018,dd189f60-260f-4801-9ffe-0aaa2582d726,619e9378-6b88-4cb9-99e7-0c394ff45137,->,d82ae825-1534-4edd-ba68-25a948597018,java/util/Map.java,put
+d82ae825-1534-4edd-ba68-25a948597018,bd66fc58-852f-4b86-baab-9886938a9acc,b4b8d855-7330-4a65-b137-96f8c79e0237,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionSupport.java,execute
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionInvocation.java,getInvocationContext
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionContext.java,getSession
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionInvocation.java,getAction
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,java/util/Map.java,get
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionSupport.java,getText
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionSupport.java,addActionError
+d82ae825-1534-4edd-ba68-25a948597018,92877d70-0411-4779-8345-2d55368f1383,af2de42d-f4e7-43a6-91db-3b5ec4377ead,->,d82ae825-1534-4edd-ba68-25a948597018,com/opensymphony/xwork2/ActionInvocation.java,invoke

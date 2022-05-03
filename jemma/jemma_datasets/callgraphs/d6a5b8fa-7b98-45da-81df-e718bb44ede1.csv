@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,f78420a5-d544-458f-88aa-bde0be570feb,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/CoreMatchers.java,notNullValue
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,f78420a5-d544-458f-88aa-bde0be570feb,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/CoreMatchers.java,is
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,f78420a5-d544-458f-88aa-bde0be570feb,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/MatcherAssert.java,assertThat
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,e18edcf1-bb25-4bc0-b3cd-94a72c5241d9,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/CoreMatchers.java,notNullValue
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,e18edcf1-bb25-4bc0-b3cd-94a72c5241d9,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/CoreMatchers.java,is
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,e18edcf1-bb25-4bc0-b3cd-94a72c5241d9,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/MatcherAssert.java,assertThat
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,f5f2222b-6f5c-4fee-a274-a125ffe6d28c,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/CoreMatchers.java,notNullValue
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,f5f2222b-6f5c-4fee-a274-a125ffe6d28c,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/CoreMatchers.java,is
+d6a5b8fa-7b98-45da-81df-e718bb44ede1,09f467f0-01bc-4669-91c5-091758fbf307,f5f2222b-6f5c-4fee-a274-a125ffe6d28c,->,d6a5b8fa-7b98-45da-81df-e718bb44ede1,org/hamcrest/MatcherAssert.java,assertThat

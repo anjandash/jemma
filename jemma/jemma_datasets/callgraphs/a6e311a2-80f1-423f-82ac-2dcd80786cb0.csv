@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,880a57b5-7a06-49d6-a033-e58659bfc238,4dd20f08-d909-4303-8ed9-6ecde7347259,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/StringBuilder.java,append
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,880a57b5-7a06-49d6-a033-e58659bfc238,4dd20f08-d909-4303-8ed9-6ecde7347259,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/StringBuilder.java,append
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,880a57b5-7a06-49d6-a033-e58659bfc238,4dd20f08-d909-4303-8ed9-6ecde7347259,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/StringBuilder.java,toString
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,880a57b5-7a06-49d6-a033-e58659bfc238,4dd20f08-d909-4303-8ed9-6ecde7347259,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/io/PrintStream.java,println
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/Class.java,getMethods
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/reflect/Method.java,isAnnotationPresent
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/reflect/Method.java,getAnnotation
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,annotation/Test.java,info
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/String.java,equals
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/io/PrintStream.java,println
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/Class.java,newInstance
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,java/lang/reflect/Method.java,invoke
+a6e311a2-80f1-423f-82ac-2dcd80786cb0,05c1062a-4d92-4ebc-ae6c-dc8f99ecb2d4,ddb5d2fe-b14d-4e57-9fea-9b65d2c2427a,->,a6e311a2-80f1-423f-82ac-2dcd80786cb0,e9d144e6-f7f4-42b0-b722-849fe68931da,0a7bc78a-1a0c-4911-9855-eb24a0f0695d

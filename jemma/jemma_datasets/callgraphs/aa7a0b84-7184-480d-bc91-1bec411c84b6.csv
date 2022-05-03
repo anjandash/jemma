@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa7a0b84-7184-480d-bc91-1bec411c84b6,908c6804-800a-42a2-8148-452ad706cad3,9c2db55d-392f-4cc1-8df9-7272df40c22c,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,908c6804-800a-42a2-8148-452ad706cad3,13deff16-513f-4a11-be00-e7eb5008d326
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6ab05522-f4d8-43cf-8e67-93fe800225f4,b40d2c1f-31e8-40cb-8d01-d0828b231de7,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/slf4j/Logger.java,debug
+aa7a0b84-7184-480d-bc91-1bec411c84b6,org/spr/demo/springdemo/service/impl/TestServiceImpl.java,<clinit>,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/slf4j/LoggerFactory.java,getLogger
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/aspectj/lang/ProceedingJoinPoint.java,toShortString
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/springframework/util/StopWatch.java,start
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/aspectj/lang/ProceedingJoinPoint.java,proceed
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/springframework/util/StopWatch.java,stop
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/springframework/util/StopWatch.java,getTotalTimeMillis
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/springframework/util/StopWatch.java,stop
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/springframework/util/StopWatch.java,getTotalTimeMillis
+aa7a0b84-7184-480d-bc91-1bec411c84b6,6e9bbe1e-8b20-47e2-8327-040bdcef2e4a,40eb18aa-f6f3-4c75-813a-399cffbf6705,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/aspectj/lang/ProceedingJoinPoint.java,proceed
+aa7a0b84-7184-480d-bc91-1bec411c84b6,5694a07c-cd1e-4da2-a1aa-b3f64d286772,15fb2af1-7b2a-449b-852c-6dc1ed58cb05,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,09c00c68-43c1-4d0d-aff7-1b23aa3b2f80,1f80d9cc-14e0-4105-bdaa-fe0d3244f629
+aa7a0b84-7184-480d-bc91-1bec411c84b6,org/spr/demo/springdemo/web/controller/HomeController.java,<clinit>,->,aa7a0b84-7184-480d-bc91-1bec411c84b6,org/slf4j/LoggerFactory.java,getLogger

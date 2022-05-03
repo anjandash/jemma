@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/sql/ClientInfoStatus.java,values,->,8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/sql/ClientInfoStatus.java,clone
+8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/sql/ClientInfoStatus.java,valueOf,->,8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/lang/Enum.java,valueOf
+8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/sql/RowIdLifetime.java,values,->,8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/sql/RowIdLifetime.java,clone
+8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/sql/RowIdLifetime.java,valueOf,->,8147b823-6cdd-4c3f-93f2-d86b38ec9d41,java/lang/Enum.java,valueOf

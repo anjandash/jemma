@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e56449d7-6199-43aa-8a13-c44c4abccb42,com/newcodingtoncity/model/domain/places/Place$Zone.java,values,->,e56449d7-6199-43aa-8a13-c44c4abccb42,com/newcodingtoncity/model/domain/places/Place$Zone.java,clone
+e56449d7-6199-43aa-8a13-c44c4abccb42,com/newcodingtoncity/model/domain/places/Place$Zone.java,valueOf,->,e56449d7-6199-43aa-8a13-c44c4abccb42,java/lang/Enum.java,valueOf

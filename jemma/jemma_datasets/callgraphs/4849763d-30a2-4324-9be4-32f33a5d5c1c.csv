@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4849763d-30a2-4324-9be4-32f33a5d5c1c,c257a8c4-dd22-49aa-a04b-c1b99a72c878,748d1969-0c6f-4557-9d41-ae164da5a829,->,4849763d-30a2-4324-9be4-32f33a5d5c1c,javax/xml/ws/Endpoint.java,publish

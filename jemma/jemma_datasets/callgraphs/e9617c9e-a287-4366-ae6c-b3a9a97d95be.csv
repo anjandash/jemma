@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,4ae02eb8-7d0a-4d15-ad79-5f571b541bb9,25e636e6-d713-43f4-81e4-85059774d34f,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,700031a1-c940-421f-839b-70b591fe5295,ffd4c773-b305-418b-a498-f563acf80ee7
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,4ae02eb8-7d0a-4d15-ad79-5f571b541bb9,f8f570bd-a55a-4062-a148-859f7fc6cdd6,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/ArrayList.java,add
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,4ae02eb8-7d0a-4d15-ad79-5f571b541bb9,d613ac3e-bcf0-41d1-9306-14fef11abcab,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/ArrayList.java,remove
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,682f2bfb-4c35-4004-8c80-f90c4927d6f7,828f1067-6b17-4c4d-9dab-0ef7cf632bdb,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/Date.java,toString
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,682f2bfb-4c35-4004-8c80-f90c4927d6f7,456f7f8f-e802-46b8-bc7b-d79adc1b4771,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/ArrayList.java,add
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,682f2bfb-4c35-4004-8c80-f90c4927d6f7,f93fa7ae-9c58-47a6-9b2c-7e2f45f698a3,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/ArrayList.java,remove
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,682f2bfb-4c35-4004-8c80-f90c4927d6f7,e6cd5780-1553-4674-a729-8fe892b1a75e,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/ArrayList.java,add
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,682f2bfb-4c35-4004-8c80-f90c4927d6f7,2885e74a-0b2d-4473-b0c2-83bdce55c35b,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/util/ArrayList.java,remove
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,700031a1-c940-421f-839b-70b591fe5295,ffd4c773-b305-418b-a498-f563acf80ee7,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/lang/StringBuilder.java,append
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,700031a1-c940-421f-839b-70b591fe5295,ffd4c773-b305-418b-a498-f563acf80ee7,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/lang/StringBuilder.java,append
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,700031a1-c940-421f-839b-70b591fe5295,ffd4c773-b305-418b-a498-f563acf80ee7,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/lang/StringBuilder.java,append
+e9617c9e-a287-4366-ae6c-b3a9a97d95be,700031a1-c940-421f-839b-70b591fe5295,ffd4c773-b305-418b-a498-f563acf80ee7,->,e9617c9e-a287-4366-ae6c-b3a9a97d95be,java/lang/StringBuilder.java,toString

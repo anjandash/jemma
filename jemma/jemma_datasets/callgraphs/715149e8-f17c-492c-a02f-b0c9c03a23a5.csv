@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+715149e8-f17c-492c-a02f-b0c9c03a23a5,aprendendoMais/AssistenteDAO.java,mostra,->,715149e8-f17c-492c-a02f-b0c9c03a23a5,java/io/PrintStream.java,println
+715149e8-f17c-492c-a02f-b0c9c03a23a5,aprendendoMais/HibernateDAOCliente.java,mostra,->,715149e8-f17c-492c-a02f-b0c9c03a23a5,java/io/PrintStream.java,println
+715149e8-f17c-492c-a02f-b0c9c03a23a5,5f281486-aab5-4bde-8351-a67d010171fa,842d9f8c-d699-4f16-a0e8-7922c543b574,->,715149e8-f17c-492c-a02f-b0c9c03a23a5,df9ff063-5b5e-4512-a27b-10ffbecd48fe,8b109cbf-0a05-4b20-b525-e60d3d8167be

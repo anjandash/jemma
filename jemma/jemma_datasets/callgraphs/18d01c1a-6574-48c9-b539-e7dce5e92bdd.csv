@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,b367cf4a-34a6-4211-b899-ed300189df4e,109445de-ebf4-4284-baf3-99c60b8ec7a9,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,java/io/PrintStream.java,println
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,b367cf4a-34a6-4211-b899-ed300189df4e,109445de-ebf4-4284-baf3-99c60b8ec7a9,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,org/apache/cxf/jaxrs/ext/MessageContext.java,getRequest
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,b367cf4a-34a6-4211-b899-ed300189df4e,109445de-ebf4-4284-baf3-99c60b8ec7a9,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,javax/ws/rs/core/Request.java,getMethod
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,b367cf4a-34a6-4211-b899-ed300189df4e,109445de-ebf4-4284-baf3-99c60b8ec7a9,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,java/io/PrintStream.java,println
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,60fe2adb-ec37-4788-9e5d-4c1ce60740ac,227306d9-d101-49f4-99b2-ac5b8ea27969,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,java/lang/Thread.java,sleep
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,60fe2adb-ec37-4788-9e5d-4c1ce60740ac,227306d9-d101-49f4-99b2-ac5b8ea27969,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,java/lang/InterruptedException.java,printStackTrace
+18d01c1a-6574-48c9-b539-e7dce5e92bdd,60fe2adb-ec37-4788-9e5d-4c1ce60740ac,227306d9-d101-49f4-99b2-ac5b8ea27969,->,18d01c1a-6574-48c9-b539-e7dce5e92bdd,org/springframework/context/support/ClassPathXmlApplicationContext.java,stop

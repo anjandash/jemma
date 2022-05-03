@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aadeccf5-08e0-4707-8ea6-862ff184b35b,effa2245-9669-4294-a86e-76dd88f23f67,04b01b83-d67c-4f74-a647-de8f50165e5b,->,aadeccf5-08e0-4707-8ea6-862ff184b35b,com/alibaba/citrus/turbine/Context.java,put
+aadeccf5-08e0-4707-8ea6-862ff184b35b,4c2e1a4d-d218-4596-bde9-bb2d1d82e95e,4663a6d1-823c-48d3-a897-d60c92213325,->,aadeccf5-08e0-4707-8ea6-862ff184b35b,b40fd20a-3191-4f73-9ff3-a1ec7af3e8d2,65520dce-d07e-4ba0-a53a-8bb9ec78ddcd
+aadeccf5-08e0-4707-8ea6-862ff184b35b,4c2e1a4d-d218-4596-bde9-bb2d1d82e95e,4663a6d1-823c-48d3-a897-d60c92213325,->,aadeccf5-08e0-4707-8ea6-862ff184b35b,com/alibaba/citrus/turbine/Navigator.java,redirectTo
+aadeccf5-08e0-4707-8ea6-862ff184b35b,4c2e1a4d-d218-4596-bde9-bb2d1d82e95e,4663a6d1-823c-48d3-a897-d60c92213325,->,aadeccf5-08e0-4707-8ea6-862ff184b35b,com/alibaba/citrus/turbine/Navigator$RedirectParameters.java,withTarget
+aadeccf5-08e0-4707-8ea6-862ff184b35b,4c2e1a4d-d218-4596-bde9-bb2d1d82e95e,4663a6d1-823c-48d3-a897-d60c92213325,->,aadeccf5-08e0-4707-8ea6-862ff184b35b,com/alibaba/citrus/turbine/Navigator$RedirectParameters.java,withParameter

@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+303cc773-2ae0-44ef-8753-9b7a83a3129d,0bae43b7-ece0-4918-ab88-a764696b50b8,378d90e5-a09a-47bb-90c2-50f59bf99f1b,->,303cc773-2ae0-44ef-8753-9b7a83a3129d,java/util/Map.java,values
+303cc773-2ae0-44ef-8753-9b7a83a3129d,46c8e146-d8d0-4c5c-a4dc-f3656a5ad67a,3954bb79-1ec2-484a-a3f0-f37a13cb353f,->,303cc773-2ae0-44ef-8753-9b7a83a3129d,java/util/Set.java,add
+303cc773-2ae0-44ef-8753-9b7a83a3129d,46c8e146-d8d0-4c5c-a4dc-f3656a5ad67a,7ad9ec1d-9bcf-4714-87ae-deac23900b36,->,303cc773-2ae0-44ef-8753-9b7a83a3129d,java/util/Set.java,contains

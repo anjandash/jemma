@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+16aded3e-7d02-40e3-8801-94be2f178381,9cfe4d6f-52c7-45f1-8cd2-eeab9802326b,72e40775-8013-42b4-a3a9-c080cb950bb1,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/dao/hibernate/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,de08f76a-608f-48ba-959f-c406a580b019,aacf279a-06aa-4d52-a24b-ba39efe78f74,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,dc928338-92b0-4ee1-b4f5-7de73c10c1f0,39cf238e-194f-409d-811f-0f5b935019fb,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/dao/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,9e2ec384-a3d0-4b46-bf61-e23d70736ae8,729d11b9-4948-4769-ac81-3b4f9389401b,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,81670586-188c-49da-a0b3-a44be16336a8,4dcf24f6-9421-4e6f-ad29-5b284060b4fc,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/dto/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,e0a43d73-95cb-41b6-8466-a70572c4305e,51e716ff-a047-42e1-afb8-c97d381bca1c,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,c4beaf47-e697-4989-a025-7855da3c5262,001c2b32-2590-454b-9967-0d6c46bebf4f,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/service/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,2964803a-15f1-44ba-8887-88109b4a88e7,269ccad8-73e6-46a5-91b5-a769734a023e,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,256a3006-b54f-476f-8650-96968aa3a754,4082018f-10ec-4eb9-8480-ddf51b0d0488,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/service/support/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,1e73e385-3efa-41cb-8eb5-a06b7a0bb237,650da156-0959-4ce1-9417-13aa8b4bee9a,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,8d8a5757-47dc-4c3c-bd67-95193019cc31,77a46ec0-d397-4938-b24f-6d52689688f9,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/business/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,6e87c144-3a49-4262-a45b-8143f9f50fcf,a9666b8b-1b20-438a-a68c-8a7406fc4430,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,31cbe77d-e91e-4e2a-99d1-0c293059a476,b804957a-3a1b-4a67-85bf-e6e8224baa10,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/business/support/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,4fa304ad-180d-4206-8119-938c6d6ac002,8c5409fc-f9e9-4444-a9a7-fbbf9656302c,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println
+16aded3e-7d02-40e3-8801-94be2f178381,21d67bed-5ebc-4182-8402-5289f3987606,4926ea66-67c3-46ae-b065-22c0e1447f70,->,16aded3e-7d02-40e3-8801-94be2f178381,gustav/cardgame/configuration/AppTest.java,assertTrue
+16aded3e-7d02-40e3-8801-94be2f178381,378ec6f4-3dd0-4662-a2a2-63f3e63739b4,e29ec598-b188-435c-85fe-a954f3b437d1,->,16aded3e-7d02-40e3-8801-94be2f178381,java/io/PrintStream.java,println

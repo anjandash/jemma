@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/io/PrintStream.java,println
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/lang/Class.java,forName
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/io/PrintStream.java,println
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/io/PrintStream.java,println
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/sql/DriverManager.java,getConnection
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/io/PrintStream.java,println
+335a7e23-45eb-4592-87c9-3b0b0e080730,c80bfc59-376e-4a0d-a232-760d39e8dbbc,3c740325-b082-48c1-89b9-e99fe9675abe,->,335a7e23-45eb-4592-87c9-3b0b0e080730,java/io/PrintStream.java,println

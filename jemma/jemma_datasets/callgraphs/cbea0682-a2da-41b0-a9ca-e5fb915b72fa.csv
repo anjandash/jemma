@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,a4ca1e5a-8a3d-4001-84ed-2a72ba7323c1,058f8880-674a-4cdd-8287-767377de9c9a
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,a4ca1e5a-8a3d-4001-84ed-2a72ba7323c1,8569870b-4482-4b00-8fa4-558e150818bd
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,java/lang/StringBuilder.java,length
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,a4ca1e5a-8a3d-4001-84ed-2a72ba7323c1,8569870b-4482-4b00-8fa4-558e150818bd
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,a4ca1e5a-8a3d-4001-84ed-2a72ba7323c1,058f8880-674a-4cdd-8287-767377de9c9a
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,java/lang/StringBuilder.java,charAt
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,com/turn/tools/boostrapupgrader/matcher/ParserSelector.java,parse
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,com/turn/tools/boostrapupgrader/matcher/ParserNonSelector.java,parse
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,f0186d60-5a9b-460b-83af-fa5ed0617c43,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,fa762339-d66b-499e-b56a-33398df31a82
+cbea0682-a2da-41b0-a9ca-e5fb915b72fa,2394fb38-7699-4137-bba9-6ba1abe81b7d,f0186d60-5a9b-460b-83af-fa5ed0617c43,->,cbea0682-a2da-41b0-a9ca-e5fb915b72fa,java/lang/StringBuilder.java,toString

@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6eb3e6c1-5a99-46a5-b6ed-ee9120ef394b,0e592e0a-67dd-46af-a41c-3dbfd1ff8d94,d85ed0b0-e173-4f0e-a062-e0d36c15fdd5,->,6eb3e6c1-5a99-46a5-b6ed-ee9120ef394b,org/springframework/format/support/FormattingConversionServiceFactoryBean.java,installFormatters

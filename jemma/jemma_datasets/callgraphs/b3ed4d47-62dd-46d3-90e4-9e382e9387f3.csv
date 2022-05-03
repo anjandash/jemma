@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b3ed4d47-62dd-46d3-90e4-9e382e9387f3,05cdd6c7-a568-4eb8-9f75-1ace7ab9a967,f0607b41-bd30-46c9-8c07-4bcf207a3d19,->,b3ed4d47-62dd-46d3-90e4-9e382e9387f3,05cdd6c7-a568-4eb8-9f75-1ace7ab9a967,ae52cc90-5a14-4086-903d-b66bb403a6c1
+b3ed4d47-62dd-46d3-90e4-9e382e9387f3,05cdd6c7-a568-4eb8-9f75-1ace7ab9a967,cbe9fd10-0743-4b67-936c-e0165a79b5d4,->,b3ed4d47-62dd-46d3-90e4-9e382e9387f3,05cdd6c7-a568-4eb8-9f75-1ace7ab9a967,290dd6a7-2284-46a6-a0a8-2eb34b53ed05

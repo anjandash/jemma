@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,2e4289df-e3cb-46f2-a39d-227e4389b862,03be7d60-590a-4512-9fbf-c6db11807c3f,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,bb92c093-29d9-4f4a-a131-51a2bf2ceed3,7f149713-02ba-490d-afd0-8e04f8aeb145
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,2e4289df-e3cb-46f2-a39d-227e4389b862,03be7d60-590a-4512-9fbf-c6db11807c3f,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/util/HashMap.java,put
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,2e4289df-e3cb-46f2-a39d-227e4389b862,1df71adf-5dc3-4162-8698-0b694f0db965,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/util/HashMap.java,remove
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,2e4289df-e3cb-46f2-a39d-227e4389b862,310099cb-0349-4c35-9ce9-5eacb836d388,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/util/HashMap.java,get
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/awt/event/ActionEvent.java,getSource
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/lang/Object.java,equals
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/util/ArrayList.java,size
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/util/ArrayList.java,get
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,AddressBookPanel.java,add
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/util/ArrayList.java,add
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/awt/event/ActionEvent.java,getSource
+7416ee1c-36ef-4cf1-87a7-b1c81fed8385,e8b9381b-9e9d-4ee5-82cd-954e65489cbc,794f6f5e-64f8-4134-b4df-e14b8fd2425d,->,7416ee1c-36ef-4cf1-87a7-b1c81fed8385,java/lang/Object.java,equals

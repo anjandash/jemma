@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e4e4a1ad-2c11-40d0-acf9-81a13e107752,schule/unterricht/lf2/containerschiffe/hafen/ContainerStatus.java,values,->,e4e4a1ad-2c11-40d0-acf9-81a13e107752,schule/unterricht/lf2/containerschiffe/hafen/ContainerStatus.java,clone
+e4e4a1ad-2c11-40d0-acf9-81a13e107752,schule/unterricht/lf2/containerschiffe/hafen/ContainerStatus.java,valueOf,->,e4e4a1ad-2c11-40d0-acf9-81a13e107752,java/lang/Enum.java,valueOf
+e4e4a1ad-2c11-40d0-acf9-81a13e107752,ceefd1cd-e0c9-4fd2-bc01-70277cabd374,3a509af9-bfa2-46bc-8521-c20c9ed2abad,->,e4e4a1ad-2c11-40d0-acf9-81a13e107752,java/util/List.java,size
+e4e4a1ad-2c11-40d0-acf9-81a13e107752,ceefd1cd-e0c9-4fd2-bc01-70277cabd374,3a509af9-bfa2-46bc-8521-c20c9ed2abad,->,e4e4a1ad-2c11-40d0-acf9-81a13e107752,java/util/List.java,get
+e4e4a1ad-2c11-40d0-acf9-81a13e107752,ceefd1cd-e0c9-4fd2-bc01-70277cabd374,c97ca5de-fba9-4c58-85d1-50d8eb927d10,->,e4e4a1ad-2c11-40d0-acf9-81a13e107752,java/util/List.java,size
+e4e4a1ad-2c11-40d0-acf9-81a13e107752,b4beb08c-c0ef-44fb-b41a-159a05dedbe6,cd56e60b-45c9-42c5-b0ba-2a8251c8db19,->,e4e4a1ad-2c11-40d0-acf9-81a13e107752,java/io/PrintStream.java,println

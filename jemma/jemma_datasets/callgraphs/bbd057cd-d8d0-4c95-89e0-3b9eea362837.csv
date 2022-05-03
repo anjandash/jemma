@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bbd057cd-d8d0-4c95-89e0-3b9eea362837,org/kieora/metadata/engine/RelationshipDirection.java,values,->,bbd057cd-d8d0-4c95-89e0-3b9eea362837,org/kieora/metadata/engine/RelationshipDirection.java,clone
+bbd057cd-d8d0-4c95-89e0-3b9eea362837,org/kieora/metadata/engine/RelationshipDirection.java,valueOf,->,bbd057cd-d8d0-4c95-89e0-3b9eea362837,java/lang/Enum.java,valueOf
+bbd057cd-d8d0-4c95-89e0-3b9eea362837,org/kieora/metadata/engine/DeleteRelationshipBehavior.java,values,->,bbd057cd-d8d0-4c95-89e0-3b9eea362837,org/kieora/metadata/engine/DeleteRelationshipBehavior.java,clone
+bbd057cd-d8d0-4c95-89e0-3b9eea362837,org/kieora/metadata/engine/DeleteRelationshipBehavior.java,valueOf,->,bbd057cd-d8d0-4c95-89e0-3b9eea362837,java/lang/Enum.java,valueOf

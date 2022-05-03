@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d4407af2-cf9a-4822-9d40-380ada191507,1e654a22-e3a2-4a48-9975-27c75ddcf2bc,6c5aaa51-99bc-4b79-8815-eb85eaa65790,->,d4407af2-cf9a-4822-9d40-380ada191507,java/io/PrintStream.java,println
+d4407af2-cf9a-4822-9d40-380ada191507,8c4960fd-e61c-4884-98d3-0b4ecf3005b4,7ad20f99-a3bc-40cb-b9d8-4319be53812d,->,d4407af2-cf9a-4822-9d40-380ada191507,java/io/PrintStream.java,println
+d4407af2-cf9a-4822-9d40-380ada191507,6dfa37ba-820c-4d79-b811-e2ca657693d0,231653b6-6661-49f7-af13-6e3c65bf0c9a,->,d4407af2-cf9a-4822-9d40-380ada191507,me/loki2302/AppTest.java,assertTrue
+d4407af2-cf9a-4822-9d40-380ada191507,9c1a8ea4-8d51-4679-b78b-cb3b9a08aa1f,e93ebb6a-724a-46c3-98b2-cba335be1c17,->,d4407af2-cf9a-4822-9d40-380ada191507,java/io/PrintStream.java,println
+d4407af2-cf9a-4822-9d40-380ada191507,5a888f40-783e-45e9-aa28-1351f1c05e1f,2e84bc97-740b-40de-a356-f90813c0f1a4,->,d4407af2-cf9a-4822-9d40-380ada191507,java/io/PrintStream.java,println
+d4407af2-cf9a-4822-9d40-380ada191507,5a888f40-783e-45e9-aa28-1351f1c05e1f,2e84bc97-740b-40de-a356-f90813c0f1a4,->,d4407af2-cf9a-4822-9d40-380ada191507,org/tanukisoftware/wrapper/WrapperManager.java,start

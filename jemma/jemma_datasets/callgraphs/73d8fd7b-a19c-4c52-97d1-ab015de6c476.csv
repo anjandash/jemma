@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,c5e0b52d-2c94-44f6-b19e-37eb727c6de5,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,c5e0b52d-2c94-44f6-b19e-37eb727c6de5,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,7dd159ea-2d8a-46c0-94f6-c5b42ca6079c
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,registerModule
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,registerModule
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,registerModule
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,registerModule
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,registerModule
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,registerModule
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,setPropertyNamingStrategy
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,208cc8c4-433e-4ae7-aee5-4cca0d411348,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,com/fasterxml/jackson/databind/ObjectMapper.java,setSubtypeResolver
+73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,7dd159ea-2d8a-46c0-94f6-c5b42ca6079c,->,73d8fd7b-a19c-4c52-97d1-ab015de6c476,6abe6bfc-4131-4b4d-8161-478ee202fa72,7dd159ea-2d8a-46c0-94f6-c5b42ca6079c

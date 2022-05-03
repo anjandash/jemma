@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,javax/persistence/Persistence.java,createEntityManagerFactory
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,javax/persistence/EntityManagerFactory.java,createEntityManager
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,javax/persistence/EntityManager.java,getTransaction
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,javax/persistence/EntityTransaction.java,begin
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,javax/persistence/EntityManager.java,persist
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,javax/persistence/EntityTransaction.java,commit
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,java/lang/StringBuilder.java,append
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,d0fb445a-c934-49ef-b765-2a385edc8f42,5c663fbe-1662-42e4-9cda-7053b9fc6266
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,java/lang/StringBuilder.java,append
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,java/lang/StringBuilder.java,toString
+64de9314-22c0-491f-b56f-a55a5b3456f6,207fce15-f916-4b1d-a35b-68ed53fe4cde,78896fb3-308c-486a-9ab5-f0f3c918631d,->,64de9314-22c0-491f-b56f-a55a5b3456f6,java/io/PrintStream.java,println

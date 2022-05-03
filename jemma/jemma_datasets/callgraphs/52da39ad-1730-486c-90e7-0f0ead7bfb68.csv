@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+52da39ad-1730-486c-90e7-0f0ead7bfb68,f49eae13-d1e9-4d09-acbb-9d4aa6e275bb,074b3005-1d2d-4ddc-be46-756db9f2bbb9,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,javax/xml/ws/Service.java,getPort
+52da39ad-1730-486c-90e7-0f0ead7bfb68,f49eae13-d1e9-4d09-acbb-9d4aa6e275bb,347c1e99-6c3e-4fe5-8b22-c9b95ed9fb25,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,javax/xml/ws/Service.java,getPort
+52da39ad-1730-486c-90e7-0f0ead7bfb68,77f9b088-b6ce-4434-bf8a-2bc9ffa58ce4,9968a0c3-826f-4157-9fd5-f79ec441166a,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,javax/xml/ws/Service.java,create
+52da39ad-1730-486c-90e7-0f0ead7bfb68,77f9b088-b6ce-4434-bf8a-2bc9ffa58ce4,9968a0c3-826f-4157-9fd5-f79ec441166a,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,javax/xml/ws/Service.java,getPort
+52da39ad-1730-486c-90e7-0f0ead7bfb68,77f9b088-b6ce-4434-bf8a-2bc9ffa58ce4,9968a0c3-826f-4157-9fd5-f79ec441166a,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,2c456cd4-85ed-4336-ba7b-aff0977a40ac,350b4952-771b-4c02-9a63-6ba37403ddb2
+52da39ad-1730-486c-90e7-0f0ead7bfb68,77f9b088-b6ce-4434-bf8a-2bc9ffa58ce4,9968a0c3-826f-4157-9fd5-f79ec441166a,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,java/io/PrintStream.java,println
+52da39ad-1730-486c-90e7-0f0ead7bfb68,77f9b088-b6ce-4434-bf8a-2bc9ffa58ce4,9968a0c3-826f-4157-9fd5-f79ec441166a,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,2c456cd4-85ed-4336-ba7b-aff0977a40ac,f000e854-8780-4a97-904e-4e1c3f3193be
+52da39ad-1730-486c-90e7-0f0ead7bfb68,77f9b088-b6ce-4434-bf8a-2bc9ffa58ce4,9968a0c3-826f-4157-9fd5-f79ec441166a,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,java/io/PrintStream.java,println
+52da39ad-1730-486c-90e7-0f0ead7bfb68,348d5179-21b7-4934-83ba-7cd6a547b1d5,1481b24d-b462-4c50-b648-15d0299c8842,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,f49eae13-d1e9-4d09-acbb-9d4aa6e275bb,074b3005-1d2d-4ddc-be46-756db9f2bbb9
+52da39ad-1730-486c-90e7-0f0ead7bfb68,348d5179-21b7-4934-83ba-7cd6a547b1d5,1481b24d-b462-4c50-b648-15d0299c8842,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,2c456cd4-85ed-4336-ba7b-aff0977a40ac,f000e854-8780-4a97-904e-4e1c3f3193be
+52da39ad-1730-486c-90e7-0f0ead7bfb68,348d5179-21b7-4934-83ba-7cd6a547b1d5,1481b24d-b462-4c50-b648-15d0299c8842,->,52da39ad-1730-486c-90e7-0f0ead7bfb68,java/io/PrintStream.java,println

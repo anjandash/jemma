@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b8ec0879-3d33-4089-b89e-531c327f2756,c9ab0118-228a-4874-b734-0abd902c008a,7eead030-5ca6-4762-b132-6943f9620f10,->,b8ec0879-3d33-4089-b89e-531c327f2756,javax/xml/ws/Service.java,getPort
+b8ec0879-3d33-4089-b89e-531c327f2756,c9ab0118-228a-4874-b734-0abd902c008a,7314f8c3-e59d-4b57-9236-2f97e4a22ebb,->,b8ec0879-3d33-4089-b89e-531c327f2756,javax/xml/ws/Service.java,getPort
+b8ec0879-3d33-4089-b89e-531c327f2756,com/webcaisse/ws/client/CaisseManagerServiceImplService.java,<clinit>,->,b8ec0879-3d33-4089-b89e-531c327f2756,java/lang/Class.java,getName
+b8ec0879-3d33-4089-b89e-531c327f2756,com/webcaisse/ws/client/CaisseManagerServiceImplService.java,<clinit>,->,b8ec0879-3d33-4089-b89e-531c327f2756,java/util/logging/Logger.java,getLogger
+b8ec0879-3d33-4089-b89e-531c327f2756,com/webcaisse/ws/client/CaisseManagerServiceImplService.java,<clinit>,->,b8ec0879-3d33-4089-b89e-531c327f2756,java/util/logging/Logger.java,log

@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,89b9a788-01b4-4278-a3f9-f95a1fb745df,39cd1854-5798-4937-80cb-30a78479389d,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,411040cd-f465-4d1d-b27a-c72978092e25
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,89b9a788-01b4-4278-a3f9-f95a1fb745df,39cd1854-5798-4937-80cb-30a78479389d,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,fba18b94-0772-4078-b244-6e4df3912aab
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,167126da-ca84-40d3-9e02-eacb8e7827dc,94246fd4-c185-4737-9fd0-4658ffd571f7,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,411040cd-f465-4d1d-b27a-c72978092e25
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,167126da-ca84-40d3-9e02-eacb8e7827dc,94246fd4-c185-4737-9fd0-4658ffd571f7,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,fba18b94-0772-4078-b244-6e4df3912aab
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,2c1f9345-d9e5-4cb1-812a-ca0748197570,4c55897f-e8b1-4358-9d1e-d183b5e62c08,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,411040cd-f465-4d1d-b27a-c72978092e25
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,2c1f9345-d9e5-4cb1-812a-ca0748197570,4c55897f-e8b1-4358-9d1e-d183b5e62c08,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,fba18b94-0772-4078-b244-6e4df3912aab
+bcd81715-7c26-478f-afc7-c2dcfef84dfe,bbce9f41-0757-4fee-8ce3-9c3b9d1cbe5e,fba18b94-0772-4078-b244-6e4df3912aab,->,bcd81715-7c26-478f-afc7-c2dcfef84dfe,javax/persistence/EntityManagerFactory.java,createEntityManager

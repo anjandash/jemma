@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,38977eb1-c3ca-493d-b3b1-8a0e710a618e,870e9e14-d7b5-4477-96b3-b3f640cad769,->,2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,17a5df42-92e3-4ccd-abda-9ecd18a10f44,58b5e6c4-9744-4eff-b922-f46f059ebf89
+2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,38977eb1-c3ca-493d-b3b1-8a0e710a618e,870e9e14-d7b5-4477-96b3-b3f640cad769,->,2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,junit/framework/Assert.java,assertEquals
+2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,619f7f80-5435-481d-889f-a2cd2f1761d3,691848c5-68a0-4e50-aaf8-3aa423943a39,->,2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,java/util/Collection.java,clear
+2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,619f7f80-5435-481d-889f-a2cd2f1761d3,691848c5-68a0-4e50-aaf8-3aa423943a39,->,2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,java/util/Collection.java,addAll
+2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,4e6ecd95-3310-43d6-9d6c-08d22d2488bc,61a18b44-1fa7-4062-b9fe-b841bc640edc,->,2ff7e63b-9cb6-4bbc-9820-d7c5115790a5,java/util/Collection.java,clear

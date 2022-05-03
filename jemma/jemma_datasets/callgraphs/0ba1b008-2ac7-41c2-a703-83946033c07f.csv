@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0ba1b008-2ac7-41c2-a703-83946033c07f,org/greenscape/core/ResourceState.java,values,->,0ba1b008-2ac7-41c2-a703-83946033c07f,org/greenscape/core/ResourceState.java,clone
+0ba1b008-2ac7-41c2-a703-83946033c07f,org/greenscape/core/ResourceState.java,valueOf,->,0ba1b008-2ac7-41c2-a703-83946033c07f,java/lang/Enum.java,valueOf
+0ba1b008-2ac7-41c2-a703-83946033c07f,org/greenscape/core/ResourceType.java,values,->,0ba1b008-2ac7-41c2-a703-83946033c07f,org/greenscape/core/ResourceType.java,clone
+0ba1b008-2ac7-41c2-a703-83946033c07f,org/greenscape/core/ResourceType.java,valueOf,->,0ba1b008-2ac7-41c2-a703-83946033c07f,java/lang/Enum.java,valueOf

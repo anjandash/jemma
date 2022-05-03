@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,de/cevasoft/gamelib/SceneView.java,getBufferStrategy
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,de/cevasoft/gamelib/SceneView.java,createBufferStrategy
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/awt/image/BufferStrategy.java,getDrawGraphics
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/awt/Graphics.java,drawImage
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/awt/Graphics.java,dispose
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/awt/image/BufferStrategy.java,show
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,de/cevasoft/gamelib/Window.java,add
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,de/cevasoft/gamelib/Window.java,setVisible
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/lang/System.java,currentTimeMillis
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/lang/System.java,currentTimeMillis
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/io/PrintStream.java,println
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/lang/Thread.java,sleep
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/lang/InterruptedException.java,printStackTrace
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,7950af71-d86f-4d1b-b100-4196709aa2e4,47d2f6e4-9512-4f7e-a043-9b0613c06629,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,38a16b1d-e041-4ac6-b2c5-f89a63f00322,f554a1d5-d8a0-4f4c-8bd0-af10fba34d2e
+98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,e55bba7c-95e7-46a4-8951-85c721584bdd,84c8a1a1-0b6e-44a0-a742-1ed11e63c7ab,->,98b7ff0e-c0e5-4026-ba5f-3eb1fb81bc91,java/awt/Graphics.java,drawImage

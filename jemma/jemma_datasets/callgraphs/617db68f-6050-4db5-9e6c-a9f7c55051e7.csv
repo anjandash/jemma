@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+617db68f-6050-4db5-9e6c-a9f7c55051e7,a966f418-f468-4b24-961c-80bd038e6e8a,5200495f-07ad-43ef-b081-ec6b54269ca4,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,java/io/PrintStream.java,println
+617db68f-6050-4db5-9e6c-a9f7c55051e7,a966f418-f468-4b24-961c-80bd038e6e8a,8fa8b8bc-7bd1-4087-999b-81851e3adce2,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,java/io/PrintStream.java,println
+617db68f-6050-4db5-9e6c-a9f7c55051e7,com/robertdiebels/project/openelement/api/internal/IAtom$AtomRadiusType.java,values,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,com/robertdiebels/project/openelement/api/internal/IAtom$AtomRadiusType.java,clone
+617db68f-6050-4db5-9e6c-a9f7c55051e7,com/robertdiebels/project/openelement/api/internal/IAtom$AtomRadiusType.java,valueOf,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,java/lang/Enum.java,valueOf
+617db68f-6050-4db5-9e6c-a9f7c55051e7,09cb7d56-3e19-4be8-b529-16cf3933d8c5,1087ab10-ff25-4557-ba00-93762fa3c2c7,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,java/util/Set.java,iterator
+617db68f-6050-4db5-9e6c-a9f7c55051e7,09cb7d56-3e19-4be8-b529-16cf3933d8c5,1087ab10-ff25-4557-ba00-93762fa3c2c7,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,java/util/Iterator.java,hasNext
+617db68f-6050-4db5-9e6c-a9f7c55051e7,09cb7d56-3e19-4be8-b529-16cf3933d8c5,1087ab10-ff25-4557-ba00-93762fa3c2c7,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,java/util/Iterator.java,next
+617db68f-6050-4db5-9e6c-a9f7c55051e7,09cb7d56-3e19-4be8-b529-16cf3933d8c5,1087ab10-ff25-4557-ba00-93762fa3c2c7,->,617db68f-6050-4db5-9e6c-a9f7c55051e7,2dcb643d-ce39-4df4-a146-c18f7c6df65e,8f54246f-9d6d-4865-85a3-4fad70b1170c

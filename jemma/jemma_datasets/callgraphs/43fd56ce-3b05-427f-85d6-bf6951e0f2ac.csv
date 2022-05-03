@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,316c2789-250e-4513-bff4-7e63d3ec2b3e,cdcbf716-0ace-4dc0-bb14-cb5b3932fc31,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,javax/persistence/EntityManager.java,createQuery
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,316c2789-250e-4513-bff4-7e63d3ec2b3e,cdcbf716-0ace-4dc0-bb14-cb5b3932fc31,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,javax/persistence/Query.java,setParameter
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,316c2789-250e-4513-bff4-7e63d3ec2b3e,cdcbf716-0ace-4dc0-bb14-cb5b3932fc31,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,javax/persistence/Query.java,getSingleResult
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,2984c7fd-49ec-4441-bc7a-4f79bf457f89,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,org/springframework/orm/jpa/LocalContainerEntityManagerFactoryBean.java,getObject
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,628c5de6-2320-4c37-9c33-89a5aa9163fe,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,737d6db9-b29e-4931-ac8c-7713525925c5
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,628c5de6-2320-4c37-9c33-89a5aa9163fe,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,org/springframework/orm/hibernate4/LocalSessionFactoryBean.java,setDataSource
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,628c5de6-2320-4c37-9c33-89a5aa9163fe,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,4d90ed22-1855-496a-ba18-ee1c75b1495c
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,628c5de6-2320-4c37-9c33-89a5aa9163fe,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,org/springframework/orm/hibernate4/LocalSessionFactoryBean.java,setHibernateProperties
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,f48ed854-d2fb-401f-8a0e-9d9e4e019374,628c5de6-2320-4c37-9c33-89a5aa9163fe,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,org/springframework/orm/hibernate4/LocalSessionFactoryBean.java,setPackagesToScan
+43fd56ce-3b05-427f-85d6-bf6951e0f2ac,a292a4c4-057b-4448-95d6-f8cfc254e40b,ba9b312c-e522-4a34-b6a9-df9280f42f37,->,43fd56ce-3b05-427f-85d6-bf6951e0f2ac,2fb2fd3b-82d8-4a7a-9837-baaeda3746b0,e397bc20-d014-4e1b-8b94-8c5465ceaeb8

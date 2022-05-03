@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,65f3965d-1dbf-4f3e-a850-a795c1d6348f,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,registerItem
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,65f3965d-1dbf-4f3e-a850-a795c1d6348f,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,registerItem
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,65f3965d-1dbf-4f3e-a850-a795c1d6348f,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,registerItem
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,65f3965d-1dbf-4f3e-a850-a795c1d6348f,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,registerItem
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,20d79ff8-d083-4afa-a34e-9b35541381a5,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,addShapelessRecipe
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,20d79ff8-d083-4afa-a34e-9b35541381a5,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,addShapelessRecipe
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,20d79ff8-d083-4afa-a34e-9b35541381a5,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,addShapelessRecipe
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,20d79ff8-d083-4afa-a34e-9b35541381a5,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,addRecipe
+d6ef522b-4d92-47d3-9b22-f95127be62c3,37bbea9d-caba-492c-a8ea-97fa32c5e0d8,20d79ff8-d083-4afa-a34e-9b35541381a5,->,d6ef522b-4d92-47d3-9b22-f95127be62c3,cpw/mods/fml/common/registry/GameRegistry.java,addRecipe

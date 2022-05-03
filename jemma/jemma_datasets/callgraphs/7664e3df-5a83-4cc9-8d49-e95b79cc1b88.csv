@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,6305103d-8979-4e16-8ed0-1653ad3f0e66,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,java/lang/Integer.java,valueOf
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,6305103d-8979-4e16-8ed0-1653ad3f0e66,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,javax/persistence/EntityManager.java,find
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,6305103d-8979-4e16-8ed0-1653ad3f0e66,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,java/lang/StringBuilder.java,append
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,6305103d-8979-4e16-8ed0-1653ad3f0e66,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,5d08ef83-fe70-4bfd-9b0e-1431d64e6d85,78aaa707-5504-401a-8ff4-8b8111ebeded
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,6305103d-8979-4e16-8ed0-1653ad3f0e66,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,java/lang/StringBuilder.java,append
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,6305103d-8979-4e16-8ed0-1653ad3f0e66,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,java/lang/StringBuilder.java,toString
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,76a7f4eb-f4a1-4e59-a4ff-5d9a8e59ba40,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,java/lang/Integer.java,valueOf
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,76a7f4eb-f4a1-4e59-a4ff-5d9a8e59ba40,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,javax/persistence/EntityManager.java,find
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,c327393b-abff-4969-9f2c-1c70d2e357ce,76a7f4eb-f4a1-4e59-a4ff-5d9a8e59ba40,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,e32390be-ba2a-49c0-bc9a-21e03bdf2b97,06ec132b-71d3-4d16-b508-3270d4a8042f
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,1c4b9a83-8d85-4ae0-b8dd-c2d015e3cc6b,e388e007-ef14-47b0-9ad3-8eef5b676f5f,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,a160bb26-1259-417a-8226-a6347e6ba7bf,6d0673d2-b9b2-4c1d-9435-89e98978d020
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,fbd4f373-3d28-4e3d-827c-169783c27f9b,2a3c3af4-2780-42d4-b6ac-8897e0acf088,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,javax/servlet/http/HttpServletResponse.java,getOutputStream
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,fbd4f373-3d28-4e3d-827c-169783c27f9b,2a3c3af4-2780-42d4-b6ac-8897e0acf088,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,a160bb26-1259-417a-8226-a6347e6ba7bf,502248f1-b40f-438d-bb69-52c9250543e6
+7664e3df-5a83-4cc9-8d49-e95b79cc1b88,fbd4f373-3d28-4e3d-827c-169783c27f9b,2a3c3af4-2780-42d4-b6ac-8897e0acf088,->,7664e3df-5a83-4cc9-8d49-e95b79cc1b88,javax/servlet/ServletOutputStream.java,println

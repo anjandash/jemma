@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register
+7950a72e-126d-48b1-967a-a1d244caedfc,8b07341b-f61c-4e80-a04f-957f2b0864a2,3f5c5bf9-d167-4ecb-9254-3da1a9074e28,->,7950a72e-126d-48b1-967a-a1d244caedfc,com/esotericsoftware/kryo/Kryo.java,register

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c54f64c8-e5d6-4de8-a439-61337cc76de3,32316f92-4272-40eb-a48f-cb721c870acc,a5389774-9d81-4b91-b4ec-d4a126becf1b,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/util/List.java,add
+c54f64c8-e5d6-4de8-a439-61337cc76de3,32316f92-4272-40eb-a48f-cb721c870acc,a5389774-9d81-4b91-b4ec-d4a126becf1b,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/util/List.java,add
+c54f64c8-e5d6-4de8-a439-61337cc76de3,32316f92-4272-40eb-a48f-cb721c870acc,a5389774-9d81-4b91-b4ec-d4a126becf1b,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/util/List.java,add
+c54f64c8-e5d6-4de8-a439-61337cc76de3,32316f92-4272-40eb-a48f-cb721c870acc,a5389774-9d81-4b91-b4ec-d4a126becf1b,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/util/List.java,add
+c54f64c8-e5d6-4de8-a439-61337cc76de3,32316f92-4272-40eb-a48f-cb721c870acc,a5389774-9d81-4b91-b4ec-d4a126becf1b,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/util/List.java,add
+c54f64c8-e5d6-4de8-a439-61337cc76de3,32316f92-4272-40eb-a48f-cb721c870acc,7183554d-f326-438e-be2c-430e564bd93c,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/util/List.java,add
+c54f64c8-e5d6-4de8-a439-61337cc76de3,d364e12c-8b96-4625-9219-e7e78462b25f,0f2fce05-fd78-4b7e-8ad1-20b6dfc2aab4,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,com/google/inject/servlet/GuiceServletContextListener.java,contextInitialized
+c54f64c8-e5d6-4de8-a439-61337cc76de3,d364e12c-8b96-4625-9219-e7e78462b25f,2b470355-257c-4874-be02-d460461e7105,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,com/google/inject/Guice.java,createInjector
+c54f64c8-e5d6-4de8-a439-61337cc76de3,org/sitebricks/AppConfig$1.java,configureSitebricks,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,java/lang/Class.java,getPackage
+c54f64c8-e5d6-4de8-a439-61337cc76de3,org/sitebricks/AppConfig$1.java,configureSitebricks,->,c54f64c8-e5d6-4de8-a439-61337cc76de3,org/sitebricks/AppConfig$1.java,scan

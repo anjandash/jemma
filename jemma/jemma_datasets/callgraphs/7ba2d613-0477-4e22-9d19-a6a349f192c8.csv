@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7ba2d613-0477-4e22-9d19-a6a349f192c8,d150e804-1caf-4467-9efe-01d40397e192,961150f7-5c49-4b59-b2b9-5a598ed2e2c1,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,org/bukkit/command/CommandSender.java,sendMessage
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/lang/Object.java,getClass
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/lang/Class.java,getMethods
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/lang/reflect/Method.java,getAnnotation
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,net/jimmy1248/rpg1248/command/Command.java,name
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,org/bukkit/command/Command.java,getName
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/lang/String.java,equalsIgnoreCase
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/lang/reflect/Method.java,invoke
+7ba2d613-0477-4e22-9d19-a6a349f192c8,9c78642e-ec28-4072-9d35-7d1fefa78594,ea78f892-dbc8-4f8e-b405-709f5ca7912d,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/lang/Exception.java,printStackTrace
+7ba2d613-0477-4e22-9d19-a6a349f192c8,db63304e-1a60-476f-b3dc-f87c4f3bfdd2,7f58cd07-0fc1-4ec6-b9d9-a48b66c1a67e,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,net/jimmy1248/rpg1248/RPG1248.java,getLogger
+7ba2d613-0477-4e22-9d19-a6a349f192c8,db63304e-1a60-476f-b3dc-f87c4f3bfdd2,7f58cd07-0fc1-4ec6-b9d9-a48b66c1a67e,->,7ba2d613-0477-4e22-9d19-a6a349f192c8,java/util/logging/Logger.java,info

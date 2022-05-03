@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cc980745-3eff-4f98-88c2-a69bd8157de9,pl/piwowarek/jpszt/controller/Controller$1.java,actionPerformed,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/util/concurrent/BlockingQueue.java,put
+cc980745-3eff-4f98-88c2-a69bd8157de9,pl/piwowarek/jpszt/controller/Controller$1.java,actionPerformed,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/lang/Exception.java,printStackTrace
+cc980745-3eff-4f98-88c2-a69bd8157de9,3809fd26-34d4-4dbf-a3db-ffc97b46531e,6207aa94-9304-455c-bb7c-d13b57e701aa,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/util/concurrent/BlockingQueue.java,take
+cc980745-3eff-4f98-88c2-a69bd8157de9,3809fd26-34d4-4dbf-a3db-ffc97b46531e,6207aa94-9304-455c-bb7c-d13b57e701aa,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/lang/Object.java,getClass
+cc980745-3eff-4f98-88c2-a69bd8157de9,3809fd26-34d4-4dbf-a3db-ffc97b46531e,6207aa94-9304-455c-bb7c-d13b57e701aa,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/util/Map.java,get
+cc980745-3eff-4f98-88c2-a69bd8157de9,3809fd26-34d4-4dbf-a3db-ffc97b46531e,6207aa94-9304-455c-bb7c-d13b57e701aa,->,cc980745-3eff-4f98-88c2-a69bd8157de9,469587a3-d468-4186-b59d-1c91edcb9b3e,e4d7f1b7-ece3-42b0-b75e-42ce0f8a7413
+cc980745-3eff-4f98-88c2-a69bd8157de9,3809fd26-34d4-4dbf-a3db-ffc97b46531e,6207aa94-9304-455c-bb7c-d13b57e701aa,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/lang/Exception.java,printStackTrace
+cc980745-3eff-4f98-88c2-a69bd8157de9,pl/piwowarek/jpszt/jpszt/JPszt.java,main,->,cc980745-3eff-4f98-88c2-a69bd8157de9,3809fd26-34d4-4dbf-a3db-ffc97b46531e,6207aa94-9304-455c-bb7c-d13b57e701aa
+cc980745-3eff-4f98-88c2-a69bd8157de9,pl/piwowarek/jpszt/jpszt/JPszt.java,main,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/lang/Exception.java,printStackTrace
+cc980745-3eff-4f98-88c2-a69bd8157de9,pl/piwowarek/jpszt/jpszt/JPszt.java,main,->,cc980745-3eff-4f98-88c2-a69bd8157de9,java/lang/System.java,exit

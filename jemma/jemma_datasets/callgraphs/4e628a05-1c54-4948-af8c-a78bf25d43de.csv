@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4e628a05-1c54-4948-af8c-a78bf25d43de,1d4bf895-0db2-45eb-8a8a-d4a1f5d3c236,8a23ce38-56a9-4b69-9c22-73d41f0d8e21,->,4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/jeapi/AppTest.java,assertTrue
+4e628a05-1c54-4948-af8c-a78bf25d43de,03557795-08ab-4711-8ed4-aa8f5c6a327a,7cc6b5e5-1863-4f53-93d6-5faae9015b23,->,4e628a05-1c54-4948-af8c-a78bf25d43de,java/lang/Integer.java,valueOf
+4e628a05-1c54-4948-af8c-a78bf25d43de,03557795-08ab-4711-8ed4-aa8f5c6a327a,7cc6b5e5-1863-4f53-93d6-5faae9015b23,->,4e628a05-1c54-4948-af8c-a78bf25d43de,org/slf4j/Logger.java,error
+4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/api/JEVisUnit$Prefix.java,values,->,4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/api/JEVisUnit$Prefix.java,clone
+4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/api/JEVisUnit$Prefix.java,valueOf,->,4e628a05-1c54-4948-af8c-a78bf25d43de,java/lang/Enum.java,valueOf
+4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/api/JEVisUnitRelationship$Type.java,values,->,4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/api/JEVisUnitRelationship$Type.java,clone
+4e628a05-1c54-4948-af8c-a78bf25d43de,org/jevis/api/JEVisUnitRelationship$Type.java,valueOf,->,4e628a05-1c54-4948-af8c-a78bf25d43de,java/lang/Enum.java,valueOf

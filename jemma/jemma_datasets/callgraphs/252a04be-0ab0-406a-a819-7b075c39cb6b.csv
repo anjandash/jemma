@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+252a04be-0ab0-406a-a819-7b075c39cb6b,d82266f9-8bfa-4580-a775-2645e1c456c7,d489915c-e05f-4eb3-8500-525fc3856633,->,252a04be-0ab0-406a-a819-7b075c39cb6b,javax/swing/JPanel.java,paint
+252a04be-0ab0-406a-a819-7b075c39cb6b,d82266f9-8bfa-4580-a775-2645e1c456c7,d489915c-e05f-4eb3-8500-525fc3856633,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/awt/Graphics2D.java,fillOval
+252a04be-0ab0-406a-a819-7b075c39cb6b,27cfb847-8c59-40ce-8df8-cc325714a0f0,2322ed6b-be6e-49d4-b50d-b1d1b3bfede8,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/io/PrintStream.java,println
+252a04be-0ab0-406a-a819-7b075c39cb6b,27cfb847-8c59-40ce-8df8-cc325714a0f0,2322ed6b-be6e-49d4-b50d-b1d1b3bfede8,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/lang/Thread.java,start
+252a04be-0ab0-406a-a819-7b075c39cb6b,27cfb847-8c59-40ce-8df8-cc325714a0f0,2322ed6b-be6e-49d4-b50d-b1d1b3bfede8,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/io/PrintStream.java,println
+252a04be-0ab0-406a-a819-7b075c39cb6b,Met$Exit.java,windowClosed,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/io/PrintStream.java,println
+252a04be-0ab0-406a-a819-7b075c39cb6b,Met$Exit.java,windowClosed,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/lang/System.java,exit
+252a04be-0ab0-406a-a819-7b075c39cb6b,e3a51b78-6472-4127-8b19-f38312e81609,c74bc586-60e8-455f-abbf-72baf6dd3e8b,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/awt/event/MouseEvent.java,getX
+252a04be-0ab0-406a-a819-7b075c39cb6b,e3a51b78-6472-4127-8b19-f38312e81609,c74bc586-60e8-455f-abbf-72baf6dd3e8b,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/awt/event/MouseEvent.java,getY
+252a04be-0ab0-406a-a819-7b075c39cb6b,e3a51b78-6472-4127-8b19-f38312e81609,a8f44885-f710-45f4-8428-de1fa193f131,->,252a04be-0ab0-406a-a819-7b075c39cb6b,e3a51b78-6472-4127-8b19-f38312e81609,c74bc586-60e8-455f-abbf-72baf6dd3e8b
+252a04be-0ab0-406a-a819-7b075c39cb6b,1d36062f-bef7-453f-ac27-3e4879349f40,882897f5-3b6c-4254-a1ac-63d891f1adee,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/io/PrintStream.java,println
+252a04be-0ab0-406a-a819-7b075c39cb6b,1d36062f-bef7-453f-ac27-3e4879349f40,882897f5-3b6c-4254-a1ac-63d891f1adee,->,252a04be-0ab0-406a-a819-7b075c39cb6b,javax/swing/JFrame.java,repaint
+252a04be-0ab0-406a-a819-7b075c39cb6b,1d36062f-bef7-453f-ac27-3e4879349f40,882897f5-3b6c-4254-a1ac-63d891f1adee,->,252a04be-0ab0-406a-a819-7b075c39cb6b,184e41b6-1828-4b5f-b06e-8509cb964aea,fcc6e479-f69b-4735-8796-f4774316e631
+252a04be-0ab0-406a-a819-7b075c39cb6b,184e41b6-1828-4b5f-b06e-8509cb964aea,fcc6e479-f69b-4735-8796-f4774316e631,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/lang/Thread.java,sleep
+252a04be-0ab0-406a-a819-7b075c39cb6b,184e41b6-1828-4b5f-b06e-8509cb964aea,fcc6e479-f69b-4735-8796-f4774316e631,->,252a04be-0ab0-406a-a819-7b075c39cb6b,java/lang/InterruptedException.java,printStackTrace

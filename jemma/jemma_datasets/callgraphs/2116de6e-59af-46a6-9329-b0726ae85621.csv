@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/lang/StringBuilder.java,append
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/lang/StringBuilder.java,append
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/lang/StringBuilder.java,append
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/lang/StringBuilder.java,toString
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,org/json/simple/parser/JSONParser.java,parse
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,org/json/simple/JSONObject.java,keySet
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/util/Set.java,iterator
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/util/Iterator.java,hasNext
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/util/Iterator.java,next
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,org/json/simple/JSONObject.java,get
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/util/Map.java,put
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,org/json/simple/parser/ParseException.java,getMessage
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924,->,2116de6e-59af-46a6-9329-b0726ae85621,java/io/PrintStream.java,println
+2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,0388f12b-ab44-4738-9eed-62f48223ef07,->,2116de6e-59af-46a6-9329-b0726ae85621,2416e7ff-0429-4e0d-bdca-86eea535e664,a0987bd8-ccd6-44ce-ae58-b8b64a73a924

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUFSemEX.java,values,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUFSemEX.java,clone
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUFSemEX.java,valueOf,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,java/lang/Enum.java,valueOf
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,21bad043-103c-4d3c-b210-830e73b09706,b34979ef-8244-46d8-a023-6368c749837d,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUFSemEX.java,name
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,21bad043-103c-4d3c-b210-830e73b09706,31bffbd9-6536-48ec-809c-02c008658353,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUFSemEX.java,valueOf
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUf.java,values,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUf.java,clone
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUf.java,valueOf,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,java/lang/Enum.java,valueOf
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,9c5824d8-d0c2-45c3-b109-b0ef861a4be1,4dbf607c-d5b5-4873-ad93-65c9bdd6f222,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUf.java,name
+f94a55a6-45e2-4611-b74e-b1c98e1923c1,9c5824d8-d0c2-45c3-b109-b0ef861a4be1,cb82d1bd-d2d1-4377-a638-471982248472,->,f94a55a6-45e2-4611-b74e-b1c98e1923c1,br/inf/portalfiscal/cte/TUf.java,valueOf

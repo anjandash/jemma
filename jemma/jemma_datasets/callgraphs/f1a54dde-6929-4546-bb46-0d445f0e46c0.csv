@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,1286bdfa-2932-408e-b181-42dc5f60f835,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/StringBuilder.java,append
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,1286bdfa-2932-408e-b181-42dc5f60f835,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/StringBuilder.java,append
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,1286bdfa-2932-408e-b181-42dc5f60f835,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/StringBuilder.java,toString
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,1286bdfa-2932-408e-b181-42dc5f60f835,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,startsWith
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,1286bdfa-2932-408e-b181-42dc5f60f835,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,split
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,1286bdfa-2932-408e-b181-42dc5f60f835,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,trim
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,02ab3520-8b10-48ca-9524-f6925cb3ebf8,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,equals
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,02ab3520-8b10-48ca-9524-f6925cb3ebf8,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,equals
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,c6fdc0a2-88ed-40fe-b1c0-e557aaa3e462,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,hashCode
+f1a54dde-6929-4546-bb46-0d445f0e46c0,3da5c470-b04b-4bae-8764-656d59ae22ea,c6fdc0a2-88ed-40fe-b1c0-e557aaa3e462,->,f1a54dde-6929-4546-bb46-0d445f0e46c0,java/lang/String.java,hashCode

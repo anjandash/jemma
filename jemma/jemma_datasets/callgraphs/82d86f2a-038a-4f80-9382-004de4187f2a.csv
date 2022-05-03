@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Button$ButtonType.java,values,->,82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Button$ButtonType.java,clone
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Button$ButtonType.java,valueOf,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Enum.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Device$DeviceType.java,values,->,82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Device$DeviceType.java,clone
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Device$DeviceType.java,valueOf,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Enum.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Output$OutputType.java,values,->,82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Output$OutputType.java,clone
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Output$OutputType.java,valueOf,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Enum.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Button$Engraving.java,values,->,82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Button$Engraving.java,clone
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/Button$Engraving.java,valueOf,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Enum.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/ComponentType.java,values,->,82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/ComponentType.java,clone
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/ComponentType.java,valueOf,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Enum.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/PresetAssignment$PresetAssignmentName.java,values,->,82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/PresetAssignment$PresetAssignmentName.java,clone
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/PresetAssignment$PresetAssignmentName.java,valueOf,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Enum.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/PresetAssignment$PresetAssignmentName.java,<clinit>,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Integer.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/PresetAssignment$PresetAssignmentName.java,<clinit>,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Integer.java,valueOf
+82d86f2a-038a-4f80-9382-004de4187f2a,com/beersoft/jtron/model/PresetAssignment$PresetAssignmentName.java,<clinit>,->,82d86f2a-038a-4f80-9382-004de4187f2a,java/lang/Integer.java,valueOf

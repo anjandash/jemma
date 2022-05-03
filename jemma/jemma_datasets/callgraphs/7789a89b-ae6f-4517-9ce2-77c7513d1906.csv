@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7789a89b-ae6f-4517-9ce2-77c7513d1906,b07e530b-565b-4ba9-b98f-1eea3452317e,1586afe5-049a-4baa-bf22-1626014d3dc8,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,java/io/PrintStream.java,println
+7789a89b-ae6f-4517-9ce2-77c7513d1906,b07e530b-565b-4ba9-b98f-1eea3452317e,1586afe5-049a-4baa-bf22-1626014d3dc8,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,ViewSpell.java,Name
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,java/io/PrintStream.java,println
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,ViewSpell.java,Information
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,java/io/PrintStream.java,println
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,ViewSpell.java,ManaCost
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,java/io/PrintStream.java,println
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,ViewSpell.java,Power
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,java/io/PrintStream.java,println
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,ViewSpell.java,Chance
+7789a89b-ae6f-4517-9ce2-77c7513d1906,fc3a8cbd-e2b2-48d6-b341-4ebdd61554c0,3ad6cdbe-5a7e-4e44-9d63-4a6ea724c8f4,->,7789a89b-ae6f-4517-9ce2-77c7513d1906,java/io/PrintStream.java,println

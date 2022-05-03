@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,6bad5f55-b08b-4741-81c5-481d6bf6d755,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,6bad5f55-b08b-4741-81c5-481d6bf6d755,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/io/PrintStream.java,println
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,append
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,append
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,append
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,append
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,append
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,append
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,9c5a55f8-4ce9-4be1-a41d-31079d14ea26,5a7d7ee4-3830-4cd7-8a14-e37fa0e0d856,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,java/lang/StringBuilder.java,toString
+67f9b91f-1293-44fd-8b9e-7c6136001c4c,722d7458-325d-4de5-a94f-4a3e43bb2e88,09076161-0519-4f67-aa9a-4469caf88866,->,67f9b91f-1293-44fd-8b9e-7c6136001c4c,98c10aec-97e2-4b7b-b843-5dbdadb7731b,ee3d8606-eeec-4c2f-b2a3-63feaf6c7868

@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2a83b5ba-9064-48e3-9ae7-a0247939d9ce,f663e223-4d00-4737-bd70-fe779af18d5d,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2a83b5ba-9064-48e3-9ae7-a0247939d9ce,542f9b49-da56-4dcc-893d-deaf504570f4
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2e4ef3ec-b5fc-413b-86e0-db8b3b1a3689,e2c61463-a3ca-4931-b72e-1d960e136a72,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2e4ef3ec-b5fc-413b-86e0-db8b3b1a3689,e2c61463-a3ca-4931-b72e-1d960e136a72
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2e4ef3ec-b5fc-413b-86e0-db8b3b1a3689,e2c61463-a3ca-4931-b72e-1d960e136a72,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2e4ef3ec-b5fc-413b-86e0-db8b3b1a3689,e2c61463-a3ca-4931-b72e-1d960e136a72
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2e4ef3ec-b5fc-413b-86e0-db8b3b1a3689,a37443b5-eb61-4b73-9d88-6e6f88e1c288,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,2e4ef3ec-b5fc-413b-86e0-db8b3b1a3689,e2c61463-a3ca-4931-b72e-1d960e136a72
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,c0da747e-79e1-41d8-8b9e-e80493062f0b,cd6f58eb-9536-4a40-b752-09892dfaf3c4,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,com/arana/ds/AppTest.java,assertTrue
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,e3cb8ffe-0050-4d90-aec1-862984064829,1778ad35-aa35-4034-88ca-6f6e5e799688,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,e3cb8ffe-0050-4d90-aec1-862984064829,1778ad35-aa35-4034-88ca-6f6e5e799688
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,e3cb8ffe-0050-4d90-aec1-862984064829,1778ad35-aa35-4034-88ca-6f6e5e799688,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,e3cb8ffe-0050-4d90-aec1-862984064829,1778ad35-aa35-4034-88ca-6f6e5e799688
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,e3cb8ffe-0050-4d90-aec1-862984064829,86975b4d-fb4d-4f5c-9f24-18767de1179a,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,e3cb8ffe-0050-4d90-aec1-862984064829,1778ad35-aa35-4034-88ca-6f6e5e799688
+9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,fbf6f85a-41fc-4bb8-8e2e-37f3187b299b,366ec140-a303-4db4-aa7e-c0b8e6c1f9fd,->,9edfa656-cf3f-4eed-bfeb-5c3b9b0f24cd,java/io/PrintStream.java,println

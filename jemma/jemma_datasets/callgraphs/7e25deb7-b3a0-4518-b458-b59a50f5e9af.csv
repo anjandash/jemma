@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,Interfaz/Vista1.java,setLayout
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,javax/swing/GroupLayout.java,createParallelGroup
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,javax/swing/GroupLayout$ParallelGroup.java,addGap
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,javax/swing/GroupLayout.java,setHorizontalGroup
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,javax/swing/GroupLayout.java,createParallelGroup
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,javax/swing/GroupLayout$ParallelGroup.java,addGap
+7e25deb7-b3a0-4518-b458-b59a50f5e9af,01c34cf7-8496-4971-887c-1deaa70a166c,08c7d6a7-bf41-4f3e-b7ff-1facd5348984,->,7e25deb7-b3a0-4518-b458-b59a50f5e9af,javax/swing/GroupLayout.java,setVerticalGroup

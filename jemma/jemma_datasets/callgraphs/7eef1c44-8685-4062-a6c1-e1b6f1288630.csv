@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7eef1c44-8685-4062-a6c1-e1b6f1288630,0d75d236-0d0a-4610-85e1-798b61d40192,d3f190d4-f36f-4f0a-9b01-b531bfa20af5,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,org/apache/commons/vfs2/VFS.java,getManager
+7eef1c44-8685-4062-a6c1-e1b6f1288630,0d75d236-0d0a-4610-85e1-798b61d40192,d3f190d4-f36f-4f0a-9b01-b531bfa20af5,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,org/apache/commons/vfs2/FileSystemManager.java,resolveFile
+7eef1c44-8685-4062-a6c1-e1b6f1288630,0d75d236-0d0a-4610-85e1-798b61d40192,d3f190d4-f36f-4f0a-9b01-b531bfa20af5,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/io/PrintStream.java,println
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,org/apache/commons/vfs2/provider/GenericFileName.java,getHostName
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/lang/StringBuilder.java,append
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/lang/StringBuilder.java,append
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,org/apache/commons/vfs2/provider/GenericFileName.java,getPort
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/lang/StringBuilder.java,append
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/lang/StringBuilder.java,toString
+7eef1c44-8685-4062-a6c1-e1b6f1288630,22324d09-460a-47f2-bf75-2ea112960fe2,444bacc0-584a-4afa-ae46-d87e3fefad3d,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,org/apache/curator/framework/CuratorFrameworkFactory.java,newClient
+7eef1c44-8685-4062-a6c1-e1b6f1288630,org/mvnsearch/vfs/provider/zk/ZooKeeperFileProvider.java,<clinit>,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/util/Arrays.java,asList
+7eef1c44-8685-4062-a6c1-e1b6f1288630,org/mvnsearch/vfs/provider/zk/ZooKeeperFileProvider.java,<clinit>,->,7eef1c44-8685-4062-a6c1-e1b6f1288630,java/util/Collections.java,unmodifiableCollection

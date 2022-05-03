@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,org/apache/maven/model/InputLocation.java,getLineNumber
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,35e8d126-3226-4a85-86ae-4ab57c0b2ebe,ac669017-ee47-45f7-8160-a6c70df99dcd
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,org/apache/maven/model/InputLocation.java,getColumnNumber
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,35e8d126-3226-4a85-86ae-4ab57c0b2ebe,5d21f5d7-482f-43e3-b477-405936f82609
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,org/apache/maven/model/InputLocation.java,getSource
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,35e8d126-3226-4a85-86ae-4ab57c0b2ebe,c40d1772-33aa-4bd5-8178-a2d2ef7f5855
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7c3a96aa-3e97-4183-a76b-d6df48dce574,0bc138db-cfc1-4a6d-addc-7fe993868d0f,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/Map.java,put
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7bd066ca-048f-4bbd-8f1a-57ab7ad766ae,6a23228e-93fc-49de-9f39-c2dcaac01f44,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/Map.java,containsKey
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7bd066ca-048f-4bbd-8f1a-57ab7ad766ae,6a23228e-93fc-49de-9f39-c2dcaac01f44,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/Map.java,put
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7bd066ca-048f-4bbd-8f1a-57ab7ad766ae,6a23228e-93fc-49de-9f39-c2dcaac01f44,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/Map.java,get
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,7bd066ca-048f-4bbd-8f1a-57ab7ad766ae,6a23228e-93fc-49de-9f39-c2dcaac01f44,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/List.java,add
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,3848a68a-467f-482d-8200-4a233ccc99c6,9b154487-f420-407e-967b-d6697222bf24,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/List.java,add
+e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,3848a68a-467f-482d-8200-4a233ccc99c6,d498af15-331c-49a5-9a53-9b091b53342e,->,e6b17f3a-0edb-4f5d-8912-e3ec35f619bc,java/util/List.java,add

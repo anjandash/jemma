@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f4b1d9af-f10c-4cc2-b425-5ff4d69d1341,5491ac35-36e3-4a76-8682-e9dafe983e4d,08b44407-cd9a-47ec-90d3-b6f369fd583c,->,f4b1d9af-f10c-4cc2-b425-5ff4d69d1341,java/lang/Runnable.java,run
+f4b1d9af-f10c-4cc2-b425-5ff4d69d1341,fe64ef55-8e61-4deb-bcc6-7f863ec10785,88af9b27-8af7-4c2d-b6db-92a94b9f5c36,->,f4b1d9af-f10c-4cc2-b425-5ff4d69d1341,jar/AppTest.java,assertTrue

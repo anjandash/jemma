@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6962bb90-0f49-4515-abc8-8790362c8f4c,7377e720-7f2e-47df-81d9-2f00a0951853,ab31e7d5-83d3-42a6-8456-54680b333c41,->,6962bb90-0f49-4515-abc8-8790362c8f4c,java/io/ByteArrayOutputStream.java,toString
+6962bb90-0f49-4515-abc8-8790362c8f4c,7377e720-7f2e-47df-81d9-2f00a0951853,0443160e-d8e7-490d-b0a2-aa18d54b3b74,->,6962bb90-0f49-4515-abc8-8790362c8f4c,org/mockito/MockitoAnnotations.java,initMocks
+6962bb90-0f49-4515-abc8-8790362c8f4c,7377e720-7f2e-47df-81d9-2f00a0951853,0443160e-d8e7-490d-b0a2-aa18d54b3b74,->,6962bb90-0f49-4515-abc8-8790362c8f4c,java/lang/System.java,setOut
+6962bb90-0f49-4515-abc8-8790362c8f4c,7377e720-7f2e-47df-81d9-2f00a0951853,d360b33c-2df6-45a5-bccf-1e1026e4f847,->,6962bb90-0f49-4515-abc8-8790362c8f4c,java/lang/System.java,setOut

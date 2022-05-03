@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+50b785bf-7bf0-464d-9f4b-4b73b4864b26,2fee6755-339b-4e65-86cf-b9fe01f64fbc,df192109-9a93-4835-b1fe-44c0d9c92478,->,50b785bf-7bf0-464d-9f4b-4b73b4864b26,java/util/ArrayList.java,add
+50b785bf-7bf0-464d-9f4b-4b73b4864b26,gymevents/ExerciseType.java,values,->,50b785bf-7bf0-464d-9f4b-4b73b4864b26,gymevents/ExerciseType.java,clone
+50b785bf-7bf0-464d-9f4b-4b73b4864b26,gymevents/ExerciseType.java,valueOf,->,50b785bf-7bf0-464d-9f4b-4b73b4864b26,java/lang/Enum.java,valueOf
+50b785bf-7bf0-464d-9f4b-4b73b4864b26,gymevents/EventType.java,values,->,50b785bf-7bf0-464d-9f4b-4b73b4864b26,gymevents/EventType.java,clone
+50b785bf-7bf0-464d-9f4b-4b73b4864b26,gymevents/EventType.java,valueOf,->,50b785bf-7bf0-464d-9f4b-4b73b4864b26,java/lang/Enum.java,valueOf

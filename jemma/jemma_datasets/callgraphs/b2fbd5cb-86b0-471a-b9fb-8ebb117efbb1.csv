@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,646d5665-7e8b-4708-9813-a440e1a49b1a,b3988de0-7b72-453c-90ce-bc4256b4c0d7,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,org/springframework/boot/SpringApplication.java,run
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,1cb9510a-fc8e-4d4f-989f-cb7caf4e8188,81feab24-f27a-4faf-a3c5-6356d1f6cb5a,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,1cb9510a-fc8e-4d4f-989f-cb7caf4e8188,81feab24-f27a-4faf-a3c5-6356d1f6cb5a,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,java/lang/String.java,format
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,org/springframework/boot/SpringApplication.java,run
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,org/springframework/web/client/RestTemplate.java,getForObject
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,java/lang/StringBuilder.java,append
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,9ec73bb1-2430-4132-8ddd-d21e5f3d775a,43846378-0a78-4a02-a684-269b20de6425
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,java/lang/StringBuilder.java,append
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,java/lang/StringBuilder.java,toString
+b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,8248df5e-f7b7-444d-b9b3-6a492b0f5f77,62fffe27-2f60-408f-982c-db36b96ec40b,->,b2fbd5cb-86b0-471a-b9fb-8ebb117efbb1,java/io/PrintStream.java,println

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0a8f53a4-ff37-48f6-9824-44992190c76f,4b706278-03f0-4897-9a50-f21aed172dfd,e2fe21d5-1960-4649-9977-a282da10dac5,->,0a8f53a4-ff37-48f6-9824-44992190c76f,com/xphreak/domain/AppTest.java,assertTrue
+0a8f53a4-ff37-48f6-9824-44992190c76f,112dd08f-ebac-4c3a-9119-a0f13cecf7b0,9a6a0570-2435-420f-9ad5-8ad6e2e51dfe,->,0a8f53a4-ff37-48f6-9824-44992190c76f,java/io/PrintStream.java,println
+0a8f53a4-ff37-48f6-9824-44992190c76f,ccdec000-7302-4eaa-9bed-f721273c7408,a620f04c-5b04-4cfd-a3ab-f3f2338162ec,->,0a8f53a4-ff37-48f6-9824-44992190c76f,com/xphreak/dao/AppTest.java,assertTrue
+0a8f53a4-ff37-48f6-9824-44992190c76f,4b6da17f-9cbd-4fd7-bad9-9e99bc146ca9,fc6c1be3-4d01-408e-87ef-207621f212ba,->,0a8f53a4-ff37-48f6-9824-44992190c76f,java/io/PrintStream.java,println
+0a8f53a4-ff37-48f6-9824-44992190c76f,14f4bdd2-ae74-435c-badb-47027175d16e,742dbde5-1c80-4b3e-86ed-7de69fc6bd99,->,0a8f53a4-ff37-48f6-9824-44992190c76f,com/xphreak/service/AppTest.java,assertTrue
+0a8f53a4-ff37-48f6-9824-44992190c76f,d9364a02-3ead-483c-af50-4ba9cf7595f9,5abceaad-b3bf-48d7-9912-76e6db439e1d,->,0a8f53a4-ff37-48f6-9824-44992190c76f,java/io/PrintStream.java,println
+0a8f53a4-ff37-48f6-9824-44992190c76f,4e26d3e7-22b8-47be-9387-ffa12ea8f053,b549a053-4bb8-4177-97a3-7ad88971cfc6,->,0a8f53a4-ff37-48f6-9824-44992190c76f,com/xphreak/AppTest.java,assertTrue
+0a8f53a4-ff37-48f6-9824-44992190c76f,e3004da5-fcdc-4918-a79c-6be03dac0d1e,728ccda5-470c-4268-b359-3c0c39a3eb79,->,0a8f53a4-ff37-48f6-9824-44992190c76f,java/io/PrintStream.java,println

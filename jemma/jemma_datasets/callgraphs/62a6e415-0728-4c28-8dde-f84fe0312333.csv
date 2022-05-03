@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+62a6e415-0728-4c28-8dde-f84fe0312333,4a853268-ebc9-4de0-ac34-47a38f48a0f6,1dccd1b5-e913-428a-8f2b-c835e6df589c,->,62a6e415-0728-4c28-8dde-f84fe0312333,0abc99f1-ea9f-4e88-8e0e-16a32a7fdc98,a4fafa1b-b69d-4ecf-9c6f-ee824568e778
+62a6e415-0728-4c28-8dde-f84fe0312333,4a853268-ebc9-4de0-ac34-47a38f48a0f6,1dccd1b5-e913-428a-8f2b-c835e6df589c,->,62a6e415-0728-4c28-8dde-f84fe0312333,java/lang/Thread.java,sleep
+62a6e415-0728-4c28-8dde-f84fe0312333,4a853268-ebc9-4de0-ac34-47a38f48a0f6,1dccd1b5-e913-428a-8f2b-c835e6df589c,->,62a6e415-0728-4c28-8dde-f84fe0312333,35beb272-2634-4a50-bd38-e96599e16191,cd9cc875-2e06-485d-95ca-152cc6a86e4d
+62a6e415-0728-4c28-8dde-f84fe0312333,4a853268-ebc9-4de0-ac34-47a38f48a0f6,1dccd1b5-e913-428a-8f2b-c835e6df589c,->,62a6e415-0728-4c28-8dde-f84fe0312333,org/junit/Assert.java,assertEquals
+62a6e415-0728-4c28-8dde-f84fe0312333,35beb272-2634-4a50-bd38-e96599e16191,8f7e2648-f92c-418e-b50c-a6cfddcb0618,->,62a6e415-0728-4c28-8dde-f84fe0312333,java/lang/Object.java,getClass
+62a6e415-0728-4c28-8dde-f84fe0312333,44cf85fb-b4d0-4675-b2d3-c604298d2d2d,0a8d2317-0bb3-4f9f-a89b-dbb3bbf8aa8a,->,62a6e415-0728-4c28-8dde-f84fe0312333,org/mockito/Mockito.java,mock
+62a6e415-0728-4c28-8dde-f84fe0312333,44cf85fb-b4d0-4675-b2d3-c604298d2d2d,0a8d2317-0bb3-4f9f-a89b-dbb3bbf8aa8a,->,62a6e415-0728-4c28-8dde-f84fe0312333,tk/skuro/spring/observable/SpringObservableImpl.java,addObserver
+62a6e415-0728-4c28-8dde-f84fe0312333,44cf85fb-b4d0-4675-b2d3-c604298d2d2d,0a8d2317-0bb3-4f9f-a89b-dbb3bbf8aa8a,->,62a6e415-0728-4c28-8dde-f84fe0312333,0abc99f1-ea9f-4e88-8e0e-16a32a7fdc98,a4fafa1b-b69d-4ecf-9c6f-ee824568e778
+62a6e415-0728-4c28-8dde-f84fe0312333,44cf85fb-b4d0-4675-b2d3-c604298d2d2d,0a8d2317-0bb3-4f9f-a89b-dbb3bbf8aa8a,->,62a6e415-0728-4c28-8dde-f84fe0312333,org/mockito/Mockito.java,verify
+62a6e415-0728-4c28-8dde-f84fe0312333,44cf85fb-b4d0-4675-b2d3-c604298d2d2d,0a8d2317-0bb3-4f9f-a89b-dbb3bbf8aa8a,->,62a6e415-0728-4c28-8dde-f84fe0312333,tk/skuro/spring/observer/SpringObserver.java,update
+62a6e415-0728-4c28-8dde-f84fe0312333,da260fd2-0364-4ed7-8116-c185fa31c3e2,8886f793-a578-471e-a889-6bb8b48b414c,->,62a6e415-0728-4c28-8dde-f84fe0312333,ec128eb8-d48f-4dae-932d-294d2ab0a6c6,aa9e434f-3ddc-459c-ad8a-51d0f01a03e6
+62a6e415-0728-4c28-8dde-f84fe0312333,da260fd2-0364-4ed7-8116-c185fa31c3e2,8886f793-a578-471e-a889-6bb8b48b414c,->,62a6e415-0728-4c28-8dde-f84fe0312333,java/lang/Object.java,getClass
+62a6e415-0728-4c28-8dde-f84fe0312333,da260fd2-0364-4ed7-8116-c185fa31c3e2,8886f793-a578-471e-a889-6bb8b48b414c,->,62a6e415-0728-4c28-8dde-f84fe0312333,java/lang/Class.java,isAssignableFrom
+62a6e415-0728-4c28-8dde-f84fe0312333,da260fd2-0364-4ed7-8116-c185fa31c3e2,8886f793-a578-471e-a889-6bb8b48b414c,->,62a6e415-0728-4c28-8dde-f84fe0312333,ec128eb8-d48f-4dae-932d-294d2ab0a6c6,dc8cabb5-2bfb-4e48-9eda-23dd5ae4f377
+62a6e415-0728-4c28-8dde-f84fe0312333,0abc99f1-ea9f-4e88-8e0e-16a32a7fdc98,a4fafa1b-b69d-4ecf-9c6f-ee824568e778,->,62a6e415-0728-4c28-8dde-f84fe0312333,tk/skuro/spring/observable/SpringObservableImpl.java,setChanged
+62a6e415-0728-4c28-8dde-f84fe0312333,0abc99f1-ea9f-4e88-8e0e-16a32a7fdc98,a4fafa1b-b69d-4ecf-9c6f-ee824568e778,->,62a6e415-0728-4c28-8dde-f84fe0312333,tk/skuro/spring/observable/SpringObservableImpl.java,notifyObservers

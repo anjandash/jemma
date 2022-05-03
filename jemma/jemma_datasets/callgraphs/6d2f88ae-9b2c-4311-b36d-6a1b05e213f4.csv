@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,a5866341-c3ff-4ccd-a5c5-42d22617efab,a220499f-4ef3-46a9-bd9c-f050c2d61f4f,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,java/io/PrintStream.java,println
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,a5866341-c3ff-4ccd-a5c5-42d22617efab,e42c11bd-5636-480b-879e-e593ed322b78,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,a5866341-c3ff-4ccd-a5c5-42d22617efab,a220499f-4ef3-46a9-bd9c-f050c2d61f4f
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,de76ff7f-026e-4ec6-ba3c-d842755c5c9b,0ed062c8-6e24-4c1f-bc57-6f8aaf530315,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,java/io/PrintStream.java,println
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,de76ff7f-026e-4ec6-ba3c-d842755c5c9b,43bea861-7afd-4512-a8a5-34318f280811,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,de76ff7f-026e-4ec6-ba3c-d842755c5c9b,0ed062c8-6e24-4c1f-bc57-6f8aaf530315
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,b371b2a5-9242-455e-8dce-fab43bb2dd91,87c865ff-24c0-406b-91a4-723811082417,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,java/io/PrintStream.java,println
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,b371b2a5-9242-455e-8dce-fab43bb2dd91,9b4c96e6-807f-45cb-83fd-b2483a3ac469,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,b371b2a5-9242-455e-8dce-fab43bb2dd91,87c865ff-24c0-406b-91a4-723811082417
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,9e67aa94-7a9e-46af-9cda-23edfa8816c8,ed30a516-0041-4937-8bbe-c37cdd53cd92,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,java/io/PrintStream.java,println
+6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,9e67aa94-7a9e-46af-9cda-23edfa8816c8,04447053-78ef-4374-b6c1-a7fe1472e4a9,->,6d2f88ae-9b2c-4311-b36d-6a1b05e213f4,9e67aa94-7a9e-46af-9cda-23edfa8816c8,ed30a516-0041-4937-8bbe-c37cdd53cd92

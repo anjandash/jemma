@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,com/mokeu/loler/types/Tier.java,values,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,com/mokeu/loler/types/Tier.java,clone
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,com/mokeu/loler/types/Tier.java,valueOf,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/Enum.java,valueOf
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,com/mokeu/loler/types/Region.java,values,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,com/mokeu/loler/types/Region.java,clone
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,com/mokeu/loler/types/Region.java,valueOf,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/Enum.java,valueOf
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,f4a36951-7c28-4f6b-9695-3b6324c960be,c8fafee5-93e8-4e98-a526-9dccefb99d65,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/StringBuilder.java,append
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,f4a36951-7c28-4f6b-9695-3b6324c960be,c8fafee5-93e8-4e98-a526-9dccefb99d65,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,javax/swing/plaf/synth/Region.java,toString
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,f4a36951-7c28-4f6b-9695-3b6324c960be,c8fafee5-93e8-4e98-a526-9dccefb99d65,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/StringBuilder.java,append
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,f4a36951-7c28-4f6b-9695-3b6324c960be,c8fafee5-93e8-4e98-a526-9dccefb99d65,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/StringBuilder.java,append
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,f4a36951-7c28-4f6b-9695-3b6324c960be,c8fafee5-93e8-4e98-a526-9dccefb99d65,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/StringBuilder.java,append
+b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,f4a36951-7c28-4f6b-9695-3b6324c960be,c8fafee5-93e8-4e98-a526-9dccefb99d65,->,b91fbcc4-6d9b-4e92-a43c-b9aa112a0013,java/lang/StringBuilder.java,toString

@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+050dc418-bade-4da1-82f6-3c419e5d0cf8,7ab9e0f7-b26c-4692-8842-a3c9d6139152,a7482340-077c-4652-b93e-78ed6e9e3d7a,->,050dc418-bade-4da1-82f6-3c419e5d0cf8,myinterface/SalaryPlusCommissionEmployee.java,getSalary

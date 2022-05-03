@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+78a0276d-d19f-4edd-832e-d80b85259541,c23b7fa5-1592-4b30-a569-bc5aa7d3657f,3a2e415c-d573-4d38-9a1d-6d3fd317839f,->,78a0276d-d19f-4edd-832e-d80b85259541,com/social/domain/AppTest.java,assertTrue
+78a0276d-d19f-4edd-832e-d80b85259541,4da5c60a-c55d-4f88-afd7-d142364bacb5,c23677b4-30f7-400c-a50d-295c1b18044f,->,78a0276d-d19f-4edd-832e-d80b85259541,java/io/PrintStream.java,println
+78a0276d-d19f-4edd-832e-d80b85259541,2106d615-3f45-44c1-b46a-bbe1da288bae,914f88de-cfd9-4b4b-9efa-42608ff40005,->,78a0276d-d19f-4edd-832e-d80b85259541,com/social/dao/AppTest.java,assertTrue
+78a0276d-d19f-4edd-832e-d80b85259541,a49f01bf-901f-4f8d-89e4-ce5a56694a9b,16bb1bbb-f62e-43f1-9bd5-502cabe6b459,->,78a0276d-d19f-4edd-832e-d80b85259541,java/io/PrintStream.java,println
+78a0276d-d19f-4edd-832e-d80b85259541,fcb5e1e6-52b1-4a1b-b5ff-21abdfd93d60,104ff876-fad9-4574-8b85-3416345e9572,->,78a0276d-d19f-4edd-832e-d80b85259541,com/social/service/AppTest.java,assertTrue
+78a0276d-d19f-4edd-832e-d80b85259541,ae0d3e39-e029-4400-bfdd-e209cc43cd26,5feba91c-cdb9-45b3-b1d4-d84714b0f0f1,->,78a0276d-d19f-4edd-832e-d80b85259541,java/io/PrintStream.java,println
+78a0276d-d19f-4edd-832e-d80b85259541,b5997c54-faef-4b1e-866c-26e08699eb90,580e89d8-bc0c-4176-9d0c-8002f17e1766,->,78a0276d-d19f-4edd-832e-d80b85259541,org/slf4j/Logger.java,info
+78a0276d-d19f-4edd-832e-d80b85259541,b5997c54-faef-4b1e-866c-26e08699eb90,580e89d8-bc0c-4176-9d0c-8002f17e1766,->,78a0276d-d19f-4edd-832e-d80b85259541,java/text/DateFormat.java,getDateTimeInstance
+78a0276d-d19f-4edd-832e-d80b85259541,b5997c54-faef-4b1e-866c-26e08699eb90,580e89d8-bc0c-4176-9d0c-8002f17e1766,->,78a0276d-d19f-4edd-832e-d80b85259541,java/text/DateFormat.java,format
+78a0276d-d19f-4edd-832e-d80b85259541,b5997c54-faef-4b1e-866c-26e08699eb90,580e89d8-bc0c-4176-9d0c-8002f17e1766,->,78a0276d-d19f-4edd-832e-d80b85259541,org/springframework/ui/Model.java,addAttribute
+78a0276d-d19f-4edd-832e-d80b85259541,com/social/web/HomeController.java,<clinit>,->,78a0276d-d19f-4edd-832e-d80b85259541,org/slf4j/LoggerFactory.java,getLogger
+78a0276d-d19f-4edd-832e-d80b85259541,08ea49fa-0fad-48ae-bd4f-78c60e95e9ec,99972233-d8be-457c-a8df-384dea44bcea,->,78a0276d-d19f-4edd-832e-d80b85259541,com/social/Contablog/AppTest.java,assertTrue
+78a0276d-d19f-4edd-832e-d80b85259541,f6b9b22b-5689-41c4-95fa-c19da292f77d,bfa392fc-7165-423e-b9b0-2acdbebe09a1,->,78a0276d-d19f-4edd-832e-d80b85259541,java/io/PrintStream.java,println

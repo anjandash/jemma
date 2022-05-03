@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c5037a57-433a-49bd-9d02-e5f0042cdacd,cbf066e0-e0d4-4a83-b072-d43020bf0cbc,a36ac186-9478-4e35-add6-325c8566136f,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,org/eclipse/jface/dialogs/MessageDialog.java,openConfirm
+c5037a57-433a-49bd-9d02-e5f0042cdacd,cbf066e0-e0d4-4a83-b072-d43020bf0cbc,a36ac186-9478-4e35-add6-325c8566136f,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,org/eclipse/e4/ui/workbench/IWorkbench.java,close
+c5037a57-433a-49bd-9d02-e5f0042cdacd,c230a61e-536c-46c8-93d7-2001479e7337,0e6eb84c-6813-4918-b1f5-e0eab031e316,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,org/eclipse/jface/dialogs/MessageDialog.java,openInformation
+c5037a57-433a-49bd-9d02-e5f0042cdacd,c5157ff7-adf2-4040-b301-10bdd3477cf2,a3b333bc-e98a-4cb1-9980-0cafe86b875a,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,org/eclipse/swt/widgets/FileDialog.java,open
+c5037a57-433a-49bd-9d02-e5f0042cdacd,1ebb2787-6fff-4770-ac74-1db61690acbb,75c2fd90-132d-43ad-b3a5-725f95ed0b7a,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,org/eclipse/e4/ui/workbench/modeling/EPartService.java,getDirtyParts
+c5037a57-433a-49bd-9d02-e5f0042cdacd,1ebb2787-6fff-4770-ac74-1db61690acbb,75c2fd90-132d-43ad-b3a5-725f95ed0b7a,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,java/util/Collection.java,isEmpty
+c5037a57-433a-49bd-9d02-e5f0042cdacd,1ebb2787-6fff-4770-ac74-1db61690acbb,256732f6-1443-4a00-b062-8de0e53a58ee,->,c5037a57-433a-49bd-9d02-e5f0042cdacd,org/eclipse/e4/ui/workbench/modeling/EPartService.java,saveAll

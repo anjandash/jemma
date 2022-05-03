@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+44367cbf-ad01-4b01-b80a-96e9fff3f132,e7266460-590f-48f1-aafd-99324bf93ebc,3a15720e-2477-4e6d-929e-292e5d3d839c,->,44367cbf-ad01-4b01-b80a-96e9fff3f132,java/lang/Math.java,pow
+44367cbf-ad01-4b01-b80a-96e9fff3f132,e7266460-590f-48f1-aafd-99324bf93ebc,3a15720e-2477-4e6d-929e-292e5d3d839c,->,44367cbf-ad01-4b01-b80a-96e9fff3f132,java/lang/Math.java,pow
+44367cbf-ad01-4b01-b80a-96e9fff3f132,e7266460-590f-48f1-aafd-99324bf93ebc,3a15720e-2477-4e6d-929e-292e5d3d839c,->,44367cbf-ad01-4b01-b80a-96e9fff3f132,java/lang/Math.java,sqrt

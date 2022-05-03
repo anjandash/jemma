@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/Object.java,getClass
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/Object.java,hashCode
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/Object.java,toString
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,append
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,ae8cd098-503b-4051-9f04-72e2f01b9899,caf82481-afb9-435e-832a-a68ed1961501,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/StringBuilder.java,toString
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,3be80065-1bc3-45f9-a59c-3765f5043726,95a57f94-7c08-46e3-a716-915610eb582c,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/String.java,hashCode
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,3be80065-1bc3-45f9-a59c-3765f5043726,a6fc60c6-2840-4a9c-9f13-34dfef836c07,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/Object.java,getClass
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,3be80065-1bc3-45f9-a59c-3765f5043726,a6fc60c6-2840-4a9c-9f13-34dfef836c07,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/Object.java,getClass
+93cad8bd-0b56-42b5-9d6b-a5f83623d641,3be80065-1bc3-45f9-a59c-3765f5043726,a6fc60c6-2840-4a9c-9f13-34dfef836c07,->,93cad8bd-0b56-42b5-9d6b-a5f83623d641,java/lang/String.java,equals

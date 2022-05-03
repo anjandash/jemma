@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+367d860a-551f-4e60-9db7-c4e3811041c9,409210c3-cadd-468b-8ea7-234b1cf81f7f,e85dab57-2c2b-48d8-b4d6-01031d26b871,->,367d860a-551f-4e60-9db7-c4e3811041c9,java/io/PrintStream.java,println
+367d860a-551f-4e60-9db7-c4e3811041c9,409210c3-cadd-468b-8ea7-234b1cf81f7f,432c1980-b67d-40f4-8c5e-49e6c26cc6f4,->,367d860a-551f-4e60-9db7-c4e3811041c9,java/io/PrintStream.java,println
+367d860a-551f-4e60-9db7-c4e3811041c9,409210c3-cadd-468b-8ea7-234b1cf81f7f,432c1980-b67d-40f4-8c5e-49e6c26cc6f4,->,367d860a-551f-4e60-9db7-c4e3811041c9,cbaa2d23-cb5b-4f57-b7ed-9ecc2df14305,072e8e9c-ed09-426f-bb97-0ebcd3dea6a8
+367d860a-551f-4e60-9db7-c4e3811041c9,409210c3-cadd-468b-8ea7-234b1cf81f7f,44df5bb2-e2a0-4211-a4b9-a0ded224a1d6,->,367d860a-551f-4e60-9db7-c4e3811041c9,java/io/PrintStream.java,println
+367d860a-551f-4e60-9db7-c4e3811041c9,ac61c934-28ff-4397-bac5-28da33a29931,c62eef7c-9677-4ecb-9649-6f31588f1b33,->,367d860a-551f-4e60-9db7-c4e3811041c9,java/lang/Math.java,random
+367d860a-551f-4e60-9db7-c4e3811041c9,ac61c934-28ff-4397-bac5-28da33a29931,c62eef7c-9677-4ecb-9649-6f31588f1b33,->,367d860a-551f-4e60-9db7-c4e3811041c9,java/lang/Math.java,random

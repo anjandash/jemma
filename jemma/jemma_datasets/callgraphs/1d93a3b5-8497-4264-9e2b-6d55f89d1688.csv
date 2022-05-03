@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1d93a3b5-8497-4264-9e2b-6d55f89d1688,3135fc20-bdca-43be-a057-e8cbd55edd09,57a4e171-9e08-4ae0-8ff1-2b142906e6d3,->,1d93a3b5-8497-4264-9e2b-6d55f89d1688,java/lang/Class.java,forName
+1d93a3b5-8497-4264-9e2b-6d55f89d1688,3135fc20-bdca-43be-a057-e8cbd55edd09,57a4e171-9e08-4ae0-8ff1-2b142906e6d3,->,1d93a3b5-8497-4264-9e2b-6d55f89d1688,java/lang/Class.java,newInstance
+1d93a3b5-8497-4264-9e2b-6d55f89d1688,3135fc20-bdca-43be-a057-e8cbd55edd09,57a4e171-9e08-4ae0-8ff1-2b142906e6d3,->,1d93a3b5-8497-4264-9e2b-6d55f89d1688,933747a8-92e9-42ff-a5e6-c8c1818e138d,d646d069-e713-40ff-bf00-5ce0d12a3686
+1d93a3b5-8497-4264-9e2b-6d55f89d1688,1d8e690e-a649-4c53-9417-d55997571b10,aa2a9c53-29ad-4fa3-86c5-f5d1ca11ee8a,->,1d93a3b5-8497-4264-9e2b-6d55f89d1688,java/lang/Exception.java,getMessage

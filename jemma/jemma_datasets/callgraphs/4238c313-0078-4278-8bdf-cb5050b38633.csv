@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4238c313-0078-4278-8bdf-cb5050b38633,javax/transaction/Transactional$TxType.java,values,->,4238c313-0078-4278-8bdf-cb5050b38633,javax/transaction/Transactional$TxType.java,clone
+4238c313-0078-4278-8bdf-cb5050b38633,javax/transaction/Transactional$TxType.java,valueOf,->,4238c313-0078-4278-8bdf-cb5050b38633,java/lang/Enum.java,valueOf

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,15884e1c-29da-4977-be24-ab76cb1546bf,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/io/PrintStream.java,println
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,15884e1c-29da-4977-be24-ab76cb1546bf,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/lang/Object.java,wait
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,15884e1c-29da-4977-be24-ab76cb1546bf,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/lang/Object.java,notifyAll
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,3b904438-0bd9-4867-99f1-7303e9766336,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/io/PrintStream.java,println
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,3b904438-0bd9-4867-99f1-7303e9766336,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/lang/Object.java,wait
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,3b904438-0bd9-4867-99f1-7303e9766336,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/lang/Object.java,notifyAll
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,3b99bc0e-f4ff-4623-8107-c14b16751311,1d183267-3c49-46ca-aa6b-0d931170a8c4,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/io/PrintStream.java,println
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,3b99bc0e-f4ff-4623-8107-c14b16751311,1d183267-3c49-46ca-aa6b-0d931170a8c4,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,3b904438-0bd9-4867-99f1-7303e9766336
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,3b99bc0e-f4ff-4623-8107-c14b16751311,1d183267-3c49-46ca-aa6b-0d931170a8c4,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/io/PrintStream.java,println
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,29d1e91a-17e5-4c81-baf1-d8586d5dd7ab,97da161e-0747-49fb-83f6-b3a3ce8450d7,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/lang/Thread.java,start
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,29d1e91a-17e5-4c81-baf1-d8586d5dd7ab,97da161e-0747-49fb-83f6-b3a3ce8450d7,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,java/lang/Thread.java,start
+e567ba97-9583-4e66-b0a4-88b79fcb8cbd,7f371999-b336-4d5e-a746-54bd6e6d6a49,516fdb5e-8fe4-4c1d-83e1-8b70fc881a80,->,e567ba97-9583-4e66-b0a4-88b79fcb8cbd,92ef40c2-afe9-4c7f-83a6-12baacb40166,15884e1c-29da-4977-be24-ab76cb1546bf

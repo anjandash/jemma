@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/kristal/data/messages/PlayerStartSessionResponse$StartSessionResponseType.java,values,->,5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/kristal/data/messages/PlayerStartSessionResponse$StartSessionResponseType.java,clone
+5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/kristal/data/messages/PlayerStartSessionResponse$StartSessionResponseType.java,valueOf,->,5e8d3c52-5b22-4898-9884-c8a53542d806,java/lang/Enum.java,valueOf
+5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/kristal/data/messages/PlayerMoveResponse$MoveResponseType.java,values,->,5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/kristal/data/messages/PlayerMoveResponse$MoveResponseType.java,clone
+5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/kristal/data/messages/PlayerMoveResponse$MoveResponseType.java,valueOf,->,5e8d3c52-5b22-4898-9884-c8a53542d806,java/lang/Enum.java,valueOf
+5e8d3c52-5b22-4898-9884-c8a53542d806,c5da9ce8-ff04-4689-b2a6-fe3a406ef5de,8f688390-bae2-47bc-96f3-539d6488b52b,->,5e8d3c52-5b22-4898-9884-c8a53542d806,com/github/tgiachi/AppTest.java,assertTrue
+5e8d3c52-5b22-4898-9884-c8a53542d806,9e6b7bb4-8571-495c-abe5-c0f0375a89b0,cd873470-d47d-41e9-bc9f-0fd99519a5d1,->,5e8d3c52-5b22-4898-9884-c8a53542d806,java/io/PrintStream.java,println

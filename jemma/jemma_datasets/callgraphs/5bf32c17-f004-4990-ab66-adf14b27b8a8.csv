@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Architecture.java,values,->,5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Architecture.java,clone
+5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Architecture.java,valueOf,->,5bf32c17-f004-4990-ab66-adf14b27b8a8,java/lang/Enum.java,valueOf
+5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Profile.java,values,->,5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Profile.java,clone
+5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Profile.java,valueOf,->,5bf32c17-f004-4990-ab66-adf14b27b8a8,java/lang/Enum.java,valueOf
+5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Bound.java,values,->,5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Bound.java,clone
+5bf32c17-f004-4990-ab66-adf14b27b8a8,com/github/diegopacheco/sandbox/java/arch/annotations/arch/Bound.java,valueOf,->,5bf32c17-f004-4990-ab66-adf14b27b8a8,java/lang/Enum.java,valueOf

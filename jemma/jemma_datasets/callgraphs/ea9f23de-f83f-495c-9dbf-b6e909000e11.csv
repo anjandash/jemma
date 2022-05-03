@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ea9f23de-f83f-495c-9dbf-b6e909000e11,a553efda-6ed1-49bb-8a1f-aa52e7f5fc05,78d833a8-f6d6-4e1b-ad8a-cf9878e6cfa0,->,ea9f23de-f83f-495c-9dbf-b6e909000e11,java/awt/EventQueue.java,invokeLater
+ea9f23de-f83f-495c-9dbf-b6e909000e11,a553efda-6ed1-49bb-8a1f-aa52e7f5fc05,a3b9b1bd-4fa0-47eb-bce6-8aed10f2fd52,->,ea9f23de-f83f-495c-9dbf-b6e909000e11,javax/swing/JFrame.java,setBounds
+ea9f23de-f83f-495c-9dbf-b6e909000e11,a553efda-6ed1-49bb-8a1f-aa52e7f5fc05,a3b9b1bd-4fa0-47eb-bce6-8aed10f2fd52,->,ea9f23de-f83f-495c-9dbf-b6e909000e11,javax/swing/JFrame.java,setDefaultCloseOperation
+ea9f23de-f83f-495c-9dbf-b6e909000e11,locadora/gui/Locadora$1.java,run,->,ea9f23de-f83f-495c-9dbf-b6e909000e11,locadora/gui/Locadora.java,access$000
+ea9f23de-f83f-495c-9dbf-b6e909000e11,locadora/gui/Locadora$1.java,run,->,ea9f23de-f83f-495c-9dbf-b6e909000e11,javax/swing/JFrame.java,setVisible
+ea9f23de-f83f-495c-9dbf-b6e909000e11,locadora/gui/Locadora$1.java,run,->,ea9f23de-f83f-495c-9dbf-b6e909000e11,java/lang/Exception.java,printStackTrace

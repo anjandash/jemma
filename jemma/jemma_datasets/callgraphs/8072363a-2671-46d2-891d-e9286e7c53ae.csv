@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8072363a-2671-46d2-891d-e9286e7c53ae,9b723e03-8767-417a-bcf9-0aa6f5d04265,155bef94-ce22-4637-8a5e-3acb22d55bb8,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/util/List.java,add
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,append
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,append
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,append
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,append
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,append
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,append
+8072363a-2671-46d2-891d-e9286e7c53ae,8461decf-7576-43f7-80a3-03b2292fa169,6e96b6ff-70ce-47df-89fe-6b51da3d3abe,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/StringBuilder.java,toString
+8072363a-2671-46d2-891d-e9286e7c53ae,edu/dnu/fpm/schedule/domain/SubgroupFlag.java,values,->,8072363a-2671-46d2-891d-e9286e7c53ae,edu/dnu/fpm/schedule/domain/SubgroupFlag.java,clone
+8072363a-2671-46d2-891d-e9286e7c53ae,edu/dnu/fpm/schedule/domain/SubgroupFlag.java,valueOf,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/Enum.java,valueOf
+8072363a-2671-46d2-891d-e9286e7c53ae,5c97848d-1f38-4049-9621-8e0b206cf8a6,aa125958-db2a-4036-9975-aa85ccb47fc5,->,8072363a-2671-46d2-891d-e9286e7c53ae,9b723e03-8767-417a-bcf9-0aa6f5d04265,155bef94-ce22-4637-8a5e-3acb22d55bb8
+8072363a-2671-46d2-891d-e9286e7c53ae,308bd553-ca0a-401f-b03e-fc00d761e63c,f5d9e3e3-c46f-4709-9a03-1b333fda7647,->,8072363a-2671-46d2-891d-e9286e7c53ae,5c97848d-1f38-4049-9621-8e0b206cf8a6,aa125958-db2a-4036-9975-aa85ccb47fc5
+8072363a-2671-46d2-891d-e9286e7c53ae,edu/dnu/fpm/schedule/domain/EvenOddFlag.java,values,->,8072363a-2671-46d2-891d-e9286e7c53ae,edu/dnu/fpm/schedule/domain/EvenOddFlag.java,clone
+8072363a-2671-46d2-891d-e9286e7c53ae,edu/dnu/fpm/schedule/domain/EvenOddFlag.java,valueOf,->,8072363a-2671-46d2-891d-e9286e7c53ae,java/lang/Enum.java,valueOf

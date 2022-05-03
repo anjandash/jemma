@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,e6e65eb8-88cb-4aa5-aad4-b26155d67e86,314b9141-3ba9-4b8a-818b-320c9c41fa97,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/io/PrintStream.java,println
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,ef2b1369-4261-4324-8354-0202bd6236a0,56d703ed-16db-4fd3-905f-ac15ffc9b486,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/io/PrintStream.java,println
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,eeb18ae5-1b6f-469b-af2d-b3f1b4c2c01a,e839f06f-19de-4b7c-98ad-7ae10ab33ddb,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,eeb18ae5-1b6f-469b-af2d-b3f1b4c2c01a,200f6645-d726-4bab-a72c-7ab958e91e46
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,eeb18ae5-1b6f-469b-af2d-b3f1b4c2c01a,e839f06f-19de-4b7c-98ad-7ae10ab33ddb,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/io/PrintStream.java,println
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,com/cognicap/codemy/HelloCognicap.java,main,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/lang/StringBuilder.java,append
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,com/cognicap/codemy/HelloCognicap.java,main,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/lang/StringBuilder.java,append
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,com/cognicap/codemy/HelloCognicap.java,main,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/lang/StringBuilder.java,append
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,com/cognicap/codemy/HelloCognicap.java,main,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/lang/StringBuilder.java,append
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,com/cognicap/codemy/HelloCognicap.java,main,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/lang/StringBuilder.java,toString
+ee472cbe-86e6-4af1-9d1b-e05ea637dd66,com/cognicap/codemy/HelloCognicap.java,main,->,ee472cbe-86e6-4af1-9d1b-e05ea637dd66,java/io/PrintStream.java,println

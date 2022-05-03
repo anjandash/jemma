@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+220aa199-cabb-4f61-8b3a-eb696c62f308,394d446b-efd6-430f-8c6c-36631311389f,fdb301b2-7c03-4ae9-b12a-d13519f875a7,->,220aa199-cabb-4f61-8b3a-eb696c62f308,java/lang/StringBuilder.java,append
+220aa199-cabb-4f61-8b3a-eb696c62f308,394d446b-efd6-430f-8c6c-36631311389f,fdb301b2-7c03-4ae9-b12a-d13519f875a7,->,220aa199-cabb-4f61-8b3a-eb696c62f308,java/lang/StringBuilder.java,append
+220aa199-cabb-4f61-8b3a-eb696c62f308,394d446b-efd6-430f-8c6c-36631311389f,fdb301b2-7c03-4ae9-b12a-d13519f875a7,->,220aa199-cabb-4f61-8b3a-eb696c62f308,java/lang/StringBuilder.java,append
+220aa199-cabb-4f61-8b3a-eb696c62f308,394d446b-efd6-430f-8c6c-36631311389f,fdb301b2-7c03-4ae9-b12a-d13519f875a7,->,220aa199-cabb-4f61-8b3a-eb696c62f308,java/lang/StringBuilder.java,toString
+220aa199-cabb-4f61-8b3a-eb696c62f308,394d446b-efd6-430f-8c6c-36631311389f,fdb301b2-7c03-4ae9-b12a-d13519f875a7,->,220aa199-cabb-4f61-8b3a-eb696c62f308,java/lang/Exception.java,printStackTrace

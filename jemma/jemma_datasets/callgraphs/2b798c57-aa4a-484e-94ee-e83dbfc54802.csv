@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,185e6d44-a324-4202-a5bf-0569543e81d3,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,185e6d44-a324-4202-a5bf-0569543e81d3,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/io/PrintStream.java,append
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/io/PrintStream.java,append
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/lang/Object.java,getClass
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/lang/Class.java,getGenericSuperclass
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/lang/reflect/ParameterizedType.java,getActualTypeArguments
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/util/Arrays.java,asList
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/io/PrintStream.java,println
+2b798c57-aa4a-484e-94ee-e83dbfc54802,b5a80571-f26d-48ca-95b6-7e22464d7243,a1b15344-98e0-4021-916e-716e9fd76e2a,->,2b798c57-aa4a-484e-94ee-e83dbfc54802,java/io/PrintStream.java,println

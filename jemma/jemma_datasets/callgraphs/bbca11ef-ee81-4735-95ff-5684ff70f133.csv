@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bbca11ef-ee81-4735-95ff-5684ff70f133,523fb44c-7646-4c35-aabb-c1ab1853dc9b,2a002961-2f5a-49ee-87ac-35379080ba3c,->,bbca11ef-ee81-4735-95ff-5684ff70f133,com/qpsoft/elp/common/AppTest.java,assertTrue
+bbca11ef-ee81-4735-95ff-5684ff70f133,32a70aed-ebba-493b-a991-3b08e8ded033,ee99543e-e69b-4893-a217-85e9abdecbc1,->,bbca11ef-ee81-4735-95ff-5684ff70f133,java/io/PrintStream.java,println
+bbca11ef-ee81-4735-95ff-5684ff70f133,0751205f-6c8a-4f96-b7cb-558196965c92,dc6fe514-9777-445d-a664-58e61859920b,->,bbca11ef-ee81-4735-95ff-5684ff70f133,com/qpsoft/elp/core/AppTest.java,assertTrue
+bbca11ef-ee81-4735-95ff-5684ff70f133,d4473b0a-8898-4fc6-8ebd-40e0d84accb6,fcb31640-9421-4dae-93ab-9fe302595163,->,bbca11ef-ee81-4735-95ff-5684ff70f133,java/io/PrintStream.java,println
+bbca11ef-ee81-4735-95ff-5684ff70f133,f48be3eb-4443-4014-900d-a9aae4485698,85d29825-6a1f-4367-8873-8b4c53eda997,->,bbca11ef-ee81-4735-95ff-5684ff70f133,com/qpsoft/elp/db/AppTest.java,assertTrue
+bbca11ef-ee81-4735-95ff-5684ff70f133,570f49ab-ac88-472a-bf59-f051e34ba931,9eb5ff11-2795-463a-88b3-453b9c43925d,->,bbca11ef-ee81-4735-95ff-5684ff70f133,java/io/PrintStream.java,println

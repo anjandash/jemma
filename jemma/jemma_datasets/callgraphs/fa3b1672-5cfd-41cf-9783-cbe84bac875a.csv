@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put
+fa3b1672-5cfd-41cf-9783-cbe84bac875a,ad3ebd95-188e-4acb-9942-a5c8ba94d00b,aa25cd79-11c7-4fbf-b7f2-19ca06bd54bb,->,fa3b1672-5cfd-41cf-9783-cbe84bac875a,java/util/Dictionary.java,put

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,04b63e17-dad5-468b-ac2b-48f4bd900565,ff99e8b8-ee1c-4210-b983-c05b95ce3519,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,04b63e17-dad5-468b-ac2b-48f4bd900565,31c06326-d5b9-40cb-91e0-9164cd853bc7
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,04b63e17-dad5-468b-ac2b-48f4bd900565,ff99e8b8-ee1c-4210-b983-c05b95ce3519,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/lang/String.java,equals
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,04b63e17-dad5-468b-ac2b-48f4bd900565,a5a955cd-0363-4e5d-b23a-d1d590fa8159,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/lang/String.java,hashCode
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,e9544fe6-a4cd-4adf-9229-6825c89f4522,7136b5a3-0ab9-4932-b127-49068a10977d,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,e9544fe6-a4cd-4adf-9229-6825c89f4522,524e0f1b-c39b-4d2a-883c-d3a3bb843fd4
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,e9544fe6-a4cd-4adf-9229-6825c89f4522,7136b5a3-0ab9-4932-b127-49068a10977d,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/lang/String.java,equals
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,e9544fe6-a4cd-4adf-9229-6825c89f4522,6a11cbd1-929c-4cdc-95d9-67daa03d052f,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/lang/String.java,hashCode
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,037f3bcb-76ce-414a-8f87-6d02073503b5,c40ed97b-498b-4cb3-9970-af9fc7e115e2,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/io/ObjectOutput.java,writeUTF
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,037f3bcb-76ce-414a-8f87-6d02073503b5,c40ed97b-498b-4cb3-9970-af9fc7e115e2,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/io/ObjectOutput.java,writeUTF
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,037f3bcb-76ce-414a-8f87-6d02073503b5,c40ed97b-498b-4cb3-9970-af9fc7e115e2,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/io/ObjectOutput.java,writeObject
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,037f3bcb-76ce-414a-8f87-6d02073503b5,edf68b13-7a66-4685-bdb9-aefc5fcc8adb,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/io/ObjectInput.java,readUTF
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,037f3bcb-76ce-414a-8f87-6d02073503b5,edf68b13-7a66-4685-bdb9-aefc5fcc8adb,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/io/ObjectInput.java,readUTF
+8591e740-3e93-45e3-ba60-30c5fc38c3eb,037f3bcb-76ce-414a-8f87-6d02073503b5,edf68b13-7a66-4685-bdb9-aefc5fcc8adb,->,8591e740-3e93-45e3-ba60-30c5fc38c3eb,java/io/ObjectInput.java,readObject

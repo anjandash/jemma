@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,8eccc373-9ac9-4dae-9875-9dc6c27459af,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/METHODFORMEASURING.java,hashCode
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,8eccc373-9ac9-4dae-9875-9dc6c27459af,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/PRODUCT.java,hashCode
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,8eccc373-9ac9-4dae-9875-9dc6c27459af,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Double.java,hashCode
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,8eccc373-9ac9-4dae-9875-9dc6c27459af,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/STATEOFMETTER.java,hashCode
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,8eccc373-9ac9-4dae-9875-9dc6c27459af,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/UNITOFMEASUREMENT.java,hashCode
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,29e5f924-c62f-4a0f-baa7-2b7d09f959d4,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Object.java,getClass
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,29e5f924-c62f-4a0f-baa7-2b7d09f959d4,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Object.java,getClass
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,c820545a-b08c-4d35-8dda-56ba332d25cc,29e5f924-c62f-4a0f-baa7-2b7d09f959d4,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Double.java,equals
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/PRODUCT.java,values,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/PRODUCT.java,clone
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/PRODUCT.java,valueOf,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Enum.java,valueOf
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/UNITOFMEASUREMENT.java,values,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/UNITOFMEASUREMENT.java,clone
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/UNITOFMEASUREMENT.java,valueOf,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Enum.java,valueOf
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/METHODFORMEASURING.java,values,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/METHODFORMEASURING.java,clone
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/METHODFORMEASURING.java,valueOf,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Enum.java,valueOf
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/STATEOFMETTER.java,values,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/STATEOFMETTER.java,clone
+c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,ru/mephi/androidapp/cookbook/constant/STATEOFMETTER.java,valueOf,->,c78670fe-d6ed-4ca9-8265-f1bbbd36e71a,java/lang/Enum.java,valueOf

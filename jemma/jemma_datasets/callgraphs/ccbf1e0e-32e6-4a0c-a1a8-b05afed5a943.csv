@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,0de92d3b-1875-4b1b-a24d-c49e1b3e38f6,9cd3584e-bb27-4e0c-8d08-917794a6a5ff,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,java/util/List.java,add
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,0de92d3b-1875-4b1b-a24d-c49e1b3e38f6,b371b6b2-e7c2-49e1-bf43-9d24ff3d1f22,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,java/util/List.java,remove
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,0de92d3b-1875-4b1b-a24d-c49e1b3e38f6,b371b6b2-e7c2-49e1-bf43-9d24ff3d1f22,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,java/util/List.java,add
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,0de92d3b-1875-4b1b-a24d-c49e1b3e38f6,b371b6b2-e7c2-49e1-bf43-9d24ff3d1f22,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,java/util/List.java,get
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,0de92d3b-1875-4b1b-a24d-c49e1b3e38f6,0954cd29-95c5-4c00-9642-926aaf33e868,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,java/util/List.java,remove
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,4cb6970d-ad11-48d7-9402-4c1fa6f6a557,d33a5699-794f-4ba8-a88b-1d583684ee07,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,0de92d3b-1875-4b1b-a24d-c49e1b3e38f6,437b0bd7-122b-41fc-a386-389aff746d0b
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,4ca80f53-5c47-41b8-84e3-fe58f2ca250e,8be4a44e-f181-4cca-9372-10e8ea119851,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,4cb6970d-ad11-48d7-9402-4c1fa6f6a557,d33a5699-794f-4ba8-a88b-1d583684ee07
+ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,4ca80f53-5c47-41b8-84e3-fe58f2ca250e,8be4a44e-f181-4cca-9372-10e8ea119851,->,ccbf1e0e-32e6-4a0c-a1a8-b05afed5a943,org/springframework/ui/ModelMap.java,addAttribute

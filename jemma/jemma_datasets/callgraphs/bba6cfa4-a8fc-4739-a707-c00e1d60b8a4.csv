@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,54847d0d-93ee-45da-b560-4efe750f2e0b,0530fae0-d4b3-4622-a0fa-25c250eb6758,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,java/lang/StringBuilder.java,append
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,54847d0d-93ee-45da-b560-4efe750f2e0b,0530fae0-d4b3-4622-a0fa-25c250eb6758,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,java/lang/StringBuilder.java,append
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,54847d0d-93ee-45da-b560-4efe750f2e0b,0530fae0-d4b3-4622-a0fa-25c250eb6758,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,java/lang/StringBuilder.java,toString
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,54847d0d-93ee-45da-b560-4efe750f2e0b,0530fae0-d4b3-4622-a0fa-25c250eb6758,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,java/io/PrintStream.java,println
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,042a3c15-6ff3-4bb6-8889-fe52357c9b5c,ad9f0efe-46f3-454c-ab63-546b2e7caced,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,org/springframework/boot/SpringApplication.java,run
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,daf3e220-89fe-4624-a8e5-da50ae3a2cb4,a444690f-cb0e-4a3f-80b4-83f451a94d90,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,daf3e220-89fe-4624-a8e5-da50ae3a2cb4,65c7a6eb-652f-4061-a628-af2918aeac56
+bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,daf3e220-89fe-4624-a8e5-da50ae3a2cb4,a444690f-cb0e-4a3f-80b4-83f451a94d90,->,bba6cfa4-a8fc-4739-a707-c00e1d60b8a4,762ae482-a9c8-425f-a3ca-bcbb9d833d35,551e9de0-9e9b-46a0-8220-f621943a954b

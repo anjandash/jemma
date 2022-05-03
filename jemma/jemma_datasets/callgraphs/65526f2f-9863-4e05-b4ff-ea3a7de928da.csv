@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+65526f2f-9863-4e05-b4ff-ea3a7de928da,b369c61c-84b8-4c75-b177-eecebd14ce49,6e821283-10c1-4c3c-9bb1-9586132985fb,->,65526f2f-9863-4e05-b4ff-ea3a7de928da,ClueControlFrame.java,setVisible
+65526f2f-9863-4e05-b4ff-ea3a7de928da,86628fdb-e349-4f46-b66f-659ada6830c6,7b34755e-a603-46db-abb9-6ad6f0a429ee,->,65526f2f-9863-4e05-b4ff-ea3a7de928da,javax/swing/JTextArea.java,setText

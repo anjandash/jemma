@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+097f05db-cf31-4f6b-9314-6094f9b96522,9a1324e5-f578-4701-b033-854a2bfbe354,76e94b97-7823-4130-a78f-8838d2c5b043,->,097f05db-cf31-4f6b-9314-6094f9b96522,java/text/DateFormat.java,format
+097f05db-cf31-4f6b-9314-6094f9b96522,9a1324e5-f578-4701-b033-854a2bfbe354,ca68b786-160e-4ece-9d3f-9645dac08f00,->,097f05db-cf31-4f6b-9314-6094f9b96522,java/util/Calendar.java,getInstance
+097f05db-cf31-4f6b-9314-6094f9b96522,9a1324e5-f578-4701-b033-854a2bfbe354,ca68b786-160e-4ece-9d3f-9645dac08f00,->,097f05db-cf31-4f6b-9314-6094f9b96522,java/lang/Integer.java,intValue
+097f05db-cf31-4f6b-9314-6094f9b96522,9a1324e5-f578-4701-b033-854a2bfbe354,ca68b786-160e-4ece-9d3f-9645dac08f00,->,097f05db-cf31-4f6b-9314-6094f9b96522,java/util/Calendar.java,add
+097f05db-cf31-4f6b-9314-6094f9b96522,9a1324e5-f578-4701-b033-854a2bfbe354,ca68b786-160e-4ece-9d3f-9645dac08f00,->,097f05db-cf31-4f6b-9314-6094f9b96522,java/util/Calendar.java,getTime
+097f05db-cf31-4f6b-9314-6094f9b96522,9a1324e5-f578-4701-b033-854a2bfbe354,ca68b786-160e-4ece-9d3f-9645dac08f00,->,097f05db-cf31-4f6b-9314-6094f9b96522,java/text/DateFormat.java,format

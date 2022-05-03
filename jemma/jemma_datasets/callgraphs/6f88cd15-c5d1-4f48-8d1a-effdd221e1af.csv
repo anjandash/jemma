@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6f88cd15-c5d1-4f48-8d1a-effdd221e1af,bfe3fbac-e62c-419a-80b9-1b4213d5e057,8e10efed-101b-48a0-bbbd-108fb61c4398,->,6f88cd15-c5d1-4f48-8d1a-effdd221e1af,java/lang/String.java,trim
+6f88cd15-c5d1-4f48-8d1a-effdd221e1af,bfe3fbac-e62c-419a-80b9-1b4213d5e057,6ec62350-577f-4e2b-99a5-c5501363294a,->,6f88cd15-c5d1-4f48-8d1a-effdd221e1af,java/lang/String.java,trim
+6f88cd15-c5d1-4f48-8d1a-effdd221e1af,99d7a965-31d0-4156-b6e5-03dbd843f6fd,cee09841-a68a-4f8f-9207-576ab732c826,->,6f88cd15-c5d1-4f48-8d1a-effdd221e1af,java/lang/String.java,trim
+6f88cd15-c5d1-4f48-8d1a-effdd221e1af,a44fab11-a757-47c7-90a1-fc91d225f90a,c5d27647-a056-4315-8915-8c84838feda6,->,6f88cd15-c5d1-4f48-8d1a-effdd221e1af,java/lang/String.java,trim
+6f88cd15-c5d1-4f48-8d1a-effdd221e1af,a44fab11-a757-47c7-90a1-fc91d225f90a,4cd33fdb-42bd-4597-a72f-d99e1f4491db,->,6f88cd15-c5d1-4f48-8d1a-effdd221e1af,java/lang/String.java,trim

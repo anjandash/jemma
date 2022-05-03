@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d4008b3f-88c0-46cc-b563-e6f36243f040,d1e05077-8146-4706-8529-929fb5a04255,10c6f954-de82-45ed-b13d-82e4f287acea,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,3935982b-d583-4ff1-80af-71790b6594da,43ac8053-f8ab-497e-a793-a95d327f7107,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,print
+d4008b3f-88c0-46cc-b563-e6f36243f040,74d9b55f-15af-458e-a2b7-5567ae98d498,6fc7bd65-b5d9-425a-83e1-8d3098655675,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,c2bf590d-0ceb-4250-83ce-3b028c5a8e55,fcf36b18-948a-42f5-9f8e-65b8d539d47d,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,print
+d4008b3f-88c0-46cc-b563-e6f36243f040,9a714454-c472-495c-a73d-5fcd6882f949,5675a1f8-dce9-454a-9543-716855c257bc,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,ab6b7777-d4ad-46c6-a685-f8e1153b144d,6c96f3ec-2390-448b-b921-1d1063bfa3eb,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,b672e378-fa6d-4eb3-8137-77df62b14f22,9497fb46-207d-4186-ad96-7033b6c1651e,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,29c40f9c-36ea-41ef-8b26-0b7a99bc96e9,99716dce-fb70-44b1-8900-634549e7d2c3,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,8aeafa62-dec9-4ba1-9326-dea494ea547b,b44e17fe-0aac-4ee1-ac8b-4edb8d8f6f59,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,da1f8b76-b282-412a-9764-0c3b18521356,01dd810e-f7e8-4c9b-bf83-31c9294f411f,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,println
+d4008b3f-88c0-46cc-b563-e6f36243f040,3c71accb-1b3d-460d-a424-5b124104f080,4b5a0c75-2087-4b6b-aa6a-7a939dd50772,->,d4008b3f-88c0-46cc-b563-e6f36243f040,java/io/PrintStream.java,print

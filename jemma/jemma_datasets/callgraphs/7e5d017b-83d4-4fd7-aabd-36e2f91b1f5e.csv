@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,8084697f-f289-4991-8a10-04a6d72c4c2f,d36c12d5-39e9-476c-9ed3-46fabe70cff9,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/awt/Color.java,getGreen
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,8084697f-f289-4991-8a10-04a6d72c4c2f,d36c12d5-39e9-476c-9ed3-46fabe70cff9,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/awt/Color.java,getRed
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,8084697f-f289-4991-8a10-04a6d72c4c2f,d36c12d5-39e9-476c-9ed3-46fabe70cff9,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/awt/Color.java,getBlue
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,264f411e-f03b-4212-b3a1-a8936d5de27f,86d2b109-93d6-4cc7-987a-2b9475d9b43d,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/lang/Thread.java,sleep
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,aaab2bd7-4b31-4e16-90de-41a67b327438,77e512d2-8a6a-49c8-bb33-654f6147c49e,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/awt/Robot.java,getPixelColor
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,e1c8a920-b06c-4c35-9332-f0d5bd48be5d,096a69bc-a87c-4ac3-84a6-303d6e35df49,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/awt/Robot.java,mousePress
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,e1c8a920-b06c-4c35-9332-f0d5bd48be5d,096a69bc-a87c-4ac3-84a6-303d6e35df49,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,264f411e-f03b-4212-b3a1-a8936d5de27f,86d2b109-93d6-4cc7-987a-2b9475d9b43d
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,e1c8a920-b06c-4c35-9332-f0d5bd48be5d,096a69bc-a87c-4ac3-84a6-303d6e35df49,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,java/awt/Robot.java,mouseRelease
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,9378335d-32e7-43c4-9622-3e2a5ca61751,808638e7-be45-4160-b861-c4cae637ce8a,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,222abe92-a077-44ce-9785-d7d4ec0736d5,c2b391af-96bb-4219-9720-59795ccc2b22
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,222abe92-a077-44ce-9785-d7d4ec0736d5,c2b391af-96bb-4219-9720-59795ccc2b22,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,264f411e-f03b-4212-b3a1-a8936d5de27f,86d2b109-93d6-4cc7-987a-2b9475d9b43d
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,222abe92-a077-44ce-9785-d7d4ec0736d5,c2b391af-96bb-4219-9720-59795ccc2b22,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,83a8cb5d-65b9-4bd4-ace9-fb0b7958fa8b,44430507-1ecc-442a-8144-8f2c0cb394b5
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,222abe92-a077-44ce-9785-d7d4ec0736d5,c2b391af-96bb-4219-9720-59795ccc2b22,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,852ebf79-dfaf-4e37-8e49-b371687e51cd,0bcf0140-f8ba-4af9-9d37-0a8015fcf75c
+7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,222abe92-a077-44ce-9785-d7d4ec0736d5,c2b391af-96bb-4219-9720-59795ccc2b22,->,7e5d017b-83d4-4fd7-aabd-36e2f91b1f5e,5d1f4c7c-6fdb-410c-8b65-db545b823741,68447eba-6a8c-48ab-9034-08d57e8c8dca

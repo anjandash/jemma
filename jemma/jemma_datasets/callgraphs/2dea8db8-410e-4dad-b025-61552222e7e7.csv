@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2dea8db8-410e-4dad-b025-61552222e7e7,f1dfa283-c877-4dca-b7f1-92d8cb8ad9ad,7342697f-9209-493a-8d12-82f65692436c,->,2dea8db8-410e-4dad-b025-61552222e7e7,f1dfa283-c877-4dca-b7f1-92d8cb8ad9ad,2a953ba9-6034-4e14-8e57-d04293b6d14c
+2dea8db8-410e-4dad-b025-61552222e7e7,f1dfa283-c877-4dca-b7f1-92d8cb8ad9ad,7342697f-9209-493a-8d12-82f65692436c,->,2dea8db8-410e-4dad-b025-61552222e7e7,java/io/PrintStream.java,println
+2dea8db8-410e-4dad-b025-61552222e7e7,f1dfa283-c877-4dca-b7f1-92d8cb8ad9ad,2a953ba9-6034-4e14-8e57-d04293b6d14c,->,2dea8db8-410e-4dad-b025-61552222e7e7,java/util/Properties.java,put
+2dea8db8-410e-4dad-b025-61552222e7e7,f1dfa283-c877-4dca-b7f1-92d8cb8ad9ad,2a953ba9-6034-4e14-8e57-d04293b6d14c,->,2dea8db8-410e-4dad-b025-61552222e7e7,javax/naming/Context.java,lookup
+2dea8db8-410e-4dad-b025-61552222e7e7,f1dfa283-c877-4dca-b7f1-92d8cb8ad9ad,2a953ba9-6034-4e14-8e57-d04293b6d14c,->,2dea8db8-410e-4dad-b025-61552222e7e7,50b0180b-60ef-4833-8f16-26786fe5776a,501ce79d-0c42-4f3e-9194-a94bf1a287d8
+2dea8db8-410e-4dad-b025-61552222e7e7,org/event/tador/ejb/api/input/Priority.java,values,->,2dea8db8-410e-4dad-b025-61552222e7e7,org/event/tador/ejb/api/input/Priority.java,clone
+2dea8db8-410e-4dad-b025-61552222e7e7,org/event/tador/ejb/api/input/Priority.java,valueOf,->,2dea8db8-410e-4dad-b025-61552222e7e7,java/lang/Enum.java,valueOf

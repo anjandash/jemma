@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+14abb43e-7995-40eb-b1d7-9112ec9e37ec,com/golflm/models/ISO3166CountryCode.java,values,->,14abb43e-7995-40eb-b1d7-9112ec9e37ec,com/golflm/models/ISO3166CountryCode.java,clone
+14abb43e-7995-40eb-b1d7-9112ec9e37ec,com/golflm/models/ISO3166CountryCode.java,valueOf,->,14abb43e-7995-40eb-b1d7-9112ec9e37ec,java/lang/Enum.java,valueOf
+14abb43e-7995-40eb-b1d7-9112ec9e37ec,com/golflm/models/countryclub/CountryClubType.java,values,->,14abb43e-7995-40eb-b1d7-9112ec9e37ec,com/golflm/models/countryclub/CountryClubType.java,clone
+14abb43e-7995-40eb-b1d7-9112ec9e37ec,com/golflm/models/countryclub/CountryClubType.java,valueOf,->,14abb43e-7995-40eb-b1d7-9112ec9e37ec,java/lang/Enum.java,valueOf

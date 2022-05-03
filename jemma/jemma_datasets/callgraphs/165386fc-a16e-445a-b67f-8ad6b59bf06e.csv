@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,java/lang/Object.java,getClass
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,java/lang/Class.java,getAnnotation
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,com/iscorecard/util/jpa/IdAssigned.java,value
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/hibernate/engine/spi/SessionImplementor.java,getEntityPersister
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/hibernate/persister/entity/EntityPersister.java,getClassMetadata
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/hibernate/metadata/ClassMetadata.java,getIdentifier
+165386fc-a16e-445a-b67f-8ad6b59bf06e,683eecf5-3255-43be-bc2d-04e3c43a6db9,28ac8666-41e5-44f0-b926-94f1d5a54d25,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/hibernate/id/UUIDGenerator.java,generate
+165386fc-a16e-445a-b67f-8ad6b59bf06e,a1e54da8-ed6d-4850-b712-802f3459aa33,346351e8-bb5f-4b85-a2d5-0ccbd8a8b200,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/slf4j/Logger.java,info
+165386fc-a16e-445a-b67f-8ad6b59bf06e,a1e54da8-ed6d-4850-b712-802f3459aa33,346351e8-bb5f-4b85-a2d5-0ccbd8a8b200,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,java/text/DateFormat.java,getDateTimeInstance
+165386fc-a16e-445a-b67f-8ad6b59bf06e,a1e54da8-ed6d-4850-b712-802f3459aa33,346351e8-bb5f-4b85-a2d5-0ccbd8a8b200,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,java/text/DateFormat.java,format
+165386fc-a16e-445a-b67f-8ad6b59bf06e,a1e54da8-ed6d-4850-b712-802f3459aa33,346351e8-bb5f-4b85-a2d5-0ccbd8a8b200,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/springframework/ui/Model.java,addAttribute
+165386fc-a16e-445a-b67f-8ad6b59bf06e,com/iscorecard/app/HomeController.java,<clinit>,->,165386fc-a16e-445a-b67f-8ad6b59bf06e,org/slf4j/LoggerFactory.java,getLogger

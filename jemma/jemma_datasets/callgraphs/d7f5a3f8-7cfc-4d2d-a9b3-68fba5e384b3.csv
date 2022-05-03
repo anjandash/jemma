@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,com/cafetux/blog/rule/TimeOutSilencerTest.java,test_that_throw_exception_not_silenced,->,d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,java/io/PrintStream.java,println
+d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,com/cafetux/blog/rule/TimeOutSilencerTest.java,test_that_throw_timeout_exception,->,d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,java/io/PrintStream.java,println
+d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,com/cafetux/blog/rule/TimeOutSilencerTest.java,test_that_throw_timeout_exception_but_not_ignored,->,d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,java/io/PrintStream.java,println
+d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,143dcb54-9f60-465b-91d8-f679ec72d1d0,97ec1b05-871e-4dff-8488-4ed618d357e0,->,d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,org/junit/runner/Description.java,getAnnotation
+d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,143dcb54-9f60-465b-91d8-f679ec72d1d0,97ec1b05-871e-4dff-8488-4ed618d357e0,->,d7f5a3f8-7cfc-4d2d-a9b3-68fba5e384b3,org/junit/runners/model/Statement.java,evaluate

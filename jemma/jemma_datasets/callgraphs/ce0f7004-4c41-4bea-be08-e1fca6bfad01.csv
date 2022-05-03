@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,bb38d8da-0c8f-442b-a851-9904518f949f,5b2bfeeb-c4c6-46f8-89f1-3dd31a536fdd,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,9a1652fb-cd3c-4f67-b157-99f440b4f356,e4a2b95c-9cf4-4aa9-bd42-cd8a6666f2f3
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,d149de3c-2659-4767-9e7f-e376f8a59bea,b908841d-d22d-4144-8119-ca1715c0084b,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/lang/Object.java,toString
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,d149de3c-2659-4767-9e7f-e376f8a59bea,b908841d-d22d-4144-8119-ca1715c0084b,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/lang/StringBuilder.java,append
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,d149de3c-2659-4767-9e7f-e376f8a59bea,b908841d-d22d-4144-8119-ca1715c0084b,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/lang/StringBuilder.java,append
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,d149de3c-2659-4767-9e7f-e376f8a59bea,b908841d-d22d-4144-8119-ca1715c0084b,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/lang/StringBuilder.java,append
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,d149de3c-2659-4767-9e7f-e376f8a59bea,b908841d-d22d-4144-8119-ca1715c0084b,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/lang/StringBuilder.java,toString
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,d149de3c-2659-4767-9e7f-e376f8a59bea,b908841d-d22d-4144-8119-ca1715c0084b,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/io/PrintStream.java,println
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,00a5bc93-d036-4b07-9f56-1b28678cfba7,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,setConcurrentConsumers
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,00a5bc93-d036-4b07-9f56-1b28678cfba7,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,setMaxConcurrentConsumers
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,64959e7d-f59c-4a6d-b88f-670b787cf3da,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,getConcurrentConsumers
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,61b1c8bf-e8df-48ff-aae0-e608e56d92f3,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,getDestinationName
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,61b1c8bf-e8df-48ff-aae0-e608e56d92f3,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,getDestination
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,61b1c8bf-e8df-48ff-aae0-e608e56d92f3,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,java/lang/Object.java,toString
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,a19fa97b-0047-41ee-87b4-4a7530d57397,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,shutdown
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,a19fa97b-0047-41ee-87b4-4a7530d57397,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,afterPropertiesSet
+ce0f7004-4c41-4bea-be08-e1fca6bfad01,88921176-2442-46cf-a634-5aa30d8887cc,a19fa97b-0047-41ee-87b4-4a7530d57397,->,ce0f7004-4c41-4bea-be08-e1fca6bfad01,org/springframework/jms/listener/DefaultMessageListenerContainer.java,start

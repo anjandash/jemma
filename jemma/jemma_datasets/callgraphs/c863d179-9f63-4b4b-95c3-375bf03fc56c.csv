@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c863d179-9f63-4b4b-95c3-375bf03fc56c,javax/enterprise/concurrent/ManagedExecutors$ManagedRunnable.java,run,->,c863d179-9f63-4b4b-95c3-375bf03fc56c,java/lang/Runnable.java,run
+c863d179-9f63-4b4b-95c3-375bf03fc56c,javax/enterprise/concurrent/ManagedExecutors$ManagedCallable.java,call,->,c863d179-9f63-4b4b-95c3-375bf03fc56c,java/util/concurrent/Callable.java,call
+c863d179-9f63-4b4b-95c3-375bf03fc56c,01e5fc99-2fa6-486a-8f04-163b500a64fc,507ee8ff-d03a-4b58-aa8f-443622f5521d,->,c863d179-9f63-4b4b-95c3-375bf03fc56c,java/lang/Thread.java,currentThread
+c863d179-9f63-4b4b-95c3-375bf03fc56c,01e5fc99-2fa6-486a-8f04-163b500a64fc,507ee8ff-d03a-4b58-aa8f-443622f5521d,->,c863d179-9f63-4b4b-95c3-375bf03fc56c,b12c60c0-729e-47ec-b3ee-3eabc5e7ac30,cf7ff52c-d304-4560-b4ee-9865c05544a5

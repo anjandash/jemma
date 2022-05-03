@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,3911cd4a-804f-4ab9-a93a-e2e33376664f,e8d49a59-6257-4546-853f-e3764ac22465,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,javax/servlet/http/HttpServletRequest.java,getRequestDispatcher
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,3911cd4a-804f-4ab9-a93a-e2e33376664f,e8d49a59-6257-4546-853f-e3764ac22465,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,javax/servlet/RequestDispatcher.java,forward
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,9ad2e9f9-4c5c-4c95-814e-e79e1179cb38,1b5378ec-a4e0-416c-b3d1-f2f14d356d23,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/lang/String.java,hashCode
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,9ad2e9f9-4c5c-4c95-814e-e79e1179cb38,9e43eddf-68d9-4b54-845e-68a3ed8a9e49,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/lang/String.java,equals
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,9ad2e9f9-4c5c-4c95-814e-e79e1179cb38,2ba76351-fa5d-4714-babe-8552db5617ac,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/lang/StringBuilder.java,append
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,9ad2e9f9-4c5c-4c95-814e-e79e1179cb38,2ba76351-fa5d-4714-babe-8552db5617ac,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/lang/StringBuilder.java,append
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,9ad2e9f9-4c5c-4c95-814e-e79e1179cb38,2ba76351-fa5d-4714-babe-8552db5617ac,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/lang/StringBuilder.java,append
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,9ad2e9f9-4c5c-4c95-814e-e79e1179cb38,2ba76351-fa5d-4714-babe-8552db5617ac,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/lang/StringBuilder.java,toString
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,b07567bb-2064-44fb-be3e-d15968241208,2e710904-24d3-481f-8648-a4d7bdc4b06e,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,df691c92-14bd-490f-93cd-d59923582747,640e5d7d-a5b8-46f0-8190-19c66368730a
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,df691c92-14bd-490f-93cd-d59923582747,640e5d7d-a5b8-46f0-8190-19c66368730a,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/util/ArrayList.java,add
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,df691c92-14bd-490f-93cd-d59923582747,640e5d7d-a5b8-46f0-8190-19c66368730a,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/util/ArrayList.java,add
+2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,df691c92-14bd-490f-93cd-d59923582747,640e5d7d-a5b8-46f0-8190-19c66368730a,->,2b1b8f7f-7596-4c5e-89d8-0a7866a6812d,java/util/ArrayList.java,add

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+93865334-62e2-4f7b-b516-bc33b0b4b05b,a3474166-2e30-4acd-ae48-1facaee15418,883c9207-46cc-490f-b61a-d58c57646045,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,6d0b8353-7835-4b0c-bd03-9299924c5ce0,8485f47c-97dc-42a5-b744-d0c1872e5d20
+93865334-62e2-4f7b-b516-bc33b0b4b05b,a3474166-2e30-4acd-ae48-1facaee15418,883c9207-46cc-490f-b61a-d58c57646045,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,java/io/PrintStream.java,println
+93865334-62e2-4f7b-b516-bc33b0b4b05b,a3474166-2e30-4acd-ae48-1facaee15418,883c9207-46cc-490f-b61a-d58c57646045,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,6d0b8353-7835-4b0c-bd03-9299924c5ce0,8485f47c-97dc-42a5-b744-d0c1872e5d20
+93865334-62e2-4f7b-b516-bc33b0b4b05b,a3474166-2e30-4acd-ae48-1facaee15418,883c9207-46cc-490f-b61a-d58c57646045,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,java/io/PrintStream.java,println
+93865334-62e2-4f7b-b516-bc33b0b4b05b,6d0b8353-7835-4b0c-bd03-9299924c5ce0,8485f47c-97dc-42a5-b744-d0c1872e5d20,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,ordinal
+93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,values,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,clone
+93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,valueOf,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,java/lang/Enum.java,valueOf
+93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/Airline$1.java,<clinit>,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,values
+93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/Airline$1.java,<clinit>,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,ordinal
+93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/Airline$1.java,<clinit>,->,93865334-62e2-4f7b-b516-bc33b0b4b05b,plane/PlaneType.java,ordinal

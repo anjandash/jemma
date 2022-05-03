@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2623704f-d462-4422-8ff6-69d7ce6d4be2,Cell$cellType.java,values,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,Cell$cellType.java,clone
+2623704f-d462-4422-8ff6-69d7ce6d4be2,Cell$cellType.java,valueOf,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/lang/Enum.java,valueOf
+2623704f-d462-4422-8ff6-69d7ce6d4be2,e999e293-b031-48ec-95a2-3fd2b650d71a,adc62ec2-3d63-46cf-9e85-99e08ff3a737,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/lang/Math.java,random
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,487e12a9-f262-4ccd-bcdd-ddf7c4261272,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/awt/event/KeyEvent.java,getKeyChar
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,487e12a9-f262-4ccd-bcdd-ddf7c4261272,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,4fd17cc1-6da2-4cf9-b57b-0c973af03fa2
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,487e12a9-f262-4ccd-bcdd-ddf7c4261272,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,4fd17cc1-6da2-4cf9-b57b-0c973af03fa2
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,487e12a9-f262-4ccd-bcdd-ddf7c4261272,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,e999e293-b031-48ec-95a2-3fd2b650d71a,adc62ec2-3d63-46cf-9e85-99e08ff3a737
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,487e12a9-f262-4ccd-bcdd-ddf7c4261272,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,Game.java,setInitialGameState
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,4fd17cc1-6da2-4cf9-b57b-0c973af03fa2,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/lang/Math.java,random
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,a5d7a7af-fb4a-496e-bf16-578f8b777141,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/lang/Integer.java,valueOf
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,a5d7a7af-fb4a-496e-bf16-578f8b777141,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/lang/String.java,format
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,a5d7a7af-fb4a-496e-bf16-578f8b777141,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,javax/swing/JLabel.java,setText
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,44eaee30-0a23-47f8-9be9-9fab6174fc97,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,javax/swing/JLabel.java,getText
+2623704f-d462-4422-8ff6-69d7ce6d4be2,bda1b10b-9eb3-441a-952f-ab764c4f6cad,e3d0776e-c8d0-4940-9ed5-1b9fe3d2e07a,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,javax/swing/JLabel.java,setText
+2623704f-d462-4422-8ff6-69d7ce6d4be2,e6fd84f5-d01f-460e-923e-c70ed551c898,445ce99b-8336-4c2a-87f3-ba9109912f10,->,2623704f-d462-4422-8ff6-69d7ce6d4be2,java/lang/Integer.java,parseInt

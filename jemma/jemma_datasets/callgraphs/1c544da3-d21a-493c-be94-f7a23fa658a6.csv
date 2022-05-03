@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1c544da3-d21a-493c-be94-f7a23fa658a6,panther/catalog/persistence/model/datastructures/SerDe.java,values,->,1c544da3-d21a-493c-be94-f7a23fa658a6,panther/catalog/persistence/model/datastructures/SerDe.java,clone
+1c544da3-d21a-493c-be94-f7a23fa658a6,panther/catalog/persistence/model/datastructures/SerDe.java,valueOf,->,1c544da3-d21a-493c-be94-f7a23fa658a6,java/lang/Enum.java,valueOf
+1c544da3-d21a-493c-be94-f7a23fa658a6,a79d1238-510c-4961-a121-7591b50c0f56,07305e75-f076-4c19-af1e-6330fc099814,->,1c544da3-d21a-493c-be94-f7a23fa658a6,panther/catalog/persistence/HelloTest.java,assertTrue

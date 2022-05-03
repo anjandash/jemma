@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,a411b596-4a9a-437f-bb4a-a3e3e5333714,ebfc2d0a-37c4-43ca-a332-0d7df0189a48,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/lang/String.java,equals
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,a411b596-4a9a-437f-bb4a-a3e3e5333714,ebfc2d0a-37c4-43ca-a332-0d7df0189a48,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/lang/String.java,equals
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,9f5d0b18-8221-423e-9daa-a859faaa5b5b,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/util/ArrayList.java,add
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,957ab0b7-2b59-44d6-aab1-682f61a64b3a,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/util/ArrayList.java,remove
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,9c3ad567-d13e-412f-8bc4-4dc99523ca73,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,df9b21a5-0318-4424-a599-b1c1fb9ddd1a,239a43ef-fc50-4e83-8c23-f5357d6e960b
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,f67ddc0b-af3a-41aa-be66-ed9277e78fea,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/util/ArrayList.java,iterator
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,f67ddc0b-af3a-41aa-be66-ed9277e78fea,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/util/Iterator.java,hasNext
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,f67ddc0b-af3a-41aa-be66-ed9277e78fea,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/util/Iterator.java,next
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,320d2d10-256d-40e9-b809-ea37fb29a6aa,f67ddc0b-af3a-41aa-be66-ed9277e78fea,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,df9b21a5-0318-4424-a599-b1c1fb9ddd1a,239a43ef-fc50-4e83-8c23-f5357d6e960b
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,com/codequ/domain/UserData.java,<clinit>,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,java/util/Arrays.java,asList
+b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,eb33dfa4-8f01-4515-bafa-177e20d923af,7aea0a30-bacf-4e9e-a961-ef13db89145f,->,b0bba834-a7a9-49d4-9468-a6cae5e5e9ec,5bb41300-3995-4c5d-b75f-0a96f1f9b590,8f14ac73-bcb4-4539-b4a4-0de73ab33316

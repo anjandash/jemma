@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+44bffb3f-f561-4ac4-961d-7a7baf1f70e0,pl/koziolekweb/bfp/ex3/Logger$Level.java,values,->,44bffb3f-f561-4ac4-961d-7a7baf1f70e0,pl/koziolekweb/bfp/ex3/Logger$Level.java,clone
+44bffb3f-f561-4ac4-961d-7a7baf1f70e0,pl/koziolekweb/bfp/ex3/Logger$Level.java,valueOf,->,44bffb3f-f561-4ac4-961d-7a7baf1f70e0,java/lang/Enum.java,valueOf
+44bffb3f-f561-4ac4-961d-7a7baf1f70e0,a0d8feac-0a53-41e4-8263-ea690299cc8f,99cf58d0-7350-4aa3-87b6-adb7a32cc897,->,44bffb3f-f561-4ac4-961d-7a7baf1f70e0,pl/koziolekweb/bfp/ch1/AppTest.java,assertTrue
+44bffb3f-f561-4ac4-961d-7a7baf1f70e0,1e867f2f-bbc3-48fd-93c3-3853854570ce,05d7327b-9e93-41be-a1ea-5ce480a5d89d,->,44bffb3f-f561-4ac4-961d-7a7baf1f70e0,java/io/PrintStream.java,println

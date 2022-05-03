@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9fab7480-7eeb-435c-9f28-6881f06bebd3,caf54e59-8e10-4ff6-81bf-03278b379c5d,a4dec76e-b71a-485d-beaa-e1da15b5065a,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,071099a4-a239-4e5a-b2fc-55ad2e461447,6916f86c-cb58-4cf6-8e55-e9e4af35be93
+9fab7480-7eeb-435c-9f28-6881f06bebd3,071099a4-a239-4e5a-b2fc-55ad2e461447,6916f86c-cb58-4cf6-8e55-e9e4af35be93,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,6032057c-6e7f-4276-9837-0a031f45d1f7,c8f08a7f-7264-484b-bd4a-c7225f0294c6
+9fab7480-7eeb-435c-9f28-6881f06bebd3,f576d63f-42f3-4cb6-bea0-a293d57deea5,76a4d782-98be-4422-9993-24b862b6e273,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,com/github/bpark/scope/CustomContext.java,setBeanStore
+9fab7480-7eeb-435c-9f28-6881f06bebd3,f576d63f-42f3-4cb6-bea0-a293d57deea5,76a4d782-98be-4422-9993-24b862b6e273,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,com/github/bpark/scope/CustomContext.java,setActive
+9fab7480-7eeb-435c-9f28-6881f06bebd3,f576d63f-42f3-4cb6-bea0-a293d57deea5,76a4d782-98be-4422-9993-24b862b6e273,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,7a8f85a6-b788-4db5-b26e-734568aff077,dc6bca5a-152d-413b-8012-533e667e59ab
+9fab7480-7eeb-435c-9f28-6881f06bebd3,ab94cd0b-5d9e-4d5b-90fc-359860f6987a,014c479c-cf65-406b-9415-531f44441b52,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,com/github/bpark/scope/CustomContext.java,setBeanStore
+9fab7480-7eeb-435c-9f28-6881f06bebd3,ab94cd0b-5d9e-4d5b-90fc-359860f6987a,014c479c-cf65-406b-9415-531f44441b52,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,com/github/bpark/scope/CustomContext.java,setActive
+9fab7480-7eeb-435c-9f28-6881f06bebd3,ab94cd0b-5d9e-4d5b-90fc-359860f6987a,014c479c-cf65-406b-9415-531f44441b52,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,javax/enterprise/inject/spi/AfterBeanDiscovery.java,addContext
+9fab7480-7eeb-435c-9f28-6881f06bebd3,6032057c-6e7f-4276-9837-0a031f45d1f7,c8f08a7f-7264-484b-bd4a-c7225f0294c6,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,java/io/PrintStream.java,println
+9fab7480-7eeb-435c-9f28-6881f06bebd3,2714985a-70c0-4b3d-9f9e-46e579d6064c,8874f74d-8d75-4597-b690-651e204a4fd0,->,9fab7480-7eeb-435c-9f28-6881f06bebd3,org/jboss/weld/environment/se/StartMain.java,go

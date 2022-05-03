@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3fa563cc-bc05-4371-bfa9-fc3027d81c27,3db9aaab-7917-4f86-af1d-ba24ecb78370,f7a24f14-5686-4e62-931c-f7308f2b4720,->,3fa563cc-bc05-4371-bfa9-fc3027d81c27,java/lang/Thread.java,sleep
+3fa563cc-bc05-4371-bfa9-fc3027d81c27,542a2eae-07f9-4c8c-baf9-164ecd949253,e931ab0a-07fc-487a-b767-6ef1167d5bc4,->,3fa563cc-bc05-4371-bfa9-fc3027d81c27,java/lang/Thread.java,sleep
+3fa563cc-bc05-4371-bfa9-fc3027d81c27,27c076e8-7c80-4f89-83af-5e044ad3ef21,dc188e50-489c-44fd-83bc-00a10ec0b4da,->,3fa563cc-bc05-4371-bfa9-fc3027d81c27,java/lang/Thread.java,sleep

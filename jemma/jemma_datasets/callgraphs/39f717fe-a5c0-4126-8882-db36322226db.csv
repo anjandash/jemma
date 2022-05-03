@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+39f717fe-a5c0-4126-8882-db36322226db,70ba685d-c8fc-4b75-b611-024c8b7159ff,1f2ae49b-50fc-4165-a80c-f87369c6137d,->,39f717fe-a5c0-4126-8882-db36322226db,javax/persistence/EntityManager.java,createNamedQuery
+39f717fe-a5c0-4126-8882-db36322226db,70ba685d-c8fc-4b75-b611-024c8b7159ff,1f2ae49b-50fc-4165-a80c-f87369c6137d,->,39f717fe-a5c0-4126-8882-db36322226db,javax/persistence/Query.java,getResultList
+39f717fe-a5c0-4126-8882-db36322226db,49925c49-1544-46d4-b2a7-cb45c82089ba,0210da48-f306-4783-a9df-0277dbc3f08d,->,39f717fe-a5c0-4126-8882-db36322226db,com/payulatam/banco/facade/SystemFacade.java,findAllParameters
+39f717fe-a5c0-4126-8882-db36322226db,com/payulatam/banco/facade/SystemFacade.java,findAllParameters,->,39f717fe-a5c0-4126-8882-db36322226db,70ba685d-c8fc-4b75-b611-024c8b7159ff,1f2ae49b-50fc-4165-a80c-f87369c6137d

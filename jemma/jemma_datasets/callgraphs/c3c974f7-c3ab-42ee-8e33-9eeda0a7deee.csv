@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpServletResponse.java,setContentType
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpServletRequest.java,getParameter
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,java/lang/String.java,equals
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,99068f47-34ce-4268-bc38-4ea31b7692d6,899a53c6-492a-4e6d-8f73-36304d5a7eb3
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpServletRequest.java,setAttribute
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,java/lang/String.java,equals
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpServletRequest.java,getParameter
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,99068f47-34ce-4268-bc38-4ea31b7692d6,e3fb5f12-d490-410c-9fef-01394583ca9c
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpServletRequest.java,getSession
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpSession.java,setAttribute
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/http/HttpServletRequest.java,getRequestDispatcher
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,javax/servlet/RequestDispatcher.java,forward
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,8f3e2f32-6664-4d5f-86c3-84f4c2d39cbe,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,5ca050e0-11f7-4386-ac34-66cf253810c6,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,1666f810-6601-4c68-a9e9-defbaf017bcd,2661be31-16de-4bbe-8eda-0a4711814a94
+c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,99068f47-34ce-4268-bc38-4ea31b7692d6,899a53c6-492a-4e6d-8f73-36304d5a7eb3,->,c3c974f7-c3ab-42ee-8e33-9eeda0a7deee,fdc88041-566e-46fc-86d5-75a3ef771300,8aa909c8-94a8-4cb8-b34f-91d8090319ce

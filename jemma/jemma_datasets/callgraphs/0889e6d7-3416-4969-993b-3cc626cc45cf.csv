@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0889e6d7-3416-4969-993b-3cc626cc45cf,8e273e6c-f7b3-4d4f-b6e0-c267afdb78c1,48df3ba4-a852-404c-beea-6a92cd9757b4,->,0889e6d7-3416-4969-993b-3cc626cc45cf,java/io/PrintStream.java,println
+0889e6d7-3416-4969-993b-3cc626cc45cf,com/abacusbead/stock/Type.java,values,->,0889e6d7-3416-4969-993b-3cc626cc45cf,com/abacusbead/stock/Type.java,clone
+0889e6d7-3416-4969-993b-3cc626cc45cf,com/abacusbead/stock/Type.java,valueOf,->,0889e6d7-3416-4969-993b-3cc626cc45cf,java/lang/Enum.java,valueOf

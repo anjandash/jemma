@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,1605d3cb-d12c-427a-844c-368b70f5bbb8,fc71f264-bea1-473c-b2b1-9380f08fc625,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,ffff8aca-03e5-4daf-86c8-27f64878c88c,a9c2982a-f360-4833-8793-c2a97cd12faa
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,1605d3cb-d12c-427a-844c-368b70f5bbb8,fc71f264-bea1-473c-b2b1-9380f08fc625,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,29106454-d82a-4ad2-b6cd-a5b679a4a19e,a2eef8ea-7da3-46f7-a3ac-5aa318c6cbd2
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,1605d3cb-d12c-427a-844c-368b70f5bbb8,fc71f264-bea1-473c-b2b1-9380f08fc625,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/lang/String.java,equals
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,ffff8aca-03e5-4daf-86c8-27f64878c88c,a9c2982a-f360-4833-8793-c2a97cd12faa,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,cn/edu/jxnu/dao/impl/UserDaoImpl.java,getHibernateTemplate
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,ffff8aca-03e5-4daf-86c8-27f64878c88c,a9c2982a-f360-4833-8793-c2a97cd12faa,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,org/springframework/orm/hibernate3/HibernateTemplate.java,find
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,ffff8aca-03e5-4daf-86c8-27f64878c88c,a9c2982a-f360-4833-8793-c2a97cd12faa,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/util/List.java,size
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,ffff8aca-03e5-4daf-86c8-27f64878c88c,a9c2982a-f360-4833-8793-c2a97cd12faa,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/util/List.java,get
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,85e80de5-8df9-4e9d-b0a9-708f4b499ce5,4cbcc4a8-95eb-46b7-9ed5-7fa5de132b7d,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/security/MessageDigest.java,getInstance
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,85e80de5-8df9-4e9d-b0a9-708f4b499ce5,4cbcc4a8-95eb-46b7-9ed5-7fa5de132b7d,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/lang/String.java,getBytes
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,85e80de5-8df9-4e9d-b0a9-708f4b499ce5,4cbcc4a8-95eb-46b7-9ed5-7fa5de132b7d,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/security/MessageDigest.java,update
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,85e80de5-8df9-4e9d-b0a9-708f4b499ce5,4cbcc4a8-95eb-46b7-9ed5-7fa5de132b7d,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/security/MessageDigest.java,digest
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,85e80de5-8df9-4e9d-b0a9-708f4b499ce5,4cbcc4a8-95eb-46b7-9ed5-7fa5de132b7d,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,java/lang/String.java,substring
+aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,056767fd-b414-456d-a033-fb74e27edeef,441cb0f3-63c0-457d-970f-89b38caa87c3,->,aa2d0ddb-7bd1-4022-84e8-637ab1f9ef5c,1605d3cb-d12c-427a-844c-368b70f5bbb8,fc71f264-bea1-473c-b2b1-9380f08fc625

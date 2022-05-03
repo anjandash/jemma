@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+43b5186d-8660-44be-baeb-b94080e1ae6b,d5411358-8c96-421c-ae72-8649571debb7,f2a43472-4194-450e-8c9d-9955155e11a5,->,43b5186d-8660-44be-baeb-b94080e1ae6b,java/util/Collection.java,iterator
+43b5186d-8660-44be-baeb-b94080e1ae6b,d5411358-8c96-421c-ae72-8649571debb7,f2a43472-4194-450e-8c9d-9955155e11a5,->,43b5186d-8660-44be-baeb-b94080e1ae6b,java/util/Iterator.java,hasNext
+43b5186d-8660-44be-baeb-b94080e1ae6b,d5411358-8c96-421c-ae72-8649571debb7,f2a43472-4194-450e-8c9d-9955155e11a5,->,43b5186d-8660-44be-baeb-b94080e1ae6b,java/util/Iterator.java,next
+43b5186d-8660-44be-baeb-b94080e1ae6b,d5411358-8c96-421c-ae72-8649571debb7,f2a43472-4194-450e-8c9d-9955155e11a5,->,43b5186d-8660-44be-baeb-b94080e1ae6b,d5411358-8c96-421c-ae72-8649571debb7,96d7fc19-601d-44a9-a21d-360633d43fee
+43b5186d-8660-44be-baeb-b94080e1ae6b,f58adf57-4ccf-4ba8-9b63-c534f8503b27,a62d4aaf-b312-4cb9-8769-0c4120cf2bdb,->,43b5186d-8660-44be-baeb-b94080e1ae6b,javafx/scene/text/Text.java,setText
+43b5186d-8660-44be-baeb-b94080e1ae6b,8edca6ce-b276-4ca4-a636-e3456c9fc7a6,3e34a7be-addd-4e2c-b427-27236037d10b,->,43b5186d-8660-44be-baeb-b94080e1ae6b,javafx/stage/Stage.java,setTitle
+43b5186d-8660-44be-baeb-b94080e1ae6b,8edca6ce-b276-4ca4-a636-e3456c9fc7a6,3e34a7be-addd-4e2c-b427-27236037d10b,->,43b5186d-8660-44be-baeb-b94080e1ae6b,36ee6a0d-da1f-4652-b1d2-54a5b0caad97,18d0c876-6fe9-4fc2-ba0c-e84add32ad95
+43b5186d-8660-44be-baeb-b94080e1ae6b,8edca6ce-b276-4ca4-a636-e3456c9fc7a6,3e34a7be-addd-4e2c-b427-27236037d10b,->,43b5186d-8660-44be-baeb-b94080e1ae6b,javafx/stage/Stage.java,setScene
+43b5186d-8660-44be-baeb-b94080e1ae6b,8edca6ce-b276-4ca4-a636-e3456c9fc7a6,3e34a7be-addd-4e2c-b427-27236037d10b,->,43b5186d-8660-44be-baeb-b94080e1ae6b,javafx/stage/Stage.java,show
+43b5186d-8660-44be-baeb-b94080e1ae6b,8edca6ce-b276-4ca4-a636-e3456c9fc7a6,9f5a9c2a-f753-44b3-8e10-85e1bcec506a,->,43b5186d-8660-44be-baeb-b94080e1ae6b,src/code/main/FencingLaunch.java,launch

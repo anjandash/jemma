@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,a3a692d6-611d-46f1-9391-a4fc33de07b6,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,org/springframework/boot/SpringApplication.java,run
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,09c66f40-c4f6-42f9-8146-f4e23c7254a0,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,org/thymeleaf/templateresolver/ClassLoaderTemplateResolver.java,setPrefix
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,09c66f40-c4f6-42f9-8146-f4e23c7254a0,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,org/thymeleaf/templateresolver/ClassLoaderTemplateResolver.java,setSuffix
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,09c66f40-c4f6-42f9-8146-f4e23c7254a0,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,org/thymeleaf/templateresolver/ClassLoaderTemplateResolver.java,setTemplateMode
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,e071e6cd-ad6b-44b8-ae32-5ec72f1189ce,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,09c66f40-c4f6-42f9-8146-f4e23c7254a0
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,e071e6cd-ad6b-44b8-ae32-5ec72f1189ce,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,org/thymeleaf/spring3/SpringTemplateEngine.java,setTemplateResolver
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,91855a8e-c2f2-4403-9b22-cb7fd41d029e,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,e071e6cd-ad6b-44b8-ae32-5ec72f1189ce
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,6932f90a-d3dd-4038-9010-73b295ad022c,91855a8e-c2f2-4403-9b22-cb7fd41d029e,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,org/thymeleaf/spring3/view/ThymeleafViewResolver.java,setTemplateEngine
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,7d0bb846-aec8-46be-b4c6-f1784c5a9081,d69b6947-d844-4037-94b4-893c5a651707,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,java/util/Map.java,get
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,7d0bb846-aec8-46be-b4c6-f1784c5a9081,cb4d5357-0462-4c11-a80f-2a0794997b22,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,fbc376e9-1815-4120-ba42-fde0c3272813,2bb5ad4d-736a-41e3-9e8a-75330d914012
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,7d0bb846-aec8-46be-b4c6-f1784c5a9081,cb4d5357-0462-4c11-a80f-2a0794997b22,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,java/util/Map.java,put
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,7adc245e-d24c-42b3-9e21-3658c4b05191,7ce59fa0-1b04-4cd2-b4d1-d7737abedd14,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,88763b28-7940-49d3-97bc-360e1aa3c7cc,bc0f0984-79bf-49f2-a316-a63cfdedb077
+e2749c01-69bc-4bd3-b495-c7fd50d84a71,7adc245e-d24c-42b3-9e21-3658c4b05191,96fb0f37-a310-44b9-8126-5a69b40b03b4,->,e2749c01-69bc-4bd3-b495-c7fd50d84a71,88763b28-7940-49d3-97bc-360e1aa3c7cc,86b9947f-06a8-4682-b4f8-212fa7498596

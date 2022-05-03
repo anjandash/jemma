@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,40e66e27-658d-4662-afcb-fb5c3fbe1388,7ddcc247-2c91-4b81-baf9-ceecfbb0bd75,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,40e66e27-658d-4662-afcb-fb5c3fbe1388,7ddcc247-2c91-4b81-baf9-ceecfbb0bd75,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,6dc33436-5497-45ca-83a0-e9ed2f55051a,13104028-db21-4146-8d76-640ae28aa2d5,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,6dc33436-5497-45ca-83a0-e9ed2f55051a,13104028-db21-4146-8d76-640ae28aa2d5,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,6dc33436-5497-45ca-83a0-e9ed2f55051a,ab2dfdb3-9dd7-423a-9649-f9083366881c
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,6dc33436-5497-45ca-83a0-e9ed2f55051a,13104028-db21-4146-8d76-640ae28aa2d5,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,30b4e07b-d17c-4f18-b764-1ccf8f4c9df8,1d16a2b2-01c0-455b-b910-2cb83f1d2c0d,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,1ddf3ac5-323a-4598-bec0-48a2cdaad2a6,d0bd66bc-f952-4855-843f-a03fdd68b452,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/lang/System.java,getProperties
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,1ddf3ac5-323a-4598-bec0-48a2cdaad2a6,d0bd66bc-f952-4855-843f-a03fdd68b452,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/util/Properties.java,list
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,1ddf3ac5-323a-4598-bec0-48a2cdaad2a6,d0bd66bc-f952-4855-843f-a03fdd68b452,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/lang/System.java,getProperty
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,1ddf3ac5-323a-4598-bec0-48a2cdaad2a6,d0bd66bc-f952-4855-843f-a03fdd68b452,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,1ddf3ac5-323a-4598-bec0-48a2cdaad2a6,d0bd66bc-f952-4855-843f-a03fdd68b452,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/lang/System.java,getProperty
+ba850535-fb86-4595-8ac5-e7a5ac452cd4,1ddf3ac5-323a-4598-bec0-48a2cdaad2a6,d0bd66bc-f952-4855-843f-a03fdd68b452,->,ba850535-fb86-4595-8ac5-e7a5ac452cd4,java/io/PrintStream.java,println

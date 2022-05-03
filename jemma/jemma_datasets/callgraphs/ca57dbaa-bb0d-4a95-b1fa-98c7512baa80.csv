@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,646e28d0-d587-40fa-b901-12c9d79bd7e7,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,046da6ba-9ead-4817-9b24-627f7f4639ef,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,io/dropwizard/setup/Bootstrap.java,addBundle
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,io/dropwizard/hibernate/HibernateBundle.java,getSessionFactory
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,7c3e8785-141e-4acb-acaf-d71f2fea9045,c4367018-9c5b-423c-980d-a09abccbe358
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,io/dropwizard/setup/Environment.java,jersey
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,io/dropwizard/jersey/setup/JerseyEnvironment.java,register
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,65a94ec6-db63-414d-a5c7-37d5c5f24a72,dddaa38a-16e4-4378-ad8e-f55f9d0a2116
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,544014ef-12c7-4aae-8b23-febb89b560b8,20996189-545d-4993-8877-bfa227832d1f,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,com/pranav/foodly/core/SuggestionDAO.java,get
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,d40c3c43-aaaa-4db5-aa0e-678404d94e81,2ff5c20f-48dc-4e84-82c5-a0313ed4d60f,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,544014ef-12c7-4aae-8b23-febb89b560b8,20996189-545d-4993-8877-bfa227832d1f
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,com/pranav/foodly/FoodlyApp$1.java,getDataSourceFactory,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,7c3e8785-141e-4acb-acaf-d71f2fea9045,9e6d21ce-738f-46d0-9430-52d6995314a0
+ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,com/pranav/foodly/FoodlyApp$1.java,getDataSourceFactory,->,ca57dbaa-bb0d-4a95-b1fa-98c7512baa80,com/pranav/foodly/FoodlyApp$1.java,getDataSourceFactory

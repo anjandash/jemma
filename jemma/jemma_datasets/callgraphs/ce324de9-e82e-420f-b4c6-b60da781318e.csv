@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ce324de9-e82e-420f-b4c6-b60da781318e,1125c7af-3297-4494-8a76-37c79cab6669,a1c6e161-bb3c-4860-bd68-f4db85e45a6e,->,ce324de9-e82e-420f-b4c6-b60da781318e,com/bdt/will/repository/UserRepository.java,save
+ce324de9-e82e-420f-b4c6-b60da781318e,53a3a529-6ed4-4cd2-a4a7-2ab9d6467198,e8d01a80-4531-458a-a98c-9a29d0faad70,->,ce324de9-e82e-420f-b4c6-b60da781318e,2e83f157-bdba-4568-a9fc-c255df100eea,dd8e818e-1671-4a25-87d8-8fc2c2d5be36
+ce324de9-e82e-420f-b4c6-b60da781318e,53a3a529-6ed4-4cd2-a4a7-2ab9d6467198,e8d01a80-4531-458a-a98c-9a29d0faad70,->,ce324de9-e82e-420f-b4c6-b60da781318e,5ac4a629-7474-4e08-9085-8142239e444a,b5af6818-f275-4cc5-b9db-0a50c86f0ece

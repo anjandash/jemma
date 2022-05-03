@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d89e5665-4314-46ed-9f68-49793c53a0ae,f9f76453-baf8-4453-91ce-85a6c6c06520,ba20cd51-dc06-4366-95a7-15d37963c14c,->,d89e5665-4314-46ed-9f68-49793c53a0ae,java/net/URI.java,create
+d89e5665-4314-46ed-9f68-49793c53a0ae,f9f76453-baf8-4453-91ce-85a6c6c06520,ba20cd51-dc06-4366-95a7-15d37963c14c,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/Response.java,seeOther
+d89e5665-4314-46ed-9f68-49793c53a0ae,f9f76453-baf8-4453-91ce-85a6c6c06520,ba20cd51-dc06-4366-95a7-15d37963c14c,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/Response$ResponseBuilder.java,build
+d89e5665-4314-46ed-9f68-49793c53a0ae,a5e9f5e5-6904-4ede-a26d-b44b74b5e114,66670651-83cb-4ffd-95a5-4fb536b45703,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/UriInfo.java,getBaseUriBuilder
+d89e5665-4314-46ed-9f68-49793c53a0ae,a5e9f5e5-6904-4ede-a26d-b44b74b5e114,66670651-83cb-4ffd-95a5-4fb536b45703,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/UriBuilder.java,replacePath
+d89e5665-4314-46ed-9f68-49793c53a0ae,a5e9f5e5-6904-4ede-a26d-b44b74b5e114,66670651-83cb-4ffd-95a5-4fb536b45703,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/UriBuilder.java,build
+d89e5665-4314-46ed-9f68-49793c53a0ae,a5e9f5e5-6904-4ede-a26d-b44b74b5e114,66670651-83cb-4ffd-95a5-4fb536b45703,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/Response.java,seeOther
+d89e5665-4314-46ed-9f68-49793c53a0ae,a5e9f5e5-6904-4ede-a26d-b44b74b5e114,66670651-83cb-4ffd-95a5-4fb536b45703,->,d89e5665-4314-46ed-9f68-49793c53a0ae,javax/ws/rs/core/Response$ResponseBuilder.java,build

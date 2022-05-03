@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,1dd1ca1b-6652-4bd2-9d1f-5d039ea58ecb,42c03cd0-73de-4739-af39-a992cdee4989,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/hibernate/SessionFactory.java,getCurrentSession
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,1dd1ca1b-6652-4bd2-9d1f-5d039ea58ecb,42c03cd0-73de-4739-af39-a992cdee4989,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/hibernate/classic/Session.java,save
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,22d78365-a4eb-4dc6-a038-ee5f6cada9b8,159fb801-9380-4967-b40a-0018c947043f,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,c5b100ba-a807-44e0-9705-a7db2caee909,4f466fb9-1fb7-48dc-8d30-0becafdc4543
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,com/etmobile/service/impl/UserServiceImpl.java,<clinit>,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/apache/log4j/Logger.java,getLogger
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,f81d1a3c-8d09-456e-bedd-16efa4c308b5,bd553e0f-efca-4046-9746-39d6299c54d9,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,com/alibaba/fastjson/JSON.java,toJSONStringWithDateFormat
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,47600ec0-2410-40b6-9368-cfc53b8de0ab,da325db3-2d8d-4d8f-9612-8924390d1616,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,javax/servlet/http/HttpServletRequest.java,getParameter
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,47600ec0-2410-40b6-9368-cfc53b8de0ab,da325db3-2d8d-4d8f-9612-8924390d1616,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,com/etmobile/controller/UserController.java,getJSON
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,com/etmobile/controller/UserController.java,<clinit>,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/apache/log4j/Logger.java,getLogger
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/apache/log4j/Logger.java,info
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/springframework/context/ApplicationContext.java,getBean
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,260a4133-9340-4218-8827-7aebcdb03867,d9488a01-a429-44c1-899b-e6924127357e
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,260a4133-9340-4218-8827-7aebcdb03867,0fac885f-e278-4fd5-955a-f83a299bdacf
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,260a4133-9340-4218-8827-7aebcdb03867,ab8ac0ed-d28e-43b0-9b8e-c88fac5c4c29
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,260a4133-9340-4218-8827-7aebcdb03867,6adfbb7f-76ca-4277-b7ff-de5270408a8c
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,d0f3539a-07e3-43d4-ac31-c4a09205ae53,880f24aa-49fa-4677-aed0-0e9e65111891,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,9db9681b-95e7-4253-af7f-d95ffd86c988,cda10c02-80da-4bf1-834f-5faf86e91c4d
+69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,com/etmobile/test/Springtest.java,<clinit>,->,69d683b4-544a-4f22-b75f-c7c5ae3d2bb7,org/apache/log4j/Logger.java,getLogger

@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,7869c74c-fed3-4e2b-998f-2cab897eca8a,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManagerFactory.java,createEntityManager
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManagerFactory.java,createEntityManager
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,getTransaction
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityTransaction.java,begin
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,persist
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,getTransaction
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityTransaction.java,commit
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,close
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,java/lang/Object.java,getClass
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,org/slf4j/Logger.java,error
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,getTransaction
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityTransaction.java,rollback
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,close
+c81d3167-d174-4f0c-810e-33ab4b40a901,0769a4a9-1054-4b00-bafa-629be194e861,6efbd7f9-2756-4b6f-aac1-409ad02ed0b7,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/EntityManager.java,close
+c81d3167-d174-4f0c-810e-33ab4b40a901,com/rds/click/DatabaseConnection.java,<clinit>,->,c81d3167-d174-4f0c-810e-33ab4b40a901,org/slf4j/LoggerFactory.java,getLogger
+c81d3167-d174-4f0c-810e-33ab4b40a901,com/rds/click/DatabaseConnection.java,<clinit>,->,c81d3167-d174-4f0c-810e-33ab4b40a901,javax/persistence/Persistence.java,createEntityManagerFactory

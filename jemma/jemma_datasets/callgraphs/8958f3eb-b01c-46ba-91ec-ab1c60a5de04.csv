@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,org/jsoup/Jsoup.java,connect
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,org/jsoup/Connection.java,get
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,org/jsoup/nodes/Document.java,select
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,org/jsoup/select/Elements.java,get
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,java/lang/StringBuilder.java,append
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,org/jsoup/nodes/Element.java,text
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,java/lang/StringBuilder.java,append
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,java/lang/StringBuilder.java,toString
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,org/apache/logging/log4j/Logger.java,log
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,2fba0248-952a-4b6e-9a65-2a44f2a8b895,ef0941d1-7f26-4dec-99b3-8cb9ec81647b,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,67fd6b6e-9813-42c7-89c2-c95e8bc5bd59,872d1f62-70b6-479c-bcef-5fb1ceca5ad1
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,2fba0248-952a-4b6e-9a65-2a44f2a8b895,ef0941d1-7f26-4dec-99b3-8cb9ec81647b,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,67fd6b6e-9813-42c7-89c2-c95e8bc5bd59,b3e9586f-0e97-424f-8d6f-dafa832c55a8
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,2fba0248-952a-4b6e-9a65-2a44f2a8b895,ef0941d1-7f26-4dec-99b3-8cb9ec81647b,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,67fd6b6e-9813-42c7-89c2-c95e8bc5bd59,ed943b58-1189-44b8-9b90-1135556339d4
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,a81d3872-d1c7-4a2a-9864-5fc91a6f657b,822aabc0-d92f-42f3-968f-9a3e781765f3,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,ae64fdca-c00e-4fe9-a241-7d0c5f4924ab
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,a81d3872-d1c7-4a2a-9864-5fc91a6f657b,822aabc0-d92f-42f3-968f-9a3e781765f3,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,a81d3872-d1c7-4a2a-9864-5fc91a6f657b,c5607ee1-c881-4fc5-aed9-f42661753819,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,ae64fdca-c00e-4fe9-a241-7d0c5f4924ab
+8958f3eb-b01c-46ba-91ec-ab1c60a5de04,a81d3872-d1c7-4a2a-9864-5fc91a6f657b,c5607ee1-c881-4fc5-aed9-f42661753819,->,8958f3eb-b01c-46ba-91ec-ab1c60a5de04,cddf35b3-caa5-4800-be0c-c209a67ad7fa,cb5fd430-1383-452d-9cad-3a3f1e750339

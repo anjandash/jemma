@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7e2c41f9-2508-4a00-9204-cb46ee9185a4,d3240708-a651-4fae-862d-55239117df31,6fb704b2-a7d7-4606-a528-3ccc8e78e5aa,->,7e2c41f9-2508-4a00-9204-cb46ee9185a4,java/lang/Object.java,getClass
+7e2c41f9-2508-4a00-9204-cb46ee9185a4,d3240708-a651-4fae-862d-55239117df31,6fb704b2-a7d7-4606-a528-3ccc8e78e5aa,->,7e2c41f9-2508-4a00-9204-cb46ee9185a4,java/lang/Class.java,getResource
+7e2c41f9-2508-4a00-9204-cb46ee9185a4,d3240708-a651-4fae-862d-55239117df31,6fb704b2-a7d7-4606-a528-3ccc8e78e5aa,->,7e2c41f9-2508-4a00-9204-cb46ee9185a4,javax/imageio/ImageIO.java,read
+7e2c41f9-2508-4a00-9204-cb46ee9185a4,ca/qc/bdeb/c37/tp2/modele/Fichiers.java,values,->,7e2c41f9-2508-4a00-9204-cb46ee9185a4,ca/qc/bdeb/c37/tp2/modele/Fichiers.java,clone
+7e2c41f9-2508-4a00-9204-cb46ee9185a4,ca/qc/bdeb/c37/tp2/modele/Fichiers.java,valueOf,->,7e2c41f9-2508-4a00-9204-cb46ee9185a4,java/lang/Enum.java,valueOf

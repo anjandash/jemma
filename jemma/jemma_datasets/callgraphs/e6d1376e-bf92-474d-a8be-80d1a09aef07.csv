@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e6d1376e-bf92-474d-a8be-80d1a09aef07,b0211913-f6d0-43e0-a254-478ab4805f5f,2689e77d-ca0e-4981-9833-9a3b998fc304,->,e6d1376e-bf92-474d-a8be-80d1a09aef07,java/lang/Object.java,getClass
+e6d1376e-bf92-474d-a8be-80d1a09aef07,b0211913-f6d0-43e0-a254-478ab4805f5f,2689e77d-ca0e-4981-9833-9a3b998fc304,->,e6d1376e-bf92-474d-a8be-80d1a09aef07,java/lang/Object.java,getClass

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,com/blog/samples/services/EnumAccountStatus.java,values,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,com/blog/samples/services/EnumAccountStatus.java,clone
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,com/blog/samples/services/EnumAccountStatus.java,valueOf,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,java/lang/Enum.java,valueOf
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,cc73cbb2-db61-4ea6-af2a-4c2303501609,d9aa98bf-8779-4d87-9d53-230b4cbbab4d,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,com/blog/samples/services/EnumAccountStatus.java,values
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,cc73cbb2-db61-4ea6-af2a-4c2303501609,d9aa98bf-8779-4d87-9d53-230b4cbbab4d,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,java/lang/String.java,equals
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,838f7420-7bed-4bd0-a300-c08e44f0276e,937fe8a8-1ce3-497b-821d-5493b1138762,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,java/io/PrintStream.java,println
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,838f7420-7bed-4bd0-a300-c08e44f0276e,937fe8a8-1ce3-497b-821d-5493b1138762,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,f5c75eb8-21d4-47f9-a7da-2c753ddeb2b6,1280a2d0-4ac5-4ed8-a7fe-9656906371a2
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,838f7420-7bed-4bd0-a300-c08e44f0276e,937fe8a8-1ce3-497b-821d-5493b1138762,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,6c2bf098-d64c-4d57-b36d-4f4d8a9ab50a,25f5e841-d66b-4387-a405-e96fe5c46421
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,838f7420-7bed-4bd0-a300-c08e44f0276e,937fe8a8-1ce3-497b-821d-5493b1138762,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,f2d2a617-a061-464f-a5be-cec5f59ff2a5,007a6e48-2f2e-45e2-8e40-dbcd42177522
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,e6d23f47-df8b-449b-a6d5-bf1b60ad7ca5,f32ec928-d044-401d-8cde-724941f62294,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,fddffd74-ecb8-4ba9-babc-26f05d8e7f3e,5f2ab3e2-e9dc-4224-a419-ffd7fe92c40d
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,e6d23f47-df8b-449b-a6d5-bf1b60ad7ca5,f32ec928-d044-401d-8cde-724941f62294,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,fddffd74-ecb8-4ba9-babc-26f05d8e7f3e,4c7c0111-b931-4d76-a4c5-5002acc06299
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,e6d23f47-df8b-449b-a6d5-bf1b60ad7ca5,f32ec928-d044-401d-8cde-724941f62294,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,fddffd74-ecb8-4ba9-babc-26f05d8e7f3e,44123522-0cea-4044-89a3-8ddf2234e86d
+e65c749d-d257-4c3f-b88f-1c9e4d9b0815,e6d23f47-df8b-449b-a6d5-bf1b60ad7ca5,f32ec928-d044-401d-8cde-724941f62294,->,e65c749d-d257-4c3f-b88f-1c9e4d9b0815,fddffd74-ecb8-4ba9-babc-26f05d8e7f3e,1ddafa74-4a44-484a-9ec2-acfff15bfed9

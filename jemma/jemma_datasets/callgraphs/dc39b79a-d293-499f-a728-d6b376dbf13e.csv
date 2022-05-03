@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+dc39b79a-d293-499f-a728-d6b376dbf13e,b7f2b0c0-433b-48ae-bcc7-e32939fb7091,25f85203-e23c-408a-9fcb-a5f408ca25b2,->,dc39b79a-d293-499f-a728-d6b376dbf13e,org/springframework/context/ApplicationContext.java,getBean
+dc39b79a-d293-499f-a728-d6b376dbf13e,b7f2b0c0-433b-48ae-bcc7-e32939fb7091,25f85203-e23c-408a-9fcb-a5f408ca25b2,->,dc39b79a-d293-499f-a728-d6b376dbf13e,35381de7-8c2d-481a-8a37-0958a86facbe,cc0d407d-3767-4382-8d57-a62ae33dee7c
+dc39b79a-d293-499f-a728-d6b376dbf13e,com/activemq/Sender$1.java,createMessage,->,dc39b79a-d293-499f-a728-d6b376dbf13e,javax/jms/Session.java,createMapMessage
+dc39b79a-d293-499f-a728-d6b376dbf13e,com/activemq/Sender$1.java,createMessage,->,dc39b79a-d293-499f-a728-d6b376dbf13e,java/util/Date.java,toString
+dc39b79a-d293-499f-a728-d6b376dbf13e,com/activemq/Sender$1.java,createMessage,->,dc39b79a-d293-499f-a728-d6b376dbf13e,javax/jms/MapMessage.java,setString
+dc39b79a-d293-499f-a728-d6b376dbf13e,c5f7a510-0f29-473a-87bf-a88868b42056,75730a89-d08e-498f-8578-92a67ec8a971,->,dc39b79a-d293-499f-a728-d6b376dbf13e,org/springframework/jms/core/JmsTemplate.java,receive
+dc39b79a-d293-499f-a728-d6b376dbf13e,c5f7a510-0f29-473a-87bf-a88868b42056,75730a89-d08e-498f-8578-92a67ec8a971,->,dc39b79a-d293-499f-a728-d6b376dbf13e,javax/jms/MapMessage.java,getString
+dc39b79a-d293-499f-a728-d6b376dbf13e,c5f7a510-0f29-473a-87bf-a88868b42056,75730a89-d08e-498f-8578-92a67ec8a971,->,dc39b79a-d293-499f-a728-d6b376dbf13e,org/springframework/jms/support/JmsUtils.java,convertJmsAccessException
+dc39b79a-d293-499f-a728-d6b376dbf13e,35381de7-8c2d-481a-8a37-0958a86facbe,cc0d407d-3767-4382-8d57-a62ae33dee7c,->,dc39b79a-d293-499f-a728-d6b376dbf13e,org/springframework/jms/core/JmsTemplate.java,send
+dc39b79a-d293-499f-a728-d6b376dbf13e,f064584d-eb28-4e54-b980-8a9e9fa2d650,17377101-da26-4f8a-96b3-aaebf54d40bc,->,dc39b79a-d293-499f-a728-d6b376dbf13e,org/springframework/context/ApplicationContext.java,getBean
+dc39b79a-d293-499f-a728-d6b376dbf13e,f064584d-eb28-4e54-b980-8a9e9fa2d650,17377101-da26-4f8a-96b3-aaebf54d40bc,->,dc39b79a-d293-499f-a728-d6b376dbf13e,c5f7a510-0f29-473a-87bf-a88868b42056,75730a89-d08e-498f-8578-92a67ec8a971
+dc39b79a-d293-499f-a728-d6b376dbf13e,f064584d-eb28-4e54-b980-8a9e9fa2d650,17377101-da26-4f8a-96b3-aaebf54d40bc,->,dc39b79a-d293-499f-a728-d6b376dbf13e,java/io/PrintStream.java,print
+dc39b79a-d293-499f-a728-d6b376dbf13e,a322d9b0-8006-4554-87be-a9283ed65023,a69926a3-1ede-40df-a7b9-2fcc0b01dd64,->,dc39b79a-d293-499f-a728-d6b376dbf13e,0ec618fd-c9aa-4873-b43a-c1ef2885b670,e825684b-3199-41b7-8cbd-f8c173ecf19c
+dc39b79a-d293-499f-a728-d6b376dbf13e,a322d9b0-8006-4554-87be-a9283ed65023,a69926a3-1ede-40df-a7b9-2fcc0b01dd64,->,dc39b79a-d293-499f-a728-d6b376dbf13e,com/activemq/AppTest.java,assertTrue
+dc39b79a-d293-499f-a728-d6b376dbf13e,0ec618fd-c9aa-4873-b43a-c1ef2885b670,e825684b-3199-41b7-8cbd-f8c173ecf19c,->,dc39b79a-d293-499f-a728-d6b376dbf13e,java/io/PrintStream.java,println

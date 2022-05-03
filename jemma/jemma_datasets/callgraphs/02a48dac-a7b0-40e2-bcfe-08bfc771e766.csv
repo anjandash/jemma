@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,main,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/PrintStream.java,println
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,main,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/lang/System.java,exit
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,main,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,main,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/PrintStream.java,println
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/BufferedReader.java,readLine
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/util/ArrayList.java,add
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/BufferedReader.java,close
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/IOException.java,printStackTrace
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/IOException.java,printStackTrace
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/BufferedReader.java,close
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/IOException.java,printStackTrace
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/BufferedReader.java,close
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/io/IOException.java,printStackTrace
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/util/ArrayList.java,toArray
+02a48dac-a7b0-40e2-bcfe-08bfc771e766,vmemman/Vmemman.java,readfile,->,02a48dac-a7b0-40e2-bcfe-08bfc771e766,java/lang/Integer.java,parseInt

@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,e7b1be13-28d0-4d5e-a988-1bfe836a25d6,caf30354-38bf-4d90-b760-b71fa7555ee2,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/util/Map.java,values
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,e7b1be13-28d0-4d5e-a988-1bfe836a25d6,787368c2-bc41-4802-bc49-eb99248b5673,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/lang/String.java,toUpperCase
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,e7b1be13-28d0-4d5e-a988-1bfe836a25d6,787368c2-bc41-4802-bc49-eb99248b5673,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/util/Map.java,get
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,8cac1baa-bca0-4c71-928d-213010b5938d,f5e0c4f7-9632-4597-a21d-a613a583aa07,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,javax/xml/ws/Service.java,getPort
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,8cac1baa-bca0-4c71-928d-213010b5938d,54fde6ca-f21e-4c31-9ea4-17e0361967b2,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,javax/xml/ws/Service.java,getPort
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,org/teiid/stateservice/StateService_Service.java,<clinit>,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/io/PrintStream.java,println
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,ba2e209d-1d2d-4f61-9a7b-c1b8d01d29e8,fbe3d668-1ec2-4e28-b30a-29ef199db93f,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,e7b1be13-28d0-4d5e-a988-1bfe836a25d6,caf30354-38bf-4d90-b760-b71fa7555ee2
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,ba2e209d-1d2d-4f61-9a7b-c1b8d01d29e8,1426bcee-0ba7-4c3a-aa58-592bafb4398a,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,e7b1be13-28d0-4d5e-a988-1bfe836a25d6,787368c2-bc41-4802-bc49-eb99248b5673
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,ba2e209d-1d2d-4f61-9a7b-c1b8d01d29e8,1426bcee-0ba7-4c3a-aa58-592bafb4398a,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/lang/StringBuilder.java,append
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,ba2e209d-1d2d-4f61-9a7b-c1b8d01d29e8,1426bcee-0ba7-4c3a-aa58-592bafb4398a,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/lang/StringBuilder.java,append
+25c0a0fe-a674-4267-a86d-81f72e7eeeaf,ba2e209d-1d2d-4f61-9a7b-c1b8d01d29e8,1426bcee-0ba7-4c3a-aa58-592bafb4398a,->,25c0a0fe-a674-4267-a86d-81f72e7eeeaf,java/lang/StringBuilder.java,toString

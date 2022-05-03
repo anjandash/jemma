@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+379d60bb-d855-4afd-9154-e248eeea7dea,af1ac783-2261-44b6-a20b-36bea4457060,3a8e72bd-c0b8-45ae-bab4-1d4b1da6d779,->,379d60bb-d855-4afd-9154-e248eeea7dea,me/meta1203/plugins/cryptocashier/Cryptocashier.java,getServer
+379d60bb-d855-4afd-9154-e248eeea7dea,af1ac783-2261-44b6-a20b-36bea4457060,3a8e72bd-c0b8-45ae-bab4-1d4b1da6d779,->,379d60bb-d855-4afd-9154-e248eeea7dea,org/bukkit/Server.java,getPluginManager
+379d60bb-d855-4afd-9154-e248eeea7dea,af1ac783-2261-44b6-a20b-36bea4457060,3a8e72bd-c0b8-45ae-bab4-1d4b1da6d779,->,379d60bb-d855-4afd-9154-e248eeea7dea,org/bukkit/plugin/PluginManager.java,registerEvents
+379d60bb-d855-4afd-9154-e248eeea7dea,dcc29813-0c1c-4e34-9620-0d964f0f46fc,91bc01d2-5f18-41ec-a61b-a142f437455e,->,379d60bb-d855-4afd-9154-e248eeea7dea,java/lang/Exception.java,printStackTrace

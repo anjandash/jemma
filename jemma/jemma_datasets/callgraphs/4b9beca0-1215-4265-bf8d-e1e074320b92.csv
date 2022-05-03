@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,javax/servlet/http/HttpServletRequest.java,getParameterMap
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/util/Map.java,entrySet
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/util/Set.java,iterator
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/util/Iterator.java,hasNext
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/util/Iterator.java,next
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/util/Map$Entry.java,getKey
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/lang/StringBuilder.java,append
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/lang/StringBuilder.java,append
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/util/Map$Entry.java,getValue
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/lang/StringBuilder.java,append
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,java/lang/StringBuilder.java,toString
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,ef7faff0-01af-4218-85b5-5c135db2611a,->,4b9beca0-1215-4265-bf8d-e1e074320b92,org/slf4j/Logger.java,info
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,578d5b8c-4a53-4e55-86ad-828d316ee947,->,4b9beca0-1215-4265-bf8d-e1e074320b92,info/clang/web/action/BaseAction4.java,validate
+4b9beca0-1215-4265-bf8d-e1e074320b92,084b24a1-bbc0-4b6d-a7f8-35db1c768506,578d5b8c-4a53-4e55-86ad-828d316ee947,->,4b9beca0-1215-4265-bf8d-e1e074320b92,info/clang/web/action/UserAction.java,addFieldError
+4b9beca0-1215-4265-bf8d-e1e074320b92,242d82ad-19cb-4eac-996c-198bdaefa6b7,c0f6a405-bb4c-4f54-9167-bc4d0276c6b2,->,4b9beca0-1215-4265-bf8d-e1e074320b92,javax/servlet/http/HttpServletRequest.java,getSession
+4b9beca0-1215-4265-bf8d-e1e074320b92,242d82ad-19cb-4eac-996c-198bdaefa6b7,c0f6a405-bb4c-4f54-9167-bc4d0276c6b2,->,4b9beca0-1215-4265-bf8d-e1e074320b92,javax/servlet/http/HttpSession.java,getServletContext

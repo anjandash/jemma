@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f7594c86-1093-4597-82b5-990269c0eb7e,98141f36-3064-4003-9f63-223d5afffafd,558e32be-d7e4-4f7a-a803-403c3f15f44f,->,f7594c86-1093-4597-82b5-990269c0eb7e,java/util/function/Consumer.java,accept
+f7594c86-1093-4597-82b5-990269c0eb7e,98141f36-3064-4003-9f63-223d5afffafd,558e32be-d7e4-4f7a-a803-403c3f15f44f,->,f7594c86-1093-4597-82b5-990269c0eb7e,java/util/List.java,forEach
+f7594c86-1093-4597-82b5-990269c0eb7e,net/lkrnac/blog/loadinheritancetree/Nature.java,lambda$showAnimals$0,->,f7594c86-1093-4597-82b5-990269c0eb7e,java/io/PrintStream.java,println
+f7594c86-1093-4597-82b5-990269c0eb7e,ae352076-00ba-4ea7-b668-28f3352bb0bd,a3a6b60b-5ae4-4ba8-ac63-f40be19d50e3,->,f7594c86-1093-4597-82b5-990269c0eb7e,org/springframework/context/annotation/AnnotationConfigApplicationContext.java,getBean
+f7594c86-1093-4597-82b5-990269c0eb7e,ae352076-00ba-4ea7-b668-28f3352bb0bd,a3a6b60b-5ae4-4ba8-ac63-f40be19d50e3,->,f7594c86-1093-4597-82b5-990269c0eb7e,98141f36-3064-4003-9f63-223d5afffafd,558e32be-d7e4-4f7a-a803-403c3f15f44f

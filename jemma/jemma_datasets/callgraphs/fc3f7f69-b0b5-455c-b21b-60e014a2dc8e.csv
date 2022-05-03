@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,br/com/qualiti/patrimonio/Fisico$TIPO.java,values,->,fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,br/com/qualiti/patrimonio/Fisico$TIPO.java,clone
+fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,br/com/qualiti/patrimonio/Fisico$TIPO.java,valueOf,->,fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,java/lang/Enum.java,valueOf
+fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,br/com/qualiti/patrimonio/Logico$TIPO.java,values,->,fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,br/com/qualiti/patrimonio/Logico$TIPO.java,clone
+fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,br/com/qualiti/patrimonio/Logico$TIPO.java,valueOf,->,fc3f7f69-b0b5-455c-b21b-60e014a2dc8e,java/lang/Enum.java,valueOf

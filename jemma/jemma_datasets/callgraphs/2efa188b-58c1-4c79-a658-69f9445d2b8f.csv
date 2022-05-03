@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,append
+2efa188b-58c1-4c79-a658-69f9445d2b8f,a4541514-2b19-4473-aa39-1b741ab6db6b,104fde7a-2a55-4692-9208-f2bbdae72745,->,2efa188b-58c1-4c79-a658-69f9445d2b8f,java/lang/StringBuilder.java,toString

@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d929461c-c583-4c7c-ada4-0af2a05a8956,b1c2afe3-7b59-428c-b7a5-8b73aeef147d,802afbef-a0a2-4cdb-9ed0-5b2a082daecd,->,d929461c-c583-4c7c-ada4-0af2a05a8956,java/io/PrintStream.java,println
+d929461c-c583-4c7c-ada4-0af2a05a8956,model/TiposComando.java,values,->,d929461c-c583-4c7c-ada4-0af2a05a8956,model/TiposComando.java,clone
+d929461c-c583-4c7c-ada4-0af2a05a8956,model/TiposComando.java,valueOf,->,d929461c-c583-4c7c-ada4-0af2a05a8956,java/lang/Enum.java,valueOf

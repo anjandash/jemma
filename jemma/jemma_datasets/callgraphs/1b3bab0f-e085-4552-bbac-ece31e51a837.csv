@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1b3bab0f-e085-4552-bbac-ece31e51a837,b4f0d3ec-104a-4f82-974b-3047810c9974,658d1393-b5b1-4e24-821a-81391a395326,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/apache/tapestry5/ComponentResources.java,getPageName
+1b3bab0f-e085-4552-bbac-ece31e51a837,b4f0d3ec-104a-4f82-974b-3047810c9974,658d1393-b5b1-4e24-821a-81391a395326,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/String.java,equalsIgnoreCase
+1b3bab0f-e085-4552-bbac-ece31e51a837,d0172366-1b36-4e62-9629-5486689e33fd,c97f9d97-3600-4202-a723-bc8a12d774d1,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/apache/tapestry5/ioc/MappedConfiguration.java,add
+1b3bab0f-e085-4552-bbac-ece31e51a837,d0172366-1b36-4e62-9629-5486689e33fd,c97f9d97-3600-4202-a723-bc8a12d774d1,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/apache/tapestry5/ioc/MappedConfiguration.java,add
+1b3bab0f-e085-4552-bbac-ece31e51a837,d0172366-1b36-4e62-9629-5486689e33fd,c97f9d97-3600-4202-a723-bc8a12d774d1,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/apache/tapestry5/ioc/MappedConfiguration.java,add
+1b3bab0f-e085-4552-bbac-ece31e51a837,d0172366-1b36-4e62-9629-5486689e33fd,69cc7255-61a2-4934-8e6e-2669a3046503,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/apache/tapestry5/ioc/OrderedConfiguration.java,add
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/System.java,currentTimeMillis
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/apache/tapestry5/services/RequestHandler.java,service
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/System.java,currentTimeMillis
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/Long.java,valueOf
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/String.java,format
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/slf4j/Logger.java,info
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/System.java,currentTimeMillis
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/Long.java,valueOf
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,java/lang/String.java,format
+1b3bab0f-e085-4552-bbac-ece31e51a837,ganshane/services/AppModule$1.java,service,->,1b3bab0f-e085-4552-bbac-ece31e51a837,org/slf4j/Logger.java,info

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,java/util/Map.java,keySet
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,java/util/Set.java,iterator
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,java/util/Iterator.java,hasNext
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,java/util/Iterator.java,next
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,d2769ec0-9f9b-4747-a994-9283e98ff754,3b14296a-6ddf-47ef-8cb2-ea16fc76f12a
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,2d2fc20e-1488-4b10-9e0a-367ff02b2bc5,99eadeb3-dee4-4a1d-bf5b-7eddf984ed99
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,java/lang/Boolean.java,valueOf
+db5d88c8-3261-4e5d-9283-124becf06ad9,com/sungsu/controller/JSONController.java,getEmailValidationInJSON,->,db5d88c8-3261-4e5d-9283-124becf06ad9,d2769ec0-9f9b-4747-a994-9283e98ff754,a9fbb5ec-9217-4a1c-89a8-c734c1e78d6c
+db5d88c8-3261-4e5d-9283-124becf06ad9,2d2fc20e-1488-4b10-9e0a-367ff02b2bc5,99eadeb3-dee4-4a1d-bf5b-7eddf984ed99,->,db5d88c8-3261-4e5d-9283-124becf06ad9,javax/mail/internet/InternetAddress.java,validate
+db5d88c8-3261-4e5d-9283-124becf06ad9,ca7bc5f2-efff-46b0-9fab-6cff41468c23,5f5e95dc-6a5d-42fd-bc6a-89c19f38faba,->,db5d88c8-3261-4e5d-9283-124becf06ad9,org/junit/Assert.java,assertEquals

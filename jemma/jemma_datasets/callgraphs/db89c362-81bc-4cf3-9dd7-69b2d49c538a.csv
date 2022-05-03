@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,9538a0d5-6502-4b8f-9135-e7ea08cc10c6,743df66f-9216-4172-9d94-c1a5b9b727dd,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,3f758d6e-01df-4d34-8d6e-9c98e39dcef4,74ce5c47-9465-4779-814c-d92e1c98d9fe
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,9538a0d5-6502-4b8f-9135-e7ea08cc10c6,d8323814-aa88-478f-9541-b354bdc3e6d5,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,java/util/List.java,add
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,test/lp2/textil/TestPlanner.java,testEmpty,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,9538a0d5-6502-4b8f-9135-e7ea08cc10c6,743df66f-9216-4172-9d94-c1a5b9b727dd
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,test/lp2/textil/TestPlanner.java,testEmpty,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,org/junit/Assert.java,assertEquals
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,test/lp2/textil/TestPlanner.java,testUnity,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,9538a0d5-6502-4b8f-9135-e7ea08cc10c6,d8323814-aa88-478f-9541-b354bdc3e6d5
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,test/lp2/textil/TestPlanner.java,testUnity,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,9538a0d5-6502-4b8f-9135-e7ea08cc10c6,743df66f-9216-4172-9d94-c1a5b9b727dd
+db89c362-81bc-4cf3-9dd7-69b2d49c538a,test/lp2/textil/TestPlanner.java,testUnity,->,db89c362-81bc-4cf3-9dd7-69b2d49c538a,org/junit/Assert.java,assertEquals

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa60e7ed-1e52-4800-92f6-ac76a6827692,0326f450-f37a-471d-92e1-75868258783f,25ef7be5-6106-4989-a987-915f69a8f660,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,edaa367f-ffda-44e5-9024-766da30d4f04,7beeec28-a54f-4084-99fb-888d3a709361,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,fbdc1db3-d62d-4e92-9ecc-2e4ebaa4e2b7,adb7a6ee-4dbf-4964-806d-002b6a2ed5d9,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,d10019bb-5722-4833-83ef-ff46b119142b,ce52a3f8-3abf-496d-b273-4171d59d4670,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,4eb3b4f5-f3ef-4b65-8380-d96fa5264268,07b7fe6f-95fd-4b9e-8c8a-38a45a2e59af,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,e9ef465a-ab22-458a-aa2c-be13741b27d2,1060b0f0-b5b3-42e9-a446-203a9d75ac2a,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,39d4bd8a-59e9-4e7d-a421-ebcc38986bcf,fac6f882-9bd8-46f8-bd57-0f75891e4c13,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,09e3c9b9-7cd6-4d2b-b223-060074af74a1,a2e78dbf-105d-4ac9-99d0-5b326ff8f577,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,ef0515eb-790e-4ff1-828d-eb9b313a723f,52d2548d-9b4b-49f6-be2b-efe4f3af1a69,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue
+aa60e7ed-1e52-4800-92f6-ac76a6827692,e3abd23b-baf0-4f16-8cf5-9a6451113740,f62b8875-1707-40ee-87d2-dbb75096c62d,->,aa60e7ed-1e52-4800-92f6-ac76a6827692,org/junit/Assert.java,assertTrue

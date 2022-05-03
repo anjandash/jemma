@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/providers/Medic$Speciality.java,values,->,81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/providers/Medic$Speciality.java,clone
+81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/providers/Medic$Speciality.java,valueOf,->,81754e7b-8ecd-4ab5-b359-48e2c799b872,java/lang/Enum.java,valueOf
+81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/people/Type.java,values,->,81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/people/Type.java,clone
+81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/people/Type.java,valueOf,->,81754e7b-8ecd-4ab5-b359-48e2c799b872,java/lang/Enum.java,valueOf
+81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/people/State.java,values,->,81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/people/State.java,clone
+81754e7b-8ecd-4ab5-b359-48e2c799b872,co/mymedicalprofile/domain/people/State.java,valueOf,->,81754e7b-8ecd-4ab5-b359-48e2c799b872,java/lang/Enum.java,valueOf

@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d7148c8d-8f91-402a-ab7a-7d8f547858c3,f15c9896-ec74-4a11-820d-7500a9c2de89,761eca82-70a4-43eb-9e7f-527d2bdad1b4,->,d7148c8d-8f91-402a-ab7a-7d8f547858c3,org/springframework/boot/SpringApplication.java,run
+d7148c8d-8f91-402a-ab7a-7d8f547858c3,31333455-b064-44e0-b316-a6c9c05e0279,a10a720e-be3e-4b5b-b2be-f8891f38e5ab,->,d7148c8d-8f91-402a-ab7a-7d8f547858c3,springboot/sql/jpa/bug/PersonRepository.java,deleteAll
+d7148c8d-8f91-402a-ab7a-7d8f547858c3,31333455-b064-44e0-b316-a6c9c05e0279,a10a720e-be3e-4b5b-b2be-f8891f38e5ab,->,d7148c8d-8f91-402a-ab7a-7d8f547858c3,springboot/sql/jpa/bug/PersonRepository.java,save
+d7148c8d-8f91-402a-ab7a-7d8f547858c3,1daf395e-c898-4138-8ae3-9fef5ca0d9e6,b1a1c3c5-0b63-47d7-a57a-d37476829fec,->,d7148c8d-8f91-402a-ab7a-7d8f547858c3,java/lang/Long.java,valueOf
+d7148c8d-8f91-402a-ab7a-7d8f547858c3,1daf395e-c898-4138-8ae3-9fef5ca0d9e6,b1a1c3c5-0b63-47d7-a57a-d37476829fec,->,d7148c8d-8f91-402a-ab7a-7d8f547858c3,springboot/sql/jpa/bug/PersonRepository.java,findOne

@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,GameLoop$1.java,actionPerformed,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,890863d8-f47d-4e45-ba30-3aea71d61dc7
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,4b7fbe5e-1f9e-4370-a9d5-71b1f151e180,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,javax/swing/JFrame.java,setVisible
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,4b7fbe5e-1f9e-4370-a9d5-71b1f151e180,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,javax/swing/Timer.java,start
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,050adbe9-c9e8-4bc0-b69d-9b47d4af605c,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,4b7fbe5e-1f9e-4370-a9d5-71b1f151e180
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel$1.java,keyPressed,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel.java,access$000
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel$1.java,keyPressed,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,java/awt/event/KeyEvent.java,getKeyCode
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel$1.java,keyPressed,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,756d0ce0-0265-4686-af22-af032a7f7303
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel$1.java,keyReleased,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel.java,access$000
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel$1.java,keyReleased,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,java/awt/event/KeyEvent.java,getKeyCode
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,NPanel$1.java,keyReleased,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,db044b6b-2581-4b7f-9a20-186f00dbf5b2,756d0ce0-0265-4686-af22-af032a7f7303
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,c3a47bf5-0905-45fe-8bdf-c23a87ed5b42,5a245c9c-d385-4d37-853e-790d6cd46221,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,javax/swing/JPanel.java,paintComponent
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,c3a47bf5-0905-45fe-8bdf-c23a87ed5b42,5a245c9c-d385-4d37-853e-790d6cd46221,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,java/awt/Graphics2D.java,drawRect
+5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,2bf9897d-faf7-494e-91b5-cc934ff6937e,fcc29a2a-7f56-440d-a578-383d302bbd75,->,5dfc85e6-9ae3-4de1-8551-55f4fc0f4b8b,java/util/List.java,size

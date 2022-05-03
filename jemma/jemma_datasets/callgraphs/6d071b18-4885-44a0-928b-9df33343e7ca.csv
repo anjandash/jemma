@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6d071b18-4885-44a0-928b-9df33343e7ca,2849d9d0-8eb1-4b03-bd1b-f2e200051575,59ab2a6d-0521-4b68-88f3-fa7092a3a944,->,6d071b18-4885-44a0-928b-9df33343e7ca,java/util/List.java,add
+6d071b18-4885-44a0-928b-9df33343e7ca,2849d9d0-8eb1-4b03-bd1b-f2e200051575,c49f34e0-c3cd-4880-bb0f-986716af9eb1,->,6d071b18-4885-44a0-928b-9df33343e7ca,java/util/List.java,add
+6d071b18-4885-44a0-928b-9df33343e7ca,2849d9d0-8eb1-4b03-bd1b-f2e200051575,c36d833b-46ab-4c62-9218-74521ae742e2,->,6d071b18-4885-44a0-928b-9df33343e7ca,java/util/List.java,add
+6d071b18-4885-44a0-928b-9df33343e7ca,org/tokenizer/client/api/GenderType.java,values,->,6d071b18-4885-44a0-928b-9df33343e7ca,org/tokenizer/client/api/GenderType.java,clone
+6d071b18-4885-44a0-928b-9df33343e7ca,org/tokenizer/client/api/GenderType.java,valueOf,->,6d071b18-4885-44a0-928b-9df33343e7ca,java/lang/Enum.java,valueOf

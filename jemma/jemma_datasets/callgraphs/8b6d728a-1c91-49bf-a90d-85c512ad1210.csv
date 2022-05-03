@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8b6d728a-1c91-49bf-a90d-85c512ad1210,a647baf2-caef-4407-97f3-0517fbe6f21e,a96a3797-df0a-49f7-b42b-bc99ab26c93e,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/user/client/ui/RootLayoutPanel.java,get
+8b6d728a-1c91-49bf-a90d-85c512ad1210,a647baf2-caef-4407-97f3-0517fbe6f21e,a96a3797-df0a-49f7-b42b-bc99ab26c93e,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/user/client/ui/RootLayoutPanel.java,add
+8b6d728a-1c91-49bf-a90d-85c512ad1210,2f46ccbc-24d6-47b0-841c-c1b576229396,f0b6b23a-77b9-4444-9905-8356aeabe1e0,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/core/client/GWT.java,create
+8b6d728a-1c91-49bf-a90d-85c512ad1210,9e2de619-8dbf-4ca6-b760-bc45a5455561,8a291d46-a85c-4e12-a073-080d120c83e1,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,9228862f-3a14-4c40-8194-08f359f80f30,53afc4d0-7f89-477a-b7a5-73f74ddbfeb1
+8b6d728a-1c91-49bf-a90d-85c512ad1210,9e2de619-8dbf-4ca6-b760-bc45a5455561,526a6485-0dfe-4143-9cd2-96d4e2f5a499,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,73f57e0a-06e6-47d2-85d3-1377d6e4fca6,6c2192e5-ef9f-4827-a59e-c43afeb80650
+8b6d728a-1c91-49bf-a90d-85c512ad1210,9e2de619-8dbf-4ca6-b760-bc45a5455561,526a6485-0dfe-4143-9cd2-96d4e2f5a499,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/user/client/Window.java,alert
+8b6d728a-1c91-49bf-a90d-85c512ad1210,example/client/widget/example/ExampleWidgetViewImpl.java,<clinit>,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/core/client/GWT.java,create
+8b6d728a-1c91-49bf-a90d-85c512ad1210,example/client/widget/example/ExampleWidgetViewImpl.java,<clinit>,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/core/client/GWT.java,create
+8b6d728a-1c91-49bf-a90d-85c512ad1210,3f61bb9d-4809-4d1d-8506-791bf6d0174e,93c299e0-efb3-4e7a-a402-e29a4408a97e,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,ab694244-07fd-46db-a167-d7b6f9a395d6,e731eb96-4886-414a-9787-d274aad55471
+8b6d728a-1c91-49bf-a90d-85c512ad1210,21098c19-89ff-43af-9cd7-45a033c31658,5306562f-9bee-43ed-b1c9-110dedb7dd5c,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,example/client/widget/example/ExampleWidgetView.java,asWidget
+8b6d728a-1c91-49bf-a90d-85c512ad1210,02382be5-fed8-4c85-a723-a21a83e73dfb,45b99d44-085b-48c6-845f-a5cd2de7edf9,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/core/client/GWT.java,create
+8b6d728a-1c91-49bf-a90d-85c512ad1210,02382be5-fed8-4c85-a723-a21a83e73dfb,42896494-31ca-43f9-b37f-1d784ef56d74,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/core/client/GWT.java,create
+8b6d728a-1c91-49bf-a90d-85c512ad1210,cd8323cd-23ca-4095-800b-13f8552a8870,b7582794-ca5b-4951-af0b-676c48c1e508,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,com/google/gwt/core/client/GWT.java,create
+8b6d728a-1c91-49bf-a90d-85c512ad1210,480bed15-7b07-46db-8085-17f825a56b4a,57dcb0ea-2d55-4637-8305-b33973612593,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,3f61bb9d-4809-4d1d-8506-791bf6d0174e,93c299e0-efb3-4e7a-a402-e29a4408a97e
+8b6d728a-1c91-49bf-a90d-85c512ad1210,480bed15-7b07-46db-8085-17f825a56b4a,57dcb0ea-2d55-4637-8305-b33973612593,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,org/mockito/Mockito.java,verify
+8b6d728a-1c91-49bf-a90d-85c512ad1210,480bed15-7b07-46db-8085-17f825a56b4a,57dcb0ea-2d55-4637-8305-b33973612593,->,8b6d728a-1c91-49bf-a90d-85c512ad1210,ab694244-07fd-46db-a167-d7b6f9a395d6,e731eb96-4886-414a-9787-d274aad55471

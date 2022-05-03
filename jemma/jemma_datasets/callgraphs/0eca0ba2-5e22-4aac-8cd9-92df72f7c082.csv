@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,2c0e790c-d01e-4e5b-9fd5-8c7d84716279,f7499a1d-9856-48b9-be0a-12a55e914f30,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,AIGameXO/AppTest.java,assertTrue
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,values,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,clone
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,valueOf,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,java/lang/Enum.java,valueOf
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,ae59df54-dfea-4f24-b7e5-c3d34dc777bb,20e65a31-9328-417f-8f99-ab903662f413,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,ae59df54-dfea-4f24-b7e5-c3d34dc777bb,33d1d337-c268-4855-bfd9-35b5b7deb419
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,ae59df54-dfea-4f24-b7e5-c3d34dc777bb,20e65a31-9328-417f-8f99-ab903662f413,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,dcf6ddbb-ea4b-4be2-b7de-dd818c2f6763
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/CellState.java,values,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/CellState.java,clone
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/CellState.java,valueOf,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,java/lang/Enum.java,valueOf
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/AI$1.java,<clinit>,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,values
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/AI$1.java,<clinit>,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,ordinal
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/AI$1.java,<clinit>,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,ordinal
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/AI$1.java,<clinit>,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,ordinal
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,dcf6ddbb-ea4b-4be2-b7de-dd818c2f6763,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,org/hexlet/gamexo/ai/Difficulty.java,ordinal
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,dcf6ddbb-ea4b-4be2-b7de-dd818c2f6763,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,9ae5e771-91a0-48f9-80c7-0fb155cb4a33
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,dcf6ddbb-ea4b-4be2-b7de-dd818c2f6763,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,7f0f8249-3695-47cf-ab91-c771a9ddcebd
+0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,dcf6ddbb-ea4b-4be2-b7de-dd818c2f6763,->,0eca0ba2-5e22-4aac-8cd9-92df72f7c082,7d65960b-416c-49c2-beff-16e49bd16fc1,0cfaa0f5-d02d-4ae0-bf13-1d67b06210fe

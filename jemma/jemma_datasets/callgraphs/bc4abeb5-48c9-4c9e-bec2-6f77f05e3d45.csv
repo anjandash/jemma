@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,65c92f87-6336-480c-920f-24b39606f535,e671e659-98fa-4efd-b0db-ce226c7894b0,->,bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,java/io/PrintStream.java,println
+bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,d93a0008-8e6a-401c-bdd5-b7901a2e5085,63825208-acd4-4cbb-8b26-bfc104321d29,->,bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,adapter/AdapterWithInterface.java,surrogateMethod
+bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,173711cd-cace-4f4d-a60e-a2f327e0aa8c,c6e701e5-3f63-4c0e-8c60-689ba7b85c8b,->,bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,6dac804c-16d3-49c9-a538-4221ca870127,9fc21d23-a416-4362-9132-4b5a4bd9c963
+bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,df3e64b6-dfeb-4a3a-af7c-334c45fa7942,5fcdfdfa-d6e3-48db-836d-51acd60d5640,->,bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,f2f38978-40af-43e5-b1a5-6aa295d618fb,fb03bef3-b9fc-4560-8008-2ce7085df731
+bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,singleton/EnumSingleton.java,values,->,bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,singleton/EnumSingleton.java,clone
+bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,singleton/EnumSingleton.java,valueOf,->,bc4abeb5-48c9-4c9e-bec2-6f77f05e3d45,java/lang/Enum.java,valueOf

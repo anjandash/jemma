@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bd2bb85c-184e-45ac-bbe6-1198a6069b03,negocio/Funcionario$Sexo.java,values,->,bd2bb85c-184e-45ac-bbe6-1198a6069b03,negocio/Funcionario$Sexo.java,clone
+bd2bb85c-184e-45ac-bbe6-1198a6069b03,negocio/Funcionario$Sexo.java,valueOf,->,bd2bb85c-184e-45ac-bbe6-1198a6069b03,java/lang/Enum.java,valueOf

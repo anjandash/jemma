@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+926cc290-8068-49ac-88e3-ecc72b0ff70f,fdf3e7ff-8ea1-4ad5-9802-f322ad7ac445,2d7f61ca-514a-4331-baae-3eed7b338266,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/Math.java,pow
+926cc290-8068-49ac-88e3-ecc72b0ff70f,fdf3e7ff-8ea1-4ad5-9802-f322ad7ac445,2d7f61ca-514a-4331-baae-3eed7b338266,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/Math.java,pow
+926cc290-8068-49ac-88e3-ecc72b0ff70f,fdf3e7ff-8ea1-4ad5-9802-f322ad7ac445,2d7f61ca-514a-4331-baae-3eed7b338266,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/Math.java,sqrt
+926cc290-8068-49ac-88e3-ecc72b0ff70f,eb521f15-d1ca-429c-a39e-8e02e7ec543b,5421c5be-8c8a-4a14-b9ce-b69008bd36ff,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/String.java,valueOf
+926cc290-8068-49ac-88e3-ecc72b0ff70f,38ef1d86-d512-4de0-9089-b128284d21f9,9dfa99f6-9b7a-4fd9-b672-03b7fdbc2a30,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/Math.java,pow
+926cc290-8068-49ac-88e3-ecc72b0ff70f,bab2a138-c796-4631-9fc5-bef636543f05,8651e844-9fb3-4393-90f1-5b09321c976b,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/StringBuilder.java,append
+926cc290-8068-49ac-88e3-ecc72b0ff70f,bab2a138-c796-4631-9fc5-bef636543f05,8651e844-9fb3-4393-90f1-5b09321c976b,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/StringBuilder.java,append
+926cc290-8068-49ac-88e3-ecc72b0ff70f,bab2a138-c796-4631-9fc5-bef636543f05,8651e844-9fb3-4393-90f1-5b09321c976b,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/StringBuilder.java,append
+926cc290-8068-49ac-88e3-ecc72b0ff70f,bab2a138-c796-4631-9fc5-bef636543f05,8651e844-9fb3-4393-90f1-5b09321c976b,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/StringBuilder.java,append
+926cc290-8068-49ac-88e3-ecc72b0ff70f,bab2a138-c796-4631-9fc5-bef636543f05,8651e844-9fb3-4393-90f1-5b09321c976b,->,926cc290-8068-49ac-88e3-ecc72b0ff70f,java/lang/StringBuilder.java,toString

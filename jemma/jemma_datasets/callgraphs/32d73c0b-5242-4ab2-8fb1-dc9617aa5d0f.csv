@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,e8c1dceb-a948-425b-9e14-bf9a57093fb8,4440f1b8-7e4f-4cb3-8c5c-f9c7b4b62b8e,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,249fbe0a-6365-402e-8bb8-03203e367209,19f64b9d-8476-4774-b16e-647831855b77
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,fc7abe0c-54aa-4c8a-9377-a1f5092f9053,d3a06dfb-7321-4d68-8f83-98191931de28,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,com/mycompany/equa_spring1/AppTest.java,assertTrue
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,669590ab-106c-4bc3-94dd-d1638bb9cbec,75d6a74a-2335-4d59-bf2d-0895dfe88bbf,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,org/springframework/context/support/ClassPathXmlApplicationContext.java,getBean
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,669590ab-106c-4bc3-94dd-d1638bb9cbec,75d6a74a-2335-4d59-bf2d-0895dfe88bbf,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,e8c1dceb-a948-425b-9e14-bf9a57093fb8,4440f1b8-7e4f-4cb3-8c5c-f9c7b4b62b8e
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,669590ab-106c-4bc3-94dd-d1638bb9cbec,75d6a74a-2335-4d59-bf2d-0895dfe88bbf,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,org/springframework/context/support/ClassPathXmlApplicationContext.java,getBean
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,669590ab-106c-4bc3-94dd-d1638bb9cbec,75d6a74a-2335-4d59-bf2d-0895dfe88bbf,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,81aba3c5-db4b-4d3c-8810-4c117eb30476,8235bdb2-fddb-4e6c-9f97-ee58b7b10215
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,5e313afb-2109-440f-871d-a695a79ddbac,750e75fa-865d-49e7-9941-909635b33b7e,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,java/io/PrintStream.java,println
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,97549819-edb8-4065-92dd-a302a7dbecdd,dbe5bc21-8fc0-4cf4-8d74-234cceea0d89,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,java/io/PrintStream.java,println
+32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,5394f1b6-5ec5-43a7-9789-ef4c2114ccfa,7cbe52e2-8283-4394-86c1-df4736cd4108,->,32d73c0b-5242-4ab2-8fb1-dc9617aa5d0f,java/io/PrintStream.java,println

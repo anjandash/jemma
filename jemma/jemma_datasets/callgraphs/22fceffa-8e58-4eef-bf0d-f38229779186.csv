@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,javax/servlet/http/HttpServletResponse.java,getWriter
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/lang/StringBuilder.java,append
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/lang/Object.java,toString
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/lang/StringBuilder.java,append
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/lang/StringBuilder.java,toString
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/io/PrintWriter.java,println
+22fceffa-8e58-4eef-bf0d-f38229779186,92f658b4-cd63-45b5-ad58-b737f3664216,adc8d6fa-a972-4407-8bff-e81f454a1cb6,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/io/PrintWriter.java,close
+22fceffa-8e58-4eef-bf0d-f38229779186,169869a5-4dc6-4306-9769-b7ec1bb5220d,897a2417-4797-46ac-8551-bf73f25e33c9,->,22fceffa-8e58-4eef-bf0d-f38229779186,java/lang/Class.java,getName
+22fceffa-8e58-4eef-bf0d-f38229779186,robinboehm/jsr330/SimpleGuiceServletConfig$1.java,configureServlets,->,22fceffa-8e58-4eef-bf0d-f38229779186,robinboehm/jsr330/SimpleGuiceServletConfig$1.java,bind
+22fceffa-8e58-4eef-bf0d-f38229779186,robinboehm/jsr330/SimpleGuiceServletConfig$1.java,configureServlets,->,22fceffa-8e58-4eef-bf0d-f38229779186,com/google/inject/binder/AnnotatedBindingBuilder.java,to
+22fceffa-8e58-4eef-bf0d-f38229779186,robinboehm/jsr330/SimpleGuiceServletConfig$1.java,configureServlets,->,22fceffa-8e58-4eef-bf0d-f38229779186,robinboehm/jsr330/SimpleGuiceServletConfig$1.java,serve
+22fceffa-8e58-4eef-bf0d-f38229779186,robinboehm/jsr330/SimpleGuiceServletConfig$1.java,configureServlets,->,22fceffa-8e58-4eef-bf0d-f38229779186,com/google/inject/servlet/ServletModule$ServletKeyBindingBuilder.java,with
+22fceffa-8e58-4eef-bf0d-f38229779186,f7885c08-f0ee-4fa6-a2fd-48a710b28f76,1bcb534d-be22-40c7-b9ba-91ad863d53e8,->,22fceffa-8e58-4eef-bf0d-f38229779186,com/google/inject/Guice.java,createInjector

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$1.java,keyPressed,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,java/awt/event/KeyEvent.java,getKeyCode
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$1.java,keyPressed,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas.java,repaint
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$1.java,keyPressed,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas.java,repaint
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$1.java,keyPressed,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas.java,repaint
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$1.java,keyPressed,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas.java,repaint
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$2.java,actionPerformed,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas.java,repaint
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$TavaCanvas.java,paintComponent,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,javax/swing/JPanel.java,paintComponent
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$TavaCanvas.java,paintComponent,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$TavaCanvas.java,setBackground
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$TavaCanvas.java,paintComponent,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas.java,access$100
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,GameCanvas$TavaCanvas.java,paintComponent,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,16898d93-74f4-4d04-a3d7-0884ce6ee361,12ec8ce2-8a7f-4d0c-ac5b-901a9f14dd84
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,16898d93-74f4-4d04-a3d7-0884ce6ee361,12ec8ce2-8a7f-4d0c-ac5b-901a9f14dd84,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,java/awt/Graphics.java,setColor
+c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,16898d93-74f4-4d04-a3d7-0884ce6ee361,12ec8ce2-8a7f-4d0c-ac5b-901a9f14dd84,->,c46d3b4c-2eea-4a6b-9729-21f0ec7685b7,java/awt/Graphics.java,fillPolygon

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,2d08e4bb-383d-4bbc-94cf-728b7cc045e6,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,857cbf60-3bb0-4924-a052-8b49fcdd0ffa,78b8d1df-49ed-4c97-b43a-c1430d587626
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,append
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,append
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,append
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,append
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,toString
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,append
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,append
+e45c1b3a-80bd-4953-b09e-876da16ecab6,90dadb60-2fdc-42c0-ac96-5c74308dd9b4,c0eb62f0-9c69-4f74-a3a3-f3dd22431cd4,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,java/lang/StringBuilder.java,toString
+e45c1b3a-80bd-4953-b09e-876da16ecab6,br/calebe/ticketmachine/core/Troco$TrocoIterator.java,next,->,e45c1b3a-80bd-4953-b09e-876da16ecab6,br/calebe/ticketmachine/core/Troco$TrocoIterator.java,next

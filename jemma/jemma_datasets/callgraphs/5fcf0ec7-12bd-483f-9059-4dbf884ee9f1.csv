@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,ced1ed06-6540-4612-8b8c-0fe0ab16a251,a0f6a431-f7f3-4612-8cf5-9de8beacbf32,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,com/mongodb/MongoClient.java,getDB
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,ced1ed06-6540-4612-8b8c-0fe0ab16a251,a0f6a431-f7f3-4612-8cf5-9de8beacbf32,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,java/net/UnknownHostException.java,printStackTrace
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,82b9e2c3-4d4e-4da0-8621-51ed52fc100a,5052b4a0-955d-46cd-bd53-4c46532a487e,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,java/lang/StringBuffer.java,append
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,82b9e2c3-4d4e-4da0-8621-51ed52fc100a,5052b4a0-955d-46cd-bd53-4c46532a487e,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,java/lang/StringBuffer.java,append
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,82b9e2c3-4d4e-4da0-8621-51ed52fc100a,5052b4a0-955d-46cd-bd53-4c46532a487e,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,java/lang/StringBuffer.java,append
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,82b9e2c3-4d4e-4da0-8621-51ed52fc100a,5052b4a0-955d-46cd-bd53-4c46532a487e,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,java/lang/StringBuffer.java,toString
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,a58695c2-91d9-491e-9772-ee758079eb96,5651e6d2-a006-4366-9dc0-562d5a2f12f8,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,javax/ws/rs/core/Response.java,status
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,a58695c2-91d9-491e-9772-ee758079eb96,5651e6d2-a006-4366-9dc0-562d5a2f12f8,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,javax/ws/rs/core/Response$ResponseBuilder.java,entity
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,a58695c2-91d9-491e-9772-ee758079eb96,5651e6d2-a006-4366-9dc0-562d5a2f12f8,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,javax/ws/rs/core/Response$ResponseBuilder.java,build
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,a58695c2-91d9-491e-9772-ee758079eb96,27c0665b-bcc0-4020-a1c3-c3e78ba92208,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,javax/ws/rs/core/Response.java,status
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,a58695c2-91d9-491e-9772-ee758079eb96,27c0665b-bcc0-4020-a1c3-c3e78ba92208,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,javax/ws/rs/core/Response$ResponseBuilder.java,entity
+5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,a58695c2-91d9-491e-9772-ee758079eb96,27c0665b-bcc0-4020-a1c3-c3e78ba92208,->,5fcf0ec7-12bd-483f-9059-4dbf884ee9f1,javax/ws/rs/core/Response$ResponseBuilder.java,build

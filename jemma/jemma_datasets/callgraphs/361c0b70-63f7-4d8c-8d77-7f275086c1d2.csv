@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,"7a7bb2dd-8470-4636-b39c-c95d0b89cdd5,690d9802-c911-4686-9a28-6ec1f7037573",->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/List.java,iterator
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,"7a7bb2dd-8470-4636-b39c-c95d0b89cdd5,690d9802-c911-4686-9a28-6ec1f7037573",->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/Iterator.java,hasNext
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,"7a7bb2dd-8470-4636-b39c-c95d0b89cdd5,690d9802-c911-4686-9a28-6ec1f7037573",->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/Iterator.java,next
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,"7a7bb2dd-8470-4636-b39c-c95d0b89cdd5,690d9802-c911-4686-9a28-6ec1f7037573",->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,org/komorebi/plugin/storage/KomorebiFileInfo$DataBlock.java,getSize
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,b9d479e2-6f00-445c-8937-eeccc9f88588,->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/List.java,size
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,b9d479e2-6f00-445c-8937-eeccc9f88588,->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/List.java,get
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,9771cd25-8d6e-44bc-8269-3d8b34ada587,->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/List.java,size
+361c0b70-63f7-4d8c-8d77-7f275086c1d2,fecf7685-d3cf-4154-8bc2-6fe5947fa91f,b11fa9c8-d94c-4e4e-9dcb-88d64a527b3f,->,361c0b70-63f7-4d8c-8d77-7f275086c1d2,java/util/List.java,add

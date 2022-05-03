@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/formaPago.java,values,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/formaPago.java,clone
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/formaPago.java,valueOf,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,java/lang/Enum.java,valueOf
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/Grado.java,values,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/Grado.java,clone
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/Grado.java,valueOf,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,java/lang/Enum.java,valueOf
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,4a8ddd3f-f0a2-484e-88b1-85d0fa7910d7,7eee176f-7c17-4e62-934a-22b1adebe541,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,java/lang/StringBuilder.java,append
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,4a8ddd3f-f0a2-484e-88b1-85d0fa7910d7,7eee176f-7c17-4e62-934a-22b1adebe541,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,controlescolar/Alumno.java,getNombre
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,4a8ddd3f-f0a2-484e-88b1-85d0fa7910d7,7eee176f-7c17-4e62-934a-22b1adebe541,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,java/lang/StringBuilder.java,append
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,4a8ddd3f-f0a2-484e-88b1-85d0fa7910d7,7eee176f-7c17-4e62-934a-22b1adebe541,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,java/lang/StringBuilder.java,toString
+7c0eaf4b-bdf0-468b-b285-bf73ae03a097,4a8ddd3f-f0a2-484e-88b1-85d0fa7910d7,7eee176f-7c17-4e62-934a-22b1adebe541,->,7c0eaf4b-bdf0-468b-b285-bf73ae03a097,java/io/PrintStream.java,println

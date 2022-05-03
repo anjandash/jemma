@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3c6e380b-d19a-4a8e-b790-663ccb52642e,c36dee49-34b0-4919-9c26-b4767d7db445,ea8bbc70-4bab-4388-9564-37806ae8a346,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,ApplicationTest.java,GET
+3c6e380b-d19a-4a8e-b790-663ccb52642e,c36dee49-34b0-4919-9c26-b4767d7db445,ea8bbc70-4bab-4388-9564-37806ae8a346,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,ApplicationTest.java,assertIsOk
+3c6e380b-d19a-4a8e-b790-663ccb52642e,c36dee49-34b0-4919-9c26-b4767d7db445,ea8bbc70-4bab-4388-9564-37806ae8a346,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,ApplicationTest.java,assertContentType
+3c6e380b-d19a-4a8e-b790-663ccb52642e,c36dee49-34b0-4919-9c26-b4767d7db445,ea8bbc70-4bab-4388-9564-37806ae8a346,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,ApplicationTest.java,assertCharset
+3c6e380b-d19a-4a8e-b790-663ccb52642e,122d12ad-e979-4ad2-a90e-341f6f4184c1,7dbf86fa-bfe9-4be4-8717-d409a27a91dc,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,BasicTest.java,assertEquals
+3c6e380b-d19a-4a8e-b790-663ccb52642e,e0079329-a97e-4d23-bca9-373c4c0610c9,962d4ab4-03c1-4be1-b152-62443b37156d,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,controllers/Application.java,render
+3c6e380b-d19a-4a8e-b790-663ccb52642e,509d3b43-8653-40f6-981e-3e91c76302d9,23b1b18a-c0c3-4ed4-90ce-c507cfad22a7,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,java/lang/Integer.java,valueOf
+3c6e380b-d19a-4a8e-b790-663ccb52642e,509d3b43-8653-40f6-981e-3e91c76302d9,23b1b18a-c0c3-4ed4-90ce-c507cfad22a7,->,3c6e380b-d19a-4a8e-b790-663ccb52642e,controllers/Persons.java,render

@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ce9266df-7c78-48c7-ba6c-93e561583745,de/bananaco/bpermissions/api/util/CalculableType.java,values,->,ce9266df-7c78-48c7-ba6c-93e561583745,de/bananaco/bpermissions/api/util/CalculableType.java,clone
+ce9266df-7c78-48c7-ba6c-93e561583745,de/bananaco/bpermissions/api/util/CalculableType.java,valueOf,->,ce9266df-7c78-48c7-ba6c-93e561583745,java/lang/Enum.java,valueOf

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+904a7b3c-5f22-423a-815f-52cbad0cde42,935aeee4-54a7-4888-b9e8-7ef3186f5ec3,a5e3688a-7014-4856-b1ad-1f16bf848e3e,->,904a7b3c-5f22-423a-815f-52cbad0cde42,org/springframework/boot/SpringApplication.java,run
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format
+904a7b3c-5f22-423a-815f-52cbad0cde42,86b4517c-915f-4e29-9ebf-a75b3653c8c2,b8fb0e2d-66e7-4e6f-a1bc-0e12cf2721fd,->,904a7b3c-5f22-423a-815f-52cbad0cde42,java/lang/String.java,format

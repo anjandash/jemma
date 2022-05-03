@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,values,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,clone
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,valueOf,->,49d4110a-31e1-49fa-9a21-785434c048c7,java/lang/Enum.java,valueOf
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/TextConverterFactory$1.java,<clinit>,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,values
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/TextConverterFactory$1.java,<clinit>,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,ordinal
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/TextConverterFactory$1.java,<clinit>,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,ordinal
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/TextConverterFactory$1.java,<clinit>,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,ordinal
+49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/TextConverterFactory$1.java,<clinit>,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,ordinal
+49d4110a-31e1-49fa-9a21-785434c048c7,d7131131-89d2-4ff5-bd6f-c9c0f1c3cc00,4fcee18b-9abe-4670-9da2-d2262cda521d,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/Formats.java,ordinal
+49d4110a-31e1-49fa-9a21-785434c048c7,2ba058e4-e430-4167-ba7e-dfd63e0a151f,e843f23f-cabe-4437-9af3-f2c9bf5f4771,->,49d4110a-31e1-49fa-9a21-785434c048c7,org/sevenasix/texttools/AppTest.java,assertTrue
+49d4110a-31e1-49fa-9a21-785434c048c7,04c010cd-bf98-42c0-bf12-e7f3d90a3fed,6cfbc9d4-df1c-43d7-9a5c-54dd33d04a9a,->,49d4110a-31e1-49fa-9a21-785434c048c7,java/io/PrintStream.java,println
+49d4110a-31e1-49fa-9a21-785434c048c7,62719e62-9bf3-4879-ad59-852917d98e2b,bdffe84e-caba-4655-a216-58ba388da6b4,->,49d4110a-31e1-49fa-9a21-785434c048c7,javax/json/Json.java,createReader
+49d4110a-31e1-49fa-9a21-785434c048c7,62719e62-9bf3-4879-ad59-852917d98e2b,bdffe84e-caba-4655-a216-58ba388da6b4,->,49d4110a-31e1-49fa-9a21-785434c048c7,javax/json/JsonReader.java,read

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d322eef0-f591-46c3-9ff3-72115c5f67ec,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,496fd70b-6ae7-4f42-b8d9-d8e7ac0a97fe
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d34af9d5-64a8-4330-8a3a-bf0e6e3d89ff,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,com/yammer/dropwizard/config/Bootstrap.java,setName
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d34af9d5-64a8-4330-8a3a-bf0e6e3d89ff,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,com/hubspot/dropwizard/guice/GuiceBundle.java,newBuilder
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d34af9d5-64a8-4330-8a3a-bf0e6e3d89ff,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,com/hubspot/dropwizard/guice/GuiceBundle$Builder.java,addModule
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d34af9d5-64a8-4330-8a3a-bf0e6e3d89ff,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,com/hubspot/dropwizard/guice/GuiceBundle$Builder.java,enableAutoConfig
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d34af9d5-64a8-4330-8a3a-bf0e6e3d89ff,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,com/hubspot/dropwizard/guice/GuiceBundle$Builder.java,build
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,d34af9d5-64a8-4330-8a3a-bf0e6e3d89ff,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,com/yammer/dropwizard/config/Bootstrap.java,addBundle
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,496fd70b-6ae7-4f42-b8d9-d8e7ac0a97fe,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,c82fbf2a-91b5-4214-8e59-0984cd82f3c7,dea01590-f2c3-4636-b0a9-1052dfef7717
+8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,496fd70b-6ae7-4f42-b8d9-d8e7ac0a97fe,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,57b6de94-cde3-4896-974c-60d20c2e7134,496fd70b-6ae7-4f42-b8d9-d8e7ac0a97fe
+8be5b4c8-2d6d-409a-ac53-760144cd5388,8519938f-f2d4-4eb6-8439-21067c3cd438,51f78f9a-021c-474c-a0d8-51790b361dcd,->,8be5b4c8-2d6d-409a-ac53-760144cd5388,java/lang/System.java,currentTimeMillis

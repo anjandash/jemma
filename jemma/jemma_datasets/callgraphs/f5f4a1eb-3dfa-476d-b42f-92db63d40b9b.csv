@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,fr/hhdev/ascreator/annotations/FlexLocale.java,values,->,f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,fr/hhdev/ascreator/annotations/FlexLocale.java,clone
+f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,fr/hhdev/ascreator/annotations/FlexLocale.java,valueOf,->,f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,java/lang/Enum.java,valueOf
+f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,fr/hhdev/ascreator/annotations/Scope.java,values,->,f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,fr/hhdev/ascreator/annotations/Scope.java,clone
+f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,fr/hhdev/ascreator/annotations/Scope.java,valueOf,->,f5f4a1eb-3dfa-476d-b42f-92db63d40b9b,java/lang/Enum.java,valueOf

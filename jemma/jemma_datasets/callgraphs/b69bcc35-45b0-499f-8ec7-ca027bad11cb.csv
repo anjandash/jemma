@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,c50a4153-b7a9-4cbb-aefc-4556dc639cdd,3b728ca9-bda8-4473-a57b-14a379274891,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,java/lang/StringBuilder.java,append
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,c50a4153-b7a9-4cbb-aefc-4556dc639cdd,3b728ca9-bda8-4473-a57b-14a379274891,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,java/lang/StringBuilder.java,append
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,c50a4153-b7a9-4cbb-aefc-4556dc639cdd,3b728ca9-bda8-4473-a57b-14a379274891,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,java/lang/StringBuilder.java,toString
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,b876cfde-7ad1-4698-8e88-4031d5282ce1,a3ade6ac-8af4-4eb0-865b-1eaa225dc22f,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,java/lang/Double.java,doubleValue
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,c923b83f-a68f-4836-ac6b-9905c128fdb5,47242666-3ba1-47be-8ee1-c03c1bf20636,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,org/junit/Assert.java,fail
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,c923b83f-a68f-4836-ac6b-9905c128fdb5,5890ad46-a521-4435-92f3-3c0fe7c523e9,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,org/junit/Assert.java,fail
+b69bcc35-45b0-499f-8ec7-ca027bad11cb,c923b83f-a68f-4836-ac6b-9905c128fdb5,81748c2d-4811-4c04-b8ac-006c97f24a39,->,b69bcc35-45b0-499f-8ec7-ca027bad11cb,org/junit/Assert.java,fail

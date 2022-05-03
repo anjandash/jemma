@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,f1da2ceb-65ea-419a-9ead-70d4c7fa9313,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/google/gwt/event/logical/shared/ValueChangeEvent.java,getValue
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,f1da2ceb-65ea-419a-9ead-70d4c7fa9313,->,baadb22f-77a9-4edc-9d13-eef5014ed322,f5f152f0-ce0a-4e57-b096-2dfce08e09d1,1225b2af-7fff-4b46-b658-071cd4cec0bd
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,f1da2ceb-65ea-419a-9ead-70d4c7fa9313,->,baadb22f-77a9-4edc-9d13-eef5014ed322,java/lang/String.java,equals
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,f1da2ceb-65ea-419a-9ead-70d4c7fa9313,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/google/gwt/core/client/GWT.java,runAsync
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,993b3be7-1195-4cf3-8b6e-6d68bb09deb7,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/google/gwt/user/client/History.java,getToken
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,993b3be7-1195-4cf3-8b6e-6d68bb09deb7,->,baadb22f-77a9-4edc-9d13-eef5014ed322,java/lang/String.java,equals
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,993b3be7-1195-4cf3-8b6e-6d68bb09deb7,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/google/gwt/user/client/History.java,newItem
+baadb22f-77a9-4edc-9d13-eef5014ed322,5ea8e971-8c6b-406e-a561-c22330d1a635,993b3be7-1195-4cf3-8b6e-6d68bb09deb7,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/google/gwt/user/client/History.java,fireCurrentHistoryState
+baadb22f-77a9-4edc-9d13-eef5014ed322,com/krusche/smvp/client/AppController$1.java,onSuccess,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/krusche/smvp/client/AppController.java,access$000
+baadb22f-77a9-4edc-9d13-eef5014ed322,com/krusche/smvp/client/AppController$1.java,onSuccess,->,baadb22f-77a9-4edc-9d13-eef5014ed322,f5f152f0-ce0a-4e57-b096-2dfce08e09d1,d8babf1f-724c-40ae-9f40-ff02c9d21def
+baadb22f-77a9-4edc-9d13-eef5014ed322,61c335bf-df14-40ee-8f5a-1d5658c254b0,b4f6242c-ebb8-4bda-9600-64a64a8bbd49,->,baadb22f-77a9-4edc-9d13-eef5014ed322,com/google/gwt/event/shared/HandlerManager.java,fireEvent
+baadb22f-77a9-4edc-9d13-eef5014ed322,61c335bf-df14-40ee-8f5a-1d5658c254b0,8ebb2554-bfb5-499b-86fc-a516b2f1605b,->,baadb22f-77a9-4edc-9d13-eef5014ed322,61c335bf-df14-40ee-8f5a-1d5658c254b0,b4f6242c-ebb8-4bda-9600-64a64a8bbd49
+baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,1a4bf13d-e49e-48a6-b40a-ecc2ab1bad81,->,baadb22f-77a9-4edc-9d13-eef5014ed322,230658a8-7520-42ef-8ced-0efa584883ef,64ae5742-8841-4956-ac28-a541851fe55a
+baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,1a4bf13d-e49e-48a6-b40a-ecc2ab1bad81,->,baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,1a4bf13d-e49e-48a6-b40a-ecc2ab1bad81
+baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,1a4bf13d-e49e-48a6-b40a-ecc2ab1bad81,->,baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,1a4bf13d-e49e-48a6-b40a-ecc2ab1bad81
+baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,cf2c1eec-f987-4e76-a48c-3bfeb0a31e7e,->,baadb22f-77a9-4edc-9d13-eef5014ed322,2bb1523d-bc11-4928-9704-b3c50d874ba6,cf2c1eec-f987-4e76-a48c-3bfeb0a31e7e

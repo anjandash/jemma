@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+80baa7a7-a3f6-4373-83c2-f023b92248f3,67349be7-eb9d-4aa6-81e5-8207e7b3ecae,4816d0cf-1930-42a9-8f51-6daf8e83723d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,22ba5901-a3de-4830-aa9a-6ed931f7c0b8
+80baa7a7-a3f6-4373-83c2-f023b92248f3,67349be7-eb9d-4aa6-81e5-8207e7b3ecae,4816d0cf-1930-42a9-8f51-6daf8e83723d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,org/hibernate/SessionFactory.java,openSession
+80baa7a7-a3f6-4373-83c2-f023b92248f3,67349be7-eb9d-4aa6-81e5-8207e7b3ecae,4816d0cf-1930-42a9-8f51-6daf8e83723d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,org/hibernate/Session.java,createSQLQuery
+80baa7a7-a3f6-4373-83c2-f023b92248f3,67349be7-eb9d-4aa6-81e5-8207e7b3ecae,4816d0cf-1930-42a9-8f51-6daf8e83723d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,org/hibernate/SQLQuery.java,uniqueResult
+80baa7a7-a3f6-4373-83c2-f023b92248f3,67349be7-eb9d-4aa6-81e5-8207e7b3ecae,4816d0cf-1930-42a9-8f51-6daf8e83723d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,java/sql/Timestamp.java,toString
+80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,88b1d6b9-322c-43ed-a21a-4e0225521dbd,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,org/hibernate/cfg/Configuration.java,configure
+80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,88b1d6b9-322c-43ed-a21a-4e0225521dbd,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,org/hibernate/cfg/Configuration.java,buildSessionFactory
+80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,1782e2a8-0650-4d12-98ef-a89ffb7f030d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,22ba5901-a3de-4830-aa9a-6ed931f7c0b8
+80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,1782e2a8-0650-4d12-98ef-a89ffb7f030d,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,org/hibernate/SessionFactory.java,close
+80baa7a7-a3f6-4373-83c2-f023b92248f3,com/rcviana/persistance/HibernateUtil.java,<clinit>,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,ecab06bd-b273-47a2-a3cc-77430eddc790,88b1d6b9-322c-43ed-a21a-4e0225521dbd
+80baa7a7-a3f6-4373-83c2-f023b92248f3,a5210d04-86f1-4515-bc8d-02c78a6a2226,e47ca11b-0238-4905-b9af-2b3747b0e135,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,java/lang/StringBuilder.java,append
+80baa7a7-a3f6-4373-83c2-f023b92248f3,a5210d04-86f1-4515-bc8d-02c78a6a2226,e47ca11b-0238-4905-b9af-2b3747b0e135,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,d9a51dc6-659f-4185-967e-bf85ef3af1ed,acd0245b-47e4-47bb-a62b-85d8d41ee73a
+80baa7a7-a3f6-4373-83c2-f023b92248f3,a5210d04-86f1-4515-bc8d-02c78a6a2226,e47ca11b-0238-4905-b9af-2b3747b0e135,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,java/lang/StringBuilder.java,append
+80baa7a7-a3f6-4373-83c2-f023b92248f3,a5210d04-86f1-4515-bc8d-02c78a6a2226,e47ca11b-0238-4905-b9af-2b3747b0e135,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,java/lang/StringBuilder.java,append
+80baa7a7-a3f6-4373-83c2-f023b92248f3,a5210d04-86f1-4515-bc8d-02c78a6a2226,e47ca11b-0238-4905-b9af-2b3747b0e135,->,80baa7a7-a3f6-4373-83c2-f023b92248f3,java/lang/StringBuilder.java,toString

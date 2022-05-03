@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e06065c4-b589-4e14-a6a4-fd04e9474d22,a8ba9c6c-7bfa-41ad-a1e0-bfd78314df60,1497d081-2702-49bc-aa52-f54c91afb88e,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/io/PrintStream.java,println
+e06065c4-b589-4e14-a6a4-fd04e9474d22,e2e78742-a917-4078-a6cc-d958e1f1e422,2e90a2bc-fafc-4bde-b219-4ed40ed91b97,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/io/PrintStream.java,println
+e06065c4-b589-4e14-a6a4-fd04e9474d22,1d432eaf-d3ff-4dfb-9a1c-889a05e85be4,453113a9-594d-4e09-8b9a-d6b1ad8b7ab0,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,1d432eaf-d3ff-4dfb-9a1c-889a05e85be4,360d5648-25d2-48a2-9e3b-f960b2b23fd7
+e06065c4-b589-4e14-a6a4-fd04e9474d22,1d432eaf-d3ff-4dfb-9a1c-889a05e85be4,453113a9-594d-4e09-8b9a-d6b1ad8b7ab0,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,1d432eaf-d3ff-4dfb-9a1c-889a05e85be4,360d5648-25d2-48a2-9e3b-f960b2b23fd7
+e06065c4-b589-4e14-a6a4-fd04e9474d22,1d432eaf-d3ff-4dfb-9a1c-889a05e85be4,453113a9-594d-4e09-8b9a-d6b1ad8b7ab0,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/io/PrintStream.java,println
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,main,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,isPalindrome
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,main,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/io/PrintStream.java,println
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,isPalindrome,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/lang/String.java,valueOf
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,isPalindrome,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/lang/StringBuffer.java,toString
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,isPalindrome,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/lang/StringBuffer.java,reverse
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,isPalindrome,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/lang/StringBuffer.java,toString
+e06065c4-b589-4e14-a6a4-fd04e9474d22,Problem004.java,isPalindrome,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/lang/String.java,equals
+e06065c4-b589-4e14-a6a4-fd04e9474d22,f016fc22-a2ec-402b-9841-a74fd10b4f11,dcbe2853-a997-4abd-bae2-ecfd1a8fb4d1,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,f016fc22-a2ec-402b-9841-a74fd10b4f11,6698eda8-fd5b-4257-a57c-94c40eade585
+e06065c4-b589-4e14-a6a4-fd04e9474d22,f016fc22-a2ec-402b-9841-a74fd10b4f11,dcbe2853-a997-4abd-bae2-ecfd1a8fb4d1,->,e06065c4-b589-4e14-a6a4-fd04e9474d22,java/io/PrintStream.java,println

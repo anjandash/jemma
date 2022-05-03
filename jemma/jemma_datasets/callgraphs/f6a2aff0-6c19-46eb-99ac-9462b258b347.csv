@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f6a2aff0-6c19-46eb-99ac-9462b258b347,454281f2-6c68-408a-916c-f1423c841727,27bb65da-1ac9-47c9-b7a0-ea70e0ece890,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/io/PrintStream.java,println
+f6a2aff0-6c19-46eb-99ac-9462b258b347,454281f2-6c68-408a-916c-f1423c841727,27bb65da-1ac9-47c9-b7a0-ea70e0ece890,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/io/BufferedReader.java,readLine
+f6a2aff0-6c19-46eb-99ac-9462b258b347,454281f2-6c68-408a-916c-f1423c841727,27bb65da-1ac9-47c9-b7a0-ea70e0ece890,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/io/IOException.java,printStackTrace
+f6a2aff0-6c19-46eb-99ac-9462b258b347,Main.java,main,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,454281f2-6c68-408a-916c-f1423c841727,27bb65da-1ac9-47c9-b7a0-ea70e0ece890
+f6a2aff0-6c19-46eb-99ac-9462b258b347,e5d84816-d449-45ce-9dcc-889ab3605821,02bdfd0e-203b-4649-9131-0653434d0752,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/io/BufferedReader.java,readLine
+f6a2aff0-6c19-46eb-99ac-9462b258b347,e5d84816-d449-45ce-9dcc-889ab3605821,02bdfd0e-203b-4649-9131-0653434d0752,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/lang/String.java,isEmpty
+f6a2aff0-6c19-46eb-99ac-9462b258b347,e5d84816-d449-45ce-9dcc-889ab3605821,02bdfd0e-203b-4649-9131-0653434d0752,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/lang/Integer.java,parseInt
+f6a2aff0-6c19-46eb-99ac-9462b258b347,e5d84816-d449-45ce-9dcc-889ab3605821,02bdfd0e-203b-4649-9131-0653434d0752,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/io/PrintStream.java,println
+f6a2aff0-6c19-46eb-99ac-9462b258b347,e5d84816-d449-45ce-9dcc-889ab3605821,02bdfd0e-203b-4649-9131-0653434d0752,->,f6a2aff0-6c19-46eb-99ac-9462b258b347,java/io/IOException.java,printStackTrace

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/hamcrest/CoreMatchers.java,notNullValue
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/hamcrest/CoreMatchers.java,is
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/junit/Assert.java,assertThat
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/springframework/context/ApplicationContext.java,getBean
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/hamcrest/CoreMatchers.java,notNullValue
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/hamcrest/CoreMatchers.java,is
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,55152427-96aa-4745-ac6e-cc7c1a6e1e93,a8dae2f1-1c26-4542-81d5-49dc0b5ea048,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/junit/Assert.java,assertThat
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,0abec2b7-5834-4098-a9f8-79abe4b78179,dfad3b71-c8fe-46dc-9742-91ae3d67c897,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/apache/commons/logging/Log.java,info
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,0abec2b7-5834-4098-a9f8-79abe4b78179,dfad3b71-c8fe-46dc-9742-91ae3d67c897,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/springframework/context/support/AbstractApplicationContext.java,registerShutdownHook
+b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,gr/vb/jar/MainClass.java,<clinit>,->,b9b5b0d5-f37b-4c32-8c25-e4d27fcdfeb2,org/apache/commons/logging/LogFactory.java,getLog

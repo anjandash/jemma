@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c4f46c3e-2c88-47e3-8e50-414879ad91c1,c9fbbedd-5050-4518-9b5b-3bd78d6c66a5,8ef3fd5d-8dd3-4567-9ed0-fba002544546,->,c4f46c3e-2c88-47e3-8e50-414879ad91c1,71e851d2-be35-455e-ace2-2cdc46c2e625,e70cd55e-795c-4968-a2f2-6a21b9f3f7d6
+c4f46c3e-2c88-47e3-8e50-414879ad91c1,36ee7056-ecf1-458d-b9fe-364488cd2128,5641569a-f5c9-413b-82c3-b91d7d014c25,->,c4f46c3e-2c88-47e3-8e50-414879ad91c1,org/slf4j/Logger.java,info
+c4f46c3e-2c88-47e3-8e50-414879ad91c1,36ee7056-ecf1-458d-b9fe-364488cd2128,5641569a-f5c9-413b-82c3-b91d7d014c25,->,c4f46c3e-2c88-47e3-8e50-414879ad91c1,java/text/DateFormat.java,getDateTimeInstance
+c4f46c3e-2c88-47e3-8e50-414879ad91c1,36ee7056-ecf1-458d-b9fe-364488cd2128,5641569a-f5c9-413b-82c3-b91d7d014c25,->,c4f46c3e-2c88-47e3-8e50-414879ad91c1,java/text/DateFormat.java,format
+c4f46c3e-2c88-47e3-8e50-414879ad91c1,36ee7056-ecf1-458d-b9fe-364488cd2128,5641569a-f5c9-413b-82c3-b91d7d014c25,->,c4f46c3e-2c88-47e3-8e50-414879ad91c1,org/springframework/ui/Model.java,addAttribute
+c4f46c3e-2c88-47e3-8e50-414879ad91c1,com/csc/core/controllers/HomeController.java,<clinit>,->,c4f46c3e-2c88-47e3-8e50-414879ad91c1,org/slf4j/LoggerFactory.java,getLogger

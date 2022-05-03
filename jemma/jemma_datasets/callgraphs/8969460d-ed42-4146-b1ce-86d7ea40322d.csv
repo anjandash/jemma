@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8969460d-ed42-4146-b1ce-86d7ea40322d,67962690-fd78-470e-8384-9d1b53c9cef5,0c982e92-5ef1-4b4f-92c3-08326ad732e6,->,8969460d-ed42-4146-b1ce-86d7ea40322d,MavenProject/HelloMaven/AppTest.java,assertTrue
+8969460d-ed42-4146-b1ce-86d7ea40322d,f08b2e5f-a8a4-4f6b-8dc1-84087cfc9f1a,4779ddf8-73a3-4f5a-aef5-7a774e410674,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/io/PrintStream.java,println
+8969460d-ed42-4146-b1ce-86d7ea40322d,a89eb567-0bdd-4b5c-a9a7-2ded9ba8e4ff,33cd90de-9e6b-4cde-901e-84db4c0f6022,->,8969460d-ed42-4146-b1ce-86d7ea40322d,org/springframework/beans/factory/BeanFactory.java,getBean
+8969460d-ed42-4146-b1ce-86d7ea40322d,a89eb567-0bdd-4b5c-a9a7-2ded9ba8e4ff,33cd90de-9e6b-4cde-901e-84db4c0f6022,->,8969460d-ed42-4146-b1ce-86d7ea40322d,bce9da95-1ecc-439f-a501-c522fe1b8c17,594ce20f-1f75-4de2-83cd-fc8b4d99fcf2
+8969460d-ed42-4146-b1ce-86d7ea40322d,bce9da95-1ecc-439f-a501-c522fe1b8c17,594ce20f-1f75-4de2-83cd-fc8b4d99fcf2,->,8969460d-ed42-4146-b1ce-86d7ea40322d,e6a3de4d-f820-4349-a874-b77028855c93,8fb15107-9022-4ef8-9033-f43a9399da74
+8969460d-ed42-4146-b1ce-86d7ea40322d,d7af0f28-64b1-4db2-a7b1-1f98e8673055,85d6dfed-9dde-4647-8fbd-3d02750bc8f2,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/io/PrintStream.java,println
+8969460d-ed42-4146-b1ce-86d7ea40322d,ec04f9de-83d5-472f-86e6-67ea07211be1,a043592f-0a8e-47f4-a405-9f1b18b84d6d,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/lang/StringBuilder.java,append
+8969460d-ed42-4146-b1ce-86d7ea40322d,ec04f9de-83d5-472f-86e6-67ea07211be1,a043592f-0a8e-47f4-a405-9f1b18b84d6d,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/lang/StringBuilder.java,append
+8969460d-ed42-4146-b1ce-86d7ea40322d,ec04f9de-83d5-472f-86e6-67ea07211be1,a043592f-0a8e-47f4-a405-9f1b18b84d6d,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/lang/StringBuilder.java,append
+8969460d-ed42-4146-b1ce-86d7ea40322d,ec04f9de-83d5-472f-86e6-67ea07211be1,a043592f-0a8e-47f4-a405-9f1b18b84d6d,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/lang/StringBuilder.java,toString
+8969460d-ed42-4146-b1ce-86d7ea40322d,ec04f9de-83d5-472f-86e6-67ea07211be1,a043592f-0a8e-47f4-a405-9f1b18b84d6d,->,8969460d-ed42-4146-b1ce-86d7ea40322d,java/io/PrintStream.java,println

@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9fed3763-7def-4d54-8787-e0dd06fab2d7,be2c0ff7-2b93-4652-96bb-46c8ef216986,fe81b4e6-5cd4-45f6-984c-ad7e65454090,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,java/io/PrintStream.java,println
+9fed3763-7def-4d54-8787-e0dd06fab2d7,4fc01254-92f0-4a95-a9b9-5ee78bc6056b,1f98c607-836a-4ea8-b19b-77bffa0d5db5,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,5ebfaaed-184f-44ff-8489-30e16f18b094,b8ed46b1-b76c-4a87-9ac3-dbf9fffa17fe
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/ValidaCargaHorariaCurso.java,validar,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,java/io/PrintStream.java,println
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/Main.java,main,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,4fc01254-92f0-4a95-a9b9-5ee78bc6056b,1f98c607-836a-4ea8-b19b-77bffa0d5db5
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/Main.java,main,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,4fc01254-92f0-4a95-a9b9-5ee78bc6056b,bba5157c-b04f-423b-8d82-3f7a2f37c223
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/Main.java,main,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,4fc01254-92f0-4a95-a9b9-5ee78bc6056b,1f98c607-836a-4ea8-b19b-77bffa0d5db5
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/Main.java,main,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,4fc01254-92f0-4a95-a9b9-5ee78bc6056b,bba5157c-b04f-423b-8d82-3f7a2f37c223
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/Main.java,main,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,4fc01254-92f0-4a95-a9b9-5ee78bc6056b,1f98c607-836a-4ea8-b19b-77bffa0d5db5
+9fed3763-7def-4d54-8787-e0dd06fab2d7,ufpbaps/ValidaCodigoCurso.java,validar,->,9fed3763-7def-4d54-8787-e0dd06fab2d7,java/io/PrintStream.java,println

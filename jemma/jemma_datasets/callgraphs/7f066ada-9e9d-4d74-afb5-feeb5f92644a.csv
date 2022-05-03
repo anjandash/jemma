@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,b5906ede-1e8b-4a00-b51a-ca90fd68a739,b092c5d9-fdec-4740-8b01-cb632931aebb,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/eclipse/jetty/servlet/ServletContextHandler.java,addServlet
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,b5906ede-1e8b-4a00-b51a-ca90fd68a739,b092c5d9-fdec-4740-8b01-cb632931aebb,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/eclipse/jetty/servlet/ServletHolder.java,setInitParameter
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,b5906ede-1e8b-4a00-b51a-ca90fd68a739,b092c5d9-fdec-4740-8b01-cb632931aebb,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/eclipse/jetty/servlet/ServletContextHandler.java,addFilter
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,b5906ede-1e8b-4a00-b51a-ca90fd68a739,b092c5d9-fdec-4740-8b01-cb632931aebb,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/eclipse/jetty/servlet/ServletContextHandler.java,addEventListener
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,b5906ede-1e8b-4a00-b51a-ca90fd68a739,b092c5d9-fdec-4740-8b01-cb632931aebb,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/eclipse/jetty/server/Server.java,start
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,b5906ede-1e8b-4a00-b51a-ca90fd68a739,b092c5d9-fdec-4740-8b01-cb632931aebb,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/eclipse/jetty/server/Server.java,join
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,dc4cb313-6ab8-4b4e-a853-c8ef072d0ff8,331f3424-421c-4f4d-a97f-f5712cbf28ea,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,com/google/inject/Guice.java,createInjector
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/ttang/jersey/GuiceConfig$1.java,configureServlets,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/ttang/jersey/GuiceConfig$1.java,bind
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/ttang/jersey/GuiceConfig$1.java,configureServlets,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/ttang/jersey/GuiceConfig$1.java,serve
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,org/ttang/jersey/GuiceConfig$1.java,configureServlets,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,com/google/inject/servlet/ServletModule$ServletKeyBindingBuilder.java,with
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,16ba1f8a-c5d1-44e6-a4b8-ae7d597409aa,355f64b2-9d5d-4bea-b536-6bb4e16b0348,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,javax/ws/rs/core/Response.java,ok
+7f066ada-9e9d-4d74-afb5-feeb5f92644a,16ba1f8a-c5d1-44e6-a4b8-ae7d597409aa,355f64b2-9d5d-4bea-b536-6bb4e16b0348,->,7f066ada-9e9d-4d74-afb5-feeb5f92644a,javax/ws/rs/core/Response$ResponseBuilder.java,build

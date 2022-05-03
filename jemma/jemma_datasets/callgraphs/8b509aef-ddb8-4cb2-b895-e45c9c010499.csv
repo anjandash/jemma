@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8b509aef-ddb8-4cb2-b895-e45c9c010499,9661016d-23a7-41d0-a9c0-93b843b1216a,1210cb6a-8c4a-409a-ab3d-14b8546b8750,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,Icecream.java,makeIcecream
+8b509aef-ddb8-4cb2-b895-e45c9c010499,9661016d-23a7-41d0-a9c0-93b843b1216a,1210cb6a-8c4a-409a-ab3d-14b8546b8750,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/lang/StringBuilder.java,append
+8b509aef-ddb8-4cb2-b895-e45c9c010499,9661016d-23a7-41d0-a9c0-93b843b1216a,1210cb6a-8c4a-409a-ab3d-14b8546b8750,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,9661016d-23a7-41d0-a9c0-93b843b1216a,523ada3b-9be7-47a1-a444-a3bb32ca8098
+8b509aef-ddb8-4cb2-b895-e45c9c010499,9661016d-23a7-41d0-a9c0-93b843b1216a,1210cb6a-8c4a-409a-ab3d-14b8546b8750,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/lang/StringBuilder.java,append
+8b509aef-ddb8-4cb2-b895-e45c9c010499,9661016d-23a7-41d0-a9c0-93b843b1216a,1210cb6a-8c4a-409a-ab3d-14b8546b8750,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/lang/StringBuilder.java,toString
+8b509aef-ddb8-4cb2-b895-e45c9c010499,046f00e7-e85b-4b3c-855b-d62a0a1b7f9b,0d5248d9-df1a-4576-8d9e-7e9d419490b8,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,Icecream.java,makeIcecream
+8b509aef-ddb8-4cb2-b895-e45c9c010499,7d82edf6-3db9-4639-8c10-716e7cbf6f44,74a4e03b-bc89-408c-b86b-22306dc2d646,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,Icecream.java,makeIcecream
+8b509aef-ddb8-4cb2-b895-e45c9c010499,7d82edf6-3db9-4639-8c10-716e7cbf6f44,74a4e03b-bc89-408c-b86b-22306dc2d646,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/lang/StringBuilder.java,append
+8b509aef-ddb8-4cb2-b895-e45c9c010499,7d82edf6-3db9-4639-8c10-716e7cbf6f44,74a4e03b-bc89-408c-b86b-22306dc2d646,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,7d82edf6-3db9-4639-8c10-716e7cbf6f44,cecac36e-418a-4e6b-81d3-bc0bc86952ee
+8b509aef-ddb8-4cb2-b895-e45c9c010499,7d82edf6-3db9-4639-8c10-716e7cbf6f44,74a4e03b-bc89-408c-b86b-22306dc2d646,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/lang/StringBuilder.java,append
+8b509aef-ddb8-4cb2-b895-e45c9c010499,7d82edf6-3db9-4639-8c10-716e7cbf6f44,74a4e03b-bc89-408c-b86b-22306dc2d646,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/lang/StringBuilder.java,toString
+8b509aef-ddb8-4cb2-b895-e45c9c010499,e8af56c2-2cb6-4b4a-b7a4-024475edff4a,0c70e298-c691-43fb-891e-ba9ce238d246,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,Icecream.java,makeIcecream
+8b509aef-ddb8-4cb2-b895-e45c9c010499,e8af56c2-2cb6-4b4a-b7a4-024475edff4a,0c70e298-c691-43fb-891e-ba9ce238d246,->,8b509aef-ddb8-4cb2-b895-e45c9c010499,java/io/PrintStream.java,println

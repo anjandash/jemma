@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+40f2bc67-f458-4b0a-a35c-6fff564c7547,3e46457f-f5b2-4bbd-bca0-9a4b8422d59f,371ab027-3429-4312-8711-2fd0bcb9dca0,->,40f2bc67-f458-4b0a-a35c-6fff564c7547,javafx/application/Application.java,launch
+40f2bc67-f458-4b0a-a35c-6fff564c7547,94943366-f939-4c4c-8202-fd2e3f186f40,86d12dd1-0a53-42b8-82cc-dea87c414fa8,->,40f2bc67-f458-4b0a-a35c-6fff564c7547,javafx/stage/Stage.java,setTitle
+40f2bc67-f458-4b0a-a35c-6fff564c7547,94943366-f939-4c4c-8202-fd2e3f186f40,86d12dd1-0a53-42b8-82cc-dea87c414fa8,->,40f2bc67-f458-4b0a-a35c-6fff564c7547,94943366-f939-4c4c-8202-fd2e3f186f40,98ecaaed-4011-47a1-b44f-7eac17089887
+40f2bc67-f458-4b0a-a35c-6fff564c7547,94943366-f939-4c4c-8202-fd2e3f186f40,86d12dd1-0a53-42b8-82cc-dea87c414fa8,->,40f2bc67-f458-4b0a-a35c-6fff564c7547,javafx/stage/Stage.java,setScene
+40f2bc67-f458-4b0a-a35c-6fff564c7547,94943366-f939-4c4c-8202-fd2e3f186f40,86d12dd1-0a53-42b8-82cc-dea87c414fa8,->,40f2bc67-f458-4b0a-a35c-6fff564c7547,javafx/stage/Stage.java,show
+40f2bc67-f458-4b0a-a35c-6fff564c7547,58012829-2a85-42c2-ad1b-79cb656e4396,a4e9eeb6-637f-468a-9d9a-688f91b87900,->,40f2bc67-f458-4b0a-a35c-6fff564c7547,java/util/Calendar.java,getTime

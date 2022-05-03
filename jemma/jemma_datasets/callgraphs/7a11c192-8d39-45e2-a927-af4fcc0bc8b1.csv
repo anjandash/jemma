@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,a19f0918-e5fa-4d48-b268-8c3896cd9651,76040e82-031f-4eed-8d92-725eedeccd6d,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,org/slf4j/Logger.java,info
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,a19f0918-e5fa-4d48-b268-8c3896cd9651,76040e82-031f-4eed-8d92-725eedeccd6d,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,java/text/DateFormat.java,getDateTimeInstance
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,a19f0918-e5fa-4d48-b268-8c3896cd9651,76040e82-031f-4eed-8d92-725eedeccd6d,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,java/text/DateFormat.java,format
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,a19f0918-e5fa-4d48-b268-8c3896cd9651,76040e82-031f-4eed-8d92-725eedeccd6d,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,org/springframework/ui/Model.java,addAttribute
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,com/my/myapp/HomeController.java,<clinit>,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,org/slf4j/LoggerFactory.java,getLogger
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,df4024c1-071e-4957-a426-d669892cde68,ef5467a4-21f6-4604-b35f-bf2e8aaf34e5,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,org/slf4j/Logger.java,info
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,df4024c1-071e-4957-a426-d669892cde68,ef5467a4-21f6-4604-b35f-bf2e8aaf34e5,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,java/text/DateFormat.java,getDateTimeInstance
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,df4024c1-071e-4957-a426-d669892cde68,ef5467a4-21f6-4604-b35f-bf2e8aaf34e5,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,java/text/DateFormat.java,format
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,df4024c1-071e-4957-a426-d669892cde68,ef5467a4-21f6-4604-b35f-bf2e8aaf34e5,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,org/springframework/ui/Model.java,addAttribute
+7a11c192-8d39-45e2-a927-af4fcc0bc8b1,com/company/myapp/HomeController.java,<clinit>,->,7a11c192-8d39-45e2-a927-af4fcc0bc8b1,org/slf4j/LoggerFactory.java,getLogger

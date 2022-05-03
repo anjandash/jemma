@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f03d0307-1d8b-4195-ae53-eef9699d0d58,3d23555f-c25a-4e94-a903-dc3584425bbf,0590b342-d024-4c87-b783-6adeb7833ff9,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,edu/upc/eetac/dsa/csanchez/exercice1/AppTest.java,assertTrue
+f03d0307-1d8b-4195-ae53-eef9699d0d58,0f193f04-c63f-41b3-b377-435291d19b6b,1842a5c7-1269-4310-a4ac-6c7b3d658355,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/lang/Integer.java,valueOf
+f03d0307-1d8b-4195-ae53-eef9699d0d58,0f193f04-c63f-41b3-b377-435291d19b6b,1842a5c7-1269-4310-a4ac-6c7b3d658355,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/io/PrintStream.java,printf
+f03d0307-1d8b-4195-ae53-eef9699d0d58,0f193f04-c63f-41b3-b377-435291d19b6b,1842a5c7-1269-4310-a4ac-6c7b3d658355,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/io/PrintStream.java,printf
+f03d0307-1d8b-4195-ae53-eef9699d0d58,0f193f04-c63f-41b3-b377-435291d19b6b,1842a5c7-1269-4310-a4ac-6c7b3d658355,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/io/PrintStream.java,printf
+f03d0307-1d8b-4195-ae53-eef9699d0d58,0f193f04-c63f-41b3-b377-435291d19b6b,1842a5c7-1269-4310-a4ac-6c7b3d658355,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/lang/Integer.java,valueOf
+f03d0307-1d8b-4195-ae53-eef9699d0d58,0f193f04-c63f-41b3-b377-435291d19b6b,1842a5c7-1269-4310-a4ac-6c7b3d658355,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/io/PrintStream.java,printf
+f03d0307-1d8b-4195-ae53-eef9699d0d58,7a517673-d527-438c-a249-6248da44e057,419ea286-b069-4e90-94f3-9f4cd2c099ca,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,ec6ec25e-eb8f-4c31-b61b-79c9b8e55c67,9a355834-8633-47c5-9be8-a28ffa5107b8
+f03d0307-1d8b-4195-ae53-eef9699d0d58,ec6ec25e-eb8f-4c31-b61b-79c9b8e55c67,9a355834-8633-47c5-9be8-a28ffa5107b8,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/lang/StringBuilder.java,append
+f03d0307-1d8b-4195-ae53-eef9699d0d58,ec6ec25e-eb8f-4c31-b61b-79c9b8e55c67,9a355834-8633-47c5-9be8-a28ffa5107b8,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/lang/StringBuilder.java,append
+f03d0307-1d8b-4195-ae53-eef9699d0d58,ec6ec25e-eb8f-4c31-b61b-79c9b8e55c67,9a355834-8633-47c5-9be8-a28ffa5107b8,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/lang/StringBuilder.java,toString
+f03d0307-1d8b-4195-ae53-eef9699d0d58,ec6ec25e-eb8f-4c31-b61b-79c9b8e55c67,9a355834-8633-47c5-9be8-a28ffa5107b8,->,f03d0307-1d8b-4195-ae53-eef9699d0d58,java/io/PrintStream.java,println

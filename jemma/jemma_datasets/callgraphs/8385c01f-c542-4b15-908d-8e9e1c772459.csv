@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/WeatherType.java,values,->,8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/WeatherType.java,clone
+8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/WeatherType.java,valueOf,->,8385c01f-c542-4b15-908d-8e9e1c772459,java/lang/Enum.java,valueOf
+8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/Province.java,values,->,8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/Province.java,clone
+8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/Province.java,valueOf,->,8385c01f-c542-4b15-908d-8e9e1c772459,java/lang/Enum.java,valueOf
+8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/Region.java,values,->,8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/Region.java,clone
+8385c01f-c542-4b15-908d-8e9e1c772459,com/seb/services/weather/enums/Region.java,valueOf,->,8385c01f-c542-4b15-908d-8e9e1c772459,java/lang/Enum.java,valueOf

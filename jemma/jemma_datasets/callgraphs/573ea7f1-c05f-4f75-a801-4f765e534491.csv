@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/GoalType.java,values,->,573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/GoalType.java,clone
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/GoalType.java,valueOf,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/lang/Enum.java,valueOf
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/TaskStatus.java,values,->,573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/TaskStatus.java,clone
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/TaskStatus.java,valueOf,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/lang/Enum.java,valueOf
+573ea7f1-c05f-4f75-a801-4f765e534491,af1143ad-b5cb-448b-a0b9-cf6eee01d9e3,f9793fd8-4d21-4d81-9061-d5753b24816f,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/util/List.java,add
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/Importance.java,values,->,573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/Importance.java,clone
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/Importance.java,valueOf,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/lang/Enum.java,valueOf
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/Priority.java,values,->,573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/Priority.java,clone
+573ea7f1-c05f-4f75-a801-4f765e534491,org/world3/habit3/entity/Priority.java,valueOf,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/lang/Enum.java,valueOf
+573ea7f1-c05f-4f75-a801-4f765e534491,5cc136c0-9af2-4e33-a8fe-38a1a6823cbb,4bbb32ce-2c2f-4933-9dc9-3a22016d6a46,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/util/Calendar.java,getInstance
+573ea7f1-c05f-4f75-a801-4f765e534491,5cc136c0-9af2-4e33-a8fe-38a1a6823cbb,4bbb32ce-2c2f-4933-9dc9-3a22016d6a46,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/util/Calendar.java,add
+573ea7f1-c05f-4f75-a801-4f765e534491,5cc136c0-9af2-4e33-a8fe-38a1a6823cbb,4bbb32ce-2c2f-4933-9dc9-3a22016d6a46,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/util/Calendar.java,getTime
+573ea7f1-c05f-4f75-a801-4f765e534491,5cc136c0-9af2-4e33-a8fe-38a1a6823cbb,ad2e87a6-e133-4198-8d58-80d7281d1237,->,573ea7f1-c05f-4f75-a801-4f765e534491,java/util/List.java,add

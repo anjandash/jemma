@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b0794c9e-4b76-4fd8-a702-204e54e2a1f0,2cc83b5b-95d4-4c5d-9273-456f671d6380,d543c04c-c2bc-429b-87cb-47918eb5ec6b,->,b0794c9e-4b76-4fd8-a702-204e54e2a1f0,edu/upc/eetac/dsa/ejerciciosobjetos/Objetos1/AppTest.java,assertTrue
+b0794c9e-4b76-4fd8-a702-204e54e2a1f0,c76226a5-3761-4423-ba9d-5dcc86276ff5,bafad21d-de48-4a2f-8c50-ea8505cae2d5,->,b0794c9e-4b76-4fd8-a702-204e54e2a1f0,java/io/PrintStream.java,println
+b0794c9e-4b76-4fd8-a702-204e54e2a1f0,59685e04-d7f2-42f4-8eb2-0888ba1d37cb,7c93358b-3b75-4173-832d-50bab1522b9a,->,b0794c9e-4b76-4fd8-a702-204e54e2a1f0,java/io/PrintStream.java,println
+b0794c9e-4b76-4fd8-a702-204e54e2a1f0,9b6ff9f7-2fdd-4b1a-8f91-5c3c1b6b3064,e9a0a29d-1497-42b1-9f7b-fbeca6ece5bb,->,b0794c9e-4b76-4fd8-a702-204e54e2a1f0,edu/upc/eetac/dsa/ejerciciosobjetos/Forma.java,queEs
+b0794c9e-4b76-4fd8-a702-204e54e2a1f0,edu/upc/eetac/dsa/ejerciciosobjetos/Forma.java,queEs,->,b0794c9e-4b76-4fd8-a702-204e54e2a1f0,java/io/PrintStream.java,println
+b0794c9e-4b76-4fd8-a702-204e54e2a1f0,e17881d7-fcb7-488a-994f-ec8c94a4305f,84bfd695-62e2-4341-8d2a-2b9072589ded,->,b0794c9e-4b76-4fd8-a702-204e54e2a1f0,java/io/PrintStream.java,println

@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+86323554-2a0a-4296-98ac-f093b4daa454,12f89536-e8e4-4361-90e1-f69ca4eda5da,fa1c1ee2-7915-4ace-b85b-cef4ec8ea024,->,86323554-2a0a-4296-98ac-f093b4daa454,pl/inpar/agocrm/AppTest.java,assertTrue
+86323554-2a0a-4296-98ac-f093b4daa454,6b4319b0-6324-4162-9d64-cfb98066a7f8,fd6709c9-a949-421d-b4f5-847540b88620,->,86323554-2a0a-4296-98ac-f093b4daa454,java/io/PrintStream.java,println

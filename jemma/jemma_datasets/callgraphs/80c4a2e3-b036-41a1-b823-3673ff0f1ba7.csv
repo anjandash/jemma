@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,b3d4c3f8-92ca-4186-b7fd-6b571669e20c,51fda05e-56d7-48b3-b5b8-4547af05f0ea,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,com/spring/repositories/CategoriaRepository.java,findAll
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,6a93df0d-f20f-4257-93c3-21bde8cd1c6f,03f99943-e8b1-4ba8-97ac-f84be0447c87,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,a7e9ddb7-cd14-482f-bfbd-888a750eaec8,f148b0f6-089c-42ee-88b6-338aa731a7b1
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,42994149-35d7-4040-809f-39b14128ad44,eb69d872-37d5-4574-9ca0-f4e33ed895b6,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,42994149-35d7-4040-809f-39b14128ad44,eb69d872-37d5-4574-9ca0-f4e33ed895b6,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,java/lang/String.java,format
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,42994149-35d7-4040-809f-39b14128ad44,eb69d872-37d5-4574-9ca0-f4e33ed895b6,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,java/util/List.java,add
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,42994149-35d7-4040-809f-39b14128ad44,eb69d872-37d5-4574-9ca0-f4e33ed895b6,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,42994149-35d7-4040-809f-39b14128ad44,eb69d872-37d5-4574-9ca0-f4e33ed895b6,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,java/lang/String.java,format
+80c4a2e3-b036-41a1-b823-3673ff0f1ba7,42994149-35d7-4040-809f-39b14128ad44,eb69d872-37d5-4574-9ca0-f4e33ed895b6,->,80c4a2e3-b036-41a1-b823-3673ff0f1ba7,java/util/List.java,add

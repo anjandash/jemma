@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,fec0fcba-74f0-414f-8e0b-45be65a12956,3219bdf2-843a-434a-a20b-8ad3956c5e9f,->,5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,71997974-abfb-489b-b87a-ea2dc90e225e,dfb38e10-1daf-42e0-b168-e7b9d5e98863
+5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,542d0b58-32a7-4777-986c-bd1096b8acad,865d1e53-ec31-42a9-82dd-dbc6aa4077c4,->,5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,gui/view/GUIFrame.java,setContentPane
+5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,542d0b58-32a7-4777-986c-bd1096b8acad,865d1e53-ec31-42a9-82dd-dbc6aa4077c4,->,5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,gui/view/GUIFrame.java,setSize
+5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,542d0b58-32a7-4777-986c-bd1096b8acad,865d1e53-ec31-42a9-82dd-dbc6aa4077c4,->,5dcc23a0-1cea-4cf8-8fd3-066eac5b3332,gui/view/GUIFrame.java,setVisible

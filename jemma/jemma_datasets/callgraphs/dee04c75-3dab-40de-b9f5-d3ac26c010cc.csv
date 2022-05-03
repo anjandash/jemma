@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,bcb9eeaa-f661-4f82-a3c4-0123a4e79464,b06874c2-9ef3-48d4-9410-97521db5c876,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,5453ccca-8491-4494-8361-8c96706b6d8b,33a3bf20-5f37-43cc-a6a1-c84d1166e947
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,5453ccca-8491-4494-8361-8c96706b6d8b,33a3bf20-5f37-43cc-a6a1-c84d1166e947,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,java/lang/Long.java,valueOf
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,5453ccca-8491-4494-8361-8c96706b6d8b,33a3bf20-5f37-43cc-a6a1-c84d1166e947,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,javax/persistence/EntityManager.java,find
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,0b82c8ae-9a7f-4060-ad08-409bc88ed602,14e0127b-876a-4207-8776-bc5aea2ad84f,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,javax/naming/InitialContext.java,lookup
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,0b82c8ae-9a7f-4060-ad08-409bc88ed602,14e0127b-876a-4207-8776-bc5aea2ad84f,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,javax/naming/NamingException.java,getMessage
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,0b82c8ae-9a7f-4060-ad08-409bc88ed602,14e0127b-876a-4207-8776-bc5aea2ad84f,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,java/io/PrintStream.java,println
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,1ac2debd-26f0-403a-8140-7ddd952da363,49428d85-8f87-47ec-b2f4-446f8c9521c9,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,188cccb6-a8c8-4dfa-8946-a19ad6611238,509effbc-18dc-460a-a0b1-381fb2e5080c
+dee04c75-3dab-40de-b9f5-d3ac26c010cc,188cccb6-a8c8-4dfa-8946-a19ad6611238,509effbc-18dc-460a-a0b1-381fb2e5080c,->,dee04c75-3dab-40de-b9f5-d3ac26c010cc,org/springframework/jdbc/core/simple/SimpleJdbcTemplate.java,queryForObject

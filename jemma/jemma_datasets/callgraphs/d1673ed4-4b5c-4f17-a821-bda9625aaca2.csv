@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d1673ed4-4b5c-4f17-a821-bda9625aaca2,0152bb9d-8edc-4d1d-9b2e-14b2bcb990d1,28b9d821-8c24-42f5-9998-b12a4f3d8d05,->,d1673ed4-4b5c-4f17-a821-bda9625aaca2,java/io/PrintStream.java,println
+d1673ed4-4b5c-4f17-a821-bda9625aaca2,0152bb9d-8edc-4d1d-9b2e-14b2bcb990d1,38d9d4b4-fb49-4bba-b4f3-3abcbaeeaad4,->,d1673ed4-4b5c-4f17-a821-bda9625aaca2,java/lang/Math.java,pow
+d1673ed4-4b5c-4f17-a821-bda9625aaca2,b9eb3411-0382-45f7-9c36-45086f7d2910,c0614ef5-7949-4cc3-9414-c7a7dbc2efc0,->,d1673ed4-4b5c-4f17-a821-bda9625aaca2,52485679-7a32-4e7e-84cd-ca9296629e73,689f26f8-d5b4-49c2-a1af-36e152cf2100
+d1673ed4-4b5c-4f17-a821-bda9625aaca2,b9eb3411-0382-45f7-9c36-45086f7d2910,c0614ef5-7949-4cc3-9414-c7a7dbc2efc0,->,d1673ed4-4b5c-4f17-a821-bda9625aaca2,org/testng/Assert.java,assertEquals
+d1673ed4-4b5c-4f17-a821-bda9625aaca2,b9eb3411-0382-45f7-9c36-45086f7d2910,beaa5769-1cc7-4b29-b958-5730f3dae098,->,d1673ed4-4b5c-4f17-a821-bda9625aaca2,52485679-7a32-4e7e-84cd-ca9296629e73,789d3354-c362-42a4-854f-0a3321593075
+d1673ed4-4b5c-4f17-a821-bda9625aaca2,b9eb3411-0382-45f7-9c36-45086f7d2910,beaa5769-1cc7-4b29-b958-5730f3dae098,->,d1673ed4-4b5c-4f17-a821-bda9625aaca2,org/testng/Assert.java,assertEquals

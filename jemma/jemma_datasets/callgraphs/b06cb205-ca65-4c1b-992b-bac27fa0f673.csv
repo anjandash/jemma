@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b06cb205-ca65-4c1b-992b-bac27fa0f673,50625134-9447-4fdf-a17f-54ea173b7bbc,2576606a-4b8c-4ff5-893c-3d7756a31936,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,org/hibernate/SessionFactory.java,getCurrentSession
+b06cb205-ca65-4c1b-992b-bac27fa0f673,50625134-9447-4fdf-a17f-54ea173b7bbc,2576606a-4b8c-4ff5-893c-3d7756a31936,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,org/hibernate/Session.java,beginTransaction
+b06cb205-ca65-4c1b-992b-bac27fa0f673,50625134-9447-4fdf-a17f-54ea173b7bbc,2576606a-4b8c-4ff5-893c-3d7756a31936,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,org/hibernate/Session.java,createQuery
+b06cb205-ca65-4c1b-992b-bac27fa0f673,50625134-9447-4fdf-a17f-54ea173b7bbc,2576606a-4b8c-4ff5-893c-3d7756a31936,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,org/hibernate/Query.java,list
+b06cb205-ca65-4c1b-992b-bac27fa0f673,a652b321-d58d-4b41-8a0c-c087c57942c1,2d72aac5-ec96-4ac2-8553-21219dd5b73d,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,493f31c0-b351-468c-9773-2d3a69e8afe2,d563430c-47aa-407a-ab46-a83b23eb1d03
+b06cb205-ca65-4c1b-992b-bac27fa0f673,d8eee079-cf85-4e36-afc6-2e7ac7d98dfd,cb75067d-27a2-4016-bbb9-408c5e50b37b,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,java/io/PrintStream.java,println
+b06cb205-ca65-4c1b-992b-bac27fa0f673,d8eee079-cf85-4e36-afc6-2e7ac7d98dfd,cb75067d-27a2-4016-bbb9-408c5e50b37b,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,799f0cda-0df1-4c38-a1c5-e87001c9ef96,566c63b1-6d17-406d-8de6-89059af6a9c4
+b06cb205-ca65-4c1b-992b-bac27fa0f673,d8eee079-cf85-4e36-afc6-2e7ac7d98dfd,cb75067d-27a2-4016-bbb9-408c5e50b37b,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,java/util/List.java,get
+b06cb205-ca65-4c1b-992b-bac27fa0f673,d8eee079-cf85-4e36-afc6-2e7ac7d98dfd,cb75067d-27a2-4016-bbb9-408c5e50b37b,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,521fcfa4-5c73-4221-90a3-cf6079bb1f2d,d0203c40-93b7-4070-9ab1-e46335ec7cf6
+b06cb205-ca65-4c1b-992b-bac27fa0f673,d8eee079-cf85-4e36-afc6-2e7ac7d98dfd,cb75067d-27a2-4016-bbb9-408c5e50b37b,->,b06cb205-ca65-4c1b-992b-bac27fa0f673,java/io/PrintStream.java,println

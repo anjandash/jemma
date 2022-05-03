@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,4a196dd1-a89f-403d-8f3b-17de61331764,c9219007-08a6-4a4a-83f4-919640b00244,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,4a196dd1-a89f-403d-8f3b-17de61331764,c9219007-08a6-4a4a-83f4-919640b00244,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,4a196dd1-a89f-403d-8f3b-17de61331764,c9219007-08a6-4a4a-83f4-919640b00244,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,classes/AdaptadorEuropeu.java,fornecerEnergia,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,classes/AdaptadorComum.java,fornecerEnergia,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,classes/PlugEuropeu.java,desconectar,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,faa695d6-b371-4e4c-b08b-7262ac0392e3,a13d0ebf-8773-4e38-9796-597c39c77b06,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,classes/PlugComum.java,desconectar,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println
+c08ba51a-f0cd-49dc-8e32-53b89c59095d,900310c1-5216-49ac-84b4-fd311c670fe7,234b9966-c4f3-418b-93b8-a36b2b97919a,->,c08ba51a-f0cd-49dc-8e32-53b89c59095d,java/io/PrintStream.java,println

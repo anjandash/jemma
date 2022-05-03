@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,39f8336d-df69-4e73-b4d9-95094d4c3142,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,org/glassfish/jersey/server/ResourceConfig.java,packages
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,39f8336d-df69-4e73-b4d9-95094d4c3142,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,java/net/URI.java,create
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,39f8336d-df69-4e73-b4d9-95094d4c3142,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpServerFactory.java,createHttpServer
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,6d5c23e6-dc3b-49f4-8c37-b6b4c06adeca,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,39f8336d-df69-4e73-b4d9-95094d4c3142
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,6d5c23e6-dc3b-49f4-8c37-b6b4c06adeca,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,java/lang/String.java,format
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,6d5c23e6-dc3b-49f4-8c37-b6b4c06adeca,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,java/io/PrintStream.java,println
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,6d5c23e6-dc3b-49f4-8c37-b6b4c06adeca,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,java/io/InputStream.java,read
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,6d5c23e6-dc3b-49f4-8c37-b6b4c06adeca,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,org/glassfish/grizzly/http/server/HttpServer.java,stop
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,e46d3f31-1f2f-4bd8-b856-e86892021cd3,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,727a44c1-785a-4157-9a07-e0402db54458,39f8336d-df69-4e73-b4d9-95094d4c3142
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,e46d3f31-1f2f-4bd8-b856-e86892021cd3,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,javax/ws/rs/client/ClientBuilder.java,newClient
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,e46d3f31-1f2f-4bd8-b856-e86892021cd3,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,javax/ws/rs/client/Client.java,target
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,9214e302-fd81-457a-bb1e-917fe15bb262,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,org/glassfish/grizzly/http/server/HttpServer.java,stop
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,fcda653b-4c25-4fb9-9c22-be43b53b2cd6,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,javax/ws/rs/client/WebTarget.java,path
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,fcda653b-4c25-4fb9-9c22-be43b53b2cd6,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,javax/ws/rs/client/WebTarget.java,request
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,fcda653b-4c25-4fb9-9c22-be43b53b2cd6,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,javax/ws/rs/client/Invocation$Builder.java,get
+7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,f12049eb-0149-45ef-8361-80bc9c9eba8c,fcda653b-4c25-4fb9-9c22-be43b53b2cd6,->,7b2a7d15-8c5f-449c-b5a0-5bd66a957ef5,org/junit/Assert.java,assertEquals

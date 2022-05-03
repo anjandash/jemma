@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,a0f63303-2fcf-46d4-8035-1780b98afeb2
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/lang/Exception.java,getMessage
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/lang/StringBuilder.java,append
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/lang/StringBuilder.java,append
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,a0f63303-2fcf-46d4-8035-1780b98afeb2
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/lang/StringBuilder.java,append
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,eed3d7a2-7377-4bcd-a084-b2f0884908af,2f2ce528-dc02-46c8-bcb8-cd347028dbf0,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/lang/StringBuilder.java,toString
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,com/sap/prd/mobile/ios/mios/VerificationCheck.java,<clinit>,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/util/logging/LogManager.java,getLogManager
+0e98ecfa-da5d-4d89-a874-3f905d982cd5,com/sap/prd/mobile/ios/mios/VerificationCheck.java,<clinit>,->,0e98ecfa-da5d-4d89-a874-3f905d982cd5,java/util/logging/LogManager.java,getLogger

@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fa387da3-268a-4b4a-aef9-d35ca68806f7,6b3fb284-9f4c-44b5-b86c-532fe1093543,c0563b87-ef21-44de-961b-8c6a062f22f8,->,fa387da3-268a-4b4a-aef9-d35ca68806f7,org/slf4j/Logger.java,info
+fa387da3-268a-4b4a-aef9-d35ca68806f7,6b3fb284-9f4c-44b5-b86c-532fe1093543,c0563b87-ef21-44de-961b-8c6a062f22f8,->,fa387da3-268a-4b4a-aef9-d35ca68806f7,java/text/DateFormat.java,getDateTimeInstance
+fa387da3-268a-4b4a-aef9-d35ca68806f7,6b3fb284-9f4c-44b5-b86c-532fe1093543,c0563b87-ef21-44de-961b-8c6a062f22f8,->,fa387da3-268a-4b4a-aef9-d35ca68806f7,java/text/DateFormat.java,format
+fa387da3-268a-4b4a-aef9-d35ca68806f7,6b3fb284-9f4c-44b5-b86c-532fe1093543,c0563b87-ef21-44de-961b-8c6a062f22f8,->,fa387da3-268a-4b4a-aef9-d35ca68806f7,org/springframework/ui/Model.java,addAttribute
+fa387da3-268a-4b4a-aef9-d35ca68806f7,org/npe/bbs/HomeController.java,<clinit>,->,fa387da3-268a-4b4a-aef9-d35ca68806f7,org/slf4j/LoggerFactory.java,getLogger

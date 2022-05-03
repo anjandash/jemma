@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d81e5525-730d-4f37-b168-afe1be27457e,b5e92845-70ac-4d09-aad7-aee475f5d6d9,76822362-eba7-4a82-b600-3ff098ec2f97,->,d81e5525-730d-4f37-b168-afe1be27457e,com/lawkingchina/app/springmvc/AppTest.java,assertTrue
+d81e5525-730d-4f37-b168-afe1be27457e,2e6cedcc-3625-4171-b6e1-6320dcedcb0a,dd2af180-799f-424c-95df-417a938fd085,->,d81e5525-730d-4f37-b168-afe1be27457e,java/io/PrintStream.java,println

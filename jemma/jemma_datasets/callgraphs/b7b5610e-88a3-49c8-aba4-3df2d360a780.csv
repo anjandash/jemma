@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b7b5610e-88a3-49c8-aba4-3df2d360a780,exam/shop/controller/ListController.java,<clinit>,->,b7b5610e-88a3-49c8-aba4-3df2d360a780,org/slf4j/LoggerFactory.java,getLogger

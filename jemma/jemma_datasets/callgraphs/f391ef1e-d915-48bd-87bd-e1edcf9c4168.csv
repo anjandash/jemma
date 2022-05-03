@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,898ff91c-1929-4ecf-b3a2-ac62ba3e587e,45ad64ad-7318-4a8a-9763-73b2b9c9ec11,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,09be3e15-7c37-4db0-938d-55527594e2c4,cf3e5bfa-5c74-4f56-b4c2-fd4e9ed58b99
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,898ff91c-1929-4ecf-b3a2-ac62ba3e587e,45ad64ad-7318-4a8a-9763-73b2b9c9ec11,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,1d721c47-3c4b-4478-9355-eae781151ee1,5bc7aade-0841-41e5-8bf9-0692d1251ce1
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,bf477b26-b44b-47f5-b534-2cf465973d3e,be52bca3-3f3e-4a31-a9a4-000b1a1ec926,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,java/io/PrintStream.java,println
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,bf477b26-b44b-47f5-b534-2cf465973d3e,be52bca3-3f3e-4a31-a9a4-000b1a1ec926,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,java/util/Scanner.java,nextLine
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,bb37be87-6c73-412a-b7d3-029179b44ca2,b8691216-a719-4972-acba-64eb316950cb,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,898ff91c-1929-4ecf-b3a2-ac62ba3e587e,45ad64ad-7318-4a8a-9763-73b2b9c9ec11
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,b147514c-21d9-4262-962d-c73a08ca40bb,92dc7187-da86-4475-84ba-967af3ce2210,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,java/io/PrintStream.java,println
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,15de061d-62f0-4f1c-8f46-2f51c010a6d7,ea950bd8-7a29-4d6d-a475-fa70efc13113,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,javax/swing/JOptionPane.java,showInputDialog
+f391ef1e-d915-48bd-87bd-e1edcf9c4168,0ede5eeb-23c4-4a90-a1d5-526e0ba030c4,a58f92fd-765a-4729-ad78-2c1406e1a922,->,f391ef1e-d915-48bd-87bd-e1edcf9c4168,javax/swing/JOptionPane.java,showMessageDialog

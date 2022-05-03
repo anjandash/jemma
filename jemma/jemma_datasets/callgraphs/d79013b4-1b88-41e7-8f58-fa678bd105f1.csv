@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d79013b4-1b88-41e7-8f58-fa678bd105f1,fe889b78-fba1-457c-a668-36979b6dd6f6,d4c02c47-83b8-4d8d-bc88-6f95c1dd4ef6,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,AbstractQuestion.java,getType
+d79013b4-1b88-41e7-8f58-fa678bd105f1,fe889b78-fba1-457c-a668-36979b6dd6f6,d4c02c47-83b8-4d8d-bc88-6f95c1dd4ef6,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,java/lang/Enum.java,toString
+d79013b4-1b88-41e7-8f58-fa678bd105f1,a6fef3de-98c0-498d-8bc8-c3cb6f2d1d5f,d35a6e1e-7aeb-4733-a2c2-75609eb62f6a,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,java/io/PrintStream.java,println
+d79013b4-1b88-41e7-8f58-fa678bd105f1,a6fef3de-98c0-498d-8bc8-c3cb6f2d1d5f,d35a6e1e-7aeb-4733-a2c2-75609eb62f6a,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,6907802d-1091-4281-8779-986aed270791,35c25aca-4f43-4fd5-9c81-2cf84a36ced7
+d79013b4-1b88-41e7-8f58-fa678bd105f1,a6fef3de-98c0-498d-8bc8-c3cb6f2d1d5f,d35a6e1e-7aeb-4733-a2c2-75609eb62f6a,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,java/lang/Object.java,toString
+d79013b4-1b88-41e7-8f58-fa678bd105f1,a6fef3de-98c0-498d-8bc8-c3cb6f2d1d5f,d35a6e1e-7aeb-4733-a2c2-75609eb62f6a,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,java/io/PrintStream.java,println
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,values,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,clone
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,valueOf,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,java/lang/Enum.java,valueOf
+d79013b4-1b88-41e7-8f58-fa678bd105f1,6907802d-1091-4281-8779-986aed270791,35c25aca-4f43-4fd5-9c81-2cf84a36ced7,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,c5941488-61a6-4b46-8528-90550bb77c9f,0cc20d95-8000-402d-8405-7eb5cc7d6867
+d79013b4-1b88-41e7-8f58-fa678bd105f1,6907802d-1091-4281-8779-986aed270791,49594c33-0847-414b-a70f-c83ff8fe6c17,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,name
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionTypeVisitor$1.java,<clinit>,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,values
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionTypeVisitor$1.java,<clinit>,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,ordinal
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionTypeVisitor$1.java,<clinit>,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,ordinal
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionTypeVisitor$1.java,<clinit>,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,ordinal
+d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionTypeVisitor.java,get,->,d79013b4-1b88-41e7-8f58-fa678bd105f1,QuestionType.java,ordinal

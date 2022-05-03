@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e777687c-c29e-458f-a27b-683740f9ea6b,7b848564-29f9-4277-bd22-7e38f2aa9ac2,77208fbd-10f7-4440-8e76-adf7c8acde83,->,e777687c-c29e-458f-a27b-683740f9ea6b,ApplicationTest.java,GET
+e777687c-c29e-458f-a27b-683740f9ea6b,7b848564-29f9-4277-bd22-7e38f2aa9ac2,77208fbd-10f7-4440-8e76-adf7c8acde83,->,e777687c-c29e-458f-a27b-683740f9ea6b,ApplicationTest.java,assertIsOk
+e777687c-c29e-458f-a27b-683740f9ea6b,7b848564-29f9-4277-bd22-7e38f2aa9ac2,77208fbd-10f7-4440-8e76-adf7c8acde83,->,e777687c-c29e-458f-a27b-683740f9ea6b,ApplicationTest.java,assertContentType
+e777687c-c29e-458f-a27b-683740f9ea6b,7b848564-29f9-4277-bd22-7e38f2aa9ac2,77208fbd-10f7-4440-8e76-adf7c8acde83,->,e777687c-c29e-458f-a27b-683740f9ea6b,ApplicationTest.java,assertCharset
+e777687c-c29e-458f-a27b-683740f9ea6b,ed4147e9-2b9c-40ee-8288-832310497305,f6670277-70c1-47ca-9396-bd1c17f245c7,->,e777687c-c29e-458f-a27b-683740f9ea6b,BasicTest.java,assertEquals
+e777687c-c29e-458f-a27b-683740f9ea6b,d8ab544e-5b85-4ca0-8036-f7eb7e15de78,22cd3dc3-f03b-40bf-acf3-838f0e723bc0,->,e777687c-c29e-458f-a27b-683740f9ea6b,models/User.java,count
+e777687c-c29e-458f-a27b-683740f9ea6b,d8ab544e-5b85-4ca0-8036-f7eb7e15de78,22cd3dc3-f03b-40bf-acf3-838f0e723bc0,->,e777687c-c29e-458f-a27b-683740f9ea6b,play/test/Fixtures.java,loadModels
+e777687c-c29e-458f-a27b-683740f9ea6b,9135f50a-8166-4f65-9cbc-51b1bb1bf6f4,38d12166-5f0a-4b6d-bad9-32ae7f9ed567,->,e777687c-c29e-458f-a27b-683740f9ea6b,controllers/Application.java,render
+e777687c-c29e-458f-a27b-683740f9ea6b,9135f50a-8166-4f65-9cbc-51b1bb1bf6f4,52f1ddd7-41e8-4fd2-a253-6bd36c5aa736,->,e777687c-c29e-458f-a27b-683740f9ea6b,models/User.java,findAll
+e777687c-c29e-458f-a27b-683740f9ea6b,9135f50a-8166-4f65-9cbc-51b1bb1bf6f4,52f1ddd7-41e8-4fd2-a253-6bd36c5aa736,->,e777687c-c29e-458f-a27b-683740f9ea6b,controllers/Application.java,renderJSON

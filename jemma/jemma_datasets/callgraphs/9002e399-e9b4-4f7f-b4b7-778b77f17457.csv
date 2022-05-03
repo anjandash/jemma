@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPJ.java,inserir,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPJ.java,editar,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPJ.java,deletar,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPJ.java,selecionar,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPF.java,inserir,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPF.java,editar,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPF.java,deletar,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println
+9002e399-e9b4-4f7f-b4b7-778b77f17457,br/com/desafio/inpl/ImplementaPF.java,selecionar,->,9002e399-e9b4-4f7f-b4b7-778b77f17457,java/io/PrintStream.java,println

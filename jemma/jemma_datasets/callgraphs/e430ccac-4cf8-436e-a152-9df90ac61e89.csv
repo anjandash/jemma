@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e430ccac-4cf8-436e-a152-9df90ac61e89,model/MyEnumeration.java,values,->,e430ccac-4cf8-436e-a152-9df90ac61e89,model/MyEnumeration.java,clone
+e430ccac-4cf8-436e-a152-9df90ac61e89,model/MyEnumeration.java,valueOf,->,e430ccac-4cf8-436e-a152-9df90ac61e89,java/lang/Enum.java,valueOf
+e430ccac-4cf8-436e-a152-9df90ac61e89,model/MyEnumeration2.java,values,->,e430ccac-4cf8-436e-a152-9df90ac61e89,model/MyEnumeration2.java,clone
+e430ccac-4cf8-436e-a152-9df90ac61e89,model/MyEnumeration2.java,valueOf,->,e430ccac-4cf8-436e-a152-9df90ac61e89,java/lang/Enum.java,valueOf

@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/apache/ibatis/session/SqlSession.java,getMapper
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,70c67462-6917-4b0f-928d-e8580edd1a6a,bf536778-73a4-420f-aaa4-3c67c996e747
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,70c67462-6917-4b0f-928d-e8580edd1a6a,2e320d5b-3313-453b-88cd-500e21ff4f29
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,70c67462-6917-4b0f-928d-e8580edd1a6a,d7985f80-77f7-45b8-afce-5b3f0eeafe54
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,70c67462-6917-4b0f-928d-e8580edd1a6a,294662de-0220-48c6-afe3-866bf20c6a42
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/springframework/ui/Model.java,addAttribute
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,java/lang/Integer.java,valueOf
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/springframework/ui/Model.java,addAttribute
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,java/lang/Float.java,valueOf
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/springframework/ui/Model.java,addAttribute
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/apache/ibatis/session/SqlSession.java,getMapper
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,e5f306ae-a542-4e37-998b-21d7992e0eff,94e1afe4-b32f-40e0-b6a6-b02da04fdd30
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,e5f306ae-a542-4e37-998b-21d7992e0eff,0a25a741-c36b-4b7f-827a-bf05aaad69a5
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/springframework/ui/Model.java,addAttribute
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,java/lang/Integer.java,valueOf
+4fcfae9e-3f4c-4256-85ee-7254426a8bc5,45272be2-7bc8-48c6-a7ef-f91d71c3ab4e,f7a39200-a6c1-4de0-8f7d-466d53dfb5a4,->,4fcfae9e-3f4c-4256-85ee-7254426a8bc5,org/springframework/ui/Model.java,addAttribute

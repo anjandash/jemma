@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+57009170-4d26-4af3-ad9c-be5aafedf1d9,73a1e8cf-436e-416b-93d7-938edb813a96,8a2e0131-5a94-4f46-8ef8-15732998ebc0,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,abaed45b-ff20-4801-9c0c-050d96d982b6
+57009170-4d26-4af3-ad9c-be5aafedf1d9,73a1e8cf-436e-416b-93d7-938edb813a96,8a2e0131-5a94-4f46-8ef8-15732998ebc0,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,org/junit/Assert.java,assertEquals
+57009170-4d26-4af3-ad9c-be5aafedf1d9,fb9d072d-ef01-4a88-94e8-1b179eaaa499,142b78b6-5258-496e-8660-09eeb6bd4da8,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,fb9d072d-ef01-4a88-94e8-1b179eaaa499,142b78b6-5258-496e-8660-09eeb6bd4da8
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,316e15f4-a93b-4485-9e17-9179c5a84e06,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/Integer.java,valueOf
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,5b64945b-818b-4788-9c5b-3d9155d6fb62,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,liquibase/database/DatabaseConnection.java,getDatabaseProductName
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,5b64945b-818b-4788-9c5b-3d9155d6fb62,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/String.java,equalsIgnoreCase
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,2c4b50ac-0670-4bae-8fc4-b3c3875e467c,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/String.java,startsWith
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,db39540d-7c41-46f8-b10d-1a596c43e50e,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,liquibase/database/AbstractJdbcDatabase.java,getDefaultSchemaName
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,db39540d-7c41-46f8-b10d-1a596c43e50e,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/String.java,toUpperCase
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,38eec485-159c-4bcc-afc4-450551511fd9,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,liquibase/database/AbstractJdbcDatabase.java,isSystemObject
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,38eec485-159c-4bcc-afc4-450551511fd9,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,liquibase/structure/DatabaseObject.java,getSchema
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,38eec485-159c-4bcc-afc4-450551511fd9,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,liquibase/structure/core/Schema.java,getName
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,38eec485-159c-4bcc-afc4-450551511fd9,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/String.java,equalsIgnoreCase
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,38eec485-159c-4bcc-afc4-450551511fd9,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/String.java,equalsIgnoreCase
+57009170-4d26-4af3-ad9c-be5aafedf1d9,8b971cc8-a5e5-471e-8a2a-5cdd554778c1,38eec485-159c-4bcc-afc4-450551511fd9,->,57009170-4d26-4af3-ad9c-be5aafedf1d9,java/lang/String.java,equalsIgnoreCase

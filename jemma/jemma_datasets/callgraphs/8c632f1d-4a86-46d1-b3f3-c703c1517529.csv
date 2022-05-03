@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8c632f1d-4a86-46d1-b3f3-c703c1517529,825146ca-322e-40c2-a9ce-39f181a30886,2b961a48-e5a1-403e-9b52-6642c81ecdcc,->,8c632f1d-4a86-46d1-b3f3-c703c1517529,java/util/List.java,add
+8c632f1d-4a86-46d1-b3f3-c703c1517529,cf5cabd5-683e-43b8-8041-97735f3de413,47950be4-269c-49b9-866f-32864f40893b,->,8c632f1d-4a86-46d1-b3f3-c703c1517529,org/springframework/jms/core/JmsTemplate.java,convertAndSend
+8c632f1d-4a86-46d1-b3f3-c703c1517529,c16f8c49-d580-45fc-bdab-8f12dbdffe5a,6f158d4f-cc40-4874-9289-24f0c063ed61,->,8c632f1d-4a86-46d1-b3f3-c703c1517529,ad144850-2fc2-4c53-aab2-268b9607a5f8,0e6ccf8a-4d12-4ca5-a1eb-7ce3179f5ba2
+8c632f1d-4a86-46d1-b3f3-c703c1517529,c16f8c49-d580-45fc-bdab-8f12dbdffe5a,6f158d4f-cc40-4874-9289-24f0c063ed61,->,8c632f1d-4a86-46d1-b3f3-c703c1517529,org/springframework/ui/Model.java,addAttribute
+8c632f1d-4a86-46d1-b3f3-c703c1517529,c16f8c49-d580-45fc-bdab-8f12dbdffe5a,47177d9c-4dd8-4544-ab18-bce9b1375f72,->,8c632f1d-4a86-46d1-b3f3-c703c1517529,d06a134d-a3d6-4cf8-ace9-2499a08f3eb1,d2682519-3638-4aab-aa46-3d778c4e4ecb

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,2b63980c-e3bb-4f68-bbe6-516a174fcc96,0d4072c2-ec17-41ee-90e6-d6d9dc85d666,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,7824356d-86a9-4f4b-aa07-8728d2a29cce,ebd76378-517c-4e7c-8910-43fc1a3ad23f
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,2b63980c-e3bb-4f68-bbe6-516a174fcc96,753d0a18-99fc-4f23-a64b-aa36bf388b58,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,7824356d-86a9-4f4b-aa07-8728d2a29cce,ac5fe1fe-504b-434d-b2a2-b8e7ccb7b09b
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,2b63980c-e3bb-4f68-bbe6-516a174fcc96,753d0a18-99fc-4f23-a64b-aa36bf388b58,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,append
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,2b63980c-e3bb-4f68-bbe6-516a174fcc96,753d0a18-99fc-4f23-a64b-aa36bf388b58,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,append
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,2b63980c-e3bb-4f68-bbe6-516a174fcc96,753d0a18-99fc-4f23-a64b-aa36bf388b58,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,toString
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,7824356d-86a9-4f4b-aa07-8728d2a29cce,ac5fe1fe-504b-434d-b2a2-b8e7ccb7b09b
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,append
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,append
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,7824356d-86a9-4f4b-aa07-8728d2a29cce,ebd76378-517c-4e7c-8910-43fc1a3ad23f
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,append
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/lang/StringBuilder.java,toString
+e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,b339a382-1d4d-4aab-9bca-505dc411ae19,58ac900b-62d5-4654-ba53-4d2d33f8f529,->,e02e0904-d1ec-4eff-b1c1-d3d087cd36a4,java/io/PrintStream.java,println

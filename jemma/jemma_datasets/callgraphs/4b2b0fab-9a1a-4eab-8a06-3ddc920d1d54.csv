@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,ab4e2287-3db5-4228-b70d-483c351185d6,f354d68f-78e7-423c-87e2-9966b4ec869b,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,junit/framework/TestCase.java,setUp
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,ab4e2287-3db5-4228-b70d-483c351185d6,f354d68f-78e7-423c-87e2-9966b4ec869b,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/util/logging/Logger.java,getLogger
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,ab4e2287-3db5-4228-b70d-483c351185d6,f354d68f-78e7-423c-87e2-9966b4ec869b,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/util/logging/Logger.java,getHandlers
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,ab4e2287-3db5-4228-b70d-483c351185d6,f354d68f-78e7-423c-87e2-9966b4ec869b,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/util/logging/Handler.java,setLevel
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,com/couchbase/test/lite/LiteTestCaseBase$JavaTestContext.java,getRootDirectory,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/io/File.java,exists
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,com/couchbase/test/lite/LiteTestCaseBase$JavaTestContext.java,getRootDirectory,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/io/File.java,mkdir
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,9a94cb3b-cc98-4396-900f-b9a3178c571b,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,ae9a793f-fa44-4c35-974d-1d66b89251c5
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,72e188f0-135d-4669-a066-e8a5140d57b0,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/lang/System.java,getProperty
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,ae9a793f-fa44-4c35-974d-1d66b89251c5,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/lang/System.java,getProperty
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,f9df783e-aac2-4aba-a21c-ff745e5e6b2e,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/lang/System.java,getProperty
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,f9df783e-aac2-4aba-a21c-ff745e5e6b2e,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/lang/System.java,getProperty
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,f9df783e-aac2-4aba-a21c-ff745e5e6b2e,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,com/couchbase/lite/support/Version.java,getVersionName
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,f9df783e-aac2-4aba-a21c-ff745e5e6b2e,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,com/couchbase/lite/support/Version.java,getCommitHash
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,0cfddaa1-7bd6-4aef-be73-38711230551b,f9df783e-aac2-4aba-a21c-ff745e5e6b2e,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/lang/String.java,format
+4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,com/couchbase/lite/storage/JavaSQLiteStorageEngine.java,<clinit>,->,4b2b0fab-9a1a-4eab-8a06-3ddc920d1d54,java/io/PrintStream.java,println

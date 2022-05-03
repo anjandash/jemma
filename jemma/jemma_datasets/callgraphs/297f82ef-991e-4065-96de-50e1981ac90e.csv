@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+297f82ef-991e-4065-96de-50e1981ac90e,com/gesco/model/EtatConge.java,values,->,297f82ef-991e-4065-96de-50e1981ac90e,com/gesco/model/EtatConge.java,clone
+297f82ef-991e-4065-96de-50e1981ac90e,com/gesco/model/EtatConge.java,valueOf,->,297f82ef-991e-4065-96de-50e1981ac90e,java/lang/Enum.java,valueOf

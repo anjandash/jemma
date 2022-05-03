@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/EntityManager.java,getCriteriaBuilder
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/criteria/CriteriaBuilder.java,createQuery
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/criteria/CriteriaQuery.java,from
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/criteria/CriteriaQuery.java,select
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/EntityManager.java,createQuery
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,java/lang/Boolean.java,valueOf
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/TypedQuery.java,setHint
+271c6cfa-3ad1-45be-856a-1bf0aef55366,c6531903-ed4d-4724-ac62-8d706b78817d,57ae5e14-7264-40af-93d7-4e75cb1635af,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,javax/persistence/TypedQuery.java,getResultList
+271c6cfa-3ad1-45be-856a-1bf0aef55366,58bae16f-3268-441c-9e69-1e6386d6cfc6,a44ac78f-da9e-4a4a-a980-14f4f1d6a7fc,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,org/springframework/orm/jpa/EntityManagerFactoryInfo.java,getNativeEntityManagerFactory
+271c6cfa-3ad1-45be-856a-1bf0aef55366,58bae16f-3268-441c-9e69-1e6386d6cfc6,a44ac78f-da9e-4a4a-a980-14f4f1d6a7fc,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,org/hibernate/ejb/EntityManagerFactoryImpl.java,getSessionFactory
+271c6cfa-3ad1-45be-856a-1bf0aef55366,58bae16f-3268-441c-9e69-1e6386d6cfc6,a44ac78f-da9e-4a4a-a980-14f4f1d6a7fc,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,org/hibernate/SessionFactory.java,getStatistics
+271c6cfa-3ad1-45be-856a-1bf0aef55366,862e1012-f819-4182-bb1f-2bd44aa425b5,32e145c8-3e29-46ce-a5a8-fb8d9f876e76,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,58bae16f-3268-441c-9e69-1e6386d6cfc6,a44ac78f-da9e-4a4a-a980-14f4f1d6a7fc
+271c6cfa-3ad1-45be-856a-1bf0aef55366,862e1012-f819-4182-bb1f-2bd44aa425b5,32e145c8-3e29-46ce-a5a8-fb8d9f876e76,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,org/apache/log4j/Logger.java,info
+271c6cfa-3ad1-45be-856a-1bf0aef55366,9d084de0-63a7-4128-a733-b747039a5c50,694ab516-8a19-4af7-aca5-c4e769c571ca,->,271c6cfa-3ad1-45be-856a-1bf0aef55366,23bbe73a-2c4d-4686-8b56-950b1a589707,d91c07a1-bd1e-47d7-a6b7-0ab3c543effe

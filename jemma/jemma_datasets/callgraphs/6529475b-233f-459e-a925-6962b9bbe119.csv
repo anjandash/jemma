@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6529475b-233f-459e-a925-6962b9bbe119,266bc525-0f97-43ae-a38d-778c699f3b16,685384e1-e134-4915-9028-b7630f3899f3,->,6529475b-233f-459e-a925-6962b9bbe119,Fatorial.java,calcularFatorial
+6529475b-233f-459e-a925-6962b9bbe119,266bc525-0f97-43ae-a38d-778c699f3b16,685384e1-e134-4915-9028-b7630f3899f3,->,6529475b-233f-459e-a925-6962b9bbe119,Fatorial.java,calcularFatorial
+6529475b-233f-459e-a925-6962b9bbe119,266bc525-0f97-43ae-a38d-778c699f3b16,685384e1-e134-4915-9028-b7630f3899f3,->,6529475b-233f-459e-a925-6962b9bbe119,java/io/PrintStream.java,println

@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0945e228-e40a-454f-817d-ab6fbcce08d8,game/entities/ObjectType.java,values,->,0945e228-e40a-454f-817d-ab6fbcce08d8,game/entities/ObjectType.java,clone
+0945e228-e40a-454f-817d-ab6fbcce08d8,game/entities/ObjectType.java,valueOf,->,0945e228-e40a-454f-817d-ab6fbcce08d8,java/lang/Enum.java,valueOf

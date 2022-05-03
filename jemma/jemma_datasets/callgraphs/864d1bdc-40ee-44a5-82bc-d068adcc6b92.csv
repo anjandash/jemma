@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,5240a4d9-a698-40bc-8848-f197d0a193ee,97e6dfa4-3eee-49a0-9bee-3bd073ae659d,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,java/util/Map.java,get
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,8c85b44f-dd41-44e8-8c22-e8de727b9d0d,5a092bf0-92ec-4bff-a2b2-db2291694622,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,b90a08fe-3e5b-4f95-adc2-5b66995709df,c6258ada-f074-4eb8-85e6-87a56c2458f6
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,b552f64b-74b0-4d4a-985e-d53ac441cc59,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,name/ruhkopf/jaxrs/server/resource/VersionResourceTest.java,enable
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,b552f64b-74b0-4d4a-985e-d53ac441cc59,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,name/ruhkopf/jaxrs/server/resource/VersionResourceTest.java,enable
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,c366b149-0830-4098-ae76-4a856560de62,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,name/ruhkopf/jaxrs/server/resource/VersionResourceTest.java,target
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,c366b149-0830-4098-ae76-4a856560de62,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,javax/ws/rs/client/WebTarget.java,request
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,c366b149-0830-4098-ae76-4a856560de62,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,javax/ws/rs/client/Invocation$Builder.java,get
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,c366b149-0830-4098-ae76-4a856560de62,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,5240a4d9-a698-40bc-8848-f197d0a193ee,97e6dfa4-3eee-49a0-9bee-3bd073ae659d
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,c366b149-0830-4098-ae76-4a856560de62,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,org/hamcrest/CoreMatchers.java,equalTo
+864d1bdc-40ee-44a5-82bc-d068adcc6b92,39060f8d-41e4-4c6f-9686-ac3b0d8c757c,c366b149-0830-4098-ae76-4a856560de62,->,864d1bdc-40ee-44a5-82bc-d068adcc6b92,org/junit/Assert.java,assertThat

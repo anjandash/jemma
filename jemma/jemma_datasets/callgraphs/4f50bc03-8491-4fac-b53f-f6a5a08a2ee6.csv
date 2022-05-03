@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ReOrderBuffer.java,add,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/util/ArrayList.java,add
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ReOrderBuffer.java,removeFirst,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/util/ArrayList.java,remove
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ReOrderBuffer.java,getFirst,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/util/ArrayList.java,get
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ReOrderBuffer.java,size,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/util/ArrayList.java,size
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ReOrderBuffer.java,isEmpty,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/util/ArrayList.java,isEmpty
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ReOrderBuffer.java,flush,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/util/ArrayList.java,clear
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/RegisterFile.java,readRegister,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/RegisterFile.java,withinBounds
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/RegisterFile.java,readRegister,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/Register.java,read
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/RegisterFile.java,writeRegister,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/RegisterFile.java,withinBounds
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/RegisterFile.java,writeRegister,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/Register.java,write
+4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,simulator/ROBEntry.java,isBranch,->,4f50bc03-8491-4fac-b53f-f6a5a08a2ee6,java/lang/String.java,equals

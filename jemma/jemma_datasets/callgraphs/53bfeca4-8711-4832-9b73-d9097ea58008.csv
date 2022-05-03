@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+53bfeca4-8711-4832-9b73-d9097ea58008,5fffd645-0ac9-4f1e-95bd-1a06e775c036,9601894a-3531-45f8-8ede-38ac9173aa27,->,53bfeca4-8711-4832-9b73-d9097ea58008,5a7f8473-b290-45c8-a071-06452ad7aa81,faa8434a-d45b-4b1e-b63c-e28ea36a2bfc
+53bfeca4-8711-4832-9b73-d9097ea58008,9f6eb5bf-bd5a-4613-90ff-8a2873d79ce4,29de7d75-91de-4d64-a8e9-9f4237c14468,->,53bfeca4-8711-4832-9b73-d9097ea58008,5a7f8473-b290-45c8-a071-06452ad7aa81,faa8434a-d45b-4b1e-b63c-e28ea36a2bfc
+53bfeca4-8711-4832-9b73-d9097ea58008,011cbb36-f36f-49c9-8ac8-a252f3673832,0ab344a7-1f0d-4616-a474-f63c08e13cf1,->,53bfeca4-8711-4832-9b73-d9097ea58008,5a7f8473-b290-45c8-a071-06452ad7aa81,faa8434a-d45b-4b1e-b63c-e28ea36a2bfc
+53bfeca4-8711-4832-9b73-d9097ea58008,34fd9975-a6f3-4dd6-a9a5-9de6f26046f6,4aeea528-d389-4d61-a9f8-efac5c4f4997,->,53bfeca4-8711-4832-9b73-d9097ea58008,java/util/logging/Logger.java,info
+53bfeca4-8711-4832-9b73-d9097ea58008,34fd9975-a6f3-4dd6-a9a5-9de6f26046f6,5279715a-1540-4f32-8504-a339a96f964e,->,53bfeca4-8711-4832-9b73-d9097ea58008,java/util/logging/Logger.java,info
+53bfeca4-8711-4832-9b73-d9097ea58008,5a7f8473-b290-45c8-a071-06452ad7aa81,8c922b79-c433-494c-9509-6bfae93a410f,->,53bfeca4-8711-4832-9b73-d9097ea58008,org/bukkit/entity/Player.java,getName
+53bfeca4-8711-4832-9b73-d9097ea58008,6945e9b8-fcb6-42ae-aa6a-4ac0c97ae24c,a568df2d-e6cd-4949-bf32-e496ad5e3d9a,->,53bfeca4-8711-4832-9b73-d9097ea58008,org/bukkit/event/block/SignChangeEvent.java,getLine
+53bfeca4-8711-4832-9b73-d9097ea58008,6945e9b8-fcb6-42ae-aa6a-4ac0c97ae24c,a568df2d-e6cd-4949-bf32-e496ad5e3d9a,->,53bfeca4-8711-4832-9b73-d9097ea58008,java/lang/String.java,contains
+53bfeca4-8711-4832-9b73-d9097ea58008,6945e9b8-fcb6-42ae-aa6a-4ac0c97ae24c,a568df2d-e6cd-4949-bf32-e496ad5e3d9a,->,53bfeca4-8711-4832-9b73-d9097ea58008,org/bukkit/event/block/SignChangeEvent.java,getPlayer
+53bfeca4-8711-4832-9b73-d9097ea58008,6945e9b8-fcb6-42ae-aa6a-4ac0c97ae24c,a568df2d-e6cd-4949-bf32-e496ad5e3d9a,->,53bfeca4-8711-4832-9b73-d9097ea58008,org/bukkit/event/block/SignChangeEvent.java,getLine
+53bfeca4-8711-4832-9b73-d9097ea58008,6945e9b8-fcb6-42ae-aa6a-4ac0c97ae24c,a568df2d-e6cd-4949-bf32-e496ad5e3d9a,->,53bfeca4-8711-4832-9b73-d9097ea58008,java/lang/String.java,contains
+53bfeca4-8711-4832-9b73-d9097ea58008,6945e9b8-fcb6-42ae-aa6a-4ac0c97ae24c,a568df2d-e6cd-4949-bf32-e496ad5e3d9a,->,53bfeca4-8711-4832-9b73-d9097ea58008,org/bukkit/entity/Player.java,hasPermission

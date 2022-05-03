@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+149bc4b2-ebfe-4f42-9ac5-21188061ee71,73bd8c81-f3b8-41fe-aad9-159f767e8039,0c62337c-5f16-4e6d-8ee7-eff69e4593d2,->,149bc4b2-ebfe-4f42-9ac5-21188061ee71,java/io/PrintStream.java,println
+149bc4b2-ebfe-4f42-9ac5-21188061ee71,73bd8c81-f3b8-41fe-aad9-159f767e8039,0c62337c-5f16-4e6d-8ee7-eff69e4593d2,->,149bc4b2-ebfe-4f42-9ac5-21188061ee71,java/io/PrintStream.java,println
+149bc4b2-ebfe-4f42-9ac5-21188061ee71,73bd8c81-f3b8-41fe-aad9-159f767e8039,0c62337c-5f16-4e6d-8ee7-eff69e4593d2,->,149bc4b2-ebfe-4f42-9ac5-21188061ee71,java/io/PrintStream.java,println
+149bc4b2-ebfe-4f42-9ac5-21188061ee71,b96b10e9-6351-4788-b5ee-146ca01b802d,6307eaef-e07b-43ce-bef9-84182aad934b,->,149bc4b2-ebfe-4f42-9ac5-21188061ee71,ac5714e9-02eb-4620-ab2d-4c6c8923ce19,3faf70aa-fde1-4bb2-a61e-4fb993bd92b2
+149bc4b2-ebfe-4f42-9ac5-21188061ee71,b96b10e9-6351-4788-b5ee-146ca01b802d,6307eaef-e07b-43ce-bef9-84182aad934b,->,149bc4b2-ebfe-4f42-9ac5-21188061ee71,org/springframework/ui/Model.java,addAttribute
+149bc4b2-ebfe-4f42-9ac5-21188061ee71,com/team502/easycall/common/web/UserController.java,<clinit>,->,149bc4b2-ebfe-4f42-9ac5-21188061ee71,org/apache/commons/logging/LogFactory.java,getLog

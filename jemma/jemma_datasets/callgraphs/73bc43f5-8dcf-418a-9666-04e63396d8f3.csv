@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,da8d2c89-de6e-4801-a5ab-3503e4aaadc2,e9950b30-2884-4cb4-9053-f6f6db9fdc18
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/lang/String.java,concat
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,da8d2c89-de6e-4801-a5ab-3503e4aaadc2,c34a4c70-a995-4023-8304-1a7d831e8daa
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/lang/String.java,concat
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/lang/String.java,concat
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/lang/StringBuffer.java,append
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,da8d2c89-de6e-4801-a5ab-3503e4aaadc2,e5cb9ae1-d458-4932-a66b-129e1c0527b9
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/lang/StringBuffer.java,append
+73bc43f5-8dcf-418a-9666-04e63396d8f3,cd5ca870-2c8b-4f0f-aaed-53622b4d0ced,6c3e1da2-0a81-463f-b4ea-79921e468d3a,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/lang/StringBuffer.java,toString
+73bc43f5-8dcf-418a-9666-04e63396d8f3,da8d2c89-de6e-4801-a5ab-3503e4aaadc2,e5cb9ae1-d458-4932-a66b-129e1c0527b9,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/util/Calendar.java,getTime
+73bc43f5-8dcf-418a-9666-04e63396d8f3,da8d2c89-de6e-4801-a5ab-3503e4aaadc2,e5cb9ae1-d458-4932-a66b-129e1c0527b9,->,73bc43f5-8dcf-418a-9666-04e63396d8f3,java/text/DateFormat.java,format

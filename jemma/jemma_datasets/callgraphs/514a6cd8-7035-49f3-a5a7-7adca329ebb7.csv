@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,02200252-968d-4c6e-9fe9-170c3bc3c3ca,5b5cb79f-4d38-4464-8bd1-0a49abf504a7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/lang/StringBuilder.java,append
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,02200252-968d-4c6e-9fe9-170c3bc3c3ca,5b5cb79f-4d38-4464-8bd1-0a49abf504a7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/lang/StringBuilder.java,append
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,02200252-968d-4c6e-9fe9-170c3bc3c3ca,5b5cb79f-4d38-4464-8bd1-0a49abf504a7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/lang/StringBuilder.java,toString
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,02200252-968d-4c6e-9fe9-170c3bc3c3ca,5b5cb79f-4d38-4464-8bd1-0a49abf504a7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/io/PrintStream.java,println
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,053106ae-213d-400a-a2e2-473d5720ae74,e78f827e-f61b-43b3-b73b-befe4ba3fa8a,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/io/PrintStream.java,println
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,c4b0f5cd-0e39-4889-9d15-8dc3590fe558,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,9b0df777-9a7e-42bb-b487-7f67e01b592d,58ddfddb-f1b0-4a04-9243-17af6b86a98b
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,c4b0f5cd-0e39-4889-9d15-8dc3590fe558,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/io/PrintStream.java,println
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,57a2a35e-56c6-490f-afba-8374aaccabb7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,9b0df777-9a7e-42bb-b487-7f67e01b592d,c0b908e1-ccf2-4cea-aa49-8c9fcf24d350
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,57a2a35e-56c6-490f-afba-8374aaccabb7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,junit/framework/Assert.java,assertEquals
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,57a2a35e-56c6-490f-afba-8374aaccabb7,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/io/PrintStream.java,println
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,ab3ca52a-8b20-42a0-870e-e4e12f5bab2c,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,84c5dc79-0a8b-4d8d-aa0e-a75b8c1071cd,064b3edd-0717-4189-a945-951cda9c4ee3
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,ab3ca52a-8b20-42a0-870e-e4e12f5bab2c,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/io/PrintStream.java,println
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,adb0f398-5299-408d-a949-b6c190899907,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,84c5dc79-0a8b-4d8d-aa0e-a75b8c1071cd,696d3739-7f04-4074-a10e-ac8c78083bd0
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,adb0f398-5299-408d-a949-b6c190899907,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,junit/framework/Assert.java,assertEquals
+514a6cd8-7035-49f3-a5a7-7adca329ebb7,d315104b-1076-4fcc-a44d-3a4c786e06bd,adb0f398-5299-408d-a949-b6c190899907,->,514a6cd8-7035-49f3-a5a7-7adca329ebb7,java/io/PrintStream.java,println

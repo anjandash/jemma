@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6447b3f7-c26e-4a43-b4f7-c60473d5d450,95baae96-97d1-42b9-b385-47e5de372fb5,648b39f4-1964-4661-a43e-0fd3c814f1a4,->,6447b3f7-c26e-4a43-b4f7-c60473d5d450,java/lang/String.java,concat
+6447b3f7-c26e-4a43-b4f7-c60473d5d450,95baae96-97d1-42b9-b385-47e5de372fb5,648b39f4-1964-4661-a43e-0fd3c814f1a4,->,6447b3f7-c26e-4a43-b4f7-c60473d5d450,java/lang/String.java,concat
+6447b3f7-c26e-4a43-b4f7-c60473d5d450,f9471acf-17dd-45ce-95d0-444f679d3d18,2689b6b4-10b9-41a5-b886-82151dea4dc5,->,6447b3f7-c26e-4a43-b4f7-c60473d5d450,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+6447b3f7-c26e-4a43-b4f7-c60473d5d450,f9471acf-17dd-45ce-95d0-444f679d3d18,bcb0192b-c858-4b36-9393-be2ffd31bd4a,->,6447b3f7-c26e-4a43-b4f7-c60473d5d450,java/util/concurrent/atomic/AtomicLong.java,get
+6447b3f7-c26e-4a43-b4f7-c60473d5d450,f9471acf-17dd-45ce-95d0-444f679d3d18,bcb0192b-c858-4b36-9393-be2ffd31bd4a,->,6447b3f7-c26e-4a43-b4f7-c60473d5d450,java/lang/Long.java,valueOf
+6447b3f7-c26e-4a43-b4f7-c60473d5d450,f9471acf-17dd-45ce-95d0-444f679d3d18,f56c41a6-1edf-4e85-af5e-3ad243b0f807,->,6447b3f7-c26e-4a43-b4f7-c60473d5d450,java/util/concurrent/atomic/AtomicLong.java,toString

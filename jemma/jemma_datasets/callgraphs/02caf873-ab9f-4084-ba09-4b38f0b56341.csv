@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+02caf873-ab9f-4084-ba09-4b38f0b56341,9bce2268-f8a5-4000-9746-11fb8adff345,97b3efd6-55dd-439e-baf5-54752634d362,->,02caf873-ab9f-4084-ba09-4b38f0b56341,com/joa/dao/impl/PersonDaoImpl.java,getHibernateTemplate
+02caf873-ab9f-4084-ba09-4b38f0b56341,9bce2268-f8a5-4000-9746-11fb8adff345,97b3efd6-55dd-439e-baf5-54752634d362,->,02caf873-ab9f-4084-ba09-4b38f0b56341,org/springframework/orm/hibernate3/HibernateTemplate.java,save
+02caf873-ab9f-4084-ba09-4b38f0b56341,3a021c5e-f9e8-4e46-9759-906cc4a65083,f4d48193-2018-41a6-bf8b-194ef432f9df,->,02caf873-ab9f-4084-ba09-4b38f0b56341,5615f301-bc83-4c43-a655-08f738855c64,f40b0390-3a4d-4cf7-bcdc-1c39a39926ec
+02caf873-ab9f-4084-ba09-4b38f0b56341,92b39817-c353-436c-ba40-afcebdbfb112,1dc991d5-b317-4679-9e3d-92776132007d,->,02caf873-ab9f-4084-ba09-4b38f0b56341,org/springframework/context/ApplicationContext.java,getBean
+02caf873-ab9f-4084-ba09-4b38f0b56341,92b39817-c353-436c-ba40-afcebdbfb112,1dc991d5-b317-4679-9e3d-92776132007d,->,02caf873-ab9f-4084-ba09-4b38f0b56341,9f6cfb97-c47a-4a63-bafc-02f5d22544c0,3b2a6d6c-ea91-4f75-97f8-52d956c9b4a1
+02caf873-ab9f-4084-ba09-4b38f0b56341,92b39817-c353-436c-ba40-afcebdbfb112,1dc991d5-b317-4679-9e3d-92776132007d,->,02caf873-ab9f-4084-ba09-4b38f0b56341,0d0ae68f-be2e-4f97-90e0-6d0df2b45d2a,c765daff-89fe-4577-9a14-3fc80df0ced1
+02caf873-ab9f-4084-ba09-4b38f0b56341,675584ec-610c-4cd9-997c-760dab020a59,0ad710c0-9dfb-4e09-9ed4-8cf9ccad2f0f,->,02caf873-ab9f-4084-ba09-4b38f0b56341,org/springframework/context/ApplicationContext.java,getBean
+02caf873-ab9f-4084-ba09-4b38f0b56341,675584ec-610c-4cd9-997c-760dab020a59,0ad710c0-9dfb-4e09-9ed4-8cf9ccad2f0f,->,02caf873-ab9f-4084-ba09-4b38f0b56341,java/io/PrintStream.java,println
+02caf873-ab9f-4084-ba09-4b38f0b56341,998b5958-ef16-4049-809a-22daa664a968,91e8a76f-2c9e-49a7-ac68-eec7d0370176,->,02caf873-ab9f-4084-ba09-4b38f0b56341,9f6cfb97-c47a-4a63-bafc-02f5d22544c0,3b2a6d6c-ea91-4f75-97f8-52d956c9b4a1
+02caf873-ab9f-4084-ba09-4b38f0b56341,998b5958-ef16-4049-809a-22daa664a968,91e8a76f-2c9e-49a7-ac68-eec7d0370176,->,02caf873-ab9f-4084-ba09-4b38f0b56341,0d0ae68f-be2e-4f97-90e0-6d0df2b45d2a,c765daff-89fe-4577-9a14-3fc80df0ced1

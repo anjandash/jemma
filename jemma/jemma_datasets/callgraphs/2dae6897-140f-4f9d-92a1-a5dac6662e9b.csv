@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,5a14450a-4b5a-40dc-8f7c-3b62a951c4c5,a2620c28-897e-44e1-8360-52b9ce2a9861,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/web/socket/config/annotation/StompEndpointRegistry.java,addEndpoint
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,5a14450a-4b5a-40dc-8f7c-3b62a951c4c5,a2620c28-897e-44e1-8360-52b9ce2a9861,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/web/socket/config/annotation/StompWebSocketEndpointRegistration.java,withSockJS
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,5a14450a-4b5a-40dc-8f7c-3b62a951c4c5,85152519-75df-4e75-8a0e-ce15e39d44f2,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/messaging/simp/config/MessageBrokerRegistry.java,enableSimpleBroker
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,5a14450a-4b5a-40dc-8f7c-3b62a951c4c5,85152519-75df-4e75-8a0e-ce15e39d44f2,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/messaging/simp/config/MessageBrokerRegistry.java,setApplicationDestinationPrefixes
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,76846c40-2dec-4f85-badd-13346caf83af,b2e06127-e04d-4e53-af78-a85706170c2c,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/web/servlet/config/annotation/ResourceHandlerRegistry.java,addResourceHandler
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,76846c40-2dec-4f85-badd-13346caf83af,b2e06127-e04d-4e53-af78-a85706170c2c,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/web/servlet/config/annotation/ResourceHandlerRegistration.java,addResourceLocations
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,cda81224-82fe-4bea-8f20-3331ae25f8df,526fd71a-bf8e-4968-8ce3-ff7e29bc661f,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/springframework/ui/Model.java,addAttribute
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,cda81224-82fe-4bea-8f20-3331ae25f8df,b26ae252-6e39-4fed-b40d-04908388a6a1,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,java/lang/StringBuilder.java,append
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,cda81224-82fe-4bea-8f20-3331ae25f8df,b26ae252-6e39-4fed-b40d-04908388a6a1,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,java/lang/StringBuilder.java,append
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,cda81224-82fe-4bea-8f20-3331ae25f8df,b26ae252-6e39-4fed-b40d-04908388a6a1,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,java/lang/StringBuilder.java,toString
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,cda81224-82fe-4bea-8f20-3331ae25f8df,b26ae252-6e39-4fed-b40d-04908388a6a1,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/apache/log4j/Logger.java,info
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,com/craig/controller/SocketController.java,<clinit>,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/apache/log4j/Logger.java,getLogger
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,0d1d9f15-8f63-4ce7-8d43-b7cd0097555f,308e5758-99ca-428a-9d6d-f333e892ff89,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/apache/log4j/Logger.java,info
+2dae6897-140f-4f9d-92a1-a5dac6662e9b,com/craig/MessageProducer.java,<clinit>,->,2dae6897-140f-4f9d-92a1-a5dac6662e9b,org/apache/log4j/Logger.java,getLogger

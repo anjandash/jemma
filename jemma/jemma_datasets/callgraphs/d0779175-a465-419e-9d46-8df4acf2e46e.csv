@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d0779175-a465-419e-9d46-8df4acf2e46e,ef65e753-89e2-4eff-8b2b-dae5a17af9a4,39f1d969-3af9-4010-b5b0-4080be997391,->,d0779175-a465-419e-9d46-8df4acf2e46e,java/io/PrintStream.java,println
+d0779175-a465-419e-9d46-8df4acf2e46e,ef65e753-89e2-4eff-8b2b-dae5a17af9a4,39f1d969-3af9-4010-b5b0-4080be997391,->,d0779175-a465-419e-9d46-8df4acf2e46e,ef65e753-89e2-4eff-8b2b-dae5a17af9a4,ae9f34bc-87f3-4e04-90cb-bde65f46a2c5
+d0779175-a465-419e-9d46-8df4acf2e46e,ef65e753-89e2-4eff-8b2b-dae5a17af9a4,39f1d969-3af9-4010-b5b0-4080be997391,->,d0779175-a465-419e-9d46-8df4acf2e46e,java/lang/System.java,getProperty
+d0779175-a465-419e-9d46-8df4acf2e46e,ef65e753-89e2-4eff-8b2b-dae5a17af9a4,39f1d969-3af9-4010-b5b0-4080be997391,->,d0779175-a465-419e-9d46-8df4acf2e46e,java/io/PrintStream.java,println
+d0779175-a465-419e-9d46-8df4acf2e46e,ef65e753-89e2-4eff-8b2b-dae5a17af9a4,ae9f34bc-87f3-4e04-90cb-bde65f46a2c5,->,d0779175-a465-419e-9d46-8df4acf2e46e,java/io/PrintStream.java,println
+d0779175-a465-419e-9d46-8df4acf2e46e,View$1.java,actionPerformed,->,d0779175-a465-419e-9d46-8df4acf2e46e,java/lang/Math.java,random
+d0779175-a465-419e-9d46-8df4acf2e46e,View$1.java,actionPerformed,->,d0779175-a465-419e-9d46-8df4acf2e46e,javax/swing/JButton.java,setIcon
+d0779175-a465-419e-9d46-8df4acf2e46e,View$1.java,actionPerformed,->,d0779175-a465-419e-9d46-8df4acf2e46e,View.java,repaint

@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+948d5634-3c11-493c-84bd-341f012458fe,79854d39-1a41-4591-a588-3db16c660746,f8b5a782-2fbc-4002-b1be-72bb33fb3b4e,->,948d5634-3c11-493c-84bd-341f012458fe,java/io/PrintStream.java,println
+948d5634-3c11-493c-84bd-341f012458fe,79854d39-1a41-4591-a588-3db16c660746,f8b5a782-2fbc-4002-b1be-72bb33fb3b4e,->,948d5634-3c11-493c-84bd-341f012458fe,java/io/PrintStream.java,println
+948d5634-3c11-493c-84bd-341f012458fe,79854d39-1a41-4591-a588-3db16c660746,f8b5a782-2fbc-4002-b1be-72bb33fb3b4e,->,948d5634-3c11-493c-84bd-341f012458fe,java/io/BufferedReader.java,readLine

@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+106a167d-d0c3-400b-8a21-070869b28fe7,40cd1a53-4c32-4f44-bcdc-41df3f2ebcea,9817b861-b118-4e2c-adf5-0c5b6b921a2e,->,106a167d-d0c3-400b-8a21-070869b28fe7,mvnIDE/AppTest.java,assertTrue

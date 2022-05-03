@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+270c3b3e-fb78-4c80-b486-a3270f0ad621,4115aed6-f8cf-41e9-9ce1-c50a0f13dab0,48a0ad4a-1d89-4f4d-ab0a-72729b396984,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,org/springframework/boot/builder/SpringApplicationBuilder.java,sources
+270c3b3e-fb78-4c80-b486-a3270f0ad621,4115aed6-f8cf-41e9-9ce1-c50a0f13dab0,48a0ad4a-1d89-4f4d-ab0a-72729b396984,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,org/springframework/boot/builder/SpringApplicationBuilder.java,showBanner
+270c3b3e-fb78-4c80-b486-a3270f0ad621,4115aed6-f8cf-41e9-9ce1-c50a0f13dab0,48a0ad4a-1d89-4f4d-ab0a-72729b396984,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,org/springframework/boot/builder/SpringApplicationBuilder.java,run
+270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,c81da014-7a49-452b-bf5e-cead50721b9f,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,com/github/pires/obdserver/repository/ObdReadingRepository.java,save
+270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,14c751b5-c411-4943-8f8d-a02966c11a0e,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,java/lang/Long.java,valueOf
+270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,14c751b5-c411-4943-8f8d-a02966c11a0e,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,com/github/pires/obdserver/repository/ObdReadingRepository.java,findOne
+270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,96d4c543-9bc0-4d0e-b854-f08ea0f1d643,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,java/lang/Integer.java,intValue
+270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,96d4c543-9bc0-4d0e-b854-f08ea0f1d643,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,java/lang/Integer.java,intValue
+270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,96d4c543-9bc0-4d0e-b854-f08ea0f1d643,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,ffb718fd-4c6d-463b-91bb-06aa5b66a5aa,0e671a79-e9f0-4dba-a273-3acc1064dab8
+270c3b3e-fb78-4c80-b486-a3270f0ad621,354856d8-59ec-47db-8822-4cfb6325b0c2,aa375491-5938-46ad-b57e-49e79d7bbb4f,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,96d4c543-9bc0-4d0e-b854-f08ea0f1d643
+270c3b3e-fb78-4c80-b486-a3270f0ad621,354856d8-59ec-47db-8822-4cfb6325b0c2,5ba12a35-e615-4472-8f2e-87227f3512b7,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,bc99e865-5873-4bf8-aef2-c42336b3dfb1,c81da014-7a49-452b-bf5e-cead50721b9f
+270c3b3e-fb78-4c80-b486-a3270f0ad621,com/github/pires/obdserver/rest/ReadingController.java,<clinit>,->,270c3b3e-fb78-4c80-b486-a3270f0ad621,org/slf4j/LoggerFactory.java,getLogger

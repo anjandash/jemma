@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,c6ebdf45-2301-452a-86e8-ce0d28da1262,31d1f122-3306-4124-84d3-20585009ac9d,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,6a93aa8f-70cf-41bf-8e97-7a7440224ea0,0bbf7a86-5333-414b-b3c0-c483df8a7ee9
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,c6ebdf45-2301-452a-86e8-ce0d28da1262,31d1f122-3306-4124-84d3-20585009ac9d,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,org/junit/Assert.java,assertEquals
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,6a93aa8f-70cf-41bf-8e97-7a7440224ea0,0bbf7a86-5333-414b-b3c0-c483df8a7ee9,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,908493a3-67a5-416b-b0b9-dd129baf7b98,13f75b87-29d1-4de3-b99c-79300b35d147
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,979cded6-4ffb-4a17-9065-388171b39d1f,5da39a37-67bd-470c-b76c-eeaa477f91bf,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,org/springframework/beans/factory/xml/XmlBeanFactory.java,getBean
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,979cded6-4ffb-4a17-9065-388171b39d1f,5da39a37-67bd-470c-b76c-eeaa477f91bf,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,java/lang/Object.java,hashCode
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,447fc9b7-f5d6-461e-a668-7439985afa84,70708e80-fedf-4de5-aa56-4b74160cd494,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,15a63a0e-17be-4ed7-b266-9f248413dc13,5f35ea87-21bf-4c95-abd5-1377f25c95e2
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,447fc9b7-f5d6-461e-a668-7439985afa84,70708e80-fedf-4de5-aa56-4b74160cd494,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,org/junit/Assert.java,assertEquals
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,15a63a0e-17be-4ed7-b266-9f248413dc13,5f35ea87-21bf-4c95-abd5-1377f25c95e2,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,7489e431-dd32-4854-92a5-7a322b24631d,0c25e40c-fc3b-4550-9d12-cb06991f0be5
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,ebffadf1-9425-4c74-b985-e77dd1571b0d,8c1fe59b-4258-4670-92e6-ef8c29053fb8,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,org/springframework/beans/factory/xml/XmlBeanFactory.java,getBean
+16c72deb-ec22-4c08-bb0d-293e31a0ec45,ebffadf1-9425-4c74-b985-e77dd1571b0d,8c1fe59b-4258-4670-92e6-ef8c29053fb8,->,16c72deb-ec22-4c08-bb0d-293e31a0ec45,java/lang/Object.java,hashCode

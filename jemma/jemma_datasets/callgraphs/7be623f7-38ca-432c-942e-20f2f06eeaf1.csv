@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7be623f7-38ca-432c-942e-20f2f06eeaf1,b56c1655-5992-4716-8320-c8f76e330698,8a8fb43d-6b04-4820-b248-34116853acec,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,b56c1655-5992-4716-8320-c8f76e330698,8a8fb43d-6b04-4820-b248-34116853acec,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,0148f7c2-05c2-472a-b02c-52918861c508,c186515b-5367-4875-a17c-9877f8cdcc14,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,0148f7c2-05c2-472a-b02c-52918861c508,c186515b-5367-4875-a17c-9877f8cdcc14,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,0148f7c2-05c2-472a-b02c-52918861c508,c3f2b17d-e70d-4cd2-a532-501acee0c85a,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,f3484d4d-ca28-4b35-a726-416d207c44f1,1620acd5-ad26-40d8-a512-97f1fd939dd9,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,c34b3e2e-2ebd-4649-9483-a84ef64a80ee,8b049930-92a2-4f6a-9db7-2ed3816e5835,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println
+7be623f7-38ca-432c-942e-20f2f06eeaf1,5fd613da-4ba8-4fc1-8003-deb50ebad1b6,719659f0-0188-4096-8cb8-681b0821b683,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,org/slf4j/Logger.java,info
+7be623f7-38ca-432c-942e-20f2f06eeaf1,5fd613da-4ba8-4fc1-8003-deb50ebad1b6,719659f0-0188-4096-8cb8-681b0821b683,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/text/DateFormat.java,getDateTimeInstance
+7be623f7-38ca-432c-942e-20f2f06eeaf1,5fd613da-4ba8-4fc1-8003-deb50ebad1b6,719659f0-0188-4096-8cb8-681b0821b683,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/text/DateFormat.java,format
+7be623f7-38ca-432c-942e-20f2f06eeaf1,5fd613da-4ba8-4fc1-8003-deb50ebad1b6,719659f0-0188-4096-8cb8-681b0821b683,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,org/springframework/ui/Model.java,addAttribute
+7be623f7-38ca-432c-942e-20f2f06eeaf1,com/bit57/ksl/HomeController.java,<clinit>,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,org/slf4j/LoggerFactory.java,getLogger
+7be623f7-38ca-432c-942e-20f2f06eeaf1,66e5f9fe-f6d4-4454-9018-b8e5fef3ba76,002e476e-b1a2-45c6-aea5-7149bfbc6031,->,7be623f7-38ca-432c-942e-20f2f06eeaf1,java/io/PrintStream.java,println

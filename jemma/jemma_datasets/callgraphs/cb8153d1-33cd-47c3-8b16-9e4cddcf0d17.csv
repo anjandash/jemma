@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,058843ee-531c-41f3-9b29-2909ad8b3f0d,600285d7-3894-47c8-941e-ac9ae3dc0555,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/io/PrintStream.java,println
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,058843ee-531c-41f3-9b29-2909ad8b3f0d,600285d7-3894-47c8-941e-ac9ae3dc0555,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/io/PrintStream.java,println
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,058843ee-531c-41f3-9b29-2909ad8b3f0d,600285d7-3894-47c8-941e-ac9ae3dc0555,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/io/PrintStream.java,println
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,7aa37f11-e79a-4003-b327-770e121592f8,32634801-cc9c-475d-9975-09b350734d0f,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/io/PrintStream.java,println
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,7aa37f11-e79a-4003-b327-770e121592f8,55d56717-fce2-4c10-ae94-5d75c001ed63,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/lang/StringBuilder.java,append
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,7aa37f11-e79a-4003-b327-770e121592f8,55d56717-fce2-4c10-ae94-5d75c001ed63,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/lang/StringBuilder.java,append
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,7aa37f11-e79a-4003-b327-770e121592f8,55d56717-fce2-4c10-ae94-5d75c001ed63,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/lang/StringBuilder.java,toString
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,7aa37f11-e79a-4003-b327-770e121592f8,55d56717-fce2-4c10-ae94-5d75c001ed63,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,406e9923-2166-42d1-bfb7-778df380e20b,ada7dadb-69d1-4ae5-9628-1029f16906d2
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,9b0476d3-1fbd-48dd-823b-b0ebd2d16922,c892da49-94be-49a6-897f-257d610f494a,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,java/io/PrintStream.java,println
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,9987ebf2-8e1e-470a-8836-88b1145cbe09,7398647b-415b-4600-9545-fec6556a72d4,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,org/springframework/context/ApplicationContext.java,getBean
+cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,9987ebf2-8e1e-470a-8836-88b1145cbe09,7398647b-415b-4600-9545-fec6556a72d4,->,cb8153d1-33cd-47c3-8b16-9e4cddcf0d17,7aa37f11-e79a-4003-b327-770e121592f8,55d56717-fce2-4c10-ae94-5d75c001ed63

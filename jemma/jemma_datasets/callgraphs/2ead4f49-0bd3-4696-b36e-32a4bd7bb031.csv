@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/FlyWithWings.java,fly,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/FlyNoWay.java,fly,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/FlyRocketPowered.java,fly,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Squeak.java,quack,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/MallardDuck.java,display,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,performFly,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/FlyBehavior.java,fly
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,performQuack,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/QuackBehavior.java,quack
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,swim,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/mDuckSimulator.java,main,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,performQuack
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/mDuckSimulator.java,main,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,performFly
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/mDuckSimulator.java,main,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,performFly
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/mDuckSimulator.java,main,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,setFlyBehavior
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/mDuckSimulator.java,main,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Duck.java,performFly
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/MuteQuack.java,quack,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/Quack.java,quack,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println
+2ead4f49-0bd3-4696-b36e-32a4bd7bb031,ducks/ModelDuck.java,display,->,2ead4f49-0bd3-4696-b36e-32a4bd7bb031,java/io/PrintStream.java,println

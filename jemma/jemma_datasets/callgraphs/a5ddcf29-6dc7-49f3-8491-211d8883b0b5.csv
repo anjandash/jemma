@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,788a990b-41e0-4b26-bd50-62f8efd411e7,319f17b3-e671-41e9-aae9-1dbcf73bd2bb,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,java/util/List.java,clear
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,788a990b-41e0-4b26-bd50-62f8efd411e7,79a54b77-32bd-4362-92dd-64ba703650b2,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,java/util/List.java,add
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,788a990b-41e0-4b26-bd50-62f8efd411e7,3a90bc71-6fb1-4935-9886-fdd82499b7d5,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,java/util/List.java,remove
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,Rank.java,values,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,Rank.java,clone
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,Rank.java,valueOf,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,java/lang/Enum.java,valueOf
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,Suit.java,values,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,Suit.java,clone
+a5ddcf29-6dc7-49f3-8491-211d8883b0b5,Suit.java,valueOf,->,a5ddcf29-6dc7-49f3-8491-211d8883b0b5,java/lang/Enum.java,valueOf

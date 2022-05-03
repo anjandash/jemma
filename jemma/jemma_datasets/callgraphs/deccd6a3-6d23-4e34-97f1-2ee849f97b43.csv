@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/slf4j/LoggerFactory.java,getILoggerFactory
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,ch/qos/logback/core/util/StatusPrinter.java,print
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/slf4j/LoggerFactory.java,getLogger
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/slf4j/Logger.java,debug
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/springframework/util/Assert.java,notNull
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/springframework/util/Assert.java,notNull
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,b395403f-d44c-4c33-b5a1-a9964be27afd,e941ee4a-020d-4ceb-a6bc-828483c7062e,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,b2afe8a0-66ed-4908-be41-6058d775c798,19e814c4-49e8-4b33-8cc7-9265c385e851
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,e19e3439-e293-4458-9f45-7348dec05db1,9b7a94de-5d4e-41f7-85ab-b57b2f68258b,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/slf4j/Logger.java,debug
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,bd9de39a-dc03-440e-9b78-3fc9a2d353b5,e39bb76c-002b-4cec-9429-2cb96fdbe406,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/slf4j/Logger.java,debug
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,bd9de39a-dc03-440e-9b78-3fc9a2d353b5,e39bb76c-002b-4cec-9429-2cb96fdbe406,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,6faf6abb-0622-4fdf-b38d-84333ee88397,7cc2af61-3287-468a-b147-339fc765878f
+deccd6a3-6d23-4e34-97f1-2ee849f97b43,bd9de39a-dc03-440e-9b78-3fc9a2d353b5,cf024fed-2f74-4401-abb7-66884796b501,->,deccd6a3-6d23-4e34-97f1-2ee849f97b43,org/slf4j/Logger.java,debug

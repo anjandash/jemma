@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+837dedf7-3516-4236-81cf-1c52a22a0033,com/consotra/dao/model/client/OperationDAO$OperationType.java,values,->,837dedf7-3516-4236-81cf-1c52a22a0033,com/consotra/dao/model/client/OperationDAO$OperationType.java,clone
+837dedf7-3516-4236-81cf-1c52a22a0033,com/consotra/dao/model/client/OperationDAO$OperationType.java,valueOf,->,837dedf7-3516-4236-81cf-1c52a22a0033,java/lang/Enum.java,valueOf
+837dedf7-3516-4236-81cf-1c52a22a0033,eb7548fc-52c3-416a-879e-893ab63e4833,46b3810d-836b-4a4c-af27-543126a62db8,->,837dedf7-3516-4236-81cf-1c52a22a0033,java/lang/String.java,equals
+837dedf7-3516-4236-81cf-1c52a22a0033,eb7548fc-52c3-416a-879e-893ab63e4833,46b3810d-836b-4a4c-af27-543126a62db8,->,837dedf7-3516-4236-81cf-1c52a22a0033,java/lang/String.java,equals
+837dedf7-3516-4236-81cf-1c52a22a0033,eb7548fc-52c3-416a-879e-893ab63e4833,46b3810d-836b-4a4c-af27-543126a62db8,->,837dedf7-3516-4236-81cf-1c52a22a0033,eb7548fc-52c3-416a-879e-893ab63e4833,46b3810d-836b-4a4c-af27-543126a62db8

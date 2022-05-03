@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0c0dce44-1f7e-4d80-bd71-dc8083a87e49,8a295a86-5c87-4d1e-87bb-bf7d82d29ec4,e7bf5998-233f-4308-baa3-20ad0e60a4fe,->,0c0dce44-1f7e-4d80-bd71-dc8083a87e49,java/awt/EventQueue.java,invokeLater
+0c0dce44-1f7e-4d80-bd71-dc8083a87e49,8a295a86-5c87-4d1e-87bb-bf7d82d29ec4,2bd09edf-2eb1-46f5-95a7-1fbbf670edbf,->,0c0dce44-1f7e-4d80-bd71-dc8083a87e49,javax/swing/JFrame.java,setBounds
+0c0dce44-1f7e-4d80-bd71-dc8083a87e49,8a295a86-5c87-4d1e-87bb-bf7d82d29ec4,2bd09edf-2eb1-46f5-95a7-1fbbf670edbf,->,0c0dce44-1f7e-4d80-bd71-dc8083a87e49,javax/swing/JFrame.java,setDefaultCloseOperation
+0c0dce44-1f7e-4d80-bd71-dc8083a87e49,main/view/mainForm$1.java,run,->,0c0dce44-1f7e-4d80-bd71-dc8083a87e49,main/view/mainForm.java,access$000
+0c0dce44-1f7e-4d80-bd71-dc8083a87e49,main/view/mainForm$1.java,run,->,0c0dce44-1f7e-4d80-bd71-dc8083a87e49,javax/swing/JFrame.java,setVisible
+0c0dce44-1f7e-4d80-bd71-dc8083a87e49,main/view/mainForm$1.java,run,->,0c0dce44-1f7e-4d80-bd71-dc8083a87e49,java/lang/Exception.java,printStackTrace

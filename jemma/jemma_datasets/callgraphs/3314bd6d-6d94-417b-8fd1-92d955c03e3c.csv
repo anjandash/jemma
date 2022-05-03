@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,f5330813-270f-4b94-bbee-72ec329d70d3,eb117c6f-35e7-48b0-954d-8765002a0686,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,org/springframework/boot/SpringApplication.java,run
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,7f18909e-73e0-496a-b4f8-fe1466ede8e2,1dbc9224-da3e-4192-b659-9be281bb77c4,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,org/springframework/boot/builder/SpringApplicationBuilder.java,sources
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,f898ac40-13a6-47fe-af7c-5cecc764a83f,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,org/slf4j/Logger.java,info
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,f898ac40-13a6-47fe-af7c-5cecc764a83f,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/lang/StringBuilder.java,append
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,f898ac40-13a6-47fe-af7c-5cecc764a83f,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/lang/StringBuilder.java,append
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,f898ac40-13a6-47fe-af7c-5cecc764a83f,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/lang/StringBuilder.java,toString
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,f898ac40-13a6-47fe-af7c-5cecc764a83f,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,org/slf4j/Logger.java,warn
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,f898ac40-13a6-47fe-af7c-5cecc764a83f,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/lang/StringBuilder.java,append
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/lang/StringBuilder.java,append
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/lang/StringBuilder.java,toString
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,com/fasterxml/jackson/databind/ObjectMapper.java,writerWithDefaultPrettyPrinter
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,com/fasterxml/jackson/databind/ObjectWriter.java,writeValue
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,6d09d9e3-ef35-42fd-96de-f91a6d1336f0,9a88f187-4e3c-4eaa-a4cc-3c2a669a6f90,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,java/io/IOException.java,printStackTrace
+3314bd6d-6d94-417b-8fd1-92d955c03e3c,hello/HelloController.java,<clinit>,->,3314bd6d-6d94-417b-8fd1-92d955c03e3c,org/slf4j/LoggerFactory.java,getLogger

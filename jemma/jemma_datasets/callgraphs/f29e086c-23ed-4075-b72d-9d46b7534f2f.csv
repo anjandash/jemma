@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f29e086c-23ed-4075-b72d-9d46b7534f2f,ea145fd2-a362-4005-aee8-c806354194b3,3846b01f-698d-4b3d-bfb6-c1ddf5c2e9d8,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,34fdbd56-4521-42c6-a299-7866251d82c7,9ccba068-1f67-4044-9055-a1c59fc8cab6
+f29e086c-23ed-4075-b72d-9d46b7534f2f,399a42ba-0fee-44f2-b0cc-c83b925419e7,94542af6-d865-4213-94dd-e605f5795b8f,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,org/hibernate/SessionFactory.java,getCurrentSession
+f29e086c-23ed-4075-b72d-9d46b7534f2f,399a42ba-0fee-44f2-b0cc-c83b925419e7,94542af6-d865-4213-94dd-e605f5795b8f,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,org/hibernate/Session.java,load
+f29e086c-23ed-4075-b72d-9d46b7534f2f,d59d1082-6c9b-4fba-a069-13cc1f49ff55,17f17d84-5e74-4327-b2e8-907a2b7b5e93,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,767195b1-addf-4618-8891-e28ea3e3b73e,bf23edf0-2d3d-4235-85e7-4b1c84619fb6
+f29e086c-23ed-4075-b72d-9d46b7534f2f,d59d1082-6c9b-4fba-a069-13cc1f49ff55,17f17d84-5e74-4327-b2e8-907a2b7b5e93,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,org/springframework/ui/Model.java,addAttribute
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,java/io/PrintStream.java,println
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,org/springframework/web/servlet/ModelAndView.java,addObject
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,java/util/Map.java,put
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,java/util/Map.java,put
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,java/util/Map.java,put
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,java/util/Map.java,put
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,java/util/Map.java,remove
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,org/springframework/web/servlet/ModelAndView.java,addObject
+f29e086c-23ed-4075-b72d-9d46b7534f2f,64135bdc-0467-46db-b5fb-162f98546093,7e2b3972-8873-4a93-a3a6-83f3e95ae9b0,->,f29e086c-23ed-4075-b72d-9d46b7534f2f,org/springframework/web/servlet/ModelAndView.java,setViewName

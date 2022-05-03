@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5d454dd3-2375-4a0c-aa4d-b23854be935d,3cad9809-a8b8-4370-9f88-c9b1a20de0c2,13f3e6fb-23c1-45ab-a1cc-eebd3891a5e8,->,5d454dd3-2375-4a0c-aa4d-b23854be935d,java/io/PrintStream.java,println

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/handlers/HandlerUtil.java,getActiveWorkbenchWindowChecked
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/IWorkbenchWindow.java,getActivePage
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/IWorkbenchPage.java,getEditorReferences
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,e414abc1-bfc7-4f46-bdcb-73af73a7c543
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/IEditorReference.java,getEditorInput
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/IWorkbenchPage.java,findEditor
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,24b0e9af-5942-4651-aa22-b30c96743632,05d6dbff-afec-42a3-a56d-e57f05b3902b,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/IWorkbenchPage.java,activate
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,980eea9b-eb05-477e-a4b4-29669e6840b4,fdb598c9-050e-4564-a0bc-c48a45a6c189,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,980eea9b-eb05-477e-a4b4-29669e6840b4,05c5682b-56a8-4971-8871-451b45f2eb61
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,328d5c66-d66f-4f5f-a7c7-7656131771a8,355838a2-6be3-48b0-aa2d-ba512ddbba1f,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/plugin/AbstractUIPlugin.java,start
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,328d5c66-d66f-4f5f-a7c7-7656131771a8,355838a2-6be3-48b0-aa2d-ba512ddbba1f,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/dtobin/tabswitching/Activator.java,getLog
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,328d5c66-d66f-4f5f-a7c7-7656131771a8,355838a2-6be3-48b0-aa2d-ba512ddbba1f,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/core/runtime/ILog.java,log
+e8e5696a-18a2-4f60-9d1a-529cfad6b592,328d5c66-d66f-4f5f-a7c7-7656131771a8,6e47bd40-40a4-4da8-892e-ae6a20decffd,->,e8e5696a-18a2-4f60-9d1a-529cfad6b592,org/eclipse/ui/plugin/AbstractUIPlugin.java,stop

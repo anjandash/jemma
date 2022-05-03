@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8956b819-4b82-46a9-ab33-fe2703cadec2,org/myorg/myapps/enums/Gender.java,values,->,8956b819-4b82-46a9-ab33-fe2703cadec2,org/myorg/myapps/enums/Gender.java,clone
+8956b819-4b82-46a9-ab33-fe2703cadec2,org/myorg/myapps/enums/Gender.java,valueOf,->,8956b819-4b82-46a9-ab33-fe2703cadec2,java/lang/Enum.java,valueOf

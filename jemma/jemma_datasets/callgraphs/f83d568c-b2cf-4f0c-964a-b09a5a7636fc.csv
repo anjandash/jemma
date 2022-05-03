@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,suma,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/lang/Number.java,doubleValue
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,main,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/lang/StringBuilder.java,append
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,main,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,suma
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,main,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/lang/StringBuilder.java,append
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,main,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/lang/StringBuilder.java,toString
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,ejemplo1_herencia/PruebaNumeros.java,main,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/io/PrintStream.java,println
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,e51f7104-6b5c-499c-8bb8-2e56b2d98c5c,546ad0f2-d2eb-4b40-b38e-1559c0a029ab,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,7324fc7f-17cf-497e-846c-17b7b8f1dcf4,3eefdcb8-f336-4345-8792-484f2423cd1f
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,e51f7104-6b5c-499c-8bb8-2e56b2d98c5c,546ad0f2-d2eb-4b40-b38e-1559c0a029ab,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/io/PrintStream.java,println
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,e51f7104-6b5c-499c-8bb8-2e56b2d98c5c,546ad0f2-d2eb-4b40-b38e-1559c0a029ab,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,7324fc7f-17cf-497e-846c-17b7b8f1dcf4,3eefdcb8-f336-4345-8792-484f2423cd1f
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,e51f7104-6b5c-499c-8bb8-2e56b2d98c5c,546ad0f2-d2eb-4b40-b38e-1559c0a029ab,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/io/PrintStream.java,println
+f83d568c-b2cf-4f0c-964a-b09a5a7636fc,bc46eaad-a304-43db-a8cb-c4732996e400,5f40e706-1e57-4696-a7d8-d8ed908a60ea,->,f83d568c-b2cf-4f0c-964a-b09a5a7636fc,java/io/PrintStream.java,println

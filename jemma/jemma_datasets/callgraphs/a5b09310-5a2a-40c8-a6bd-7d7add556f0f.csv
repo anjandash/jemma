@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a5b09310-5a2a-40c8-a6bd-7d7add556f0f,org/commonjava/ldoc/model/ParamType.java,values,->,a5b09310-5a2a-40c8-a6bd-7d7add556f0f,org/commonjava/ldoc/model/ParamType.java,clone
+a5b09310-5a2a-40c8-a6bd-7d7add556f0f,org/commonjava/ldoc/model/ParamType.java,valueOf,->,a5b09310-5a2a-40c8-a6bd-7d7add556f0f,java/lang/Enum.java,valueOf
+a5b09310-5a2a-40c8-a6bd-7d7add556f0f,b86c33c2-db9d-4729-b2a9-07925ab094d5,ffcb37bf-456a-45ef-b6bf-917d8c14487d,->,a5b09310-5a2a-40c8-a6bd-7d7add556f0f,org/junit/Assert.java,fail

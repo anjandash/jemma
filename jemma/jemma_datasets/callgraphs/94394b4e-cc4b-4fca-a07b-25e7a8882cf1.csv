@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+94394b4e-cc4b-4fca-a07b-25e7a8882cf1,com/AFeatureThatBreaksTheBuild.java,main,->,94394b4e-cc4b-4fca-a07b-25e7a8882cf1,java/io/PrintStream.java,println
+94394b4e-cc4b-4fca-a07b-25e7a8882cf1,com/AFeatureThatBreaksTheBuild.java,main,->,94394b4e-cc4b-4fca-a07b-25e7a8882cf1,java/io/PrintStream.java,println
+94394b4e-cc4b-4fca-a07b-25e7a8882cf1,com/Trial.java,main,->,94394b4e-cc4b-4fca-a07b-25e7a8882cf1,java/io/PrintStream.java,println
+94394b4e-cc4b-4fca-a07b-25e7a8882cf1,com/Trial.java,main,->,94394b4e-cc4b-4fca-a07b-25e7a8882cf1,java/io/PrintStream.java,println

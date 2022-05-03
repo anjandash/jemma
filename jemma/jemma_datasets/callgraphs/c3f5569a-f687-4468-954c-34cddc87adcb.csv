@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,me/killje/mineopoly/Mineopoly.java,getLogger
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,me/killje/mineopoly/Mineopoly.java,getServer
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,org/bukkit/Server.java,getOnlinePlayers
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,org/bukkit/entity/Player.java,getLocation
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,org/bukkit/Location.java,toString
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,java/util/logging/Logger.java,info
+c3f5569a-f687-4468-954c-34cddc87adcb,6567890f-9982-4977-91d1-eeaa003393c0,0d371535-f65c-4354-9d14-afbbb9b2b6bb,->,c3f5569a-f687-4468-954c-34cddc87adcb,me/killje/mineopoly/Mineopoly.java,getServer
+c3f5569a-f687-4468-954c-34cddc87adcb,823727a6-68b0-411e-9e59-a3ca537dd812,eb15a631-5436-4914-bff7-560313130719,->,c3f5569a-f687-4468-954c-34cddc87adcb,org/bukkit/Location.java,getBlock
+c3f5569a-f687-4468-954c-34cddc87adcb,823727a6-68b0-411e-9e59-a3ca537dd812,eb15a631-5436-4914-bff7-560313130719,->,c3f5569a-f687-4468-954c-34cddc87adcb,org/bukkit/block/Block.java,setType

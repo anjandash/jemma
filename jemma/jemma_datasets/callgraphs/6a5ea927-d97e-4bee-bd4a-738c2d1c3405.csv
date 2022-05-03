@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,89dfd3d7-bd17-4152-a911-df183b9a54d7,129d5802-cfc9-4308-953e-ef9081111af6,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,javax/xml/ws/Service.java,getPort
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,89dfd3d7-bd17-4152-a911-df183b9a54d7,63419a8e-6659-4c7d-a685-cd6a3f6feafc,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,javax/xml/ws/Service.java,getPort
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,de/bitapp/paper/page/PageService.java,<clinit>,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/lang/Class.java,getName
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,de/bitapp/paper/page/PageService.java,<clinit>,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/util/logging/Logger.java,getLogger
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,de/bitapp/paper/page/PageService.java,<clinit>,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/util/logging/Logger.java,log
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,2ce30ad1-d96e-43ff-a7e0-7400928fbd0a,3624692f-3dec-4cf9-ad1f-bc75d9c1741c,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/util/logging/Logger.java,info
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,2ce30ad1-d96e-43ff-a7e0-7400928fbd0a,3624692f-3dec-4cf9-ad1f-bc75d9c1741c,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/io/PrintStream.java,println
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,2ce30ad1-d96e-43ff-a7e0-7400928fbd0a,3624692f-3dec-4cf9-ad1f-bc75d9c1741c,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,6a008dfa-a283-452e-9aab-679a75e7c10e,ac3790f8-91b8-4e64-a3f1-5b76cd1b1fc4
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,2ce30ad1-d96e-43ff-a7e0-7400928fbd0a,3624692f-3dec-4cf9-ad1f-bc75d9c1741c,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,6a008dfa-a283-452e-9aab-679a75e7c10e,08c5a165-da9f-40a9-a79d-290a6818da14
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,2ce30ad1-d96e-43ff-a7e0-7400928fbd0a,3624692f-3dec-4cf9-ad1f-bc75d9c1741c,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/lang/Exception.java,printStackTrace
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,de/bitapp/paper/page/PageServicePortTypeImpl.java,<clinit>,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/lang/Class.java,getName
+6a5ea927-d97e-4bee-bd4a-738c2d1c3405,de/bitapp/paper/page/PageServicePortTypeImpl.java,<clinit>,->,6a5ea927-d97e-4bee-bd4a-738c2d1c3405,java/util/logging/Logger.java,getLogger

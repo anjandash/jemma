@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2742c7b0-e1b9-4669-bd67-c38d8814d552,simulation/world/worldObjects/PlantState.java,values,->,2742c7b0-e1b9-4669-bd67-c38d8814d552,simulation/world/worldObjects/PlantState.java,clone
+2742c7b0-e1b9-4669-bd67-c38d8814d552,simulation/world/worldObjects/PlantState.java,valueOf,->,2742c7b0-e1b9-4669-bd67-c38d8814d552,java/lang/Enum.java,valueOf

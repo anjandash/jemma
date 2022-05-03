@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1c89a481-4c78-423d-a2c6-21a8830b5756,7eb0eafe-c137-4f5e-970a-45197020fec9,ba915975-d323-483d-b17a-5a9140a5138b,->,1c89a481-4c78-423d-a2c6-21a8830b5756,java/io/PrintStream.java,println
+1c89a481-4c78-423d-a2c6-21a8830b5756,kr/co/hapoida/TestFactoryPatternUseSpring.java,test_Factory_Pattern,->,1c89a481-4c78-423d-a2c6-21a8830b5756,8a606f8d-126f-4d32-aef6-8cd4a14b275c,da71383a-8ce3-41da-9ae5-fd6218ae5229
+1c89a481-4c78-423d-a2c6-21a8830b5756,kr/co/hapoida/TestFactoryPatternUseSpring.java,test_Factory_Pattern,->,1c89a481-4c78-423d-a2c6-21a8830b5756,java/io/PrintStream.java,println
+1c89a481-4c78-423d-a2c6-21a8830b5756,kr/co/hapoida/TestFactoryPatternUseSpring.java,test_Factory_Pattern,->,1c89a481-4c78-423d-a2c6-21a8830b5756,b8d11ba8-c01b-4072-9cd9-3b399321804e,dc4939d4-c302-4655-b1a5-b9fdb03fe841
+1c89a481-4c78-423d-a2c6-21a8830b5756,f4c61c9a-4575-42bb-bc77-e70371e97f26,4e9f039f-0875-440c-9856-86bdf986923d,->,1c89a481-4c78-423d-a2c6-21a8830b5756,java/io/PrintStream.java,println
+1c89a481-4c78-423d-a2c6-21a8830b5756,f4c61c9a-4575-42bb-bc77-e70371e97f26,4e9f039f-0875-440c-9856-86bdf986923d,->,1c89a481-4c78-423d-a2c6-21a8830b5756,333754de-5adf-4028-97f5-6d9ad579cbaa,7ec49ad0-375d-472b-bdd0-ef01125293e6
+1c89a481-4c78-423d-a2c6-21a8830b5756,b8d11ba8-c01b-4072-9cd9-3b399321804e,dc4939d4-c302-4655-b1a5-b9fdb03fe841,->,1c89a481-4c78-423d-a2c6-21a8830b5756,646e9164-c817-48cf-a840-3811b0875395,f3a84c7c-8b0b-4ed3-a057-6c339442a0e8
+1c89a481-4c78-423d-a2c6-21a8830b5756,7a9108d8-63c3-4f82-a39c-325db9255abf,a1c4fed8-14d2-4295-9ba1-c5160478ddfa,->,1c89a481-4c78-423d-a2c6-21a8830b5756,org/slf4j/Logger.java,info
+1c89a481-4c78-423d-a2c6-21a8830b5756,7a9108d8-63c3-4f82-a39c-325db9255abf,a1c4fed8-14d2-4295-9ba1-c5160478ddfa,->,1c89a481-4c78-423d-a2c6-21a8830b5756,java/text/DateFormat.java,getDateTimeInstance
+1c89a481-4c78-423d-a2c6-21a8830b5756,7a9108d8-63c3-4f82-a39c-325db9255abf,a1c4fed8-14d2-4295-9ba1-c5160478ddfa,->,1c89a481-4c78-423d-a2c6-21a8830b5756,java/text/DateFormat.java,format
+1c89a481-4c78-423d-a2c6-21a8830b5756,7a9108d8-63c3-4f82-a39c-325db9255abf,a1c4fed8-14d2-4295-9ba1-c5160478ddfa,->,1c89a481-4c78-423d-a2c6-21a8830b5756,org/springframework/ui/Model.java,addAttribute
+1c89a481-4c78-423d-a2c6-21a8830b5756,kr/co/hapoida/HomeController.java,<clinit>,->,1c89a481-4c78-423d-a2c6-21a8830b5756,org/slf4j/LoggerFactory.java,getLogger

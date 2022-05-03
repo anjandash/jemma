@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+09667a5a-b436-4ace-99c9-8348b66c4622,f3a3704f-ceca-4ec9-9819-fb504eaddd56,f9a067b0-74d9-4bf8-a884-461bb2d69c83,->,09667a5a-b436-4ace-99c9-8348b66c4622,javax/xml/ws/Service.java,getPort
+09667a5a-b436-4ace-99c9-8348b66c4622,f3a3704f-ceca-4ec9-9819-fb504eaddd56,562d0e9c-f47f-4277-b298-c049dd8b8976,->,09667a5a-b436-4ace-99c9-8348b66c4622,javax/xml/ws/Service.java,getPort
+09667a5a-b436-4ace-99c9-8348b66c4622,c88d2d52-aaa6-425e-b145-bbc6d3a7808d,97f06fb6-0b6a-40d9-85e5-74013c5aab8a,->,09667a5a-b436-4ace-99c9-8348b66c4622,f3a3704f-ceca-4ec9-9819-fb504eaddd56,f9a067b0-74d9-4bf8-a884-461bb2d69c83
+09667a5a-b436-4ace-99c9-8348b66c4622,c88d2d52-aaa6-425e-b145-bbc6d3a7808d,97f06fb6-0b6a-40d9-85e5-74013c5aab8a,->,09667a5a-b436-4ace-99c9-8348b66c4622,8dc650ea-2f37-4a7e-961c-8ec2b6f16df9,f983e80e-859e-49cc-9e62-3268c2d87ac0
+09667a5a-b436-4ace-99c9-8348b66c4622,c88d2d52-aaa6-425e-b145-bbc6d3a7808d,97f06fb6-0b6a-40d9-85e5-74013c5aab8a,->,09667a5a-b436-4ace-99c9-8348b66c4622,java/io/PrintStream.java,println

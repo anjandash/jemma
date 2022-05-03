@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+be389a2f-bfa8-4124-a735-b3011f238153,353e50c1-5b0a-4729-8a92-510a6e08ceee,7b1640cd-0288-4e72-a3b5-aa4edce0c6e0,->,be389a2f-bfa8-4124-a735-b3011f238153,com/boszdigital/wat/dao/ProjectDAO.java,persist
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,ff59c665-d877-486d-8ed8-1fbc49bc3dee,->,be389a2f-bfa8-4124-a735-b3011f238153,javax/persistence/EntityManager.java,find
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,4463fdd4-abd3-4666-b37e-0e2b87addcdc,->,be389a2f-bfa8-4124-a735-b3011f238153,javax/persistence/EntityManager.java,persist
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,ef63bb22-4288-4dff-932a-013dfff86e19,->,be389a2f-bfa8-4124-a735-b3011f238153,javax/persistence/EntityManager.java,merge
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7104dc85-de7f-41f3-87c9-e40c73aae87a,->,be389a2f-bfa8-4124-a735-b3011f238153,javax/persistence/EntityManager.java,remove
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,java/lang/StringBuilder.java,append
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,java/lang/Class.java,getSimpleName
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,java/lang/StringBuilder.java,append
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,java/lang/StringBuilder.java,append
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,java/lang/StringBuilder.java,toString
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,javax/persistence/EntityManager.java,createQuery
+be389a2f-bfa8-4124-a735-b3011f238153,fc3a98e1-caad-4959-8c7f-d96e233085e0,7d0e36a3-b038-43c3-a16a-620ffe10bc31,->,be389a2f-bfa8-4124-a735-b3011f238153,javax/persistence/Query.java,getResultList

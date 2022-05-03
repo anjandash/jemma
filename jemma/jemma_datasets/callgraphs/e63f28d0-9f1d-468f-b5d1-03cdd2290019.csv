@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/Persistence.java,createEntityManagerFactory
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityManagerFactory.java,createEntityManager
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityManager.java,getTransaction
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityTransaction.java,begin
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,java/lang/Integer.java,valueOf
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityManager.java,find
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,3003331b-9604-46af-a26a-a3703a4db76b,db426b50-633c-48ee-a745-fc0f95abaedf
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,3156da59-ff93-4978-bb16-c87d3713b150,3bf7bf3f-6af0-4301-88f7-abd032ab9b23,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,3003331b-9604-46af-a26a-a3703a4db76b,262e1927-98ae-402a-9282-f922b7e14d83
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,9c5e33d1-717e-42fe-baca-401d483303d2,0de9241c-e780-4559-b247-a0df45c82dbc,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityManagerFactory.java,createEntityManager
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,9c5e33d1-717e-42fe-baca-401d483303d2,0de9241c-e780-4559-b247-a0df45c82dbc,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityManager.java,getTransaction
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,9c5e33d1-717e-42fe-baca-401d483303d2,6c991af9-13cd-4b60-9759-8693ce69ca35,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/EntityManager.java,close
+e63f28d0-9f1d-468f-b5d1-03cdd2290019,dao/AbstractTest.java,<clinit>,->,e63f28d0-9f1d-468f-b5d1-03cdd2290019,javax/persistence/Persistence.java,createEntityManagerFactory

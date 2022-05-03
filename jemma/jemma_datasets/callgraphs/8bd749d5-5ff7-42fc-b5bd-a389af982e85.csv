@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,1d11bce6-a309-46d1-bd39-87ec21b1a586,cd9d594e-e027-494f-a704-c06d1f770eff,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,addElement
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,1d11bce6-a309-46d1-bd39-87ec21b1a586,6c073f38-45fd-467e-b18e-e3d2f5c0d854,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,removeElement
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,fe37a51c-193d-4f1b-a3e8-c31eac1ed38f,a6a890ac-1a3a-4bd0-bfa1-028acfbe86ae,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/lang/Object.java,getClass
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,fe37a51c-193d-4f1b-a3e8-c31eac1ed38f,a6a890ac-1a3a-4bd0-bfa1-028acfbe86ae,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/lang/Object.java,getClass
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,size
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/io/PrintStream.java,println
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,size
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,elementAt
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,2f14f78a-ac76-4f2a-8665-c5e87f269591,9b1fdbbf-80d2-4365-a12b-268ae4d2a256
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,elementAt
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,2f14f78a-ac76-4f2a-8665-c5e87f269591,54e9833e-2297-4000-841c-91afa93a3785
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,755da724-b1d3-48db-933e-d14c077c6fb8,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,addElement
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,693cc54f-540f-4767-ab61-0aa075e3ae8f,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,addElement
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,46745646-9809-484e-a48b-799786d441dd,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/util/Vector.java,removeElement
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,e8c280af-718e-474e-bfef-296d59fd97e1,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/lang/Object.java,getClass
+8bd749d5-5ff7-42fc-b5bd-a389af982e85,4d2138dd-df06-4813-bb55-83b8104cc6bb,e8c280af-718e-474e-bfef-296d59fd97e1,->,8bd749d5-5ff7-42fc-b5bd-a389af982e85,java/lang/Object.java,getClass

@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+76afa1fc-2729-4229-87a4-fa8f14008053,hibernate/db/NewHibernateUtil.java,<clinit>,->,76afa1fc-2729-4229-87a4-fa8f14008053,org/hibernate/cfg/AnnotationConfiguration.java,configure
+76afa1fc-2729-4229-87a4-fa8f14008053,hibernate/db/NewHibernateUtil.java,<clinit>,->,76afa1fc-2729-4229-87a4-fa8f14008053,org/hibernate/cfg/AnnotationConfiguration.java,buildSessionFactory
+76afa1fc-2729-4229-87a4-fa8f14008053,hibernate/db/NewHibernateUtil.java,<clinit>,->,76afa1fc-2729-4229-87a4-fa8f14008053,java/lang/StringBuilder.java,append
+76afa1fc-2729-4229-87a4-fa8f14008053,hibernate/db/NewHibernateUtil.java,<clinit>,->,76afa1fc-2729-4229-87a4-fa8f14008053,java/lang/StringBuilder.java,append
+76afa1fc-2729-4229-87a4-fa8f14008053,hibernate/db/NewHibernateUtil.java,<clinit>,->,76afa1fc-2729-4229-87a4-fa8f14008053,java/lang/StringBuilder.java,toString
+76afa1fc-2729-4229-87a4-fa8f14008053,hibernate/db/NewHibernateUtil.java,<clinit>,->,76afa1fc-2729-4229-87a4-fa8f14008053,java/io/PrintStream.java,println

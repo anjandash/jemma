@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c4984f87-b117-4318-a68b-ceee509ee80b,dec1523c-7332-4216-b387-84da5e72afdc,6820ac51-738e-445e-ae5a-59cb3da675ef,->,c4984f87-b117-4318-a68b-ceee509ee80b,org/springframework/boot/SpringApplication.java,run
+c4984f87-b117-4318-a68b-ceee509ee80b,a0165999-aff5-4f38-aa60-d7ee83054d30,22ce42ab-4e00-4e79-b99d-7a7450bd912c,->,c4984f87-b117-4318-a68b-ceee509ee80b,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+c4984f87-b117-4318-a68b-ceee509ee80b,a0165999-aff5-4f38-aa60-d7ee83054d30,22ce42ab-4e00-4e79-b99d-7a7450bd912c,->,c4984f87-b117-4318-a68b-ceee509ee80b,java/lang/String.java,format

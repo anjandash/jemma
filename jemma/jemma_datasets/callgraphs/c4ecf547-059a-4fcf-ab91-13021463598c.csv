@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,values,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,clone
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,valueOf,->,c4ecf547-059a-4fcf-ab91-13021463598c,java/lang/Enum.java,valueOf
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductFactory$1.java,<clinit>,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,values
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductFactory$1.java,<clinit>,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,ordinal
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductFactory$1.java,<clinit>,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,ordinal
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductFactory$1.java,<clinit>,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,ordinal
+c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductFactory$1.java,<clinit>,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,ordinal
+c4ecf547-059a-4fcf-ab91-13021463598c,ab81ba41-20da-4ed4-ba11-85e120388a00,48d5ffb6-14b0-4cee-8fa6-a83dcc7cd54c,->,c4ecf547-059a-4fcf-ab91-13021463598c,3992e6ed-c297-4e8b-80bd-dc27eef022b3,b1ffde8f-77a1-455f-a17c-035a78fb04a0
+c4ecf547-059a-4fcf-ab91-13021463598c,ab81ba41-20da-4ed4-ba11-85e120388a00,48d5ffb6-14b0-4cee-8fa6-a83dcc7cd54c,->,c4ecf547-059a-4fcf-ab91-13021463598c,2f3c5298-d681-4c67-b0d4-6432aead12f8,6ecb11f6-d1ba-4dc6-b297-2da34f7fd71d
+c4ecf547-059a-4fcf-ab91-13021463598c,ab81ba41-20da-4ed4-ba11-85e120388a00,48d5ffb6-14b0-4cee-8fa6-a83dcc7cd54c,->,c4ecf547-059a-4fcf-ab91-13021463598c,org/junit/Assert.java,assertSame
+c4ecf547-059a-4fcf-ab91-13021463598c,3992e6ed-c297-4e8b-80bd-dc27eef022b3,b1ffde8f-77a1-455f-a17c-035a78fb04a0,->,c4ecf547-059a-4fcf-ab91-13021463598c,com/prithvid/designpatterns/ProductType.java,ordinal

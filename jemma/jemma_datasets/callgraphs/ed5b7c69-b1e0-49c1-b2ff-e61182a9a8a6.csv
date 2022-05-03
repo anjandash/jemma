@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,hr/web/aplikacije/domain/Kolegij.java,setId,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/lang/Integer.java,intValue
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,hr/web/aplikacije/domain/VrstaKolegija.java,values,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,hr/web/aplikacije/domain/VrstaKolegija.java,clone
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,hr/web/aplikacije/domain/VrstaKolegija.java,valueOf,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/lang/Enum.java,valueOf
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,ffbe11a3-4ac7-4623-b213-03010803eeaf,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,org/mockito/Mockito.java,mock
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,ffbe11a3-4ac7-4623-b213-03010803eeaf,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/util/List.java,add
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,dee1cf25-039e-4b93-a65d-3e2983b7e90b,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,org/mockito/Mockito.java,mock
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,dee1cf25-039e-4b93-a65d-3e2983b7e90b,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/util/List.java,add
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,dee1cf25-039e-4b93-a65d-3e2983b7e90b,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,org/mockito/Mockito.java,mock
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,dee1cf25-039e-4b93-a65d-3e2983b7e90b,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/util/List.java,add
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,dee1cf25-039e-4b93-a65d-3e2983b7e90b,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,org/mockito/Mockito.java,mock
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,224ed5f7-ec95-480a-9814-ddd787a4fd36,dee1cf25-039e-4b93-a65d-3e2983b7e90b,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/util/List.java,add
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,hr/web/aplikacije/i18n/SupportedLanguages.java,getLangs,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/util/List.java,add
+ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,hr/web/aplikacije/i18n/SupportedLanguages.java,getLangs,->,ed5b7c69-b1e0-49c1-b2ff-e61182a9a8a6,java/util/List.java,add

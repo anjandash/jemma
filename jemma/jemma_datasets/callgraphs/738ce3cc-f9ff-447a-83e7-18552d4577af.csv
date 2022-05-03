@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,cf09acf0-f998-4845-8f9a-b148917e42c2,->,738ce3cc-f9ff-447a-83e7-18552d4577af,e84373e5-f026-49c5-9431-175e7b6d6a42,1d396ae9-11bf-4265-ad3d-561e51743ef9
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,cf09acf0-f998-4845-8f9a-b148917e42c2,->,738ce3cc-f9ff-447a-83e7-18552d4577af,junit/framework/Assert.java,assertNotNull
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,cf09acf0-f998-4845-8f9a-b148917e42c2,->,738ce3cc-f9ff-447a-83e7-18552d4577af,9396275c-a4e0-4e0e-927b-1889cc530307,96c898d5-c29e-4108-8b68-e4bb39b686df
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,cf09acf0-f998-4845-8f9a-b148917e42c2,->,738ce3cc-f9ff-447a-83e7-18552d4577af,junit/framework/Assert.java,assertEquals
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,cf09acf0-f998-4845-8f9a-b148917e42c2,->,738ce3cc-f9ff-447a-83e7-18552d4577af,9396275c-a4e0-4e0e-927b-1889cc530307,495d069e-1160-44b2-b024-7898e3d9171b
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,cf09acf0-f998-4845-8f9a-b148917e42c2,->,738ce3cc-f9ff-447a-83e7-18552d4577af,junit/framework/Assert.java,assertEquals
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,4c0bd37a-0165-4e8c-a283-d0650c9293bf,->,738ce3cc-f9ff-447a-83e7-18552d4577af,e84373e5-f026-49c5-9431-175e7b6d6a42,1d396ae9-11bf-4265-ad3d-561e51743ef9
+738ce3cc-f9ff-447a-83e7-18552d4577af,0fd5e77c-ad82-4998-967c-227528326605,4c0bd37a-0165-4e8c-a283-d0650c9293bf,->,738ce3cc-f9ff-447a-83e7-18552d4577af,junit/framework/Assert.java,fail
+738ce3cc-f9ff-447a-83e7-18552d4577af,d9b82a21-4124-4110-92f5-1bc382f359b6,9b16c6c1-740e-4e4e-ac30-2f96d4804755,->,738ce3cc-f9ff-447a-83e7-18552d4577af,c3c56319-80a5-4f94-93da-c52218d30231,5986f12b-eef6-4ed4-8a48-dcca138357d1
+738ce3cc-f9ff-447a-83e7-18552d4577af,8663bbe6-9d51-46ae-ab4f-44044b2653e3,95fcc3c8-87cb-4400-ba85-3e80dca46957,->,738ce3cc-f9ff-447a-83e7-18552d4577af,java/lang/Integer.java,valueOf
+738ce3cc-f9ff-447a-83e7-18552d4577af,8663bbe6-9d51-46ae-ab4f-44044b2653e3,95fcc3c8-87cb-4400-ba85-3e80dca46957,->,738ce3cc-f9ff-447a-83e7-18552d4577af,org/springframework/jdbc/core/JdbcTemplate.java,queryForObject
+738ce3cc-f9ff-447a-83e7-18552d4577af,xpadro/spring/rmi/repository/EmployeeRepositoryImpl$EmployeeRowMapper.java,mapRow,->,738ce3cc-f9ff-447a-83e7-18552d4577af,java/sql/ResultSet.java,getInt
+738ce3cc-f9ff-447a-83e7-18552d4577af,xpadro/spring/rmi/repository/EmployeeRepositoryImpl$EmployeeRowMapper.java,mapRow,->,738ce3cc-f9ff-447a-83e7-18552d4577af,9396275c-a4e0-4e0e-927b-1889cc530307,e7ef3530-e1ce-4953-b3c6-0a5ac4181df2
+738ce3cc-f9ff-447a-83e7-18552d4577af,xpadro/spring/rmi/repository/EmployeeRepositoryImpl$EmployeeRowMapper.java,mapRow,->,738ce3cc-f9ff-447a-83e7-18552d4577af,java/sql/ResultSet.java,getString
+738ce3cc-f9ff-447a-83e7-18552d4577af,xpadro/spring/rmi/repository/EmployeeRepositoryImpl$EmployeeRowMapper.java,mapRow,->,738ce3cc-f9ff-447a-83e7-18552d4577af,9396275c-a4e0-4e0e-927b-1889cc530307,b00cff10-2ebd-4f04-82d7-ad2cf8132283
+738ce3cc-f9ff-447a-83e7-18552d4577af,xpadro/spring/rmi/repository/EmployeeRepositoryImpl$EmployeeRowMapper.java,mapRow,->,738ce3cc-f9ff-447a-83e7-18552d4577af,xpadro/spring/rmi/repository/EmployeeRepositoryImpl$EmployeeRowMapper.java,mapRow

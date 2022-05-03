@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e4fca52c-1e1d-450b-859b-b62ce5a79a1a,com/pimposservices/controller/RecipeController$3.java,handle,->,e4fca52c-1e1d-450b-859b-b62ce5a79a1a,c45276e2-b149-475a-9b56-d31f5124f98d,994702c1-8bf0-44a0-82a7-d2f80ba08783
+e4fca52c-1e1d-450b-859b-b62ce5a79a1a,com/pimposservices/controller/RecipeController$2.java,handle,->,e4fca52c-1e1d-450b-859b-b62ce5a79a1a,c45276e2-b149-475a-9b56-d31f5124f98d,f7f48693-a0d9-4acc-8929-cf1258feb152
+e4fca52c-1e1d-450b-859b-b62ce5a79a1a,com/pimposservices/controller/RecipeController$1.java,handle,->,e4fca52c-1e1d-450b-859b-b62ce5a79a1a,c45276e2-b149-475a-9b56-d31f5124f98d,a520f5dc-835a-4aab-b7e2-e0df8b7da2a7
+e4fca52c-1e1d-450b-859b-b62ce5a79a1a,com/pimposservices/controller/RecipeController$4.java,handle,->,e4fca52c-1e1d-450b-859b-b62ce5a79a1a,c45276e2-b149-475a-9b56-d31f5124f98d,92e7f9a5-6bd4-4712-a2da-a08fe87bb9e3

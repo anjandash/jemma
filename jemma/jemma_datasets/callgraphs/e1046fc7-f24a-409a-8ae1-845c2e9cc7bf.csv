@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,87c52d20-89e0-4f02-897d-d3a5cf77afa7,2abb39d0-ea13-4a26-9194-51797ef1c8b5,->,e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,com/xu/addressList/dao/impl/DaoImpl.java,getHibernateTemplate
+e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,87c52d20-89e0-4f02-897d-d3a5cf77afa7,2abb39d0-ea13-4a26-9194-51797ef1c8b5,->,e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,org/springframework/orm/hibernate3/HibernateTemplate.java,save
+e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,b10904d6-4fca-4ce4-a703-9336bc3a2ebe,21fa55ca-0f5e-4dc2-ae2f-cb0992b795c7,->,e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,b58a2680-6c0f-4ee8-b509-ce284bb1bcfd,7fc11848-5665-4d2d-8637-bd1f5c14693f
+e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,05ac4636-e624-4473-acd9-5675376712de,f297d5bf-29fa-474b-8a3f-bf1da27562c8,->,e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,f3fdfb32-3af9-48a7-8f66-d2e98b683db3,87468875-9f46-454e-9dd9-ce090f820236
+e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,05ac4636-e624-4473-acd9-5675376712de,f297d5bf-29fa-474b-8a3f-bf1da27562c8,->,e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,f3fdfb32-3af9-48a7-8f66-d2e98b683db3,577b94f7-7e02-4d63-9193-3b008361c9a6
+e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,05ac4636-e624-4473-acd9-5675376712de,f297d5bf-29fa-474b-8a3f-bf1da27562c8,->,e1046fc7-f24a-409a-8ae1-845c2e9cc7bf,e75a3c03-1b31-4c4e-8bbf-dbaf6c1e958f,ca5412a0-1ce1-4475-a0d3-f143d744b758

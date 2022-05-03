@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fa685a81-3a8f-4c64-8e03-3dd6bb1e377a,90db90ab-9e52-4a59-99ac-b782c49655fc,b7ee7b9f-df20-499d-b10b-774d743fc43d,->,fa685a81-3a8f-4c64-8e03-3dd6bb1e377a,java/util/ArrayList.java,add

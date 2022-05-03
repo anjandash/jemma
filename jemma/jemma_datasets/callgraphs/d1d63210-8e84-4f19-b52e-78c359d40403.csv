@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d1d63210-8e84-4f19-b52e-78c359d40403,d51e6c98-bc9b-4e04-9b06-bb1ff82115a5,0daa14c8-8c28-4f19-944f-a69035098afe,->,d1d63210-8e84-4f19-b52e-78c359d40403,java/util/List.java,get
+d1d63210-8e84-4f19-b52e-78c359d40403,com/sl/fdc/dto/Venue.java,values,->,d1d63210-8e84-4f19-b52e-78c359d40403,com/sl/fdc/dto/Venue.java,clone
+d1d63210-8e84-4f19-b52e-78c359d40403,com/sl/fdc/dto/Venue.java,valueOf,->,d1d63210-8e84-4f19-b52e-78c359d40403,java/lang/Enum.java,valueOf
+d1d63210-8e84-4f19-b52e-78c359d40403,ee207aff-94de-4143-83c8-7957de11e3dc,216500f7-4710-482d-b009-5ab396f5adee,->,d1d63210-8e84-4f19-b52e-78c359d40403,com/sl/fdc/dto/Venue.java,toString
+d1d63210-8e84-4f19-b52e-78c359d40403,ee207aff-94de-4143-83c8-7957de11e3dc,216500f7-4710-482d-b009-5ab396f5adee,->,d1d63210-8e84-4f19-b52e-78c359d40403,java/lang/String.java,toLowerCase

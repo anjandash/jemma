@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,66c11d7c-f1e9-41c8-8570-8ac06c534dc2,149c03a7-e3c2-458f-ab7b-4cc8b92a07ed,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,com/oracle/customer/dao/CustomerDAOImpl.java,getHibernateTemplate
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,66c11d7c-f1e9-41c8-8570-8ac06c534dc2,149c03a7-e3c2-458f-ab7b-4cc8b92a07ed,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,org/springframework/orm/hibernate3/HibernateTemplate.java,save
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,66c11d7c-f1e9-41c8-8570-8ac06c534dc2,40d2aee7-3a75-4763-9553-2371bed80ca1,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,com/oracle/customer/dao/CustomerDAOImpl.java,getHibernateTemplate
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,66c11d7c-f1e9-41c8-8570-8ac06c534dc2,40d2aee7-3a75-4763-9553-2371bed80ca1,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,org/springframework/orm/hibernate3/HibernateTemplate.java,find
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,39113e9c-f0b5-4396-984d-cbf5cdff6cb3,412fecb6-aa24-453c-abcc-4f82ab8ee758,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,9d72eb57-73da-44c1-bff3-a6feb98fc6fd,06228056-91a4-4d1a-94ae-ee924337146c
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,39113e9c-f0b5-4396-984d-cbf5cdff6cb3,24e7c745-142e-4869-b8fd-1765191641c7,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,9d72eb57-73da-44c1-bff3-a6feb98fc6fd,27c7c419-70a9-4fe3-b6ce-8a205c7beec6
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,57f3a911-7e05-47b6-9cb4-c6a560a762e3,049f472b-a9f0-40c7-aa65-cca68196ce2f,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,f84df182-8221-44ef-8097-7f2cb70b8648,74dacc6c-320a-469b-81fd-59f06f3dfb6d
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,57f3a911-7e05-47b6-9cb4-c6a560a762e3,049f472b-a9f0-40c7-aa65-cca68196ce2f,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,af1b42dd-89c7-42d5-bdc2-c9e2ebbee63f,cd9d89fe-85e8-4e73-b84d-5f6f7ef758c8
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,57f3a911-7e05-47b6-9cb4-c6a560a762e3,049f472b-a9f0-40c7-aa65-cca68196ce2f,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,af1b42dd-89c7-42d5-bdc2-c9e2ebbee63f,e6efdd26-690e-44cb-8643-14bf458bb7ed
+05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,57f3a911-7e05-47b6-9cb4-c6a560a762e3,c03439b6-34e3-46cb-ab4a-097c40cf619a,->,05f57a27-a6a7-4b3f-b2b8-b52f869d66ed,af1b42dd-89c7-42d5-bdc2-c9e2ebbee63f,e6efdd26-690e-44cb-8643-14bf458bb7ed

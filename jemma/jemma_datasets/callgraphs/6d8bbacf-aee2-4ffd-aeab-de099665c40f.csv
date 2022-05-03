@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6d8bbacf-aee2-4ffd-aeab-de099665c40f,server/application/ApplicationConfig.java,<clinit>,->,6d8bbacf-aee2-4ffd-aeab-de099665c40f,java/util/Set.java,add

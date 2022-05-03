@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,468fb5cb-3458-43c8-8a92-6ee987c06d70,4b4784d9-9225-404c-8706-7a138963a253,->,10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,java/lang/String.java,equalsIgnoreCase
+10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,5a442a6f-17a8-40f2-9077-96910bacea74,3496cfeb-4fc5-436c-b10c-b8157175a994,->,10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,java/lang/System.java,exit
+10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,com/rogue/permwriter/PermWriter$1.java,run,->,10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,5a442a6f-17a8-40f2-9077-96910bacea74,3f03f1ba-1df3-4596-b2b3-805f8f246b77
+10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,com/rogue/permwriter/PermWriter$1.java,run,->,10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,5e85a103-e4d2-4114-9f4c-98abd86016c4,8fcf5887-febd-463a-ac32-e07f0296a083
+10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,com/rogue/permwriter/PermWriter$1.java,run,->,10b9bd16-5fae-4171-b5c2-de4f1b8a3dfc,com/rogue/permwriter/gui/PWWindow.java,setVisible

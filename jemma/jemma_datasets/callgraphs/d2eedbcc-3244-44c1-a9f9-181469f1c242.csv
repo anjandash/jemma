@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d2eedbcc-3244-44c1-a9f9-181469f1c242,be12de1f-73f7-49b8-b0d4-56d11b0d2d91,a36800b1-b093-4062-b7c8-1d550b0955a9,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/io/PrintStream.java,println
+d2eedbcc-3244-44c1-a9f9-181469f1c242,be12de1f-73f7-49b8-b0d4-56d11b0d2d91,a36800b1-b093-4062-b7c8-1d550b0955a9,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/io/PrintStream.java,println
+d2eedbcc-3244-44c1-a9f9-181469f1c242,729bfae5-4d73-4b29-a79b-3ae0a30db351,0a47e39e-6eac-4897-97b6-6f778e24c6ea,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,hello/maestro/utils/AppTest.java,assertTrue
+d2eedbcc-3244-44c1-a9f9-181469f1c242,5e5b9e04-23a5-483f-ae01-608763772389,91f978c8-14c4-48c4-9683-db0df9093764,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/io/PrintStream.java,println
+d2eedbcc-3244-44c1-a9f9-181469f1c242,5e5b9e04-23a5-483f-ae01-608763772389,91f978c8-14c4-48c4-9683-db0df9093764,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/io/PrintStream.java,println
+d2eedbcc-3244-44c1-a9f9-181469f1c242,5e5b9e04-23a5-483f-ae01-608763772389,91f978c8-14c4-48c4-9683-db0df9093764,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/io/PrintStream.java,println
+d2eedbcc-3244-44c1-a9f9-181469f1c242,d5f8530e-9146-46ae-8471-435c77b86fb4,ab5e3e43-9e5d-4064-a78f-d7365f939bc1,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,com/google/gson/Gson.java,fromJson
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/util/List.java,iterator
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/util/Iterator.java,hasNext
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/util/Iterator.java,next
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/lang/StringBuffer.java,append
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/util/Iterator.java,hasNext
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/lang/StringBuffer.java,append
+d2eedbcc-3244-44c1-a9f9-181469f1c242,93ef7d0e-3630-42be-b00c-670d58cc33bb,2e14f06a-3ff9-4313-b0f6-a351e6ab899a,->,d2eedbcc-3244-44c1-a9f9-181469f1c242,java/lang/StringBuffer.java,toString

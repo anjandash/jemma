@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c9368b19-7f78-491e-8e82-ebee1a9019cc,d4da7749-c546-4f58-a772-37f9c945f873,5fc68cb5-d9ec-4fcd-98b0-4130a7f562ed,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/Logger.java,debug
+c9368b19-7f78-491e-8e82-ebee1a9019cc,d4da7749-c546-4f58-a772-37f9c945f873,c8c81ace-7479-4927-8159-61e87b7319ce,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/Logger.java,debug
+c9368b19-7f78-491e-8e82-ebee1a9019cc,d4da7749-c546-4f58-a772-37f9c945f873,7a6c4bed-9850-4ee0-903f-d564b46d34a9,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/Logger.java,debug
+c9368b19-7f78-491e-8e82-ebee1a9019cc,d4da7749-c546-4f58-a772-37f9c945f873,ec557e26-a524-4121-bfff-9a090a6aab7c,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/Logger.java,debug
+c9368b19-7f78-491e-8e82-ebee1a9019cc,d4da7749-c546-4f58-a772-37f9c945f873,5daa06e9-b9ec-4ee0-9a46-1af13d2e5fc9,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/Logger.java,debug
+c9368b19-7f78-491e-8e82-ebee1a9019cc,d4da7749-c546-4f58-a772-37f9c945f873,ae292df8-de32-49f9-ba96-5945270ddd16,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/Logger.java,debug
+c9368b19-7f78-491e-8e82-ebee1a9019cc,com/camon/restapi/controller/MainController.java,<clinit>,->,c9368b19-7f78-491e-8e82-ebee1a9019cc,org/slf4j/LoggerFactory.java,getLogger

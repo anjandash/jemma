@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4ae97841-9a58-4583-8644-24c98b9899a2,bceab879-5c09-4873-bd5d-3fca7fd5a29b,69e1f7e7-c403-4f37-94cb-12a7edfddda3,->,4ae97841-9a58-4583-8644-24c98b9899a2,org/springframework/context/support/ClassPathXmlApplicationContext.java,start
+4ae97841-9a58-4583-8644-24c98b9899a2,bceab879-5c09-4873-bd5d-3fca7fd5a29b,69e1f7e7-c403-4f37-94cb-12a7edfddda3,->,4ae97841-9a58-4583-8644-24c98b9899a2,org/springframework/context/support/ClassPathXmlApplicationContext.java,getBean
+4ae97841-9a58-4583-8644-24c98b9899a2,bceab879-5c09-4873-bd5d-3fca7fd5a29b,69e1f7e7-c403-4f37-94cb-12a7edfddda3,->,4ae97841-9a58-4583-8644-24c98b9899a2,7888d40d-90c2-4746-b87a-79310657aa67,65a42b53-c3ac-4d1b-97c5-9d6d06e9db95
+4ae97841-9a58-4583-8644-24c98b9899a2,bceab879-5c09-4873-bd5d-3fca7fd5a29b,69e1f7e7-c403-4f37-94cb-12a7edfddda3,->,4ae97841-9a58-4583-8644-24c98b9899a2,java/io/PrintStream.java,println
+4ae97841-9a58-4583-8644-24c98b9899a2,3b38a65f-ccff-454a-a229-2d1dbd7f77fa,e9f63657-64b7-4ffc-971a-235170af71f9,->,4ae97841-9a58-4583-8644-24c98b9899a2,java/lang/StringBuilder.java,append
+4ae97841-9a58-4583-8644-24c98b9899a2,3b38a65f-ccff-454a-a229-2d1dbd7f77fa,e9f63657-64b7-4ffc-971a-235170af71f9,->,4ae97841-9a58-4583-8644-24c98b9899a2,java/lang/StringBuilder.java,append
+4ae97841-9a58-4583-8644-24c98b9899a2,3b38a65f-ccff-454a-a229-2d1dbd7f77fa,e9f63657-64b7-4ffc-971a-235170af71f9,->,4ae97841-9a58-4583-8644-24c98b9899a2,java/lang/StringBuilder.java,toString
+4ae97841-9a58-4583-8644-24c98b9899a2,ba6d9899-c431-450a-b0cc-d8a18ab0d0bb,0ef3025e-8c05-4c90-8931-07353e6974ed,->,4ae97841-9a58-4583-8644-24c98b9899a2,org/springframework/context/support/ClassPathXmlApplicationContext.java,start
+4ae97841-9a58-4583-8644-24c98b9899a2,ba6d9899-c431-450a-b0cc-d8a18ab0d0bb,0ef3025e-8c05-4c90-8931-07353e6974ed,->,4ae97841-9a58-4583-8644-24c98b9899a2,java/io/InputStream.java,read
+4ae97841-9a58-4583-8644-24c98b9899a2,173c8635-aea5-40f3-abc1-fe6e69725dee,c5cf7dc0-76b1-497d-aac5-020d9651a24f,->,4ae97841-9a58-4583-8644-24c98b9899a2,org/common/AppTest.java,assertTrue
+4ae97841-9a58-4583-8644-24c98b9899a2,0c7f43ce-a258-4ca4-b440-ea0af1e2b1f0,10c26665-76cb-4180-9319-30f683590565,->,4ae97841-9a58-4583-8644-24c98b9899a2,java/io/PrintStream.java,println

@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,1562f514-97e3-406f-8be8-0c22fa624a4e,57908e77-4861-4f18-8687-16b771175d1a,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,org/apache/http/client/HttpClient.java,execute
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,1562f514-97e3-406f-8be8-0c22fa624a4e,57908e77-4861-4f18-8687-16b771175d1a,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,org/apache/http/HttpResponse.java,getEntity
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,1562f514-97e3-406f-8be8-0c22fa624a4e,57908e77-4861-4f18-8687-16b771175d1a,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,org/apache/http/HttpEntity.java,getContent
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,1562f514-97e3-406f-8be8-0c22fa624a4e,57908e77-4861-4f18-8687-16b771175d1a,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,java/io/IOException.java,printStackTrace
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,finance/YFP.java,values,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,finance/YFP.java,clone
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,finance/YFP.java,valueOf,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,java/lang/Enum.java,valueOf
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,faaa7bbd-6eda-4e8d-b180-45ebdeab9735,5ce8cfa2-a2a7-40e5-b022-7dc9eb08b223,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,javax/xml/bind/JAXBContext.java,newInstance
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,faaa7bbd-6eda-4e8d-b180-45ebdeab9735,5ce8cfa2-a2a7-40e5-b022-7dc9eb08b223,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,javax/xml/bind/JAXBContext.java,createUnmarshaller
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,faaa7bbd-6eda-4e8d-b180-45ebdeab9735,5ce8cfa2-a2a7-40e5-b022-7dc9eb08b223,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,javax/xml/bind/Unmarshaller.java,unmarshal
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,b7ada548-eb6b-4ca1-9f38-8907841625e6,0dfc9154-1744-43fb-a382-bfeef93fbfe1,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,1562f514-97e3-406f-8be8-0c22fa624a4e,57908e77-4861-4f18-8687-16b771175d1a
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,b7ada548-eb6b-4ca1-9f38-8907841625e6,0dfc9154-1744-43fb-a382-bfeef93fbfe1,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,faaa7bbd-6eda-4e8d-b180-45ebdeab9735,5ce8cfa2-a2a7-40e5-b022-7dc9eb08b223
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,b7ada548-eb6b-4ca1-9f38-8907841625e6,0dfc9154-1744-43fb-a382-bfeef93fbfe1,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,java/io/PrintStream.java,println
+9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,b7ada548-eb6b-4ca1-9f38-8907841625e6,0dfc9154-1744-43fb-a382-bfeef93fbfe1,->,9c4fdbc2-d42e-4e1e-b40c-37cd9d3fde4a,javax/xml/bind/JAXBException.java,printStackTrace

@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+948c2c59-f9dc-439e-a495-f41db66b8b78,11947d5c-13e9-4c18-818d-0077643146c7,eab6a6a1-220f-4828-a667-ef35edc12b12,->,948c2c59-f9dc-439e-a495-f41db66b8b78,05375229-3afb-42c9-965e-e3d6e72cedda,87746aad-6832-4ea0-b550-6edcb7cbd5f1
+948c2c59-f9dc-439e-a495-f41db66b8b78,36e790bf-2703-4d19-84b2-790ef40ba433,2f682a6d-5cfe-4703-b9de-71d6aabc0e8c,->,948c2c59-f9dc-439e-a495-f41db66b8b78,java/lang/Integer.java,valueOf
+948c2c59-f9dc-439e-a495-f41db66b8b78,36e790bf-2703-4d19-84b2-790ef40ba433,2f682a6d-5cfe-4703-b9de-71d6aabc0e8c,->,948c2c59-f9dc-439e-a495-f41db66b8b78,javax/persistence/EntityManager.java,find
+948c2c59-f9dc-439e-a495-f41db66b8b78,e5b069ea-c6da-4559-bc07-db3f6358dfbe,62cd2439-cee2-4a3d-a170-aed80f90e27d,->,948c2c59-f9dc-439e-a495-f41db66b8b78,7f8ab17c-5ffc-450e-a246-53802add1d40,a7a825b4-cbb0-46d9-8dec-2c867ccad19e

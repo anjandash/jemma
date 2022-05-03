@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+73e6e0c2-876b-4152-b682-9e1f78187c85,e91f7a2f-fe9a-4bb4-b997-be514cea2724,d7ad65b1-759f-4273-848a-ad4796ace9f2,->,73e6e0c2-876b-4152-b682-9e1f78187c85,java/util/Map.java,get
+73e6e0c2-876b-4152-b682-9e1f78187c85,e91f7a2f-fe9a-4bb4-b997-be514cea2724,e555f281-c4f1-41d6-8984-01378062d3e3,->,73e6e0c2-876b-4152-b682-9e1f78187c85,java/util/Map.java,put
+73e6e0c2-876b-4152-b682-9e1f78187c85,e91f7a2f-fe9a-4bb4-b997-be514cea2724,d189e35c-17d9-4804-853c-ed17febad04c,->,73e6e0c2-876b-4152-b682-9e1f78187c85,d032d5ae-e55c-45a3-80ef-4c939e86ea9a,8a9d481e-7801-443c-bb11-959aa08fcf6c
+73e6e0c2-876b-4152-b682-9e1f78187c85,e91f7a2f-fe9a-4bb4-b997-be514cea2724,d189e35c-17d9-4804-853c-ed17febad04c,->,73e6e0c2-876b-4152-b682-9e1f78187c85,java/util/Map.java,put
+73e6e0c2-876b-4152-b682-9e1f78187c85,e91f7a2f-fe9a-4bb4-b997-be514cea2724,52a5bc3e-4d6a-45d3-b507-0e93a3a47de3,->,73e6e0c2-876b-4152-b682-9e1f78187c85,d032d5ae-e55c-45a3-80ef-4c939e86ea9a,8a9d481e-7801-443c-bb11-959aa08fcf6c
+73e6e0c2-876b-4152-b682-9e1f78187c85,e91f7a2f-fe9a-4bb4-b997-be514cea2724,52a5bc3e-4d6a-45d3-b507-0e93a3a47de3,->,73e6e0c2-876b-4152-b682-9e1f78187c85,java/util/Map.java,put
+73e6e0c2-876b-4152-b682-9e1f78187c85,org/task/model/EXECUTION_STATUS.java,values,->,73e6e0c2-876b-4152-b682-9e1f78187c85,org/task/model/EXECUTION_STATUS.java,clone
+73e6e0c2-876b-4152-b682-9e1f78187c85,org/task/model/EXECUTION_STATUS.java,valueOf,->,73e6e0c2-876b-4152-b682-9e1f78187c85,java/lang/Enum.java,valueOf

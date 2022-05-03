@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,gitdemo/Gitdemo$1.java,handle,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,java/io/PrintStream.java,println
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,gitdemo/Gitdemo$1.java,handle,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,gitdemo/Gitdemo$1.java,handle
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/scene/control/Button.java,setText
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/scene/control/Button.java,setOnAction
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/scene/layout/StackPane.java,getChildren
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/collections/ObservableList.java,add
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/stage/Stage.java,setTitle
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/stage/Stage.java,setScene
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,776cbeda-1a62-4382-a5a9-59ec401ca9ca,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,javafx/stage/Stage.java,show
+fb3b6c7e-c892-4362-9bf8-831915bde5bf,cd7aef99-d547-46a0-862a-368fb4a65487,6ac482b9-60c0-4b5d-abb9-5af640e93c9b,->,fb3b6c7e-c892-4362-9bf8-831915bde5bf,gitdemo/Gitdemo.java,launch

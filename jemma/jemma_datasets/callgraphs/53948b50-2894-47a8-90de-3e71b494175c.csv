@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+53948b50-2894-47a8-90de-3e71b494175c,1ba25818-f100-43f2-8ba2-cb3337717626,b1ac51ed-f4e8-4d39-aa74-4e4bed0539b2,->,53948b50-2894-47a8-90de-3e71b494175c,com/lantopia/AppTest.java,assertTrue
+53948b50-2894-47a8-90de-3e71b494175c,7ddb902a-6c76-4624-9b12-3ab4f322468c,f478ac8d-b700-490f-aa6a-b9a97790cb3d,->,53948b50-2894-47a8-90de-3e71b494175c,java/io/PrintStream.java,println
+53948b50-2894-47a8-90de-3e71b494175c,50dee759-67b2-4f80-bd37-cb40202797e2,ee9cee9b-dfae-41b1-8c52-b93e68591a7a,->,53948b50-2894-47a8-90de-3e71b494175c,javax/annotation/processing/RoundEnvironment.java,getElementsAnnotatedWith
+53948b50-2894-47a8-90de-3e71b494175c,50dee759-67b2-4f80-bd37-cb40202797e2,ee9cee9b-dfae-41b1-8c52-b93e68591a7a,->,53948b50-2894-47a8-90de-3e71b494175c,java/util/Set.java,iterator
+53948b50-2894-47a8-90de-3e71b494175c,50dee759-67b2-4f80-bd37-cb40202797e2,ee9cee9b-dfae-41b1-8c52-b93e68591a7a,->,53948b50-2894-47a8-90de-3e71b494175c,java/util/Iterator.java,hasNext
+53948b50-2894-47a8-90de-3e71b494175c,50dee759-67b2-4f80-bd37-cb40202797e2,ee9cee9b-dfae-41b1-8c52-b93e68591a7a,->,53948b50-2894-47a8-90de-3e71b494175c,java/util/Iterator.java,next

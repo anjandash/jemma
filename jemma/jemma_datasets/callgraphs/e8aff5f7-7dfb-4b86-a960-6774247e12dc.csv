@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,896912e5-66fe-40c4-98c7-d23a84f6f88a,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,java/util/List.java,add
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,java/util/List.java,size
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,java/util/List.java,iterator
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,java/util/Iterator.java,hasNext
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,java/util/Iterator.java,next
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,com/my/model/entity/order/Order$OrderItem.java,getProduct
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,9eea95e7-8d32-4b1a-8e23-e66c3bcf12c8,0780effb-539a-49ce-bb58-e22169037185
+e8aff5f7-7dfb-4b86-a960-6774247e12dc,beac6fdc-2669-486a-b7eb-b07a54665cd3,0b4751de-d5ec-4e4e-905c-ce73593b2876,->,e8aff5f7-7dfb-4b86-a960-6774247e12dc,com/my/model/entity/order/Order$OrderItem.java,getAmount

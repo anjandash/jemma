@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,e4641f7b-b6ee-4fa7-aa43-fb604e928676,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/StringBuilder.java,append
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,e4641f7b-b6ee-4fa7-aa43-fb604e928676,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/StringBuilder.java,append
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,e4641f7b-b6ee-4fa7-aa43-fb604e928676,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/StringBuilder.java,toString
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/StringBuilder.java,append
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/StringBuilder.java,append
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/StringBuilder.java,toString
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/util/logging/Logger.java,info
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/Double.java,valueOf
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/Double.java,doubleValue
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/Math.java,pow
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,dc728a49-8b0d-4368-8ed6-2ca099841e9d,abdc8530-95a0-4ea1-a607-707c22b0486c,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/String.java,valueOf
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,com/dl2974/soapws/SoapServiceImpl.java,<clinit>,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/lang/Class.java,getName
+c746b7be-7ef4-4cfb-a690-e562dfa0f30c,com/dl2974/soapws/SoapServiceImpl.java,<clinit>,->,c746b7be-7ef4-4cfb-a690-e562dfa0f30c,java/util/logging/Logger.java,getLogger

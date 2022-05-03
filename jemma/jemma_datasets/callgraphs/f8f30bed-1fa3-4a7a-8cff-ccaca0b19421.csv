@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedPerformanceProfile$Path.java,values,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedPerformanceProfile$Path.java,clone
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedPerformanceProfile$Path.java,valueOf,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,java/lang/Enum.java,valueOf
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedPerformanceProfile$Kind.java,values,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedPerformanceProfile$Kind.java,clone
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedPerformanceProfile$Kind.java,valueOf,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,java/lang/Enum.java,valueOf
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedFailureProfile$Transactional.java,values,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedFailureProfile$Transactional.java,clone
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedFailureProfile$Transactional.java,valueOf,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,java/lang/Enum.java,valueOf
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedFailureProfile$Kind.java,values,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedFailureProfile$Kind.java,clone
+f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,com/tguzik/annotations/ExpectedFailureProfile$Kind.java,valueOf,->,f8f30bed-1fa3-4a7a-8cff-ccaca0b19421,java/lang/Enum.java,valueOf

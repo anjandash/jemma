@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ead5b551-5867-4767-88bb-b3fcc1c56277,60a08497-d2bf-4d1c-a96f-32981eb2c95e,7f0be35a-f1ed-4f36-a7e1-2ac86a930bbb,->,ead5b551-5867-4767-88bb-b3fcc1c56277,java/util/concurrent/atomic/AtomicInteger.java,incrementAndGet
+ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,091438f6-9938-42ec-8fed-20b744d64da3,->,ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d
+ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d,->,ead5b551-5867-4767-88bb-b3fcc1c56277,io/dropwizard/setup/Environment.java,jersey
+ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d,->,ead5b551-5867-4767-88bb-b3fcc1c56277,io/dropwizard/jersey/setup/JerseyEnvironment.java,register
+ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d,->,ead5b551-5867-4767-88bb-b3fcc1c56277,io/dropwizard/setup/Environment.java,healthChecks
+ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d,->,ead5b551-5867-4767-88bb-b3fcc1c56277,com/codahale/metrics/health/HealthCheckRegistry.java,register
+ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d,->,ead5b551-5867-4767-88bb-b3fcc1c56277,fb8f60b0-a95b-46bf-8e42-a814c6a1da77,32a28df8-1555-4bb4-b9ae-428d1727c94d
+ead5b551-5867-4767-88bb-b3fcc1c56277,4a1d7a82-eb33-4160-a990-1fe12e0bdfed,b27594e8-17ff-4b71-be64-36a2029f9d28,->,ead5b551-5867-4767-88bb-b3fcc1c56277,com/codahale/metrics/health/HealthCheck$Result.java,healthy

@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ed3e78d2-843a-4377-bec8-b1c28b70ff48,808db734-bc07-48e3-874f-f8505a1877dd,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/myBookShelf/dao/impl/BookDaoImpl.java,getHibernateTemplate
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ed3e78d2-843a-4377-bec8-b1c28b70ff48,808db734-bc07-48e3-874f-f8505a1877dd,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/springframework/orm/hibernate3/HibernateTemplate.java,save
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ed3e78d2-843a-4377-bec8-b1c28b70ff48,da67a1fb-c5ac-4d2d-a4f7-519213b399b4,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/myBookShelf/dao/impl/BookDaoImpl.java,getHibernateTemplate
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ed3e78d2-843a-4377-bec8-b1c28b70ff48,da67a1fb-c5ac-4d2d-a4f7-519213b399b4,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/springframework/orm/hibernate3/HibernateTemplate.java,update
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ed3e78d2-843a-4377-bec8-b1c28b70ff48,2bea8dc9-74f9-4c4c-be8e-a1d1a38d8463,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/myBookShelf/dao/impl/BookDaoImpl.java,getHibernateTemplate
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ed3e78d2-843a-4377-bec8-b1c28b70ff48,2bea8dc9-74f9-4c4c-be8e-a1d1a38d8463,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/springframework/orm/hibernate3/HibernateTemplate.java,delete
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ef1b865c-d81c-4166-b362-7935296a2bfd,a987e4ad-2592-4a99-970e-e3520d04096e,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/springframework/ui/ModelMap.java,addAttribute
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ef1b865c-d81c-4166-b362-7935296a2bfd,0e885be2-ef83-4573-861b-27e5c081ee7e,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,java/lang/StringBuilder.java,append
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ef1b865c-d81c-4166-b362-7935296a2bfd,0e885be2-ef83-4573-861b-27e5c081ee7e,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,java/lang/StringBuilder.java,append
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ef1b865c-d81c-4166-b362-7935296a2bfd,0e885be2-ef83-4573-861b-27e5c081ee7e,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,java/lang/StringBuilder.java,toString
+56873ef0-5a0d-495c-aa18-d82e3cb269e5,ef1b865c-d81c-4166-b362-7935296a2bfd,0e885be2-ef83-4573-861b-27e5c081ee7e,->,56873ef0-5a0d-495c-aa18-d82e3cb269e5,org/springframework/ui/ModelMap.java,addAttribute

@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+dbfe0bc0-3e13-472f-a301-8fde765d4260,cac8dc05-a4d7-4859-809a-50fb2b415ef5,f5e7be72-87f4-4568-8e6d-1dbcd5825a5f,->,dbfe0bc0-3e13-472f-a301-8fde765d4260,java/io/PrintStream.java,println
+dbfe0bc0-3e13-472f-a301-8fde765d4260,f6265046-5a24-4df5-aac6-1f950e140f90,5bec44e6-5c86-45c3-9d02-d7692d898a20,->,dbfe0bc0-3e13-472f-a301-8fde765d4260,java/io/PrintStream.java,println
+dbfe0bc0-3e13-472f-a301-8fde765d4260,com/bfuture/action/ToolAction.java,main,->,dbfe0bc0-3e13-472f-a301-8fde765d4260,java/io/PrintStream.java,println

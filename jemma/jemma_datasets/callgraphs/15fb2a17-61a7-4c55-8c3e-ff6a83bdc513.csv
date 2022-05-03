@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,d81de625-9603-42ec-a6e5-218f86fec8d7,3ed2948f-291c-4cab-b54a-b25d1daf6f3a,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Session.java,beginTransaction
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,d81de625-9603-42ec-a6e5-218f86fec8d7,3ed2948f-291c-4cab-b54a-b25d1daf6f3a,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Session.java,save
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,d81de625-9603-42ec-a6e5-218f86fec8d7,3ed2948f-291c-4cab-b54a-b25d1daf6f3a,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Transaction.java,commit
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,61f9e842-b2e1-45ff-a0cd-f8bd7359613b,13ad2420-2677-4064-a080-4d10d5285b66,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Session.java,beginTransaction
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,61f9e842-b2e1-45ff-a0cd-f8bd7359613b,13ad2420-2677-4064-a080-4d10d5285b66,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Session.java,save
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,61f9e842-b2e1-45ff-a0cd-f8bd7359613b,13ad2420-2677-4064-a080-4d10d5285b66,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Transaction.java,commit
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,61f9e842-b2e1-45ff-a0cd-f8bd7359613b,a98b8aa2-4c1f-458f-bf56-2587d92c7741,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Session.java,createQuery
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,61f9e842-b2e1-45ff-a0cd-f8bd7359613b,a98b8aa2-4c1f-458f-bf56-2587d92c7741,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/Query.java,list
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,294992c2-61e0-4a65-9222-fb4c917061e2,c232f03c-fd05-44b7-9343-0bb8168efc82,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,d81de625-9603-42ec-a6e5-218f86fec8d7,3ed2948f-291c-4cab-b54a-b25d1daf6f3a
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,fff51921-825a-424b-83e5-ae4e9dd7ea86,8e605f0f-85ce-4d35-874b-dce40f273a18,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,61f9e842-b2e1-45ff-a0cd-f8bd7359613b,13ad2420-2677-4064-a080-4d10d5285b66
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,07d5603b-df04-4405-aad9-6fb365b42347,2b1d441d-c26f-430d-8580-78a97ba36ad8,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/cfg/AnnotationConfiguration.java,configure
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,07d5603b-df04-4405-aad9-6fb365b42347,2b1d441d-c26f-430d-8580-78a97ba36ad8,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/cfg/AnnotationConfiguration.java,buildSessionFactory
+15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,07d5603b-df04-4405-aad9-6fb365b42347,2b1d441d-c26f-430d-8580-78a97ba36ad8,->,15fb2a17-61a7-4c55-8c3e-ff6a83bdc513,org/hibernate/SessionFactory.java,openSession

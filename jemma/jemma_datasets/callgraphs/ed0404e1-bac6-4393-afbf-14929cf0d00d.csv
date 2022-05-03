@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ed0404e1-bac6-4393-afbf-14929cf0d00d,Modelo/FormasPagamento$Finalizadoras.java,values,->,ed0404e1-bac6-4393-afbf-14929cf0d00d,Modelo/FormasPagamento$Finalizadoras.java,clone
+ed0404e1-bac6-4393-afbf-14929cf0d00d,Modelo/FormasPagamento$Finalizadoras.java,valueOf,->,ed0404e1-bac6-4393-afbf-14929cf0d00d,java/lang/Enum.java,valueOf
+ed0404e1-bac6-4393-afbf-14929cf0d00d,21a33883-eea4-474e-96fd-ff6a346edc57,bafced65-af8f-4d9f-bbb0-6908cdcd72d7,->,ed0404e1-bac6-4393-afbf-14929cf0d00d,java/sql/DriverManager.java,getConnection
+ed0404e1-bac6-4393-afbf-14929cf0d00d,a5487a5f-fd51-4469-b634-66f9fc6a5138,3df408ea-a42a-43a1-acfe-c26e9ac6f0c9,->,ed0404e1-bac6-4393-afbf-14929cf0d00d,21a33883-eea4-474e-96fd-ff6a346edc57,bafced65-af8f-4d9f-bbb0-6908cdcd72d7
+ed0404e1-bac6-4393-afbf-14929cf0d00d,a5487a5f-fd51-4469-b634-66f9fc6a5138,3df408ea-a42a-43a1-acfe-c26e9ac6f0c9,->,ed0404e1-bac6-4393-afbf-14929cf0d00d,java/sql/SQLException.java,printStackTrace

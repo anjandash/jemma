@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+db5b4b88-7266-44d2-8af1-6dc6c4067b99,da9d1f84-bef6-49fd-920e-16ef72faa9cd,b12d8f96-2666-4099-b9fd-666e25964db2,->,db5b4b88-7266-44d2-8af1-6dc6c4067b99,org/springframework/boot/SpringApplication.java,run

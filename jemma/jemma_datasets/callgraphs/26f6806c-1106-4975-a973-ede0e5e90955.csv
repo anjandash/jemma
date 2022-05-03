@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+26f6806c-1106-4975-a973-ede0e5e90955,e3f2c6c9-4610-417e-8a4f-8be885f53b38,494f6119-5741-4d52-82d4-99836491767e,->,26f6806c-1106-4975-a973-ede0e5e90955,com/robsonp/restjse/AppTest.java,assertTrue
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,org/eclipse/jetty/servlet/ServletContextHandler.java,setContextPath
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,org/eclipse/jetty/servlet/ServletHolder.java,setInitParameter
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,org/eclipse/jetty/servlet/ServletContextHandler.java,addServlet
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,org/eclipse/jetty/server/Server.java,setHandler
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,org/eclipse/jetty/server/Server.java,start
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,org/eclipse/jetty/server/Server.java,join
+26f6806c-1106-4975-a973-ede0e5e90955,87f1d5a6-cbf0-43e7-aa2b-bc0b9d059562,a9cd07a1-a365-4c74-bee9-b724fa3da208,->,26f6806c-1106-4975-a973-ede0e5e90955,java/lang/Exception.java,printStackTrace
+26f6806c-1106-4975-a973-ede0e5e90955,3ea060e7-e88d-44e6-a7e6-b6fb73f4e09f,7946e64e-5a77-43d8-9a7e-aeab32269470,->,26f6806c-1106-4975-a973-ede0e5e90955,c223f85a-59d2-435c-8e3a-40509703dfca,a6e1654a-bfd1-401b-aada-9d21133312cd
+26f6806c-1106-4975-a973-ede0e5e90955,3ea060e7-e88d-44e6-a7e6-b6fb73f4e09f,7946e64e-5a77-43d8-9a7e-aeab32269470,->,26f6806c-1106-4975-a973-ede0e5e90955,java/lang/String.java,toUpperCase
+26f6806c-1106-4975-a973-ede0e5e90955,3ea060e7-e88d-44e6-a7e6-b6fb73f4e09f,7946e64e-5a77-43d8-9a7e-aeab32269470,->,26f6806c-1106-4975-a973-ede0e5e90955,c223f85a-59d2-435c-8e3a-40509703dfca,71891130-fbb9-42d5-83af-1120a8229715
+26f6806c-1106-4975-a973-ede0e5e90955,3ea060e7-e88d-44e6-a7e6-b6fb73f4e09f,7946e64e-5a77-43d8-9a7e-aeab32269470,->,26f6806c-1106-4975-a973-ede0e5e90955,java/lang/String.java,toUpperCase

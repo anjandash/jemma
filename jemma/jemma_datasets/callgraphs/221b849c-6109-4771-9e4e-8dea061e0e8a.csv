@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+221b849c-6109-4771-9e4e-8dea061e0e8a,644d84f4-4f1f-4d43-869f-22f5dd026e1d,73beab20-63f2-47a5-9b85-53bcb7ad8ded,->,221b849c-6109-4771-9e4e-8dea061e0e8a,org/springframework/web/servlet/view/InternalResourceViewResolver.java,setPrefix
+221b849c-6109-4771-9e4e-8dea061e0e8a,644d84f4-4f1f-4d43-869f-22f5dd026e1d,73beab20-63f2-47a5-9b85-53bcb7ad8ded,->,221b849c-6109-4771-9e4e-8dea061e0e8a,org/springframework/web/servlet/view/InternalResourceViewResolver.java,setSuffix
+221b849c-6109-4771-9e4e-8dea061e0e8a,644d84f4-4f1f-4d43-869f-22f5dd026e1d,44ad4062-c1d6-4d5c-a422-d17f93249f68,->,221b849c-6109-4771-9e4e-8dea061e0e8a,org/springframework/web/servlet/config/annotation/ResourceHandlerRegistry.java,addResourceHandler
+221b849c-6109-4771-9e4e-8dea061e0e8a,644d84f4-4f1f-4d43-869f-22f5dd026e1d,44ad4062-c1d6-4d5c-a422-d17f93249f68,->,221b849c-6109-4771-9e4e-8dea061e0e8a,org/springframework/web/servlet/config/annotation/ResourceHandlerRegistration.java,addResourceLocations

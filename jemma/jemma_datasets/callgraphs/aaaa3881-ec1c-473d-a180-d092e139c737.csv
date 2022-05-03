@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,performFly,->,aaaa3881-ec1c-473d-a180-d092e139c737,e9e788e9-c4ba-41ce-9f0c-55fe60d456bb,c240828d-0d0e-4eb1-87af-b641c969b72a
+aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,performQuack,->,aaaa3881-ec1c-473d-a180-d092e139c737,7daa2e49-3deb-488c-943c-b5391c4260e7,74e08ca7-729f-4c05-83a6-eee391010c16
+aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,swim,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,e02ae068-d67a-4629-babd-1be8c4deb659,ee1d8c94-6760-487c-9703-52da98725396,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,959dd4b8-3e22-4a01-9d04-f66847b9e4fe,8a93a46e-924b-4338-8786-5544cf14cfe4,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,053e9b0d-4053-432a-a47a-f57bb2d835e7,7635c977-cf07-4f62-98b2-3261b1bb7f63,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,df49c922-8981-49fe-a3a1-737f5fb49b18,34b0a131-6058-4658-941c-37b3a73d2c9f,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,79ca1b26-eb77-48a0-9bdc-3d048d2fa3f8,8fbe3ad8-6186-4d53-be89-60dda89052ee,->,aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,performQuack
+aaaa3881-ec1c-473d-a180-d092e139c737,79ca1b26-eb77-48a0-9bdc-3d048d2fa3f8,8fbe3ad8-6186-4d53-be89-60dda89052ee,->,aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,performFly
+aaaa3881-ec1c-473d-a180-d092e139c737,79ca1b26-eb77-48a0-9bdc-3d048d2fa3f8,8fbe3ad8-6186-4d53-be89-60dda89052ee,->,aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,performFly
+aaaa3881-ec1c-473d-a180-d092e139c737,79ca1b26-eb77-48a0-9bdc-3d048d2fa3f8,8fbe3ad8-6186-4d53-be89-60dda89052ee,->,aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,setFlyBehavior
+aaaa3881-ec1c-473d-a180-d092e139c737,79ca1b26-eb77-48a0-9bdc-3d048d2fa3f8,8fbe3ad8-6186-4d53-be89-60dda89052ee,->,aaaa3881-ec1c-473d-a180-d092e139c737,Duck.java,performFly
+aaaa3881-ec1c-473d-a180-d092e139c737,420231f0-6ffd-4318-8570-2d946a9e51c5,6278ba43-0cbb-4c1a-90e4-a3da16b66f7f,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,6ca93b22-2133-4871-acf8-b8ceaa304722,04160f8a-cc71-480b-ad2d-61b0d3a3ea44,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,Quack.java,quack,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println
+aaaa3881-ec1c-473d-a180-d092e139c737,4afa1e4c-f6f2-4616-b91e-ea23e32d1dd5,b00f243b-4e23-4175-b838-63ad16b36d57,->,aaaa3881-ec1c-473d-a180-d092e139c737,java/io/PrintStream.java,println

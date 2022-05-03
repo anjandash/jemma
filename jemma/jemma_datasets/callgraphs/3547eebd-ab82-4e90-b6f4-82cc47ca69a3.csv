@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,org/springframework/context/ApplicationContext.java,getBean
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,86ba99d8-e1bb-43c9-9bfb-ae2ef1155fa9,2d53e160-abb1-4d96-b3cf-7ce5b77d3798
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,bab54294-c5c8-4f81-aba3-bcc4da9352a8,7a978f16-826f-4799-adfb-87d5f6e2b106
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,86ba99d8-e1bb-43c9-9bfb-ae2ef1155fa9,2d53e160-abb1-4d96-b3cf-7ce5b77d3798
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,bab54294-c5c8-4f81-aba3-bcc4da9352a8,f152e10a-2f14-423f-aee3-c8cdd79742d8
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/io/PrintStream.java,println
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,cb3d8679-cbe8-4a50-933e-0e5f07d4e9dc,5080931e-2fc6-4587-8a3e-b79dccf5f54f,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/io/PrintStream.java,println
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,f5253622-d5c7-44e7-bd0c-b8dfec5b37bd,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/io/PrintStream.java,println
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,f5253622-d5c7-44e7-bd0c-b8dfec5b37bd,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,org/aspectj/lang/JoinPoint.java,toString
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,f5253622-d5c7-44e7-bd0c-b8dfec5b37bd,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/io/PrintStream.java,println
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,f5253622-d5c7-44e7-bd0c-b8dfec5b37bd,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,org/aspectj/lang/JoinPoint.java,getTarget
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,f5253622-d5c7-44e7-bd0c-b8dfec5b37bd,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/io/PrintStream.java,println
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,a620f548-4fb5-456a-a524-58138eddd82e,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/lang/StringBuilder.java,append
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,a620f548-4fb5-456a-a524-58138eddd82e,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/lang/StringBuilder.java,append
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,a620f548-4fb5-456a-a524-58138eddd82e,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/lang/StringBuilder.java,toString
+3547eebd-ab82-4e90-b6f4-82cc47ca69a3,9d3f5882-9c1a-4363-bf4b-67ac9586e6da,a620f548-4fb5-456a-a524-58138eddd82e,->,3547eebd-ab82-4e90-b6f4-82cc47ca69a3,java/io/PrintStream.java,println

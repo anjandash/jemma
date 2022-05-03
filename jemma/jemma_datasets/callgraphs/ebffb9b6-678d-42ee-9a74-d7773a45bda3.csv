@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,d52b4259-7df6-4453-b74b-eb7c3a0d32a4,b7521394-bd80-46a6-9608-a6af90477e83,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,java/io/PrintStream.java,println
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,javax/faces/context/FacesContext.java,getCurrentInstance
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,javax/faces/context/FacesContext.java,getExternalContext
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,javax/faces/context/ExternalContext.java,getSessionMap
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,java/util/Map.java,get
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,java/lang/String.java,equals
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,javax/faces/context/FacesContext.java,getApplication
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,javax/faces/application/Application.java,getNavigationHandler
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,23555b66-0b44-4824-9b91-7113f4c3dd8b,6d0a963b-ebc8-49b7-a13b-0b5060218bb6,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,javax/faces/application/ConfigurableNavigationHandler.java,performNavigation
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,3a31e5ff-5f0a-451f-b919-f782c442c003,4de152c8-4212-40be-a358-4d75e2944db7,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,java/util/ArrayList.java,add
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,3a31e5ff-5f0a-451f-b919-f782c442c003,4d25c879-bb32-42bc-a93f-4d5d63b17575,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,java/util/ArrayList.java,remove
+ebffb9b6-678d-42ee-9a74-d7773a45bda3,com/hydra/beans/OrderBean.java,<clinit>,->,ebffb9b6-678d-42ee-9a74-d7773a45bda3,java/util/Arrays.java,asList

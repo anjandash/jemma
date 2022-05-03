@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,abb963db-2654-464b-8afe-3ac1021ce40d,9b685030-82c1-4ab8-b4b9-e908188cbd71,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,append
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,abb963db-2654-464b-8afe-3ac1021ce40d,9b685030-82c1-4ab8-b4b9-e908188cbd71,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,append
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,abb963db-2654-464b-8afe-3ac1021ce40d,9b685030-82c1-4ab8-b4b9-e908188cbd71,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,append
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,abb963db-2654-464b-8afe-3ac1021ce40d,9b685030-82c1-4ab8-b4b9-e908188cbd71,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,toString
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,0b965aa1-0dbf-49fa-975f-a5a6ed93fa66,794e0a8f-ed7d-4e46-9935-82e6f7752f06,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,append
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,0b965aa1-0dbf-49fa-975f-a5a6ed93fa66,794e0a8f-ed7d-4e46-9935-82e6f7752f06,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,append
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,0b965aa1-0dbf-49fa-975f-a5a6ed93fa66,794e0a8f-ed7d-4e46-9935-82e6f7752f06,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,append
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,0b965aa1-0dbf-49fa-975f-a5a6ed93fa66,794e0a8f-ed7d-4e46-9935-82e6f7752f06,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/StringBuilder.java,toString
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/bench/Pointcut$Phase.java,values,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/bench/Pointcut$Phase.java,clone
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/bench/Pointcut$Phase.java,valueOf,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/Enum.java,valueOf
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/cache/Cacheable$Adapter.java,onCaching,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/System.java,currentTimeMillis
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/entity/Joint.java,values,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/entity/Joint.java,clone
+4fd911ee-4d19-4d3a-94bc-94d81f196d17,org/canedata/entity/Joint.java,valueOf,->,4fd911ee-4d19-4d3a-94bc-94d81f196d17,java/lang/Enum.java,valueOf

@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d7b2f365-1e1e-4308-a3c2-5430102ad447,123e0945-b212-46e7-94e3-fb6c373a3ca4,836288f6-fd4b-4b58-9630-f3c8611ed641,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,java/lang/Boolean.java,valueOf
+d7b2f365-1e1e-4308-a3c2-5430102ad447,123e0945-b212-46e7-94e3-fb6c373a3ca4,301b988f-1d51-41b1-8821-32356a126af8,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,java/util/ArrayList.java,add
+d7b2f365-1e1e-4308-a3c2-5430102ad447,Piece.java,equals,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,java/lang/Boolean.java,valueOf
+d7b2f365-1e1e-4308-a3c2-5430102ad447,Piece.java,appendBloc,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,a2bba0b2-5f42-4c41-b3cd-b8c445e4111f,bf9c3034-89e2-4bc8-b658-932f38b933b9
+d7b2f365-1e1e-4308-a3c2-5430102ad447,Piece.java,appendBloc,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,java/util/ArrayList.java,add
+d7b2f365-1e1e-4308-a3c2-5430102ad447,fe534e1e-9540-4b2f-9bc9-c0c091355a9f,40e269c5-db02-45de-b8f7-e23111eefc1f,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,95fd4b0a-3472-464e-ae54-112cb803ed7a,def02ad7-a410-421f-a22b-1103f44ced20
+d7b2f365-1e1e-4308-a3c2-5430102ad447,fe534e1e-9540-4b2f-9bc9-c0c091355a9f,40e269c5-db02-45de-b8f7-e23111eefc1f,->,d7b2f365-1e1e-4308-a3c2-5430102ad447,java/util/ArrayList.java,add

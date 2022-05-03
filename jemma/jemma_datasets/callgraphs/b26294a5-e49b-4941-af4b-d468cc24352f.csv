@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b26294a5-e49b-4941-af4b-d468cc24352f,286ffa67-1472-4887-b765-33396af4ab8e,c7f2cd41-eceb-4720-9070-146304b68fa3,->,b26294a5-e49b-4941-af4b-d468cc24352f,java/lang/StringBuilder.java,append
+b26294a5-e49b-4941-af4b-d468cc24352f,286ffa67-1472-4887-b765-33396af4ab8e,c7f2cd41-eceb-4720-9070-146304b68fa3,->,b26294a5-e49b-4941-af4b-d468cc24352f,659c73c2-d3bb-49eb-b03f-c0017ed23a85,1318889a-73ed-4ae5-bcae-66122c38d9ca
+b26294a5-e49b-4941-af4b-d468cc24352f,286ffa67-1472-4887-b765-33396af4ab8e,c7f2cd41-eceb-4720-9070-146304b68fa3,->,b26294a5-e49b-4941-af4b-d468cc24352f,java/lang/StringBuilder.java,append
+b26294a5-e49b-4941-af4b-d468cc24352f,286ffa67-1472-4887-b765-33396af4ab8e,c7f2cd41-eceb-4720-9070-146304b68fa3,->,b26294a5-e49b-4941-af4b-d468cc24352f,java/lang/StringBuilder.java,toString
+b26294a5-e49b-4941-af4b-d468cc24352f,286ffa67-1472-4887-b765-33396af4ab8e,c7f2cd41-eceb-4720-9070-146304b68fa3,->,b26294a5-e49b-4941-af4b-d468cc24352f,java/io/PrintStream.java,println
+b26294a5-e49b-4941-af4b-d468cc24352f,b00c48b6-82b9-4131-82c6-325db7dd59ec,be160d00-ec29-47c8-ad56-99da63ab8036,->,b26294a5-e49b-4941-af4b-d468cc24352f,com/pamarin/osgi/mavenplugin/AppTest.java,assertTrue
+b26294a5-e49b-4941-af4b-d468cc24352f,7290d720-e494-45b2-a73e-2767353c31f0,9b397cff-f50a-43aa-98db-57749c2f5c2c,->,b26294a5-e49b-4941-af4b-d468cc24352f,javax/servlet/http/HttpServletResponse.java,getWriter
+b26294a5-e49b-4941-af4b-d468cc24352f,7290d720-e494-45b2-a73e-2767353c31f0,9b397cff-f50a-43aa-98db-57749c2f5c2c,->,b26294a5-e49b-4941-af4b-d468cc24352f,java/io/PrintWriter.java,print

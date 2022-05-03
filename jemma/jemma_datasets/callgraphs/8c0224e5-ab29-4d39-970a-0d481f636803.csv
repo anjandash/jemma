@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8c0224e5-ab29-4d39-970a-0d481f636803,c339f81e-d13f-41f9-8290-7703f8c89f1d,a9876267-d738-46c2-b45f-d5758a7a7059,->,8c0224e5-ab29-4d39-970a-0d481f636803,3b8e7982-ffc9-40f6-bffe-508ff53c730a,fc4c745a-6460-4f26-9813-d8a9770b8df7
+8c0224e5-ab29-4d39-970a-0d481f636803,8632223e-2479-4daf-a181-e2a4be2f8236,a4a645a0-5f20-4112-9d33-ef395a15a1c4,->,8c0224e5-ab29-4d39-970a-0d481f636803,a9df25ac-85a9-4be8-9db7-79115bf7ee72,2cbf1b48-2e9a-46ac-98f7-8dfc1f0cdafb
+8c0224e5-ab29-4d39-970a-0d481f636803,a668a8e9-1a80-4eb1-9603-d3af655146be,d3af0562-239c-45c4-b553-3e6e299d0065,->,8c0224e5-ab29-4d39-970a-0d481f636803,org/jmock/integration/junit4/JUnitRuleMockery.java,checking
+8c0224e5-ab29-4d39-970a-0d481f636803,a668a8e9-1a80-4eb1-9603-d3af655146be,d3af0562-239c-45c4-b553-3e6e299d0065,->,8c0224e5-ab29-4d39-970a-0d481f636803,16bc40dd-879e-45e2-ab51-69341a5093bf,303a99be-132c-4ecd-a153-2cde9b6776a6
+8c0224e5-ab29-4d39-970a-0d481f636803,a668a8e9-1a80-4eb1-9603-d3af655146be,d3af0562-239c-45c4-b553-3e6e299d0065,->,8c0224e5-ab29-4d39-970a-0d481f636803,java/lang/Integer.java,valueOf
+8c0224e5-ab29-4d39-970a-0d481f636803,a668a8e9-1a80-4eb1-9603-d3af655146be,d3af0562-239c-45c4-b553-3e6e299d0065,->,8c0224e5-ab29-4d39-970a-0d481f636803,java/lang/Integer.java,valueOf
+8c0224e5-ab29-4d39-970a-0d481f636803,a668a8e9-1a80-4eb1-9603-d3af655146be,d3af0562-239c-45c4-b553-3e6e299d0065,->,8c0224e5-ab29-4d39-970a-0d481f636803,org/hamcrest/Matchers.java,equalTo
+8c0224e5-ab29-4d39-970a-0d481f636803,a668a8e9-1a80-4eb1-9603-d3af655146be,d3af0562-239c-45c4-b553-3e6e299d0065,->,8c0224e5-ab29-4d39-970a-0d481f636803,org/hamcrest/MatcherAssert.java,assertThat
+8c0224e5-ab29-4d39-970a-0d481f636803,uk/co/datumedge/springmock/test/MyServiceTest$Config.java,myCollaborator,->,8c0224e5-ab29-4d39-970a-0d481f636803,uk/co/datumedge/springmock/test/MyServiceTest$Config.java,context
+8c0224e5-ab29-4d39-970a-0d481f636803,uk/co/datumedge/springmock/test/MyServiceTest$Config.java,myCollaborator,->,8c0224e5-ab29-4d39-970a-0d481f636803,org/jmock/integration/junit4/JUnitRuleMockery.java,mock

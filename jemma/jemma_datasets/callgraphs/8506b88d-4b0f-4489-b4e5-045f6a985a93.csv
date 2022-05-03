@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8506b88d-4b0f-4489-b4e5-045f6a985a93,98240714-deab-464a-8fea-c55d88aee2c2,720f294d-fcc3-43c4-995d-e073660a96c0,->,8506b88d-4b0f-4489-b4e5-045f6a985a93,vnikku/practise/AppTest.java,assertTrue

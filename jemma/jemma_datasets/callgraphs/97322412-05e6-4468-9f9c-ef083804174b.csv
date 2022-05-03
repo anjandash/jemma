@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+97322412-05e6-4468-9f9c-ef083804174b,95f08d67-5631-4c8f-914d-1d7366ccfd90,7ac380c0-8bbe-441c-98d8-75e4e914044a,->,97322412-05e6-4468-9f9c-ef083804174b,org/slf4j/Logger.java,info
+97322412-05e6-4468-9f9c-ef083804174b,95f08d67-5631-4c8f-914d-1d7366ccfd90,7ac380c0-8bbe-441c-98d8-75e4e914044a,->,97322412-05e6-4468-9f9c-ef083804174b,java/text/DateFormat.java,getDateTimeInstance
+97322412-05e6-4468-9f9c-ef083804174b,95f08d67-5631-4c8f-914d-1d7366ccfd90,7ac380c0-8bbe-441c-98d8-75e4e914044a,->,97322412-05e6-4468-9f9c-ef083804174b,java/text/DateFormat.java,format
+97322412-05e6-4468-9f9c-ef083804174b,95f08d67-5631-4c8f-914d-1d7366ccfd90,7ac380c0-8bbe-441c-98d8-75e4e914044a,->,97322412-05e6-4468-9f9c-ef083804174b,org/springframework/ui/Model.java,addAttribute
+97322412-05e6-4468-9f9c-ef083804174b,com/mycompany/myapp/HomeController.java,<clinit>,->,97322412-05e6-4468-9f9c-ef083804174b,org/slf4j/LoggerFactory.java,getLogger

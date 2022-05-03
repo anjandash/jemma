@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Flicr.java,start,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,javafx/stage/Stage.java,setTitle
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Flicr.java,start,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,javafx/stage/Stage.java,setScene
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Flicr.java,start,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,javafx/stage/Stage.java,show
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Flicr.java,main,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Flicr.java,launch
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/ConfigureButton$1.java,handle,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,java/io/PrintStream.java,println
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/ConfigureButton$1.java,handle,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/ConfigureButton$1.java,handle
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Config.java,Save,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,java/util/prefs/Preferences.java,putInt
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/Config.java,Load,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,java/util/prefs/Preferences.java,getInt
+ea51786e-ed5c-4652-9d75-9e10d71040fc,flicr/FolderScanner.java,FolderScanner,->,ea51786e-ed5c-4652-9d75-9e10d71040fc,java/io/File.java,listFiles

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,9d6eba3a-f2cf-4c9b-9360-ee638118ac42,2699ef04-a80a-4f00-bcec-34fe7320b722,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/io/PrintStream.java,println
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/lang/Class.java,forName
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/lang/Class.java,newInstance
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/sql/DriverManager.java,getConnection
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/io/PrintStream.java,println
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/lang/ClassNotFoundException.java,printStackTrace
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/lang/InstantiationException.java,printStackTrace
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/lang/IllegalAccessException.java,printStackTrace
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,96bb5ee4-0d7f-4ff3-916e-eb1c07eeb5fc,d2e11589-27c2-41c0-b238-d9b2e97453fc,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/sql/SQLException.java,printStackTrace
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,89becf6f-8519-43ac-99e7-66ff7e75f3fe,07092777-9013-469d-9e35-fa7c06ca50be,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/io/PrintStream.java,println
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,9f4bd9e3-08b9-4fde-a549-e86e0b742b48,ded5c60f-dd4d-41d2-b856-552a05ae1c72,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,net/deity/AppTest.java,assertTrue
+424ce739-3ef5-4dfd-8cb2-31f7842203fe,baae6aa9-6bad-4733-9a53-36521a339d3b,494d38c0-2e52-4a86-a869-ab032c19d8c1,->,424ce739-3ef5-4dfd-8cb2-31f7842203fe,java/io/PrintStream.java,println

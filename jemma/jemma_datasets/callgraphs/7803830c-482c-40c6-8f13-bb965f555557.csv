@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7803830c-482c-40c6-8f13-bb965f555557,bc9e90fe-9850-4444-8889-57b45c253c7d,4c613082-403d-4649-87b1-ec2e19eb7d52,->,7803830c-482c-40c6-8f13-bb965f555557,edu/sjsu/cmpe/BookMarkIt/AppTest.java,assertTrue
+7803830c-482c-40c6-8f13-bb965f555557,1ec8e3ba-0db3-4248-8f3b-8143d75eb765,9487abd3-e1aa-497b-b4f7-b96529e00688,->,7803830c-482c-40c6-8f13-bb965f555557,java/io/PrintStream.java,println

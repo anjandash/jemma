@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+54bc9e35-2523-454b-b3d0-3e6f2a190e34,006616b7-8082-43de-821c-e725c817dcfc,2aa31004-3040-4573-8e7c-4d63105ab663,->,54bc9e35-2523-454b-b3d0-3e6f2a190e34,java/io/PrintStream.java,println
+54bc9e35-2523-454b-b3d0-3e6f2a190e34,fe334c43-7f53-429f-8ec0-3682da80443f,3a55614a-8d9f-49a1-b737-a3f62d4be5c2,->,54bc9e35-2523-454b-b3d0-3e6f2a190e34,org/junit/Assert.java,assertTrue
+54bc9e35-2523-454b-b3d0-3e6f2a190e34,0abdf6e2-ea44-4613-9cc8-08cf0641da19,89419471-45f6-41eb-b8f1-cf233a95e2b7,->,54bc9e35-2523-454b-b3d0-3e6f2a190e34,org/junit/Assert.java,assertTrue
+54bc9e35-2523-454b-b3d0-3e6f2a190e34,1fd7a812-389a-4e90-98ef-883c15c213e9,2c906da8-1ef2-4e04-af00-e39b7c85b06e,->,54bc9e35-2523-454b-b3d0-3e6f2a190e34,006616b7-8082-43de-821c-e725c817dcfc,2aa31004-3040-4573-8e7c-4d63105ab663
+54bc9e35-2523-454b-b3d0-3e6f2a190e34,2e87a203-65ca-46ed-93b6-3e2656392184,48b830e7-4448-4e28-a7ed-6e4e4a9cdb78,->,54bc9e35-2523-454b-b3d0-3e6f2a190e34,org/junit/Assert.java,assertTrue

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+de703ed3-3d51-41bb-a439-a9d35175acfb,d767c268-8ec9-4abf-b78a-a99f0fb8b8a4,cb5bb42f-fc29-4dfa-8ec5-fd5586062bc4,->,de703ed3-3d51-41bb-a439-a9d35175acfb,d7999768-d0e5-4a2d-b2f7-b992b09119a2,19f431e2-8d23-44d1-a044-af892b9b7036
+de703ed3-3d51-41bb-a439-a9d35175acfb,d767c268-8ec9-4abf-b78a-a99f0fb8b8a4,cb5bb42f-fc29-4dfa-8ec5-fd5586062bc4,->,de703ed3-3d51-41bb-a439-a9d35175acfb,java/lang/Double.java,valueOf
+de703ed3-3d51-41bb-a439-a9d35175acfb,d767c268-8ec9-4abf-b78a-a99f0fb8b8a4,cb5bb42f-fc29-4dfa-8ec5-fd5586062bc4,->,de703ed3-3d51-41bb-a439-a9d35175acfb,java/io/PrintStream.java,printf
+de703ed3-3d51-41bb-a439-a9d35175acfb,d767c268-8ec9-4abf-b78a-a99f0fb8b8a4,cb5bb42f-fc29-4dfa-8ec5-fd5586062bc4,->,de703ed3-3d51-41bb-a439-a9d35175acfb,java/lang/Double.java,valueOf
+de703ed3-3d51-41bb-a439-a9d35175acfb,d767c268-8ec9-4abf-b78a-a99f0fb8b8a4,cb5bb42f-fc29-4dfa-8ec5-fd5586062bc4,->,de703ed3-3d51-41bb-a439-a9d35175acfb,java/io/PrintStream.java,printf
+de703ed3-3d51-41bb-a439-a9d35175acfb,d7999768-d0e5-4a2d-b2f7-b992b09119a2,19f431e2-8d23-44d1-a044-af892b9b7036,->,de703ed3-3d51-41bb-a439-a9d35175acfb,f34431c7-c3fe-455d-9bec-d2f8d6f5beaf,305a85f2-a5e7-47a1-af6c-6e2f710943b7
+de703ed3-3d51-41bb-a439-a9d35175acfb,ece2581e-cd80-4cfd-9eb8-9c42fe0a5947,6fe68138-66ea-4ba6-a22c-c4ceca819c38,->,de703ed3-3d51-41bb-a439-a9d35175acfb,ece2581e-cd80-4cfd-9eb8-9c42fe0a5947,6e20c65a-5ee7-42e5-b73d-ab283900c356
+de703ed3-3d51-41bb-a439-a9d35175acfb,ece2581e-cd80-4cfd-9eb8-9c42fe0a5947,6e20c65a-5ee7-42e5-b73d-ab283900c356,->,de703ed3-3d51-41bb-a439-a9d35175acfb,cecf6924-bc27-4f03-94c5-18b377146db5,49d5f655-c780-4205-ae0c-eb40c2753c8b
+de703ed3-3d51-41bb-a439-a9d35175acfb,ece2581e-cd80-4cfd-9eb8-9c42fe0a5947,6e20c65a-5ee7-42e5-b73d-ab283900c356,->,de703ed3-3d51-41bb-a439-a9d35175acfb,cecf6924-bc27-4f03-94c5-18b377146db5,00bbc284-15da-417b-a511-b6ef09e65246
+de703ed3-3d51-41bb-a439-a9d35175acfb,ece2581e-cd80-4cfd-9eb8-9c42fe0a5947,6e20c65a-5ee7-42e5-b73d-ab283900c356,->,de703ed3-3d51-41bb-a439-a9d35175acfb,cecf6924-bc27-4f03-94c5-18b377146db5,00bbc284-15da-417b-a511-b6ef09e65246
+de703ed3-3d51-41bb-a439-a9d35175acfb,ece2581e-cd80-4cfd-9eb8-9c42fe0a5947,6e20c65a-5ee7-42e5-b73d-ab283900c356,->,de703ed3-3d51-41bb-a439-a9d35175acfb,java/lang/Math.java,abs
+de703ed3-3d51-41bb-a439-a9d35175acfb,1e5188d1-4f41-4e82-9ddf-100624678bdc,d1ab7776-4f6e-4955-bba0-1c07b5aef7f1,->,de703ed3-3d51-41bb-a439-a9d35175acfb,java/lang/Math.java,pow

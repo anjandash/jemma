@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/Gender.java,values,->,ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/Gender.java,clone
+ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/Gender.java,valueOf,->,ef0eae5e-4d7a-4afd-9408-c620fb26e11f,java/lang/Enum.java,valueOf
+ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/MaritalStatus.java,values,->,ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/MaritalStatus.java,clone
+ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/MaritalStatus.java,valueOf,->,ef0eae5e-4d7a-4afd-9408-c620fb26e11f,java/lang/Enum.java,valueOf
+ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/Status.java,values,->,ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/Status.java,clone
+ef0eae5e-4d7a-4afd-9408-c620fb26e11f,br/com/sistemaRecrutamento/model/person/Status.java,valueOf,->,ef0eae5e-4d7a-4afd-9408-c620fb26e11f,java/lang/Enum.java,valueOf

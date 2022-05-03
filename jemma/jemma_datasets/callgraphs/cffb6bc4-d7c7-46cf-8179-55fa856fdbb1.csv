@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,8e2fb2a6-b551-4c0d-b7ab-80b41b94f9fd,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,9a45d800-d380-4c6e-806b-f20fd994bc51,119895d4-3958-4b64-a8f2-5da418afaa5a
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,db838da2-fb17-4a50-91e3-2949e161c1a6,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/SessionFactory.java,getCurrentSession
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,db838da2-fb17-4a50-91e3-2949e161c1a6,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/Session.java,beginTransaction
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,db838da2-fb17-4a50-91e3-2949e161c1a6,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,48174944-217c-4b6e-ba1a-88a2af28f069,15d5a8c2-f93a-402c-bfc8-8e7410cab283
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,db838da2-fb17-4a50-91e3-2949e161c1a6,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/Session.java,save
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,db838da2-fb17-4a50-91e3-2949e161c1a6,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/Session.java,getTransaction
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,72444efa-f793-4e6d-ae59-f28430b8bab8,db838da2-fb17-4a50-91e3-2949e161c1a6,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/Transaction.java,commit
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,com/jointasks/krain/utils/HibernateUtil.java,<clinit>,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/cfg/Configuration.java,configure
+cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,com/jointasks/krain/utils/HibernateUtil.java,<clinit>,->,cffb6bc4-d7c7-46cf-8179-55fa856fdbb1,org/hibernate/cfg/Configuration.java,buildSessionFactory

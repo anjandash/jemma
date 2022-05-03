@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2084fdfd-4dd2-4579-85e4-a155113a5aa9,f3de64e2-135f-41d7-8eaa-4a772777f92b,f88317e2-a56e-40c2-9cee-4ecc4657e181,->,2084fdfd-4dd2-4579-85e4-a155113a5aa9,org/hibernate/SessionFactory.java,getCurrentSession
+2084fdfd-4dd2-4579-85e4-a155113a5aa9,f3de64e2-135f-41d7-8eaa-4a772777f92b,f88317e2-a56e-40c2-9cee-4ecc4657e181,->,2084fdfd-4dd2-4579-85e4-a155113a5aa9,org/hibernate/classic/Session.java,createQuery
+2084fdfd-4dd2-4579-85e4-a155113a5aa9,f3de64e2-135f-41d7-8eaa-4a772777f92b,f88317e2-a56e-40c2-9cee-4ecc4657e181,->,2084fdfd-4dd2-4579-85e4-a155113a5aa9,org/hibernate/Query.java,list
+2084fdfd-4dd2-4579-85e4-a155113a5aa9,ae62f9d3-aae6-4cba-8eea-603ab33062aa,c6408eda-9a53-4744-89a3-eac69c658c0d,->,2084fdfd-4dd2-4579-85e4-a155113a5aa9,5a94b2f4-419a-4e45-94a9-6c9005534062,7409d3a4-4d85-47d5-a1ce-d65374861b28
+2084fdfd-4dd2-4579-85e4-a155113a5aa9,7ac4223e-06a7-4c97-abf3-a4ce626cf941,0702534a-9d39-4bc8-88a1-86411506e62b,->,2084fdfd-4dd2-4579-85e4-a155113a5aa9,d0ef2493-40e0-419b-9c29-a6cd5e6ebd2c,1715a92a-02cd-419e-ac48-bd5651bf1cbb

@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,processProxyMessage,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Boolean.java,booleanValue
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,processProxyMessage,->,9e87be5a-7145-49fe-8d58-533a63109f90,6e9bcdc1-d8f6-4b5f-b1f1-aca7cca8f702,c72a40e8-b300-42ed-b0ad-2c91c7133bab
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,processProxyMessage,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Exception.java,printStackTrace
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,processHttpMessage,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Boolean.java,booleanValue
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,processHttpMessage,->,9e87be5a-7145-49fe-8d58-533a63109f90,6e9bcdc1-d8f6-4b5f-b1f1-aca7cca8f702,abcd44b5-8799-4ccb-8a8e-990ab6e3c025
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,newScanIssue,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Boolean.java,booleanValue
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,newScanIssue,->,9e87be5a-7145-49fe-8d58-533a63109f90,6e9bcdc1-d8f6-4b5f-b1f1-aca7cca8f702,d0ae969b-a959-4a22-949a-7f62e9010d30
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,setCommandLineArgs,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Boolean.java,booleanValue
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,setCommandLineArgs,->,9e87be5a-7145-49fe-8d58-533a63109f90,6e9bcdc1-d8f6-4b5f-b1f1-aca7cca8f702,b1d254c1-dcd5-4767-9b93-84a2ba0c4312
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,applicationClosing,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Boolean.java,booleanValue
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,applicationClosing,->,9e87be5a-7145-49fe-8d58-533a63109f90,6e9bcdc1-d8f6-4b5f-b1f1-aca7cca8f702,aaa00321-0680-40ab-8e3d-3d7058924cd7
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,registerExtenderCallbacks,->,9e87be5a-7145-49fe-8d58-533a63109f90,java/lang/Boolean.java,booleanValue
+9e87be5a-7145-49fe-8d58-533a63109f90,BurpExtender.java,registerExtenderCallbacks,->,9e87be5a-7145-49fe-8d58-533a63109f90,6e9bcdc1-d8f6-4b5f-b1f1-aca7cca8f702,d3256060-eb28-4e8f-8bc0-6170a525dbd7

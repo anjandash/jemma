@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,8ab88e5d-daa2-476a-b0d6-a80e1220990b,42020864-0d3e-4b7e-86f5-722de51968c3,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/Calendar.java,getInstance
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,8ab88e5d-daa2-476a-b0d6-a80e1220990b,42020864-0d3e-4b7e-86f5-722de51968c3,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/Calendar.java,getTime
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,8ab88e5d-daa2-476a-b0d6-a80e1220990b,42020864-0d3e-4b7e-86f5-722de51968c3,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/text/SimpleDateFormat.java,format
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,18737ae6-df79-4792-b48a-7dc09a6c627e,10abc5dd-fce7-46ac-b527-9eb93c83110c,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/lang/management/ManagementFactory.java,getRuntimeMXBean
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,18737ae6-df79-4792-b48a-7dc09a6c627e,10abc5dd-fce7-46ac-b527-9eb93c83110c,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/lang/management/RuntimeMXBean.java,getName
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,18737ae6-df79-4792-b48a-7dc09a6c627e,10abc5dd-fce7-46ac-b527-9eb93c83110c,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/StringTokenizer.java,nextToken
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,b50011eb-2e2a-4674-9de9-45113de96fff,9c3a664c-d199-4a86-bf9e-d864af75922a,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/ArrayList.java,add
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,b50011eb-2e2a-4674-9de9-45113de96fff,19465bf3-1143-47ac-952e-00b82cc82584,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/ArrayList.java,iterator
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,b50011eb-2e2a-4674-9de9-45113de96fff,19465bf3-1143-47ac-952e-00b82cc82584,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/Iterator.java,hasNext
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,b50011eb-2e2a-4674-9de9-45113de96fff,19465bf3-1143-47ac-952e-00b82cc82584,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,java/util/Iterator.java,next
+96862c6d-5cda-4ce8-815c-b2c01e881e9a,b50011eb-2e2a-4674-9de9-45113de96fff,19465bf3-1143-47ac-952e-00b82cc82584,->,96862c6d-5cda-4ce8-815c-b2c01e881e9a,13ab2966-f548-4e9c-8180-f207b520c519,0942668e-e189-4cbe-b4f2-05e6aa17d670

@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9d59c44b-98ab-4379-bc59-67c9ce73b349,b0ecc5cd-ee45-40cd-a892-3c22136d0dca,9aa6aad8-a670-4a03-ac9e-e5f297987058,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/util/List.java,add
+9d59c44b-98ab-4379-bc59-67c9ce73b349,16d644b9-ed49-4411-9920-e3b06a1fc728,7e745775-5151-4896-a345-2c0611abbcb1,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/util/List.java,iterator
+9d59c44b-98ab-4379-bc59-67c9ce73b349,16d644b9-ed49-4411-9920-e3b06a1fc728,7e745775-5151-4896-a345-2c0611abbcb1,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/util/Iterator.java,hasNext
+9d59c44b-98ab-4379-bc59-67c9ce73b349,16d644b9-ed49-4411-9920-e3b06a1fc728,7e745775-5151-4896-a345-2c0611abbcb1,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/util/Iterator.java,next
+9d59c44b-98ab-4379-bc59-67c9ce73b349,16d644b9-ed49-4411-9920-e3b06a1fc728,7e745775-5151-4896-a345-2c0611abbcb1,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/lang/Object.java,toString
+9d59c44b-98ab-4379-bc59-67c9ce73b349,16d644b9-ed49-4411-9920-e3b06a1fc728,7e745775-5151-4896-a345-2c0611abbcb1,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/io/PrintStream.java,println
+9d59c44b-98ab-4379-bc59-67c9ce73b349,70fa5cf4-f349-4799-8a63-87e4108a2f56,e78f9b8c-5fb1-411e-b34f-89f668c7c25b,->,9d59c44b-98ab-4379-bc59-67c9ce73b349,java/util/List.java,add

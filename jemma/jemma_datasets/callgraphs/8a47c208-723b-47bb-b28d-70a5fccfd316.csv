@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8a47c208-723b-47bb-b28d-70a5fccfd316,40182edd-9e71-4afb-9a3f-80e2d806e6ee,bf67d75f-a780-44c3-be8f-fbead6395d46,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/springframework/context/ApplicationContext.java,getBean
+8a47c208-723b-47bb-b28d-70a5fccfd316,40182edd-9e71-4afb-9a3f-80e2d806e6ee,bf67d75f-a780-44c3-be8f-fbead6395d46,->,8a47c208-723b-47bb-b28d-70a5fccfd316,java/io/PrintStream.java,println
+8a47c208-723b-47bb-b28d-70a5fccfd316,40182edd-9e71-4afb-9a3f-80e2d806e6ee,bf67d75f-a780-44c3-be8f-fbead6395d46,->,8a47c208-723b-47bb-b28d-70a5fccfd316,java/util/Scanner.java,next
+8a47c208-723b-47bb-b28d-70a5fccfd316,40182edd-9e71-4afb-9a3f-80e2d806e6ee,bf67d75f-a780-44c3-be8f-fbead6395d46,->,8a47c208-723b-47bb-b28d-70a5fccfd316,java/lang/String.java,equals
+8a47c208-723b-47bb-b28d-70a5fccfd316,40182edd-9e71-4afb-9a3f-80e2d806e6ee,bf67d75f-a780-44c3-be8f-fbead6395d46,->,8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,3289af41-fd0e-4d43-8722-2c40e529b391
+8a47c208-723b-47bb-b28d-70a5fccfd316,39b9ee8e-edd3-42b6-87d3-17ba445d971f,b7ac5630-f6f7-44fa-8f8c-53283e479d39,->,8a47c208-723b-47bb-b28d-70a5fccfd316,java/io/PrintStream.java,println
+8a47c208-723b-47bb-b28d-70a5fccfd316,f126660f-4632-429f-8677-69bafb548d57,aab08184-8c46-427b-b34b-b33179c5c9b6,->,8a47c208-723b-47bb-b28d-70a5fccfd316,iaf_quartz/quartzjar/AppTest.java,assertTrue
+8a47c208-723b-47bb-b28d-70a5fccfd316,9d2618aa-6790-4708-a108-41caf8b00290,71c133c4-bea3-4bca-86da-09621ec8e010,->,8a47c208-723b-47bb-b28d-70a5fccfd316,java/io/PrintStream.java,println
+8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,ce3b8ed2-0c04-4a3d-a686-c43e8b57635a,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/quartz/Scheduler.java,isShutdown
+8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,ce3b8ed2-0c04-4a3d-a686-c43e8b57635a,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/springframework/context/ApplicationContext.java,getBean
+8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,ce3b8ed2-0c04-4a3d-a686-c43e8b57635a,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/quartz/Scheduler.java,start
+8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,ce3b8ed2-0c04-4a3d-a686-c43e8b57635a,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/quartz/SchedulerException.java,printStackTrace
+8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,3289af41-fd0e-4d43-8722-2c40e529b391,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/quartz/Scheduler.java,shutdown
+8a47c208-723b-47bb-b28d-70a5fccfd316,0a293574-8838-4fa4-bc1c-f6ec551471c3,3289af41-fd0e-4d43-8722-2c40e529b391,->,8a47c208-723b-47bb-b28d-70a5fccfd316,org/quartz/SchedulerException.java,printStackTrace

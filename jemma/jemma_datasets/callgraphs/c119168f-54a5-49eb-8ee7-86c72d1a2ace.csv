@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c119168f-54a5-49eb-8ee7-86c72d1a2ace,59b20844-ee1b-4293-abf2-b6debb68a3d0,1f9c4171-caf5-430f-9f88-6c320cadc6d9,->,c119168f-54a5-49eb-8ee7-86c72d1a2ace,cpw/mods/fml/common/event/FMLPreInitializationEvent.java,getModConfigurationDirectory
+c119168f-54a5-49eb-8ee7-86c72d1a2ace,59b20844-ee1b-4293-abf2-b6debb68a3d0,1f9c4171-caf5-430f-9f88-6c320cadc6d9,->,c119168f-54a5-49eb-8ee7-86c72d1a2ace,59b20844-ee1b-4293-abf2-b6debb68a3d0,ff4d305b-8bb9-45d1-87c1-c0d8578fbaff
+c119168f-54a5-49eb-8ee7-86c72d1a2ace,59b20844-ee1b-4293-abf2-b6debb68a3d0,ff4d305b-8bb9-45d1-87c1-c0d8578fbaff,->,c119168f-54a5-49eb-8ee7-86c72d1a2ace,net/minecraftforge/common/Configuration.java,load
+c119168f-54a5-49eb-8ee7-86c72d1a2ace,59b20844-ee1b-4293-abf2-b6debb68a3d0,ff4d305b-8bb9-45d1-87c1-c0d8578fbaff,->,c119168f-54a5-49eb-8ee7-86c72d1a2ace,net/minecraftforge/common/Configuration.java,save

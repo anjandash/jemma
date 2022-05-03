@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,75dbef57-bf75-4e4d-aaed-3ba9dc0fd152,->,056c287b-38d5-468e-8a46-a52ba83deb2e,java/util/HashMap.java,put
+056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,f6fe8275-214b-4b4a-a0f2-d23a943887a4,->,056c287b-38d5-468e-8a46-a52ba83deb2e,java/util/HashMap.java,containsKey
+056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,f6fe8275-214b-4b4a-a0f2-d23a943887a4,->,056c287b-38d5-468e-8a46-a52ba83deb2e,java/util/HashMap.java,get
+056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,f6fe8275-214b-4b4a-a0f2-d23a943887a4,->,056c287b-38d5-468e-8a46-a52ba83deb2e,java/lang/StringBuilder.java,append
+056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,f6fe8275-214b-4b4a-a0f2-d23a943887a4,->,056c287b-38d5-468e-8a46-a52ba83deb2e,java/lang/StringBuilder.java,append
+056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,f6fe8275-214b-4b4a-a0f2-d23a943887a4,->,056c287b-38d5-468e-8a46-a52ba83deb2e,java/lang/StringBuilder.java,toString
+056c287b-38d5-468e-8a46-a52ba83deb2e,b61cafe0-835b-498d-abff-ef53d274e59e,bb872106-38cf-4129-a90a-79a2972570c2,->,056c287b-38d5-468e-8a46-a52ba83deb2e,9627bce4-35dc-4617-b1dc-754b8ea1cbbc,a27e7bba-4780-4422-9749-48d5917dc597
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,cc2e1283-8b3a-400f-a6e4-2d00dfb650ed,->,056c287b-38d5-468e-8a46-a52ba83deb2e,b61cafe0-835b-498d-abff-ef53d274e59e,e6be80d4-25bf-4d0f-ad9b-520768e5b66f
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,cc2e1283-8b3a-400f-a6e4-2d00dfb650ed,->,056c287b-38d5-468e-8a46-a52ba83deb2e,7b71e7eb-b519-452c-8ef2-d351f1157c9d,59a03ef2-ed5e-40f7-ab73-f5b0d337498c
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,cc2e1283-8b3a-400f-a6e4-2d00dfb650ed,->,056c287b-38d5-468e-8a46-a52ba83deb2e,b61cafe0-835b-498d-abff-ef53d274e59e,e6be80d4-25bf-4d0f-ad9b-520768e5b66f
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,cc2e1283-8b3a-400f-a6e4-2d00dfb650ed,->,056c287b-38d5-468e-8a46-a52ba83deb2e,7b71e7eb-b519-452c-8ef2-d351f1157c9d,59a03ef2-ed5e-40f7-ab73-f5b0d337498c
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,cc2e1283-8b3a-400f-a6e4-2d00dfb650ed,->,056c287b-38d5-468e-8a46-a52ba83deb2e,junit/framework/Assert.java,assertEquals
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,da7bd645-a790-4cda-ad1d-f44191297ef9,->,056c287b-38d5-468e-8a46-a52ba83deb2e,da1ba158-c8ed-4860-b7d2-a2f6082907d9,f123ac06-a3db-4ef1-a753-1bfec2ba3d7a
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,da7bd645-a790-4cda-ad1d-f44191297ef9,->,056c287b-38d5-468e-8a46-a52ba83deb2e,da1ba158-c8ed-4860-b7d2-a2f6082907d9,334bc749-9417-4dfa-a1ae-39fb0bc2f798
+056c287b-38d5-468e-8a46-a52ba83deb2e,8356ed66-379c-49a2-a00e-0fbe63cef0b8,da7bd645-a790-4cda-ad1d-f44191297ef9,->,056c287b-38d5-468e-8a46-a52ba83deb2e,junit/framework/Assert.java,assertEquals

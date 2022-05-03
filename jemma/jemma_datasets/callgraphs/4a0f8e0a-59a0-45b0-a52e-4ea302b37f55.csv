@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,1e20cece-f13d-4cef-a7cd-19438718c9e6,abdf8855-9b2b-4c89-8838-7507d40e9a49,->,4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,br/com/swmvservicos/biblioteca/bibliotecaentity/AppTest.java,assertTrue
+4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,br/com/swmvservicos/biblioteca/bibliotecaentity/App.java,main,->,4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,java/io/PrintStream.java,println
+4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,d39dc0ef-23ed-432d-8d79-af52412e0dc7,3529634f-4baf-4217-9913-aa434b24ea02,->,4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,br/com/swmvservicos/biblioteca/bibliotecabean/AppTest.java,assertTrue
+4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,97d537bd-ab7b-4e93-ac00-c8fbebb3a82e,79140e6d-7320-4e07-8857-d634d6297bc8,->,4a0f8e0a-59a0-45b0-a52e-4ea302b37f55,br/com/swmvservicos/biblioteca/bibliotecainterface/AppTest.java,assertTrue

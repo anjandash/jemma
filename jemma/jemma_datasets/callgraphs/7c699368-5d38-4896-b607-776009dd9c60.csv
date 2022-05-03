@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7c699368-5d38-4896-b607-776009dd9c60,93dac95f-eb7d-4e56-a9ce-0e9cbf92fb2a,048c7c76-348a-41f2-9ca5-fa1283b49c95,->,7c699368-5d38-4896-b607-776009dd9c60,net/jcip/annotations/AppTest.java,assertTrue

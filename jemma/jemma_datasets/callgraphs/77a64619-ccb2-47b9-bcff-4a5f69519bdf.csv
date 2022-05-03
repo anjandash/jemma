@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+77a64619-ccb2-47b9-bcff-4a5f69519bdf,bab84e01-7047-4549-a3e2-a949e3f4933a,82eea59d-a927-4d9a-9a52-0fdfe436e999,->,77a64619-ccb2-47b9-bcff-4a5f69519bdf,388a34f3-9a8a-459c-9660-deae341f5409,cff6eb4f-6ce1-4491-a597-f72437034690

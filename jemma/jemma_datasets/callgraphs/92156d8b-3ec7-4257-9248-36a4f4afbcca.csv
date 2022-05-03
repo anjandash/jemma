@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+92156d8b-3ec7-4257-9248-36a4f4afbcca,blove/blockstorage/api/BlockStorageEvent$Type.java,values,->,92156d8b-3ec7-4257-9248-36a4f4afbcca,blove/blockstorage/api/BlockStorageEvent$Type.java,clone
+92156d8b-3ec7-4257-9248-36a4f4afbcca,blove/blockstorage/api/BlockStorageEvent$Type.java,valueOf,->,92156d8b-3ec7-4257-9248-36a4f4afbcca,java/lang/Enum.java,valueOf

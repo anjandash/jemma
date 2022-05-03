@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,java/lang/StringBuilder.java,append
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,e19bacc4-3d33-4cdc-ba3f-73195cf78f2e,194b1489-5add-4c6a-966a-7ce28ae147f8
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,java/lang/StringBuilder.java,append
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,java/lang/StringBuilder.java,append
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,e19bacc4-3d33-4cdc-ba3f-73195cf78f2e,61048c77-e41e-4dbf-bd9f-5310c49db471
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,java/lang/StringBuilder.java,append
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,java/lang/StringBuilder.java,toString
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,java/io/PrintStream.java,println
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,76edf3b4-fe10-4ae7-a719-d2cbe5885dbd,a71a2c55-6861-41c8-9f2a-ff7c0d4ef514,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,b0852291-972e-49f3-88a2-0a98e14a3b24
+c18ce1c5-32b8-4298-bc19-a59f9fc9468c,76edf3b4-fe10-4ae7-a719-d2cbe5885dbd,a71a2c55-6861-41c8-9f2a-ff7c0d4ef514,->,c18ce1c5-32b8-4298-bc19-a59f9fc9468c,4db90358-20b9-4472-a40c-fc217bb46531,bcf91dd4-7f90-4692-b22d-6f8d15efe299

@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+df08e6d8-0854-43e5-81fc-831bea48b3cc,3a3e1b07-4437-49cc-b108-d87432ca29e7,c88734a2-8b05-4879-9014-1ced7e503c0e,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,java/io/PrintStream.java,println
+df08e6d8-0854-43e5-81fc-831bea48b3cc,03dbf382-2adb-4a8f-afa9-981a18c49a36,8cb834e3-895e-4ecf-8f3a-b1dee4485794,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,fb141cd2-ce2c-43b1-8ddd-91e27f8c25ec,10a158b0-22de-45eb-9168-811c89025026
+df08e6d8-0854-43e5-81fc-831bea48b3cc,03dbf382-2adb-4a8f-afa9-981a18c49a36,8cb834e3-895e-4ecf-8f3a-b1dee4485794,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,fb141cd2-ce2c-43b1-8ddd-91e27f8c25ec,0d1dfd6d-0cc9-44f4-91f7-9f15436e7297
+df08e6d8-0854-43e5-81fc-831bea48b3cc,03dbf382-2adb-4a8f-afa9-981a18c49a36,8cb834e3-895e-4ecf-8f3a-b1dee4485794,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,eb7b40f0-42d9-413d-81e9-962487f3b1a4,86d2bc48-7539-4f91-be4b-4dd0130052a3
+df08e6d8-0854-43e5-81fc-831bea48b3cc,03dbf382-2adb-4a8f-afa9-981a18c49a36,a5b7ea5c-a907-4479-8875-8c4dce7db9ad,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,eb7b40f0-42d9-413d-81e9-962487f3b1a4,3bb2a0a0-847b-4ed7-8494-e3231b04e6a1
+df08e6d8-0854-43e5-81fc-831bea48b3cc,b8d3bfc2-c782-4f9d-828c-17730ce740ad,41cf2bec-ac1c-4753-b974-b663431a7fb2,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,03dbf382-2adb-4a8f-afa9-981a18c49a36,a5b7ea5c-a907-4479-8875-8c4dce7db9ad
+df08e6d8-0854-43e5-81fc-831bea48b3cc,b8d3bfc2-c782-4f9d-828c-17730ce740ad,41cf2bec-ac1c-4753-b974-b663431a7fb2,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,java/util/List.java,isEmpty
+df08e6d8-0854-43e5-81fc-831bea48b3cc,b8d3bfc2-c782-4f9d-828c-17730ce740ad,41cf2bec-ac1c-4753-b974-b663431a7fb2,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,org/junit/Assert.java,assertTrue
+df08e6d8-0854-43e5-81fc-831bea48b3cc,b8d3bfc2-c782-4f9d-828c-17730ce740ad,82042e27-a0ce-4686-8065-646b56eed08a,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,03dbf382-2adb-4a8f-afa9-981a18c49a36,8cb834e3-895e-4ecf-8f3a-b1dee4485794
+df08e6d8-0854-43e5-81fc-831bea48b3cc,b8d3bfc2-c782-4f9d-828c-17730ce740ad,82042e27-a0ce-4686-8065-646b56eed08a,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,org/unitils/database/exception/DbException.java,getMessage
+df08e6d8-0854-43e5-81fc-831bea48b3cc,b8d3bfc2-c782-4f9d-828c-17730ce740ad,82042e27-a0ce-4686-8065-646b56eed08a,->,df08e6d8-0854-43e5-81fc-831bea48b3cc,org/junit/Assert.java,fail

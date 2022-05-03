@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+45b6af5d-559b-48b3-bab8-a9274cac5a61,fa99344f-3164-4abf-b448-63bb4351e1e7,90842631-da19-478a-85b3-7aec73d738db,->,45b6af5d-559b-48b3-bab8-a9274cac5a61,java/util/ArrayList.java,add
+45b6af5d-559b-48b3-bab8-a9274cac5a61,edu/toronto/ece1778/urbaneyes/common/AnswerType.java,values,->,45b6af5d-559b-48b3-bab8-a9274cac5a61,edu/toronto/ece1778/urbaneyes/common/AnswerType.java,clone
+45b6af5d-559b-48b3-bab8-a9274cac5a61,edu/toronto/ece1778/urbaneyes/common/AnswerType.java,valueOf,->,45b6af5d-559b-48b3-bab8-a9274cac5a61,java/lang/Enum.java,valueOf
+45b6af5d-559b-48b3-bab8-a9274cac5a61,05c052ba-d0a8-444f-a0c2-114bb4c4b926,d46b5069-4caf-4972-bca3-55edab76bc5e,->,45b6af5d-559b-48b3-bab8-a9274cac5a61,java/util/ArrayList.java,add
+45b6af5d-559b-48b3-bab8-a9274cac5a61,edu/toronto/ece1778/urbaneyes/common/SurveyKind.java,values,->,45b6af5d-559b-48b3-bab8-a9274cac5a61,edu/toronto/ece1778/urbaneyes/common/SurveyKind.java,clone
+45b6af5d-559b-48b3-bab8-a9274cac5a61,edu/toronto/ece1778/urbaneyes/common/SurveyKind.java,valueOf,->,45b6af5d-559b-48b3-bab8-a9274cac5a61,java/lang/Enum.java,valueOf

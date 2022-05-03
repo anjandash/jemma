@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+74db8446-76c0-41aa-80c9-ec45417e2328,c064ff8e-ba4e-473f-8763-35878b928ee5,1f884a7d-6c10-4b97-ad4e-0d05e4bd4b1b,->,74db8446-76c0-41aa-80c9-ec45417e2328,c3fa56cf-1595-4b4a-8ec0-749992eaed1a,54a4ff50-12d7-463d-b1e5-ca4a187cd486
+74db8446-76c0-41aa-80c9-ec45417e2328,60f7bd79-0992-493c-aa1f-0b74a16661b4,d1f14d32-1da9-45b7-bd9d-483e1d815bb3,->,74db8446-76c0-41aa-80c9-ec45417e2328,3647a721-bd91-4eb3-8205-83ad7f62b5f3,4479a4f8-73f7-4cd0-aeaa-36fb509d596d
+74db8446-76c0-41aa-80c9-ec45417e2328,60f7bd79-0992-493c-aa1f-0b74a16661b4,d1f14d32-1da9-45b7-bd9d-483e1d815bb3,->,74db8446-76c0-41aa-80c9-ec45417e2328,org/springframework/ui/Model.java,addAttribute
+74db8446-76c0-41aa-80c9-ec45417e2328,ef8d8ae7-03af-4133-9cf0-ac91c1ab8b77,b89e18ca-9c19-47ba-a193-3e43c4dba09b,->,74db8446-76c0-41aa-80c9-ec45417e2328,org/hibernate/SessionFactory.java,getCurrentSession
+74db8446-76c0-41aa-80c9-ec45417e2328,ef8d8ae7-03af-4133-9cf0-ac91c1ab8b77,b89e18ca-9c19-47ba-a193-3e43c4dba09b,->,74db8446-76c0-41aa-80c9-ec45417e2328,org/hibernate/classic/Session.java,createQuery
+74db8446-76c0-41aa-80c9-ec45417e2328,ef8d8ae7-03af-4133-9cf0-ac91c1ab8b77,b89e18ca-9c19-47ba-a193-3e43c4dba09b,->,74db8446-76c0-41aa-80c9-ec45417e2328,org/hibernate/Query.java,list

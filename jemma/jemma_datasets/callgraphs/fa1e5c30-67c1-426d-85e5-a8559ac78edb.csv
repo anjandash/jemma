@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,4c6bbf8c-ec0f-4b4b-b3b3-96bce81f1548,f9766ec9-b6e4-4f8f-8a74-54cc867ca5c7,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,java/io/PrintStream.java,println
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,4c6bbf8c-ec0f-4b4b-b3b3-96bce81f1548,f9766ec9-b6e4-4f8f-8a74-54cc867ca5c7,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,4c6bbf8c-ec0f-4b4b-b3b3-96bce81f1548,96d99411-9fa5-4e05-8df9-2e9e09466756
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,4c6bbf8c-ec0f-4b4b-b3b3-96bce81f1548,f9766ec9-b6e4-4f8f-8a74-54cc867ca5c7,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,java/io/PrintStream.java,println
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,4c6bbf8c-ec0f-4b4b-b3b3-96bce81f1548,96d99411-9fa5-4e05-8df9-2e9e09466756,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,3a172f88-928b-4578-b349-b0f7bfbaca00,3bac03cc-642b-4231-8744-f422394f01e6
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,4c6bbf8c-ec0f-4b4b-b3b3-96bce81f1548,96d99411-9fa5-4e05-8df9-2e9e09466756,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,3a172f88-928b-4578-b349-b0f7bfbaca00,3bac03cc-642b-4231-8744-f422394f01e6
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,fd79ccbd-358b-4f7c-88b9-6f54f15ff100,add51d87-f652-457d-94e9-170141646888,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,java/io/PrintStream.java,println
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,fd79ccbd-358b-4f7c-88b9-6f54f15ff100,add51d87-f652-457d-94e9-170141646888,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,4304d48d-9c01-46d4-aa3c-9c804684e542,5eebbfa2-3799-48d6-95d6-65b44c39b987
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,fd79ccbd-358b-4f7c-88b9-6f54f15ff100,186b27ee-ceea-4615-846a-b3875d61a84a,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,java/io/PrintStream.java,println
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,fd79ccbd-358b-4f7c-88b9-6f54f15ff100,186b27ee-ceea-4615-846a-b3875d61a84a,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,4304d48d-9c01-46d4-aa3c-9c804684e542,11a52ca6-ea6f-46c1-b1e0-f0a074c6ab5c
+fa1e5c30-67c1-426d-85e5-a8559ac78edb,fd79ccbd-358b-4f7c-88b9-6f54f15ff100,186b27ee-ceea-4615-846a-b3875d61a84a,->,fa1e5c30-67c1-426d-85e5-a8559ac78edb,org/junit/Assert.java,assertEquals

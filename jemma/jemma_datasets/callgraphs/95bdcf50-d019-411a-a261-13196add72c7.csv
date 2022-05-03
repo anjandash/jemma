@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+95bdcf50-d019-411a-a261-13196add72c7,eb3828b7-56d9-4104-a238-9407f404825b,bb43e7df-a777-4cf1-a528-9d26d0b4eb95,->,95bdcf50-d019-411a-a261-13196add72c7,ECP1/Katherin/Moscoso/AppTest.java,assertTrue
+95bdcf50-d019-411a-a261-13196add72c7,e3839c16-9e93-41f5-b157-8c502918b55d,d1dc8387-8dcc-4791-b1fa-bcc9bfd3bb75,->,95bdcf50-d019-411a-a261-13196add72c7,java/io/PrintStream.java,println

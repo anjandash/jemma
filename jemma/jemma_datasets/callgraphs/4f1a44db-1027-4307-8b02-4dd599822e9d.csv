@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4f1a44db-1027-4307-8b02-4dd599822e9d,9cb4af58-4b34-41d9-843b-e40f36aeb1dd,7de83585-0a46-4178-8ed7-5af17c9e3c24,->,4f1a44db-1027-4307-8b02-4dd599822e9d,ff971906-8978-4813-b394-e00ea83c7668,ff9c5cde-d6c4-4ae0-88ab-330b2288ae13
+4f1a44db-1027-4307-8b02-4dd599822e9d,ff971906-8978-4813-b394-e00ea83c7668,ff9c5cde-d6c4-4ae0-88ab-330b2288ae13,->,4f1a44db-1027-4307-8b02-4dd599822e9d,flpcostas/observer/Assunto.java,setChanged
+4f1a44db-1027-4307-8b02-4dd599822e9d,ff971906-8978-4813-b394-e00ea83c7668,ff9c5cde-d6c4-4ae0-88ab-330b2288ae13,->,4f1a44db-1027-4307-8b02-4dd599822e9d,flpcostas/observer/Assunto.java,notifyObservers
+4f1a44db-1027-4307-8b02-4dd599822e9d,e35a5db8-9678-4f03-990b-13f399f800aa,dc9a8969-cd65-479a-9c55-9c8351aa965a,->,4f1a44db-1027-4307-8b02-4dd599822e9d,ff971906-8978-4813-b394-e00ea83c7668,dbf00571-0d73-4e9a-896f-6320a395d3c1
+4f1a44db-1027-4307-8b02-4dd599822e9d,e35a5db8-9678-4f03-990b-13f399f800aa,dc9a8969-cd65-479a-9c55-9c8351aa965a,->,4f1a44db-1027-4307-8b02-4dd599822e9d,java/lang/String.java,format
+4f1a44db-1027-4307-8b02-4dd599822e9d,e35a5db8-9678-4f03-990b-13f399f800aa,dc9a8969-cd65-479a-9c55-9c8351aa965a,->,4f1a44db-1027-4307-8b02-4dd599822e9d,java/io/PrintStream.java,println
+4f1a44db-1027-4307-8b02-4dd599822e9d,flpcostas/singleton/ProgramSingleton.java,main,->,4f1a44db-1027-4307-8b02-4dd599822e9d,c0247550-87e1-4010-aa9d-7a21abf2017c,563f9deb-e6ac-4202-b1dd-1582c49313b0
+4f1a44db-1027-4307-8b02-4dd599822e9d,flpcostas/singleton/ProgramSingleton.java,main,->,4f1a44db-1027-4307-8b02-4dd599822e9d,c0247550-87e1-4010-aa9d-7a21abf2017c,563f9deb-e6ac-4202-b1dd-1582c49313b0
+4f1a44db-1027-4307-8b02-4dd599822e9d,flpcostas/singleton/ProgramSingleton.java,main,->,4f1a44db-1027-4307-8b02-4dd599822e9d,java/io/PrintStream.java,println
+4f1a44db-1027-4307-8b02-4dd599822e9d,flpcostas/singleton/ProgramSingleton.java,main,->,4f1a44db-1027-4307-8b02-4dd599822e9d,java/io/PrintStream.java,println

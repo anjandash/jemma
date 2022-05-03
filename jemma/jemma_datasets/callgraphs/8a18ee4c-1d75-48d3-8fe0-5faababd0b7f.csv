@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,8cf42c92-abe1-4238-b516-f47cd9a511ee,1f1ef3b3-6785-429b-833e-5f7b9e079732,->,8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,8cf42c92-abe1-4238-b516-f47cd9a511ee,8dc07fd4-2aa2-4e18-b57d-e353200fd9bd
+8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,34003da9-ca3f-4837-ae1c-cff2b15b7de0,0de5b03d-611b-4146-8d82-c8c32f4eac90,->,8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,34003da9-ca3f-4837-ae1c-cff2b15b7de0,f73b90ac-42b3-4159-b851-85f1b1734684
+8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,97ee7aca-f31c-4b3c-90df-08a333f05590,1ebc487e-c1b1-4f92-a90e-c418ea6c090e,->,8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,97ee7aca-f31c-4b3c-90df-08a333f05590,d483ef2e-c82b-4e41-8aa1-48242df200f5
+8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,d8fad689-bb4b-4e12-a4e5-cafede8c5645,7496a036-ca03-4b85-a40d-581c97c7e765,->,8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,d8fad689-bb4b-4e12-a4e5-cafede8c5645,855e6ac5-bfd2-45e8-bff4-3ef22bd9c414
+8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,404917f9-6fd2-445b-a857-6a4d4f0e6af6,d4f872cd-b987-4fd7-83af-7f9ccfea9f33,->,8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,404917f9-6fd2-445b-a857-6a4d4f0e6af6,b65ed181-2f06-4d25-b7e0-6ff0c4764742
+8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,1a250c4f-c225-4b92-a5e4-65782698768b,f593daba-d8df-462c-a566-a307d51e1067,->,8a18ee4c-1d75-48d3-8fe0-5faababd0b7f,1a250c4f-c225-4b92-a5e4-65782698768b,1fd65fd2-b010-41e8-8216-448ddead33d9

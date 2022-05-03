@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+03d76c92-16c5-4632-84dc-8639cc3759d4,ai/scribble/_bidirectional$OWNING.java,values,->,03d76c92-16c5-4632-84dc-8639cc3759d4,ai/scribble/_bidirectional$OWNING.java,clone
+03d76c92-16c5-4632-84dc-8639cc3759d4,ai/scribble/_bidirectional$OWNING.java,valueOf,->,03d76c92-16c5-4632-84dc-8639cc3759d4,java/lang/Enum.java,valueOf

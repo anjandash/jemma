@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+483893b9-29a9-4485-b5de-ce66290d9a8e,domain/issue/DefectDecision.java,values,->,483893b9-29a9-4485-b5de-ce66290d9a8e,domain/issue/DefectDecision.java,clone
+483893b9-29a9-4485-b5de-ce66290d9a8e,domain/issue/DefectDecision.java,valueOf,->,483893b9-29a9-4485-b5de-ce66290d9a8e,java/lang/Enum.java,valueOf
+483893b9-29a9-4485-b5de-ce66290d9a8e,b1cd394b-6ea3-4673-b014-6afa9e3f1c43,e94b48ec-9b15-477d-be09-bb6b636b4480,->,483893b9-29a9-4485-b5de-ce66290d9a8e,java/lang/System.java,currentTimeMillis
+483893b9-29a9-4485-b5de-ce66290d9a8e,b1cd394b-6ea3-4673-b014-6afa9e3f1c43,5a3c54f3-cab5-46a6-83b3-6c5bab1b1996,->,483893b9-29a9-4485-b5de-ce66290d9a8e,java/util/Date.java,getTime
+483893b9-29a9-4485-b5de-ce66290d9a8e,domain/issue/TaskDecision.java,values,->,483893b9-29a9-4485-b5de-ce66290d9a8e,domain/issue/TaskDecision.java,clone
+483893b9-29a9-4485-b5de-ce66290d9a8e,domain/issue/TaskDecision.java,valueOf,->,483893b9-29a9-4485-b5de-ce66290d9a8e,java/lang/Enum.java,valueOf

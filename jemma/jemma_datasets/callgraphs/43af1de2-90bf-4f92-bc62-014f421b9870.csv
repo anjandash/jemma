@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,61e8e4d0-f6ed-4c1c-b60d-2f6dfbcf3a45,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/Object.java,toString
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,61e8e4d0-f6ed-4c1c-b60d-2f6dfbcf3a45,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/String.java,isEmpty
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,61e8e4d0-f6ed-4c1c-b60d-2f6dfbcf3a45,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,append
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,61e8e4d0-f6ed-4c1c-b60d-2f6dfbcf3a45,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,append
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,61e8e4d0-f6ed-4c1c-b60d-2f6dfbcf3a45,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,append
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,61e8e4d0-f6ed-4c1c-b60d-2f6dfbcf3a45,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,toString
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,7a03c3aa-11c7-47f3-9e91-adacfaffe4bf,->,43af1de2-90bf-4f92-bc62-014f421b9870,org/springframework/context/support/ClassPathXmlApplicationContext.java,getBean
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,7a03c3aa-11c7-47f3-9e91-adacfaffe4bf,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,append
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,7a03c3aa-11c7-47f3-9e91-adacfaffe4bf,->,43af1de2-90bf-4f92-bc62-014f421b9870,org/springframework/context/ApplicationContext.java,getBean
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,7a03c3aa-11c7-47f3-9e91-adacfaffe4bf,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,append
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,7a03c3aa-11c7-47f3-9e91-adacfaffe4bf,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/lang/StringBuilder.java,toString
+43af1de2-90bf-4f92-bc62-014f421b9870,8692fe7a-b2b8-4e62-9f75-66aababe11c2,7a03c3aa-11c7-47f3-9e91-adacfaffe4bf,->,43af1de2-90bf-4f92-bc62-014f421b9870,java/io/PrintStream.java,println

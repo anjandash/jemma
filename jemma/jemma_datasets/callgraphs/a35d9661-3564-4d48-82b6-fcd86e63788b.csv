@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a35d9661-3564-4d48-82b6-fcd86e63788b,com/williamvanderhoef/gilt/model/StoreKeys.java,values,->,a35d9661-3564-4d48-82b6-fcd86e63788b,com/williamvanderhoef/gilt/model/StoreKeys.java,clone
+a35d9661-3564-4d48-82b6-fcd86e63788b,com/williamvanderhoef/gilt/model/StoreKeys.java,valueOf,->,a35d9661-3564-4d48-82b6-fcd86e63788b,java/lang/Enum.java,valueOf
+a35d9661-3564-4d48-82b6-fcd86e63788b,15301ad3-cb7b-490d-8509-f2c6876965df,5b3dda40-f9d7-47fd-bf81-d7f2ff79614e,->,a35d9661-3564-4d48-82b6-fcd86e63788b,b934fa36-7512-438c-b6d7-8696d5dabf8f,e7b3d0ed-d7d6-4a84-86c8-19e0f3222dd0
+a35d9661-3564-4d48-82b6-fcd86e63788b,15301ad3-cb7b-490d-8509-f2c6876965df,5b3dda40-f9d7-47fd-bf81-d7f2ff79614e,->,a35d9661-3564-4d48-82b6-fcd86e63788b,com/google/gson/Gson.java,fromJson
+a35d9661-3564-4d48-82b6-fcd86e63788b,56b64ea6-a39f-4e94-bb7c-77d735e714bb,b2cfd31a-02eb-44d0-8049-f44ada38c886,->,a35d9661-3564-4d48-82b6-fcd86e63788b,com/fasterxml/jackson/databind/type/TypeFactory.java,defaultInstance
+a35d9661-3564-4d48-82b6-fcd86e63788b,56b64ea6-a39f-4e94-bb7c-77d735e714bb,b2cfd31a-02eb-44d0-8049-f44ada38c886,->,a35d9661-3564-4d48-82b6-fcd86e63788b,b934fa36-7512-438c-b6d7-8696d5dabf8f,e7b3d0ed-d7d6-4a84-86c8-19e0f3222dd0
+a35d9661-3564-4d48-82b6-fcd86e63788b,56b64ea6-a39f-4e94-bb7c-77d735e714bb,b2cfd31a-02eb-44d0-8049-f44ada38c886,->,a35d9661-3564-4d48-82b6-fcd86e63788b,com/fasterxml/jackson/databind/type/TypeFactory.java,constructType
+a35d9661-3564-4d48-82b6-fcd86e63788b,56b64ea6-a39f-4e94-bb7c-77d735e714bb,b2cfd31a-02eb-44d0-8049-f44ada38c886,->,a35d9661-3564-4d48-82b6-fcd86e63788b,com/fasterxml/jackson/databind/ObjectMapper.java,readValue

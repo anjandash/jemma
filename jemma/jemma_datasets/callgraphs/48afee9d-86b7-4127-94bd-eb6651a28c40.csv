@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+48afee9d-86b7-4127-94bd-eb6651a28c40,6b386230-5afb-4a32-8bc7-13c0835db8fb,2c42fe74-8790-4925-aa75-9a8eb04be90f,->,48afee9d-86b7-4127-94bd-eb6651a28c40,java/io/PrintStream.java,println
+48afee9d-86b7-4127-94bd-eb6651a28c40,6b386230-5afb-4a32-8bc7-13c0835db8fb,2c42fe74-8790-4925-aa75-9a8eb04be90f,->,48afee9d-86b7-4127-94bd-eb6651a28c40,3eb93adb-fa99-41cf-896f-672c15e02d8c,38381063-2218-41da-a133-6b773f791be7
+48afee9d-86b7-4127-94bd-eb6651a28c40,6b386230-5afb-4a32-8bc7-13c0835db8fb,2c42fe74-8790-4925-aa75-9a8eb04be90f,->,48afee9d-86b7-4127-94bd-eb6651a28c40,java/lang/Boolean.java,valueOf
+48afee9d-86b7-4127-94bd-eb6651a28c40,6b386230-5afb-4a32-8bc7-13c0835db8fb,2c42fe74-8790-4925-aa75-9a8eb04be90f,->,48afee9d-86b7-4127-94bd-eb6651a28c40,java/lang/Boolean.java,valueOf
+48afee9d-86b7-4127-94bd-eb6651a28c40,6b386230-5afb-4a32-8bc7-13c0835db8fb,2c42fe74-8790-4925-aa75-9a8eb04be90f,->,48afee9d-86b7-4127-94bd-eb6651a28c40,org/junit/Assert.java,assertEquals
+48afee9d-86b7-4127-94bd-eb6651a28c40,d7b3fb13-edc8-4f06-9f4a-c871c9c85d0c,f3552fb5-920d-4f5f-91d8-7be4c4b34220,->,48afee9d-86b7-4127-94bd-eb6651a28c40,java/io/PrintStream.java,println
+48afee9d-86b7-4127-94bd-eb6651a28c40,d7b3fb13-edc8-4f06-9f4a-c871c9c85d0c,f3552fb5-920d-4f5f-91d8-7be4c4b34220,->,48afee9d-86b7-4127-94bd-eb6651a28c40,3eb93adb-fa99-41cf-896f-672c15e02d8c,38381063-2218-41da-a133-6b773f791be7
+48afee9d-86b7-4127-94bd-eb6651a28c40,d7b3fb13-edc8-4f06-9f4a-c871c9c85d0c,f3552fb5-920d-4f5f-91d8-7be4c4b34220,->,48afee9d-86b7-4127-94bd-eb6651a28c40,org/testng/Assert.java,assertEquals
+48afee9d-86b7-4127-94bd-eb6651a28c40,d7b3fb13-edc8-4f06-9f4a-c871c9c85d0c,f3552fb5-920d-4f5f-91d8-7be4c4b34220,->,48afee9d-86b7-4127-94bd-eb6651a28c40,org/testng/Assert.java,fail
+48afee9d-86b7-4127-94bd-eb6651a28c40,4c98e914-6db4-4f1b-b719-4fd3c028e770,aa51fbb5-f776-4695-a0ce-d294a14340e0,->,48afee9d-86b7-4127-94bd-eb6651a28c40,java/io/PrintStream.java,println

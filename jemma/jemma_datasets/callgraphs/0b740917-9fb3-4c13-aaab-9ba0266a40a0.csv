@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0b740917-9fb3-4c13-aaab-9ba0266a40a0,f5b35379-aa0e-4209-a6fb-621897c07d92,e4c1e15a-949e-40bd-80ad-cf877a547e7c,->,0b740917-9fb3-4c13-aaab-9ba0266a40a0,java/io/PrintStream.java,println
+0b740917-9fb3-4c13-aaab-9ba0266a40a0,AppTest.java,testApp,->,0b740917-9fb3-4c13-aaab-9ba0266a40a0,AppTest.java,assertTrue
+0b740917-9fb3-4c13-aaab-9ba0266a40a0,ff74b122-e1fa-4e62-8ed1-9360cb2f38ec,c86a0117-9a5d-4239-be78-62180589be43,->,0b740917-9fb3-4c13-aaab-9ba0266a40a0,776110ca-93c2-4d2b-ac8c-aadf8446bbe9,8145a6ae-5e52-4ad2-afdf-12d55179dd86
+0b740917-9fb3-4c13-aaab-9ba0266a40a0,ff74b122-e1fa-4e62-8ed1-9360cb2f38ec,c86a0117-9a5d-4239-be78-62180589be43,->,0b740917-9fb3-4c13-aaab-9ba0266a40a0,org/hamcrest/CoreMatchers.java,is
+0b740917-9fb3-4c13-aaab-9ba0266a40a0,ff74b122-e1fa-4e62-8ed1-9360cb2f38ec,c86a0117-9a5d-4239-be78-62180589be43,->,0b740917-9fb3-4c13-aaab-9ba0266a40a0,org/junit/Assert.java,assertThat

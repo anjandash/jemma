@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa897613-c243-4f15-899a-565bd6f7cd5b,shared/Constants.java,<clinit>,->,aa897613-c243-4f15-899a-565bd6f7cd5b,java/lang/Integer.java,valueOf
+aa897613-c243-4f15-899a-565bd6f7cd5b,shared/Constants.java,<clinit>,->,aa897613-c243-4f15-899a-565bd6f7cd5b,java/lang/Integer.java,valueOf

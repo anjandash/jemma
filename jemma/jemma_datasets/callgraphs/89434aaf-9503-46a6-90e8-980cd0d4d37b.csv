@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,initializeCompression
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,encodeLength
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,java/lang/System.java,arraycopy
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,encodeLength
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,encodeLength
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,compress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,java/lang/System.java,arraycopy
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4CompressorImpl.java,initializeCompression,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,java/util/Arrays.java,fill
+89434aaf-9503-46a6-90e8-980cd0d4d37b,269e7f62-da87-45ca-b3fe-acff1e6553e7,aeb1ec34-7cc0-47f0-95de-4c6b4ac67f8b,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,763c047a-a8aa-496b-99fe-4afd50e3f4d2,2f2c0f1f-150f-430c-a7cd-a227852db9da
+89434aaf-9503-46a6-90e8-980cd0d4d37b,269e7f62-da87-45ca-b3fe-acff1e6553e7,aeb1ec34-7cc0-47f0-95de-4c6b4ac67f8b,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,866d9fc9-8689-4336-9c81-eb174d47aa84,62e5b84d-b083-4478-be2d-87c09dd68a31
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4DecompressorImpl.java,decompress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4DecompressorImpl.java,decompress
+89434aaf-9503-46a6-90e8-980cd0d4d37b,biz/k11i/compress/lz4/LZ4DecompressorImpl.java,decompress,->,89434aaf-9503-46a6-90e8-980cd0d4d37b,java/lang/System.java,arraycopy

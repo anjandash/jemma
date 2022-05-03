@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+13c15c00-e131-4291-bdb8-171d1d4904c1,pjv/cv2/Components/Color.java,values,->,13c15c00-e131-4291-bdb8-171d1d4904c1,pjv/cv2/Components/Color.java,clone
+13c15c00-e131-4291-bdb8-171d1d4904c1,pjv/cv2/Components/Color.java,valueOf,->,13c15c00-e131-4291-bdb8-171d1d4904c1,java/lang/Enum.java,valueOf
+13c15c00-e131-4291-bdb8-171d1d4904c1,pjv/cv2/Components/Type.java,values,->,13c15c00-e131-4291-bdb8-171d1d4904c1,pjv/cv2/Components/Type.java,clone
+13c15c00-e131-4291-bdb8-171d1d4904c1,pjv/cv2/Components/Type.java,valueOf,->,13c15c00-e131-4291-bdb8-171d1d4904c1,java/lang/Enum.java,valueOf

@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+34d58bf6-7f79-4db3-acd7-19fc4b1eea1d,backgammon04/backgammon04_persistence_interface/util/Color.java,values,->,34d58bf6-7f79-4db3-acd7-19fc4b1eea1d,backgammon04/backgammon04_persistence_interface/util/Color.java,clone
+34d58bf6-7f79-4db3-acd7-19fc4b1eea1d,backgammon04/backgammon04_persistence_interface/util/Color.java,valueOf,->,34d58bf6-7f79-4db3-acd7-19fc4b1eea1d,java/lang/Enum.java,valueOf

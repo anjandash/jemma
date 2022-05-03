@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,BubbleSorter.java,sort,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,setArray
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,BubbleSorter.java,sort,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,length
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,BubbleSorter.java,sort,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,outOfOrder
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,BubbleSorter.java,sort,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,swap
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,934aaa0c-b730-44b7-a0b7-15d2d59d4108,f1221536-4298-499c-b872-d5cc9886733a,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,setArray
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,934aaa0c-b730-44b7-a0b7-15d2d59d4108,f1221536-4298-499c-b872-d5cc9886733a,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,length
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,934aaa0c-b730-44b7-a0b7-15d2d59d4108,f1221536-4298-499c-b872-d5cc9886733a,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,outOfOrder
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,934aaa0c-b730-44b7-a0b7-15d2d59d4108,f1221536-4298-499c-b872-d5cc9886733a,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,SortHandle.java,swap
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,bdd5d346-97df-4141-9dd7-39faa7291852,048980d9-1a48-45c5-82ba-2882351c9d46,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,BubbleSorter.java,sort
+7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,bdd5d346-97df-4141-9dd7-39faa7291852,048980d9-1a48-45c5-82ba-2882351c9d46,->,7b5095d2-0cfe-4c1a-abb5-cf6ed281808c,org/junit/Assert.java,assertEquals

@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1e296cf7-7b38-4936-b016-b12d66960946,8c9db372-14ef-4c32-b59d-e0b99a9251f7,7589c35a-0508-4f74-b4ca-fb7744d31f70,->,1e296cf7-7b38-4936-b016-b12d66960946,com/intellij/openapi/fileTypes/FileTypeConsumer.java,consume
+1e296cf7-7b38-4936-b016-b12d66960946,874a2a33-3372-487a-82b4-6c494fdeba0d,5ad8a5ee-9489-497b-a8a0-ef40ebf854d8,->,1e296cf7-7b38-4936-b016-b12d66960946,com/intellij/openapi/fileTypes/FileTypeConsumer.java,consume
+1e296cf7-7b38-4936-b016-b12d66960946,ae6026b5-1cf2-4dd1-95ed-2402ae0840ed,a0a61f46-8dcd-4ea4-bea9-fe7e48feda23,->,1e296cf7-7b38-4936-b016-b12d66960946,com/intellij/openapi/fileTypes/FileTypeConsumer.java,consume
+1e296cf7-7b38-4936-b016-b12d66960946,745c7a06-d99d-4613-825a-3cbb7c907a57,de67c9c7-3262-4883-8309-06887b7c9df6,->,1e296cf7-7b38-4936-b016-b12d66960946,com/intellij/openapi/fileTypes/FileTypeConsumer.java,consume

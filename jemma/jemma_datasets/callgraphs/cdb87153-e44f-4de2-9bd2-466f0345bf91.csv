@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Boleteria.java,run,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/lang/StringBuilder.java,append
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Boleteria.java,run,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/lang/StringBuilder.java,append
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Boleteria.java,run,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/lang/StringBuilder.java,append
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Boleteria.java,run,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/lang/StringBuilder.java,toString
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Boleteria.java,run,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/io/PrintStream.java,println
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Boleteria.java,run,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/io/PrintStream.java,println
+cdb87153-e44f-4de2-9bd2-466f0345bf91,28bf524f-f3c6-450f-b675-41214d9124d1,7fb76a14-103c-4da3-b2b8-a27b941baba9,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/util/ArrayList.java,add
+cdb87153-e44f-4de2-9bd2-466f0345bf91,Local.java,addSector,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/util/ArrayList.java,add
+cdb87153-e44f-4de2-9bd2-466f0345bf91,bbff8a36-ae02-4ff8-9396-68ba4e213885,9ae1a6dc-0878-4e07-acf5-6ef17ef26bd7,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/util/ArrayList.java,add
+cdb87153-e44f-4de2-9bd2-466f0345bf91,0d6b5ecd-6687-4e20-b658-e773fc544356,d1048f51-69fe-4998-bff9-a69afda7141d,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/lang/Object.java,wait
+cdb87153-e44f-4de2-9bd2-466f0345bf91,0d6b5ecd-6687-4e20-b658-e773fc544356,f6a7ad7f-30d3-43e7-8334-26f01bcf6628,->,cdb87153-e44f-4de2-9bd2-466f0345bf91,java/lang/Object.java,notify

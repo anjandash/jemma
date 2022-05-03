@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8231e28c-6d7d-4967-9af9-94c7c76e4196,d28681c7-1bf7-4b35-9b9d-280e94a2c281,bfe74b07-e491-4b43-89d8-fcba2ae28ac7,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,com/intellij/openapi/util/IconLoader.java,getIcon
+8231e28c-6d7d-4967-9af9-94c7c76e4196,icons/OctaveIcons.java,<clinit>,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,d28681c7-1bf7-4b35-9b9d-280e94a2c281,bfe74b07-e491-4b43-89d8-fcba2ae28ac7
+8231e28c-6d7d-4967-9af9-94c7c76e4196,f101e3f7-8a5b-4a7b-ba3f-74a5e9ccbf82,00dd0844-e0b0-4926-bbd1-4a30f007124e,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,com/intellij/openapi/fileTypes/FileTypeConsumer.java,consume
+8231e28c-6d7d-4967-9af9-94c7c76e4196,82746fb9-6985-4316-b9af-48dc0f2a5975,c436fcdc-8583-4849-aeb9-b794461917c0,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,8832d0e6-7d07-45a2-87cb-c57c7c47063e,930e324a-174d-464f-b812-dcfaac487fcd
+8231e28c-6d7d-4967-9af9-94c7c76e4196,net/gazpacho/plugins/octave/OctaveFileType.java,<clinit>,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,com/intellij/openapi/fileTypes/LanguageFileType.java,getLanguage
+8231e28c-6d7d-4967-9af9-94c7c76e4196,8832d0e6-7d07-45a2-87cb-c57c7c47063e,930e324a-174d-464f-b812-dcfaac487fcd,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,8832d0e6-7d07-45a2-87cb-c57c7c47063e,11f4ea09-b681-43f5-b3eb-1fb8309eabc1
+8231e28c-6d7d-4967-9af9-94c7c76e4196,8832d0e6-7d07-45a2-87cb-c57c7c47063e,930e324a-174d-464f-b812-dcfaac487fcd,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,com/intellij/CommonBundle.java,message
+8231e28c-6d7d-4967-9af9-94c7c76e4196,8832d0e6-7d07-45a2-87cb-c57c7c47063e,11f4ea09-b681-43f5-b3eb-1fb8309eabc1,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,java/lang/ref/Reference.java,get
+8231e28c-6d7d-4967-9af9-94c7c76e4196,8832d0e6-7d07-45a2-87cb-c57c7c47063e,11f4ea09-b681-43f5-b3eb-1fb8309eabc1,->,8231e28c-6d7d-4967-9af9-94c7c76e4196,java/util/ResourceBundle.java,getBundle

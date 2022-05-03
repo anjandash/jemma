@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,3ee1f403-ab13-423b-8550-85cc3cc51f76,e7cd7661-9879-4ffc-bb46-a9e26fa73462,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,org/springframework/boot/SpringApplication.java,run
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,ca45f388-22b3-4d56-838f-273dc736660b,2a2f620c-faf2-424e-b5bd-072a2ffe81e3,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,ca45f388-22b3-4d56-838f-273dc736660b,2a2f620c-faf2-424e-b5bd-072a2ffe81e3,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,java/lang/String.java,format
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,00e49ac5-3bb5-457b-a7b7-b296bcf8de0c,7fbc6ae9-586f-4a74-9291-e519a4f02fdf,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,org/springframework/context/ApplicationContext.java,getApplicationName
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,00e49ac5-3bb5-457b-a7b7-b296bcf8de0c,7fbc6ae9-586f-4a74-9291-e519a4f02fdf,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,java/io/PrintStream.java,println
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,00e49ac5-3bb5-457b-a7b7-b296bcf8de0c,7fbc6ae9-586f-4a74-9291-e519a4f02fdf,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,org/springframework/context/ApplicationContext.java,getBean
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,00e49ac5-3bb5-457b-a7b7-b296bcf8de0c,7fbc6ae9-586f-4a74-9291-e519a4f02fdf,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,64291d29-d852-431e-86f3-7975df6c60ce,6394c3af-445e-4dd7-81c6-23843fe0ba5e
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,64291d29-d852-431e-86f3-7975df6c60ce,6394c3af-445e-4dd7-81c6-23843fe0ba5e,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,d1ef9977-be35-460a-b3a3-82a3a5e778bd,2db924a2-7040-4452-a48c-0c94035fda0f
+0406a6d1-fd4d-4588-b2ca-1224d7158a10,64291d29-d852-431e-86f3-7975df6c60ce,6394c3af-445e-4dd7-81c6-23843fe0ba5e,->,0406a6d1-fd4d-4588-b2ca-1224d7158a10,java/io/PrintStream.java,println

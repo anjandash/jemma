@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+631c4d81-670b-4145-bad8-35f6c81353ee,c3470eef-29a6-46ad-a53b-86daf6496a1b,59c0367c-06ef-466d-b54a-22e53e81f111,->,631c4d81-670b-4145-bad8-35f6c81353ee,f3f27327-9cad-4b0b-9d29-2c0f87230a62,ef304a56-05b3-4269-b60b-ad13e87593e3
+631c4d81-670b-4145-bad8-35f6c81353ee,c3470eef-29a6-46ad-a53b-86daf6496a1b,59c0367c-06ef-466d-b54a-22e53e81f111,->,631c4d81-670b-4145-bad8-35f6c81353ee,org/junit/Assert.java,assertEquals
+631c4d81-670b-4145-bad8-35f6c81353ee,bf205f43-5c64-4682-9e7c-bc6ade10a3c9,8e220a14-8c68-4f5d-acda-ad8a5f8a2923,->,631c4d81-670b-4145-bad8-35f6c81353ee,com/telsoft/outsourcing/sample/samplejar/AppTest.java,assertTrue
+631c4d81-670b-4145-bad8-35f6c81353ee,e2f84efc-768c-4fd8-8ecc-68ab2132263b,467a38bd-32f6-45e3-b300-559de9a3b1f7,->,631c4d81-670b-4145-bad8-35f6c81353ee,java/io/PrintStream.java,println
+631c4d81-670b-4145-bad8-35f6c81353ee,392db599-a21b-4600-8ca5-9eb50ee4794d,ddc07aae-582e-4c1a-b82d-cca33ec4b68a,->,631c4d81-670b-4145-bad8-35f6c81353ee,java/io/PrintStream.java,println
+631c4d81-670b-4145-bad8-35f6c81353ee,ab88cb3b-4469-440e-8086-84255c0c1159,f35a619a-ef43-4ed5-8dcd-8cbb5f46cb67,->,631c4d81-670b-4145-bad8-35f6c81353ee,java/io/PrintStream.java,println
+631c4d81-670b-4145-bad8-35f6c81353ee,ab88cb3b-4469-440e-8086-84255c0c1159,a23f1f3a-fe60-4b15-8284-5a9a5745b5ea,->,631c4d81-670b-4145-bad8-35f6c81353ee,java/lang/StringBuilder.java,append
+631c4d81-670b-4145-bad8-35f6c81353ee,ab88cb3b-4469-440e-8086-84255c0c1159,a23f1f3a-fe60-4b15-8284-5a9a5745b5ea,->,631c4d81-670b-4145-bad8-35f6c81353ee,java/lang/StringBuilder.java,append
+631c4d81-670b-4145-bad8-35f6c81353ee,ab88cb3b-4469-440e-8086-84255c0c1159,a23f1f3a-fe60-4b15-8284-5a9a5745b5ea,->,631c4d81-670b-4145-bad8-35f6c81353ee,java/lang/StringBuilder.java,toString

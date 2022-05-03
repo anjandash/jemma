@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bb639a37-8606-4548-957c-125a795632ab,DataSize$UnitType.java,values,->,bb639a37-8606-4548-957c-125a795632ab,DataSize$UnitType.java,clone
+bb639a37-8606-4548-957c-125a795632ab,DataSize$UnitType.java,valueOf,->,bb639a37-8606-4548-957c-125a795632ab,java/lang/Enum.java,valueOf
+bb639a37-8606-4548-957c-125a795632ab,Frequency$UnitType.java,values,->,bb639a37-8606-4548-957c-125a795632ab,Frequency$UnitType.java,clone
+bb639a37-8606-4548-957c-125a795632ab,Frequency$UnitType.java,valueOf,->,bb639a37-8606-4548-957c-125a795632ab,java/lang/Enum.java,valueOf

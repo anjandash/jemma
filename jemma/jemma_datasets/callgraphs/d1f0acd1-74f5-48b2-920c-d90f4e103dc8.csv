@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d1f0acd1-74f5-48b2-920c-d90f4e103dc8,fc5f7afe-d2c5-44ed-8e1c-acd675682289,008a0420-e1a6-4cc9-9b87-2feb19d37d5c,->,d1f0acd1-74f5-48b2-920c-d90f4e103dc8,com/wang/repositories/UserRepository.java,save
+d1f0acd1-74f5-48b2-920c-d90f4e103dc8,848d47d8-a1a0-40a4-9d5e-750d0c53b8f8,cfac5b96-5563-4be6-9dcc-ff83a8f2b3d1,->,d1f0acd1-74f5-48b2-920c-d90f4e103dc8,java/io/PrintStream.java,println
+d1f0acd1-74f5-48b2-920c-d90f4e103dc8,848d47d8-a1a0-40a4-9d5e-750d0c53b8f8,cfac5b96-5563-4be6-9dcc-ff83a8f2b3d1,->,d1f0acd1-74f5-48b2-920c-d90f4e103dc8,javax/servlet/FilterChain.java,doFilter
+d1f0acd1-74f5-48b2-920c-d90f4e103dc8,848d47d8-a1a0-40a4-9d5e-750d0c53b8f8,cfac5b96-5563-4be6-9dcc-ff83a8f2b3d1,->,d1f0acd1-74f5-48b2-920c-d90f4e103dc8,java/io/PrintStream.java,println
+d1f0acd1-74f5-48b2-920c-d90f4e103dc8,eefd0a98-5c19-4419-90c4-d3f665c05cf1,1ce90f4c-bf8e-4f69-a3a9-7f78bd9ec305,->,d1f0acd1-74f5-48b2-920c-d90f4e103dc8,48559c4f-16b4-4263-b518-965a5fb9333e,7e260a1c-92e6-4ae8-9ab8-589dd004d5fc
+d1f0acd1-74f5-48b2-920c-d90f4e103dc8,eefd0a98-5c19-4419-90c4-d3f665c05cf1,1ce90f4c-bf8e-4f69-a3a9-7f78bd9ec305,->,d1f0acd1-74f5-48b2-920c-d90f4e103dc8,31449319-71dd-4c9e-884c-d0fb42cdec51,f174f7ad-62a6-4fa3-9f56-c9c4edba9d89

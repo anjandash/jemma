@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,3519c060-160f-4396-98cf-5504e4a3e4c1,730ade25-76d8-480d-aaf5-c743293e341f,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/awt/Graphics.java,drawImage
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,3519c060-160f-4396-98cf-5504e4a3e4c1,730ade25-76d8-480d-aaf5-c743293e341f,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/awt/Graphics.java,setColor
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getRgbAverege,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/awt/image/BufferedImage.java,getRGB
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getRgbAverege,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/awt/Color.java,getAlpha
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getHorizontAvg,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/awt/image/BufferedImage.java,getWidth
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getHorizontAvg,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/io/PrintStream.java,println
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getHorizontAvg,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getRgbAverege
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getHorizontAvg,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/HorizontLine.java,getRgbAverege
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/Main.java,main,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/lang/System.java,getenv
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/Main.java,main,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/lang/StringBuilder.java,append
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/Main.java,main,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/lang/StringBuilder.java,append
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,projektarbete/Main.java,main,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/lang/StringBuilder.java,toString
+2fba1931-2a2f-4a83-818d-cfa2a224b8aa,48030862-b461-43e4-8114-ed568bbb172a,e3c3dbc7-8b73-4a10-9efc-596ea16a4cda,->,2fba1931-2a2f-4a83-818d-cfa2a224b8aa,java/lang/Math.java,tanh

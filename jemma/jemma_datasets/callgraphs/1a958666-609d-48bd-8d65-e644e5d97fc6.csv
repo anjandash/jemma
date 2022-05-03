@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1a958666-609d-48bd-8d65-e644e5d97fc6,6f5818e6-2f1b-40a3-a8e2-fdf84ed19a08,6945d7fd-4035-462d-a7a4-e0aa3ead4bf3,->,1a958666-609d-48bd-8d65-e644e5d97fc6,SortedList$SortedCell.java,setNext
+1a958666-609d-48bd-8d65-e644e5d97fc6,6f5818e6-2f1b-40a3-a8e2-fdf84ed19a08,563c07b1-06b3-407d-ae7b-cc4a895b6ea6,->,1a958666-609d-48bd-8d65-e644e5d97fc6,SortedList$SortedCell.java,getCouple
+1a958666-609d-48bd-8d65-e644e5d97fc6,6f5818e6-2f1b-40a3-a8e2-fdf84ed19a08,e72853ad-c29d-4b39-9238-6578b73a4a06,->,1a958666-609d-48bd-8d65-e644e5d97fc6,SortedList$SortedCell.java,getNext
+1a958666-609d-48bd-8d65-e644e5d97fc6,6f5818e6-2f1b-40a3-a8e2-fdf84ed19a08,e72853ad-c29d-4b39-9238-6578b73a4a06,->,1a958666-609d-48bd-8d65-e644e5d97fc6,SortedList$SortedCell.java,getCouple

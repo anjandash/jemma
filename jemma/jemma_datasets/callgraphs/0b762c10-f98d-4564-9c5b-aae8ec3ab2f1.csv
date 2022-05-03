@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,b322f0b1-c257-4fbb-ad1f-4f53a4e3fce2,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,20cf2180-d7ea-4bbc-9fda-81370a0d77ba,b235eda6-e880-4ea0-8af6-067fd0b01a3c
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,b322f0b1-c257-4fbb-ad1f-4f53a4e3fce2,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,a05e6eac-fa2e-4481-8e1b-7f62f1e2d459,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,5b977c26-f728-426e-897e-aa99f3580ccb,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,43c1ba9c-eaff-424e-9262-e9c1ab67a9d7,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,92b717ef-bb98-4088-bc8c-e092d24049bd,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,284a8992-13ed-4819-b760-8d13cc0b0b7a,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,6befe1b3-85b5-4d6f-bb3f-6f8594ae54d0,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,e1ab5e1b-c2b4-47e1-8fa5-7360cefdc378,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,7c41e80c-c78d-4e56-81ee-32f139f1f35a,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue
+0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,68f040e5-8576-4a0e-a5a5-4b9b6dac7817,d1d6f080-aede-42a0-acf4-e934761d22c2,->,0b762c10-f98d-4564-9c5b-aae8ec3ab2f1,org/junit/Assert.java,assertTrue

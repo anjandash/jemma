@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a4092940-fd42-4547-8531-834c1e2af98c,adefb99f-de37-46d2-ad7a-ef56830b9745,147bf4c1-8d4c-4f4a-959d-c43bb88092b9,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/jface/dialogs/MessageDialog.java,openConfirm
+a4092940-fd42-4547-8531-834c1e2af98c,adefb99f-de37-46d2-ad7a-ef56830b9745,147bf4c1-8d4c-4f4a-959d-c43bb88092b9,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/e4/ui/workbench/IWorkbench.java,close
+a4092940-fd42-4547-8531-834c1e2af98c,e22706f2-15f4-49c9-9025-5760d935413d,9d3e8c9e-d51f-43b9-8dbc-de0a1be653e2,->,a4092940-fd42-4547-8531-834c1e2af98c,e22706f2-15f4-49c9-9025-5760d935413d,e8b52542-32d8-416f-a1e4-d8cf94670665
+a4092940-fd42-4547-8531-834c1e2af98c,e22706f2-15f4-49c9-9025-5760d935413d,9d3e8c9e-d51f-43b9-8dbc-de0a1be653e2,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/jface/dialogs/MessageDialog.java,openInformation
+a4092940-fd42-4547-8531-834c1e2af98c,21ae79c4-35c6-49b4-bd79-3d92024749ec,45b4f934-1846-4e59-bc72-b3a492c048cb,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/swt/widgets/FileDialog.java,open
+a4092940-fd42-4547-8531-834c1e2af98c,9e329e4a-2fa5-4b23-851b-d4f14eadc2cd,7fca4aeb-4b21-4df1-bab0-eeb96d0cc401,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/e4/ui/model/application/ui/MDirtyable.java,isDirty
+a4092940-fd42-4547-8531-834c1e2af98c,9e329e4a-2fa5-4b23-851b-d4f14eadc2cd,6a50dacd-5052-4019-a613-6b5374ccedaa,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/e4/core/contexts/IEclipseContext.java,createChild
+a4092940-fd42-4547-8531-834c1e2af98c,9e329e4a-2fa5-4b23-851b-d4f14eadc2cd,6a50dacd-5052-4019-a613-6b5374ccedaa,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/jface/dialogs/ProgressMonitorDialog.java,open
+a4092940-fd42-4547-8531-834c1e2af98c,9e329e4a-2fa5-4b23-851b-d4f14eadc2cd,6a50dacd-5052-4019-a613-6b5374ccedaa,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/jface/dialogs/ProgressMonitorDialog.java,run
+a4092940-fd42-4547-8531-834c1e2af98c,9e329e4a-2fa5-4b23-851b-d4f14eadc2cd,6a50dacd-5052-4019-a613-6b5374ccedaa,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/e4/core/contexts/IEclipseContext.java,dispose
+a4092940-fd42-4547-8531-834c1e2af98c,net/sudr/workbench/app/handlers/SaveHandler$1.java,run,->,a4092940-fd42-4547-8531-834c1e2af98c,java/lang/Class.java,getName
+a4092940-fd42-4547-8531-834c1e2af98c,net/sudr/workbench/app/handlers/SaveHandler$1.java,run,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/e4/core/contexts/IEclipseContext.java,set
+a4092940-fd42-4547-8531-834c1e2af98c,net/sudr/workbench/app/handlers/SaveHandler$1.java,run,->,a4092940-fd42-4547-8531-834c1e2af98c,org/eclipse/e4/ui/model/application/MContribution.java,getObject
+a4092940-fd42-4547-8531-834c1e2af98c,32cbadbc-84d2-47f3-879f-4459cdb27c81,ed22f52c-a540-424e-a9d9-e88cdf755f02,->,a4092940-fd42-4547-8531-834c1e2af98c,e22706f2-15f4-49c9-9025-5760d935413d,e8b52542-32d8-416f-a1e4-d8cf94670665
+a4092940-fd42-4547-8531-834c1e2af98c,32cbadbc-84d2-47f3-879f-4459cdb27c81,ed22f52c-a540-424e-a9d9-e88cdf755f02,->,a4092940-fd42-4547-8531-834c1e2af98c,java/lang/String.java,equals
+a4092940-fd42-4547-8531-834c1e2af98c,32cbadbc-84d2-47f3-879f-4459cdb27c81,ed22f52c-a540-424e-a9d9-e88cdf755f02,->,a4092940-fd42-4547-8531-834c1e2af98c,org/junit/Assert.java,assertTrue

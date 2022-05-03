@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+107cc77e-defe-40f3-8152-4240d874635c,573beaa7-9260-4a72-a659-89b912e425f4,0fc550f3-db0e-467f-96d6-7923137cb04c,->,107cc77e-defe-40f3-8152-4240d874635c,org/ics/demo/dao/AppTest.java,assertTrue
+107cc77e-defe-40f3-8152-4240d874635c,c635555c-436f-4920-9d29-fb6e072240fe,a1352a4d-9029-46bf-949c-fb00defe3737,->,107cc77e-defe-40f3-8152-4240d874635c,java/io/PrintStream.java,println
+107cc77e-defe-40f3-8152-4240d874635c,d7fefe3b-359e-4ce2-a5a5-faa9671d3c95,ee3ca1b7-ba8e-44eb-8b58-3a26d6748bb9,->,107cc77e-defe-40f3-8152-4240d874635c,org/ics/demo/service/AppTest.java,assertTrue
+107cc77e-defe-40f3-8152-4240d874635c,8e4fc510-a97c-46fd-993c-54597e6a4bde,9d12fa5d-9b6c-498f-9f71-6175ecafefe6,->,107cc77e-defe-40f3-8152-4240d874635c,java/io/PrintStream.java,println
+107cc77e-defe-40f3-8152-4240d874635c,cf7381f0-5030-4b5f-bda6-987341064356,6904384f-31b9-47c1-8695-dfea521a7bc0,->,107cc77e-defe-40f3-8152-4240d874635c,org/ics/demo/utils/AppTest.java,assertTrue
+107cc77e-defe-40f3-8152-4240d874635c,2aff6804-778e-4d13-b9f5-76c19782a53b,bbb0e185-8722-4c2d-9eac-cebcefdacc3d,->,107cc77e-defe-40f3-8152-4240d874635c,java/io/PrintStream.java,println
+107cc77e-defe-40f3-8152-4240d874635c,ea7ba67a-2a32-4f6b-a65a-af96fd4551ca,a4f4c497-d078-438e-a919-a68b3ce64faa,->,107cc77e-defe-40f3-8152-4240d874635c,org/ics/demo/bean/AppTest.java,assertTrue
+107cc77e-defe-40f3-8152-4240d874635c,f60d05f5-21a9-47ce-8288-08f6f65bab74,19acb453-1885-4585-9051-803f3a2589bd,->,107cc77e-defe-40f3-8152-4240d874635c,java/io/PrintStream.java,println

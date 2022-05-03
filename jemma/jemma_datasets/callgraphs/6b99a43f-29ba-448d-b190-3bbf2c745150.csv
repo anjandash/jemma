@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6b99a43f-29ba-448d-b190-3bbf2c745150,com/dodecaedro/patterns/command/DimmerState$2.java,applyTo,->,6b99a43f-29ba-448d-b190-3bbf2c745150,1309ba53-2e2b-4313-9824-83befad88cd5,96a6fcc3-aa7d-4e57-94e4-f9f0e12a0541
+6b99a43f-29ba-448d-b190-3bbf2c745150,1309ba53-2e2b-4313-9824-83befad88cd5,c0cc6526-de66-486e-b619-606e30c31b7a,->,6b99a43f-29ba-448d-b190-3bbf2c745150,java/io/PrintStream.java,println
+6b99a43f-29ba-448d-b190-3bbf2c745150,1309ba53-2e2b-4313-9824-83befad88cd5,96a6fcc3-aa7d-4e57-94e4-f9f0e12a0541,->,6b99a43f-29ba-448d-b190-3bbf2c745150,java/io/PrintStream.java,println
+6b99a43f-29ba-448d-b190-3bbf2c745150,1309ba53-2e2b-4313-9824-83befad88cd5,ec67fc80-9bdd-4243-b13d-659359b0dbd9,->,6b99a43f-29ba-448d-b190-3bbf2c745150,java/io/PrintStream.java,println
+6b99a43f-29ba-448d-b190-3bbf2c745150,8cc7f73c-dac8-4abf-ac2c-81471063becc,574c0eb1-c6b4-4f4b-86a7-82799c1e11f5,->,6b99a43f-29ba-448d-b190-3bbf2c745150,313b64bd-ccce-47c4-ac58-b07c27996a51,"b09a6c99-c556-48e9-a803-5c439c9219e5,4fbe025d-e174-4300-9e4f-83800a7657d8,790e0195-5bf9-4ad5-9df7-80f294cfa8d4"
+6b99a43f-29ba-448d-b190-3bbf2c745150,com/dodecaedro/patterns/command/DimmerState$3.java,applyTo,->,6b99a43f-29ba-448d-b190-3bbf2c745150,1309ba53-2e2b-4313-9824-83befad88cd5,ec67fc80-9bdd-4243-b13d-659359b0dbd9
+6b99a43f-29ba-448d-b190-3bbf2c745150,com/dodecaedro/patterns/command/DimmerState$1.java,applyTo,->,6b99a43f-29ba-448d-b190-3bbf2c745150,1309ba53-2e2b-4313-9824-83befad88cd5,c0cc6526-de66-486e-b619-606e30c31b7a
+6b99a43f-29ba-448d-b190-3bbf2c745150,41f5a800-fb1b-4124-b5f6-5bbd4767f27c,a409db95-00c6-4920-82aa-a9f6a27074bb,->,6b99a43f-29ba-448d-b190-3bbf2c745150,8cc7f73c-dac8-4abf-ac2c-81471063becc,574c0eb1-c6b4-4f4b-86a7-82799c1e11f5
+6b99a43f-29ba-448d-b190-3bbf2c745150,41f5a800-fb1b-4124-b5f6-5bbd4767f27c,a409db95-00c6-4920-82aa-a9f6a27074bb,->,6b99a43f-29ba-448d-b190-3bbf2c745150,8cc7f73c-dac8-4abf-ac2c-81471063becc,574c0eb1-c6b4-4f4b-86a7-82799c1e11f5
+6b99a43f-29ba-448d-b190-3bbf2c745150,41f5a800-fb1b-4124-b5f6-5bbd4767f27c,a409db95-00c6-4920-82aa-a9f6a27074bb,->,6b99a43f-29ba-448d-b190-3bbf2c745150,8cc7f73c-dac8-4abf-ac2c-81471063becc,574c0eb1-c6b4-4f4b-86a7-82799c1e11f5
+6b99a43f-29ba-448d-b190-3bbf2c745150,com/dodecaedro/patterns/command/DimmerState.java,values,->,6b99a43f-29ba-448d-b190-3bbf2c745150,com/dodecaedro/patterns/command/DimmerState.java,clone
+6b99a43f-29ba-448d-b190-3bbf2c745150,com/dodecaedro/patterns/command/DimmerState.java,valueOf,->,6b99a43f-29ba-448d-b190-3bbf2c745150,java/lang/Enum.java,valueOf

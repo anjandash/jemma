@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,1a6ffbaf-420a-4447-96d9-9c74837171c9,2f948f85-b64c-4dac-a138-992b22b7333c,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,javax/naming/Context.java,lookup
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,1a6ffbaf-420a-4447-96d9-9c74837171c9,2f948f85-b64c-4dac-a138-992b22b7333c,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,95b7e5f4-3c3c-4402-8b42-ac950e55585d,f31bdfe9-201f-4c1c-ba90-5f470ea935da
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,1a6ffbaf-420a-4447-96d9-9c74837171c9,fffa10ad-fca9-4767-a735-d23334123353,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,95b7e5f4-3c3c-4402-8b42-ac950e55585d,85f96479-68df-4322-91a6-687bfe4b60df
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,1bb0de18-2584-4a7c-93de-e5e0007aafd9,75c3dae4-f390-431e-9432-c594dfffb78a,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,java/lang/Object.java,getClass
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,1bb0de18-2584-4a7c-93de-e5e0007aafd9,75c3dae4-f390-431e-9432-c594dfffb78a,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,java/lang/Object.java,getClass
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,ee7fcf3a-14b8-4edf-9dd7-9f4c883e68c1,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,java/lang/Integer.java,valueOf
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,ee7fcf3a-14b8-4edf-9dd7-9f4c883e68c1,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,javax/persistence/EntityManager.java,find
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,ee7fcf3a-14b8-4edf-9dd7-9f4c883e68c1,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,java/lang/Integer.java,valueOf
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,ee7fcf3a-14b8-4edf-9dd7-9f4c883e68c1,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,javax/persistence/EntityManager.java,find
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,ee7fcf3a-14b8-4edf-9dd7-9f4c883e68c1,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,javax/persistence/EntityManager.java,persist
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,a627963f-1a92-4aaf-8b90-a24709cebe29,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,javax/persistence/EntityManager.java,persist
+00053946-69b2-4d5d-8fb9-cfcedd78fc43,b3ced359-5668-4857-8b1e-78f3ab70a147,a627963f-1a92-4aaf-8b90-a24709cebe29,->,00053946-69b2-4d5d-8fb9-cfcedd78fc43,javax/persistence/EntityManager.java,persist

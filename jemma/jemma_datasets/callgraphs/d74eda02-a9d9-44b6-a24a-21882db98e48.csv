@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d74eda02-a9d9-44b6-a24a-21882db98e48,49e5437a-6bb3-4689-a17d-cbeac51f3bc0,af65a476-767b-4a3c-877b-e506ed504fef,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,doubleValue
+d74eda02-a9d9-44b6-a24a-21882db98e48,49e5437a-6bb3-4689-a17d-cbeac51f3bc0,af65a476-767b-4a3c-877b-e506ed504fef,->,d74eda02-a9d9-44b6-a24a-21882db98e48,Operator.java,operate
+d74eda02-a9d9-44b6-a24a-21882db98e48,36108651-1c84-4578-8edc-d80757dfb0d4,590c44d6-2b64-44db-a5b4-c8698deb4655,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,36108651-1c84-4578-8edc-d80757dfb0d4,590c44d6-2b64-44db-a5b4-c8698deb4655,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,36108651-1c84-4578-8edc-d80757dfb0d4,590c44d6-2b64-44db-a5b4-c8698deb4655,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,36108651-1c84-4578-8edc-d80757dfb0d4,590c44d6-2b64-44db-a5b4-c8698deb4655,->,d74eda02-a9d9-44b6-a24a-21882db98e48,49e5437a-6bb3-4689-a17d-cbeac51f3bc0,af65a476-767b-4a3c-877b-e506ed504fef
+d74eda02-a9d9-44b6-a24a-21882db98e48,36108651-1c84-4578-8edc-d80757dfb0d4,590c44d6-2b64-44db-a5b4-c8698deb4655,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,36108651-1c84-4578-8edc-d80757dfb0d4,590c44d6-2b64-44db-a5b4-c8698deb4655,->,d74eda02-a9d9-44b6-a24a-21882db98e48,junit/framework/Assert.java,assertEquals
+d74eda02-a9d9-44b6-a24a-21882db98e48,aa543c52-7ff2-407c-a247-2d730b9b26e5,933c66fa-4365-4837-a8ed-1ebbef1948e2,->,d74eda02-a9d9-44b6-a24a-21882db98e48,49e5437a-6bb3-4689-a17d-cbeac51f3bc0,af65a476-767b-4a3c-877b-e506ed504fef
+d74eda02-a9d9-44b6-a24a-21882db98e48,aa543c52-7ff2-407c-a247-2d730b9b26e5,933c66fa-4365-4837-a8ed-1ebbef1948e2,->,d74eda02-a9d9-44b6-a24a-21882db98e48,49e5437a-6bb3-4689-a17d-cbeac51f3bc0,af65a476-767b-4a3c-877b-e506ed504fef
+d74eda02-a9d9-44b6-a24a-21882db98e48,c3cf3324-bdb4-439d-b762-0e8bb1fa4f6c,6f167637-062b-4c63-88b7-ec3933423e6a,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,c3cf3324-bdb4-439d-b762-0e8bb1fa4f6c,6f167637-062b-4c63-88b7-ec3933423e6a,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,c3cf3324-bdb4-439d-b762-0e8bb1fa4f6c,6f167637-062b-4c63-88b7-ec3933423e6a,->,d74eda02-a9d9-44b6-a24a-21882db98e48,Operator.java,operate
+d74eda02-a9d9-44b6-a24a-21882db98e48,c3cf3324-bdb4-439d-b762-0e8bb1fa4f6c,6f167637-062b-4c63-88b7-ec3933423e6a,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,c3cf3324-bdb4-439d-b762-0e8bb1fa4f6c,6f167637-062b-4c63-88b7-ec3933423e6a,->,d74eda02-a9d9-44b6-a24a-21882db98e48,java/lang/Double.java,valueOf
+d74eda02-a9d9-44b6-a24a-21882db98e48,c3cf3324-bdb4-439d-b762-0e8bb1fa4f6c,6f167637-062b-4c63-88b7-ec3933423e6a,->,d74eda02-a9d9-44b6-a24a-21882db98e48,junit/framework/Assert.java,assertEquals

@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1b3c7cdf-a58b-4528-9173-89f22a9ebc38,5977d1fd-ac36-411b-9639-21fb730f5c95,ea6a2cfa-afc4-4ef8-9871-ef4420f543a8,->,1b3c7cdf-a58b-4528-9173-89f22a9ebc38,javax/swing/JFrame.java,getContentPane
+1b3c7cdf-a58b-4528-9173-89f22a9ebc38,5977d1fd-ac36-411b-9639-21fb730f5c95,ea6a2cfa-afc4-4ef8-9871-ef4420f543a8,->,1b3c7cdf-a58b-4528-9173-89f22a9ebc38,java/awt/Container.java,add
+1b3c7cdf-a58b-4528-9173-89f22a9ebc38,5977d1fd-ac36-411b-9639-21fb730f5c95,ea6a2cfa-afc4-4ef8-9871-ef4420f543a8,->,1b3c7cdf-a58b-4528-9173-89f22a9ebc38,javax/swing/JFrame.java,pack
+1b3c7cdf-a58b-4528-9173-89f22a9ebc38,5977d1fd-ac36-411b-9639-21fb730f5c95,ea6a2cfa-afc4-4ef8-9871-ef4420f543a8,->,1b3c7cdf-a58b-4528-9173-89f22a9ebc38,javax/swing/JFrame.java,setVisible

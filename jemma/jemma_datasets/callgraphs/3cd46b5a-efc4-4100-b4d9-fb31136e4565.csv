@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,a9efaea6-1b9b-49e0-afa7-43105b1b37c5,e01e207a-9452-4d12-820d-e5fdb0d0c9bb,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,com/company/redis/client/AppTest.java,assertTrue
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,5f548b45-8583-4c8a-ab74-767438e5140f,55eb49e8-7a59-43ab-860e-df2c849715f9,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/io/PrintStream.java,println
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/lang/StringBuilder.java,append
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/text/SimpleDateFormat.java,format
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/lang/StringBuilder.java,append
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/lang/StringBuilder.java,toString
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,redis/clients/jedis/Jedis.java,set
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,redis/clients/jedis/Jedis.java,get
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,1014e18e-5bca-4f91-9305-d3293688d718,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/io/PrintStream.java,print
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,ce08f520-a798-40c4-93d3-028c839d8c04,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/util/Set.java,add
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,ce08f520-a798-40c4-93d3-028c839d8c04,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,redis/clients/jedis/JedisCluster.java,set
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,ce08f520-a798-40c4-93d3-028c839d8c04,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,redis/clients/jedis/JedisCluster.java,get
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,53812ce2-1fac-4a0f-8ba8-448e2e84eeb5,ce08f520-a798-40c4-93d3-028c839d8c04,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,java/io/PrintStream.java,print
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,595d7739-f91c-4a00-96c5-06bcb0e42b2d,c1a145a2-2136-4c23-b627-a4c948b0c75a,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,javax/xml/ws/Service.java,getPort
+3cd46b5a-efc4-4100-b4d9-fb31136e4565,595d7739-f91c-4a00-96c5-06bcb0e42b2d,27c2d7ec-a22b-4135-99c1-a25ddf9851fb,->,3cd46b5a-efc4-4100-b4d9-fb31136e4565,javax/xml/ws/Service.java,getPort

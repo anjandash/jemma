@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,e3165ca9-6cea-4e94-9e05-372b6f2f74b4,->,ba80196d-7689-4e01-9c70-4c14edcf1248,org/springframework/context/ApplicationContext.java,getBeansOfType
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,e3165ca9-6cea-4e94-9e05-372b6f2f74b4,->,ba80196d-7689-4e01-9c70-4c14edcf1248,java/util/Map.java,size
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,e3165ca9-6cea-4e94-9e05-372b6f2f74b4,->,ba80196d-7689-4e01-9c70-4c14edcf1248,org/fest/assertions/api/Assertions.java,assertThat
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,e3165ca9-6cea-4e94-9e05-372b6f2f74b4,->,ba80196d-7689-4e01-9c70-4c14edcf1248,org/fest/assertions/api/IntegerAssert.java,isEqualTo
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,38962f76-4054-4d0e-aef0-b9918687e0f7,->,ba80196d-7689-4e01-9c70-4c14edcf1248,org/springframework/context/ApplicationContext.java,getBean
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,38962f76-4054-4d0e-aef0-b9918687e0f7,->,ba80196d-7689-4e01-9c70-4c14edcf1248,wkr/test/spring/bug/PetDao.java,save
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,38962f76-4054-4d0e-aef0-b9918687e0f7,->,ba80196d-7689-4e01-9c70-4c14edcf1248,88743136-608b-4177-a1dc-17af520941f0,2b388aff-0f29-436b-8e75-c53407d6251c
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,38962f76-4054-4d0e-aef0-b9918687e0f7,->,ba80196d-7689-4e01-9c70-4c14edcf1248,wkr/test/spring/bug/PetDao.java,findOne
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,38962f76-4054-4d0e-aef0-b9918687e0f7,->,ba80196d-7689-4e01-9c70-4c14edcf1248,org/fest/assertions/api/Assertions.java,assertThat
+ba80196d-7689-4e01-9c70-4c14edcf1248,00416d61-7f69-4902-9cdc-cae3aad4f41e,38962f76-4054-4d0e-aef0-b9918687e0f7,->,ba80196d-7689-4e01-9c70-4c14edcf1248,org/fest/assertions/api/ObjectAssert.java,isNotNull

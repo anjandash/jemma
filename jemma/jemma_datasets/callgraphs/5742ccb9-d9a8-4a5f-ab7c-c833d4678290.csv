@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,5a148ea4-5228-4a0a-b6b4-5815ae1675e5,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,java/util/List.java,add
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,5a148ea4-5228-4a0a-b6b4-5815ae1675e5,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,e2638aee-b730-4dcb-bd9c-397d104e9378
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,5a148ea4-5228-4a0a-b6b4-5815ae1675e5,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,java/util/List.java,add
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,f2f8d5a2-2083-4dfc-845e-08daaf96d6ff,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,e2638aee-b730-4dcb-bd9c-397d104e9378
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,e2638aee-b730-4dcb-bd9c-397d104e9378,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,java/util/Arrays.java,asList
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,77cc5352-0124-45d1-8ff7-6a410bdba30c,fec95d97-66e1-41fe-8c5e-4957d6fda790,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,5a148ea4-5228-4a0a-b6b4-5815ae1675e5
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,77cc5352-0124-45d1-8ff7-6a410bdba30c,062ed3d3-df25-46f2-bce5-97724746aaf3,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,javax/ws/rs/core/Response.java,status
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,77cc5352-0124-45d1-8ff7-6a410bdba30c,062ed3d3-df25-46f2-bce5-97724746aaf3,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,7e0eabd7-4bc1-478d-967f-e973ce32494b,f2f8d5a2-2083-4dfc-845e-08daaf96d6ff
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,77cc5352-0124-45d1-8ff7-6a410bdba30c,062ed3d3-df25-46f2-bce5-97724746aaf3,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,javax/ws/rs/core/Response$ResponseBuilder.java,entity
+5742ccb9-d9a8-4a5f-ab7c-c833d4678290,77cc5352-0124-45d1-8ff7-6a410bdba30c,062ed3d3-df25-46f2-bce5-97724746aaf3,->,5742ccb9-d9a8-4a5f-ab7c-c833d4678290,javax/ws/rs/core/Response$ResponseBuilder.java,build

@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/rmi/registry/LocateRegistry.java,getRegistry
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/rmi/registry/Registry.java,lookup
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/lang/StringBuilder.java,append
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,ef5f558c-948d-4293-96c2-cefc3841799e,14980dec-2af2-444f-b9f8-8a6ef0a85e35
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/lang/StringBuilder.java,append
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/lang/StringBuilder.java,toString
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/io/PrintStream.java,println
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/lang/Exception.java,getMessage
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,362757e2-0e4d-4bc7-a769-6a1febf44962,0a28738c-6099-4b1c-a59b-c29f82a96a6c,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/io/PrintStream.java,println
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,195e2420-702e-421a-b7eb-53ec2cfc0bbf,d9a7a3e4-3c1c-4382-8edb-d707a8e45d89,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/rmi/registry/LocateRegistry.java,createRegistry
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,195e2420-702e-421a-b7eb-53ec2cfc0bbf,d9a7a3e4-3c1c-4382-8edb-d707a8e45d89,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/rmi/registry/Registry.java,bind
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,195e2420-702e-421a-b7eb-53ec2cfc0bbf,d9a7a3e4-3c1c-4382-8edb-d707a8e45d89,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/lang/Exception.java,getMessage
+ef628bcb-2e37-4ced-9a4d-98194b8bca6c,195e2420-702e-421a-b7eb-53ec2cfc0bbf,d9a7a3e4-3c1c-4382-8edb-d707a8e45d89,->,ef628bcb-2e37-4ced-9a4d-98194b8bca6c,java/io/PrintStream.java,println

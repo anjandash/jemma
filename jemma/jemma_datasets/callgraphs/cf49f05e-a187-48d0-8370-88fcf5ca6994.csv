@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cf49f05e-a187-48d0-8370-88fcf5ca6994,b226073a-2fa3-46a5-bfd2-955676a32590,2fca4fb5-b816-493d-af4d-0031f7d30f54,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/springframework/security/core/Authentication.java,getName
+cf49f05e-a187-48d0-8370-88fcf5ca6994,b226073a-2fa3-46a5-bfd2-955676a32590,2fca4fb5-b816-493d-af4d-0031f7d30f54,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/springframework/security/core/Authentication.java,getCredentials
+cf49f05e-a187-48d0-8370-88fcf5ca6994,b226073a-2fa3-46a5-bfd2-955676a32590,2fca4fb5-b816-493d-af4d-0031f7d30f54,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,f3d193ee-34ba-43a5-af4e-e968ba92a3c9,6800bf2b-6ef7-4d5f-a85a-e847ef6e44a0
+cf49f05e-a187-48d0-8370-88fcf5ca6994,b226073a-2fa3-46a5-bfd2-955676a32590,2fca4fb5-b816-493d-af4d-0031f7d30f54,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/springframework/security/core/userdetails/UserDetails.java,getPassword
+cf49f05e-a187-48d0-8370-88fcf5ca6994,b226073a-2fa3-46a5-bfd2-955676a32590,2fca4fb5-b816-493d-af4d-0031f7d30f54,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,java/lang/String.java,equals
+cf49f05e-a187-48d0-8370-88fcf5ca6994,13a9ea71-62f0-4f8b-aa91-b117069ccfdc,8c16117d-74af-4919-bda8-e34c9780ae94,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/slf4j/Logger.java,info
+cf49f05e-a187-48d0-8370-88fcf5ca6994,com/rocket/agr/controller/LoginController.java,<clinit>,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/slf4j/LoggerFactory.java,getLogger
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,4eced067-df61-4784-97ee-8e537194b1b3,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/slf4j/Logger.java,info
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,4eced067-df61-4784-97ee-8e537194b1b3,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,java/text/DateFormat.java,getDateTimeInstance
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,4eced067-df61-4784-97ee-8e537194b1b3,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,java/text/DateFormat.java,format
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,4eced067-df61-4784-97ee-8e537194b1b3,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/springframework/ui/Model.java,addAttribute
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,067a84ed-fb18-41c0-bde6-f349dc132cc2,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/slf4j/Logger.java,info
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,067a84ed-fb18-41c0-bde6-f349dc132cc2,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,java/text/DateFormat.java,getDateTimeInstance
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,067a84ed-fb18-41c0-bde6-f349dc132cc2,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,java/text/DateFormat.java,format
+cf49f05e-a187-48d0-8370-88fcf5ca6994,634b26f1-d357-4ee6-8fcd-eed29faa454f,067a84ed-fb18-41c0-bde6-f349dc132cc2,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/springframework/ui/Model.java,addAttribute
+cf49f05e-a187-48d0-8370-88fcf5ca6994,com/rocket/agr/controller/HomeController.java,<clinit>,->,cf49f05e-a187-48d0-8370-88fcf5ca6994,org/slf4j/LoggerFactory.java,getLogger

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,5987f1e0-6dce-40e6-85b8-4a2b54fc5f52,367b46d2-e847-4d47-9d63-31e2ebce9746,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,java/lang/Object.java,toString
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,5987f1e0-6dce-40e6-85b8-4a2b54fc5f52,367b46d2-e847-4d47-9d63-31e2ebce9746,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,c6eafc70-b689-4fa2-9d2d-4fe71e7bbdcd,8d0f471a-61ad-4376-8984-e36beb1348dc
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,5987f1e0-6dce-40e6-85b8-4a2b54fc5f52,367b46d2-e847-4d47-9d63-31e2ebce9746,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,junit/framework/Assert.java,assertNotNull
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,e634d63c-c348-4188-a26f-6bb5b86fa170,f7b8a592-a12e-4e0e-a18b-59b9d3552bfe,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,java/io/PrintStream.java,println
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,e634d63c-c348-4188-a26f-6bb5b86fa170,f7b8a592-a12e-4e0e-a18b-59b9d3552bfe,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,java/lang/Object.java,toString
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,e634d63c-c348-4188-a26f-6bb5b86fa170,f7b8a592-a12e-4e0e-a18b-59b9d3552bfe,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,c6eafc70-b689-4fa2-9d2d-4fe71e7bbdcd,8d0f471a-61ad-4376-8984-e36beb1348dc
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,e634d63c-c348-4188-a26f-6bb5b86fa170,f7b8a592-a12e-4e0e-a18b-59b9d3552bfe,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,junit/framework/Assert.java,assertNotNull
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,c6eafc70-b689-4fa2-9d2d-4fe71e7bbdcd,8d0f471a-61ad-4376-8984-e36beb1348dc,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,java/lang/StringBuilder.java,append
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,c6eafc70-b689-4fa2-9d2d-4fe71e7bbdcd,8d0f471a-61ad-4376-8984-e36beb1348dc,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,java/lang/StringBuilder.java,append
+f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,c6eafc70-b689-4fa2-9d2d-4fe71e7bbdcd,8d0f471a-61ad-4376-8984-e36beb1348dc,->,f559be09-ba1f-4fbe-b4e3-4a945de9dbf2,java/lang/StringBuilder.java,toString

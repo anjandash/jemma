@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c58942bb-e2b6-4a32-ac05-0a857f7dff0c,92ad9424-03ef-488f-a666-a59b5a4ec688,450bb59b-883d-480e-8b26-9cf2d58bb8b7,->,c58942bb-e2b6-4a32-ac05-0a857f7dff0c,java/io/BufferedReader.java,close
+c58942bb-e2b6-4a32-ac05-0a857f7dff0c,92ad9424-03ef-488f-a666-a59b5a4ec688,450bb59b-883d-480e-8b26-9cf2d58bb8b7,->,c58942bb-e2b6-4a32-ac05-0a857f7dff0c,java/lang/Exception.java,printStackTrace
+c58942bb-e2b6-4a32-ac05-0a857f7dff0c,92ad9424-03ef-488f-a666-a59b5a4ec688,450bb59b-883d-480e-8b26-9cf2d58bb8b7,->,c58942bb-e2b6-4a32-ac05-0a857f7dff0c,java/io/BufferedReader.java,close
+c58942bb-e2b6-4a32-ac05-0a857f7dff0c,92ad9424-03ef-488f-a666-a59b5a4ec688,450bb59b-883d-480e-8b26-9cf2d58bb8b7,->,c58942bb-e2b6-4a32-ac05-0a857f7dff0c,java/io/BufferedReader.java,close
+c58942bb-e2b6-4a32-ac05-0a857f7dff0c,com/pet/demo/FeedFrequency.java,values,->,c58942bb-e2b6-4a32-ac05-0a857f7dff0c,com/pet/demo/FeedFrequency.java,clone
+c58942bb-e2b6-4a32-ac05-0a857f7dff0c,com/pet/demo/FeedFrequency.java,valueOf,->,c58942bb-e2b6-4a32-ac05-0a857f7dff0c,java/lang/Enum.java,valueOf

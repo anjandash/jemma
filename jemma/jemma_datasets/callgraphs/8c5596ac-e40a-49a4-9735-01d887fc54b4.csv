@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8c5596ac-e40a-49a4-9735-01d887fc54b4,e26d36ce-94df-4899-aafc-dc7eb49521d0,3adedac2-a8ef-44c2-b308-5abaf0c6ee15,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/util/List.java,add
+8c5596ac-e40a-49a4-9735-01d887fc54b4,e26d36ce-94df-4899-aafc-dc7eb49521d0,d62077c4-937c-476f-8ca5-58ed6434a3a9,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/util/List.java,remove
+8c5596ac-e40a-49a4-9735-01d887fc54b4,Main$1.java,run,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,Main.java,setVisible
+8c5596ac-e40a-49a4-9735-01d887fc54b4,Main$1.java,run,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/lang/Exception.java,printStackTrace
+8c5596ac-e40a-49a4-9735-01d887fc54b4,Main$2.java,actionPerformed,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/io/PrintStream.java,println
+8c5596ac-e40a-49a4-9735-01d887fc54b4,Main$3.java,actionPerformed,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/io/PrintStream.java,println
+8c5596ac-e40a-49a4-9735-01d887fc54b4,Main$4.java,actionPerformed,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/io/PrintStream.java,println
+8c5596ac-e40a-49a4-9735-01d887fc54b4,Main$5.java,actionPerformed,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/io/PrintStream.java,println
+8c5596ac-e40a-49a4-9735-01d887fc54b4,062fdb6a-f857-47fe-bd24-8ebe9854b27a,b663e69b-fce2-44fd-9193-c29b6a51e523,->,8c5596ac-e40a-49a4-9735-01d887fc54b4,java/awt/EventQueue.java,invokeLater

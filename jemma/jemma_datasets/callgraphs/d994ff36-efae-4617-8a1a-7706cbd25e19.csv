@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Board/CheckerType.java,values,->,d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Board/CheckerType.java,clone
+d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Board/CheckerType.java,valueOf,->,d994ff36-efae-4617-8a1a-7706cbd25e19,java/lang/Enum.java,valueOf
+d994ff36-efae-4617-8a1a-7706cbd25e19,0f645f65-e9c1-4768-ba59-c9a9ced26cbe,56b4f19d-2172-48ce-ac9e-0b2c3ddfca78,->,d994ff36-efae-4617-8a1a-7706cbd25e19,83338f88-b92e-418a-8c7a-934641d75be1,a9c0b4c5-d926-4e99-b7ec-b8f947638c42
+d994ff36-efae-4617-8a1a-7706cbd25e19,189e3599-5a71-46c4-befa-aebbff45b078,73808a5b-2f54-4fb9-9772-ac31828fb449,->,d994ff36-efae-4617-8a1a-7706cbd25e19,javax/swing/SwingUtilities.java,invokeLater
+d994ff36-efae-4617-8a1a-7706cbd25e19,189e3599-5a71-46c4-befa-aebbff45b078,73808a5b-2f54-4fb9-9772-ac31828fb449,->,d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Frame/GameFrame.java,setTitle
+d994ff36-efae-4617-8a1a-7706cbd25e19,189e3599-5a71-46c4-befa-aebbff45b078,73808a5b-2f54-4fb9-9772-ac31828fb449,->,d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Frame/GameFrame.java,setVisible
+d994ff36-efae-4617-8a1a-7706cbd25e19,189e3599-5a71-46c4-befa-aebbff45b078,73808a5b-2f54-4fb9-9772-ac31828fb449,->,d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Frame/GameFrame.java,setDefaultCloseOperation
+d994ff36-efae-4617-8a1a-7706cbd25e19,189e3599-5a71-46c4-befa-aebbff45b078,73808a5b-2f54-4fb9-9772-ac31828fb449,->,d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Frame/GameFrame.java,getContentPane
+d994ff36-efae-4617-8a1a-7706cbd25e19,189e3599-5a71-46c4-befa-aebbff45b078,73808a5b-2f54-4fb9-9772-ac31828fb449,->,d994ff36-efae-4617-8a1a-7706cbd25e19,com/aigars/Frame/GameFrame.java,setLayout

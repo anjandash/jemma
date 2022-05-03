@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4a2e1071-a14c-4551-96e5-acd97cce5f87,jp/endlfu/image/StringImageModelImpl.java,getStringImage,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/util/HashMap.java,get
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,6f38fd89-0ed7-499a-ae8e-6e0c49939b9a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/image/BufferedImage.java,createGraphics
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,6f38fd89-0ed7-499a-ae8e-6e0c49939b9a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/image/BufferedImage.java,getWidth
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,6f38fd89-0ed7-499a-ae8e-6e0c49939b9a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/image/BufferedImage.java,getHeight
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,c7967d0e-5b7e-4ab5-8b13-a78458bc7520,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Color.java,getRed
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,c7967d0e-5b7e-4ab5-8b13-a78458bc7520,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Color.java,getGreen
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,c7967d0e-5b7e-4ab5-8b13-a78458bc7520,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Color.java,getBlue
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,c7967d0e-5b7e-4ab5-8b13-a78458bc7520,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Color.java,getAlpha
+4a2e1071-a14c-4551-96e5-acd97cce5f87,5c244d50-2b62-4557-a210-66c7e0bbf3d5,c7967d0e-5b7e-4ab5-8b13-a78458bc7520,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Color.java,getRGB
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/image/BufferedImage.java,createGraphics
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Graphics2D.java,setBackground
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Graphics2D.java,clearRect
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Graphics2D.java,setColor
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/Graphics2D.java,drawString
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/image/PixelGrabber.java,grabPixels
+4a2e1071-a14c-4551-96e5-acd97cce5f87,76856b7d-1161-41b6-9759-e811319c5201,889c79f5-6550-462f-8703-aa3bba6ba12a,->,4a2e1071-a14c-4551-96e5-acd97cce5f87,java/awt/image/PixelGrabber.java,getPixels

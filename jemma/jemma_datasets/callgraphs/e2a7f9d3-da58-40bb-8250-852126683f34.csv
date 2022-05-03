@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/Class.java,getMethods
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/reflect/Method.java,isAnnotationPresent
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/reflect/Method.java,getAnnotation
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,com/mx/annotations/Validation.java,required
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/StringBuilder.java,append
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/StringBuilder.java,append
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/StringBuilder.java,toString
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/io/PrintStream.java,println
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/Class.java,newInstance
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/Boolean.java,valueOf
+e2a7f9d3-da58-40bb-8250-852126683f34,1436debe-36c6-4d9f-abb2-80278449761a,f3564437-bda0-4bc1-9487-c2f3cf301673,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/reflect/Method.java,invoke
+e2a7f9d3-da58-40bb-8250-852126683f34,com/mx/domain/Brands.java,values,->,e2a7f9d3-da58-40bb-8250-852126683f34,com/mx/domain/Brands.java,clone
+e2a7f9d3-da58-40bb-8250-852126683f34,com/mx/domain/Brands.java,valueOf,->,e2a7f9d3-da58-40bb-8250-852126683f34,java/lang/Enum.java,valueOf

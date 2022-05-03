@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0edfa165-2cdc-47ab-a234-7cd8f4643403,227aa406-13b2-4ab4-9e2e-e29751b76db0,78f0e422-aece-49fe-b2a6-4bc1ffcd6fc8,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,6f5dac54-c22d-44ec-864c-026bae9b8509
+0edfa165-2cdc-47ab-a234-7cd8f4643403,227aa406-13b2-4ab4-9e2e-e29751b76db0,78f0e422-aece-49fe-b2a6-4bc1ffcd6fc8,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,3c4dffdc-8cae-4f50-9059-cfb73f9cc39d
+0edfa165-2cdc-47ab-a234-7cd8f4643403,227aa406-13b2-4ab4-9e2e-e29751b76db0,78f0e422-aece-49fe-b2a6-4bc1ffcd6fc8,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,6f5dac54-c22d-44ec-864c-026bae9b8509
+0edfa165-2cdc-47ab-a234-7cd8f4643403,dcll/ebel/MySimpleStack/SimpleStackTest.java,<clinit>,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/lang/Class.java,desiredAssertionStatus
+0edfa165-2cdc-47ab-a234-7cd8f4643403,b1af53e3-90ee-48a0-b77c-bd8da70ac045,5bf55269-b1c9-45a9-8ed9-b1b5637068f8,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,dcll/ebel/MySimpleStack/AppTest.java,assertTrue
+0edfa165-2cdc-47ab-a234-7cd8f4643403,afb90089-8ac5-400d-ab8b-43907ecc9b67,94385e56-9ba4-4f8f-beef-cdec0a3e344b,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/io/PrintStream.java,println
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,6f5dac54-c22d-44ec-864c-026bae9b8509,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/util/ArrayList.java,isEmpty
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,b489cf65-d8bc-41c8-9a98-5c0601c688d5,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/util/ArrayList.java,size
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,3c4dffdc-8cae-4f50-9059-cfb73f9cc39d,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/util/ArrayList.java,add
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,95bb867e-333c-4deb-8fb6-cf79f507cef2,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,b489cf65-d8bc-41c8-9a98-5c0601c688d5
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,95bb867e-333c-4deb-8fb6-cf79f507cef2,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/util/ArrayList.java,get
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,553c56bd-cb81-4aaf-b0d3-1e8bc4100815,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,b489cf65-d8bc-41c8-9a98-5c0601c688d5
+0edfa165-2cdc-47ab-a234-7cd8f4643403,bd4d51db-cc60-456a-9eaa-bec613fbc969,553c56bd-cb81-4aaf-b0d3-1e8bc4100815,->,0edfa165-2cdc-47ab-a234-7cd8f4643403,java/util/ArrayList.java,remove

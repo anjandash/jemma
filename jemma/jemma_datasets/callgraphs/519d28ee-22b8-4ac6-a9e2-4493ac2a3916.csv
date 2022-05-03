@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,95e95d62-14d0-408f-97ce-c5f8a9450909,a7b684b8-f581-455c-a6c5-0718ed98137a,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,com/google/inject/Guice.java,createInjector
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,95e95d62-14d0-408f-97ce-c5f8a9450909,a7b684b8-f581-455c-a6c5-0718ed98137a,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,com/google/inject/Injector.java,getInstance
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,95e95d62-14d0-408f-97ce-c5f8a9450909,a7b684b8-f581-455c-a6c5-0718ed98137a,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,3dfed82d-8551-489b-9120-9ba842d2c618,f199bdc0-dd68-42f9-b8f4-9dceaeb416d8
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,95e95d62-14d0-408f-97ce-c5f8a9450909,a7b684b8-f581-455c-a6c5-0718ed98137a,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,java/io/PrintStream.java,println
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,a9a0a7ff-348b-49f2-96da-c35359face7d,da8d01e3-3214-4652-b5eb-1ecf0d200f87,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,com/yahoo/slingstone/demo/HelloWorldModule.java,bind
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,a9a0a7ff-348b-49f2-96da-c35359face7d,da8d01e3-3214-4652-b5eb-1ecf0d200f87,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,com/google/inject/binder/AnnotatedBindingBuilder.java,to
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,a9a0a7ff-348b-49f2-96da-c35359face7d,da8d01e3-3214-4652-b5eb-1ecf0d200f87,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,com/google/inject/binder/ScopedBindingBuilder.java,in
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,9b3821d1-7544-4862-be3c-b6269f5c5d17,52b7a88e-66fa-4eed-8472-d3cb7b7e1e14,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,com/yahoo/slingstone/demo/AppTest.java,assertTrue
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,ba255047-2f73-4559-900e-6b8c057cf972,9e2f0f8e-7ce8-47d7-af48-333c983b7122,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,java/lang/StringBuilder.java,append
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,ba255047-2f73-4559-900e-6b8c057cf972,9e2f0f8e-7ce8-47d7-af48-333c983b7122,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,java/lang/StringBuilder.java,append
+519d28ee-22b8-4ac6-a9e2-4493ac2a3916,ba255047-2f73-4559-900e-6b8c057cf972,9e2f0f8e-7ce8-47d7-af48-333c983b7122,->,519d28ee-22b8-4ac6-a9e2-4493ac2a3916,java/lang/StringBuilder.java,toString

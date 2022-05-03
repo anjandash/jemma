@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d162fa6b-23c2-4e2d-b6ef-f20322206d6a,Gender.java,values,->,d162fa6b-23c2-4e2d-b6ef-f20322206d6a,Gender.java,clone
+d162fa6b-23c2-4e2d-b6ef-f20322206d6a,Gender.java,valueOf,->,d162fa6b-23c2-4e2d-b6ef-f20322206d6a,java/lang/Enum.java,valueOf

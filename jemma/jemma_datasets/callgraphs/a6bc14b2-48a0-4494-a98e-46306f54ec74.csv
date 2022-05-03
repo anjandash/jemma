@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a6bc14b2-48a0-4494-a98e-46306f54ec74,4f87fd78-f73f-4282-ae5c-964908775de0,19b9d012-a80a-438d-b1dd-bdbed22e7ccb,->,a6bc14b2-48a0-4494-a98e-46306f54ec74,java/lang/Object.java,getClass
+a6bc14b2-48a0-4494-a98e-46306f54ec74,4f87fd78-f73f-4282-ae5c-964908775de0,19b9d012-a80a-438d-b1dd-bdbed22e7ccb,->,a6bc14b2-48a0-4494-a98e-46306f54ec74,java/lang/Object.java,getClass
+a6bc14b2-48a0-4494-a98e-46306f54ec74,00d4923f-1125-4b19-8a8e-af4ac2c81b30,c3c697e8-5a43-49a9-8681-8b7f7144c278,->,a6bc14b2-48a0-4494-a98e-46306f54ec74,java/lang/Object.java,getClass
+a6bc14b2-48a0-4494-a98e-46306f54ec74,00d4923f-1125-4b19-8a8e-af4ac2c81b30,c3c697e8-5a43-49a9-8681-8b7f7144c278,->,a6bc14b2-48a0-4494-a98e-46306f54ec74,java/lang/Object.java,getClass
+a6bc14b2-48a0-4494-a98e-46306f54ec74,55ee17cf-772f-488c-93e0-614a1dc170e3,b2cd4247-ea5a-4c51-ba1f-259363c85178,->,a6bc14b2-48a0-4494-a98e-46306f54ec74,java/lang/Object.java,getClass
+a6bc14b2-48a0-4494-a98e-46306f54ec74,55ee17cf-772f-488c-93e0-614a1dc170e3,b2cd4247-ea5a-4c51-ba1f-259363c85178,->,a6bc14b2-48a0-4494-a98e-46306f54ec74,java/lang/Object.java,getClass

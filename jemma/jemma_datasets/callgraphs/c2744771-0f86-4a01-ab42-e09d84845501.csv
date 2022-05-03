@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Nature.java,values,->,c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Nature.java,clone
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Nature.java,valueOf,->,c2744771-0f86-4a01-ab42-e09d84845501,java/lang/Enum.java,valueOf
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Gender.java,values,->,c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Gender.java,clone
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Gender.java,valueOf,->,c2744771-0f86-4a01-ab42-e09d84845501,java/lang/Enum.java,valueOf
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Type.java,values,->,c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Type.java,clone
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Type.java,valueOf,->,c2744771-0f86-4a01-ab42-e09d84845501,java/lang/Enum.java,valueOf
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Effectiveness.java,values,->,c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Effectiveness.java,clone
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/Effectiveness.java,valueOf,->,c2744771-0f86-4a01-ab42-e09d84845501,java/lang/Enum.java,valueOf
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/StatusEffect.java,values,->,c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/StatusEffect.java,clone
+c2744771-0f86-4a01-ab42-e09d84845501,openPokemon/Enums/StatusEffect.java,valueOf,->,c2744771-0f86-4a01-ab42-e09d84845501,java/lang/Enum.java,valueOf
+c2744771-0f86-4a01-ab42-e09d84845501,7536772c-dde4-4305-b5a8-c8dd5fa3a72a,47a9e191-31e2-400f-b636-d538e5a8daec,->,c2744771-0f86-4a01-ab42-e09d84845501,java/util/Arrays.java,asList
+c2744771-0f86-4a01-ab42-e09d84845501,7536772c-dde4-4305-b5a8-c8dd5fa3a72a,47a9e191-31e2-400f-b636-d538e5a8daec,->,c2744771-0f86-4a01-ab42-e09d84845501,java/util/List.java,contains
+c2744771-0f86-4a01-ab42-e09d84845501,7536772c-dde4-4305-b5a8-c8dd5fa3a72a,47a9e191-31e2-400f-b636-d538e5a8daec,->,c2744771-0f86-4a01-ab42-e09d84845501,java/util/Arrays.java,asList
+c2744771-0f86-4a01-ab42-e09d84845501,7536772c-dde4-4305-b5a8-c8dd5fa3a72a,47a9e191-31e2-400f-b636-d538e5a8daec,->,c2744771-0f86-4a01-ab42-e09d84845501,java/util/List.java,contains

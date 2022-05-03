@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,67580145-2de5-4fc2-a001-56b91b99bc97,2e6311f7-9b50-4718-a364-1d2aa2ccfa69,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,67580145-2de5-4fc2-a001-56b91b99bc97,82953b3a-25a4-4c64-9fa3-593df786d1c9
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,67580145-2de5-4fc2-a001-56b91b99bc97,82953b3a-25a4-4c64-9fa3-593df786d1c9,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,io/dropwizard/setup/Environment.java,jersey
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,67580145-2de5-4fc2-a001-56b91b99bc97,82953b3a-25a4-4c64-9fa3-593df786d1c9,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,io/dropwizard/jersey/setup/JerseyEnvironment.java,register
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,67580145-2de5-4fc2-a001-56b91b99bc97,82953b3a-25a4-4c64-9fa3-593df786d1c9,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,67580145-2de5-4fc2-a001-56b91b99bc97,82953b3a-25a4-4c64-9fa3-593df786d1c9
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,1d70565c-3dd1-4573-a029-9d569002b0f7,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,com/google/common/base/Preconditions.java,checkNotNull
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,1d70565c-3dd1-4573-a029-9d569002b0f7,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,java/util/List.java,add
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,5e5671e0-4a40-48b8-a8c0-6786f1c23d13,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,com/google/common/collect/ImmutableList.java,copyOf
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,com/voidshaper/homingmissile/domain/Status.java,values,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,com/voidshaper/homingmissile/domain/Status.java,clone
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,com/voidshaper/homingmissile/domain/Status.java,valueOf,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,java/lang/Enum.java,valueOf
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,7112a0ed-6763-4691-8d76-6d15136a6b52,f18219a3-2b4e-462a-abb1-77302f27ff3e,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,1d70565c-3dd1-4573-a029-9d569002b0f7
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,7112a0ed-6763-4691-8d76-6d15136a6b52,f18219a3-2b4e-462a-abb1-77302f27ff3e,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,5e5671e0-4a40-48b8-a8c0-6786f1c23d13
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,7112a0ed-6763-4691-8d76-6d15136a6b52,f18219a3-2b4e-462a-abb1-77302f27ff3e,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,org/assertj/core/api/Assertions.java,assertThat
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,7112a0ed-6763-4691-8d76-6d15136a6b52,f18219a3-2b4e-462a-abb1-77302f27ff3e,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,org/assertj/core/api/AbstractListAssert.java,containsOnly
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,7112a0ed-6763-4691-8d76-6d15136a6b52,f7498d21-089e-4a5f-a97d-b37a982adc48,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,1d70565c-3dd1-4573-a029-9d569002b0f7
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,f92fea8a-1a89-4216-8a37-3672020a8e4c,415cf198-acca-444b-a898-f44db3fc8ee4,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,1d70565c-3dd1-4573-a029-9d569002b0f7
+5d0dfc4b-b44c-4a82-8f8b-220624bfb318,f92fea8a-1a89-4216-8a37-3672020a8e4c,415cf198-acca-444b-a898-f44db3fc8ee4,->,5d0dfc4b-b44c-4a82-8f8b-220624bfb318,71a5fde7-5bc9-4293-a33a-b741c783d4f3,1d70565c-3dd1-4573-a029-9d569002b0f7

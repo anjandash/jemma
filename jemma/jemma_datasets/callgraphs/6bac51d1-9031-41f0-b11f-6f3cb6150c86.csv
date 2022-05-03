@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,0d510e4f-6159-423c-88bb-5cf37179983b,6e22a4c6-39d0-440c-b10e-b394b8b11dd3,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/eclipse/jetty/server/nio/SelectChannelConnector.java,setPort
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,0d510e4f-6159-423c-88bb-5cf37179983b,6e22a4c6-39d0-440c-b10e-b394b8b11dd3,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/eclipse/jetty/server/Server.java,addConnector
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,0d510e4f-6159-423c-88bb-5cf37179983b,6e22a4c6-39d0-440c-b10e-b394b8b11dd3,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/eclipse/jetty/server/Server.java,setHandler
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,0d510e4f-6159-423c-88bb-5cf37179983b,6e22a4c6-39d0-440c-b10e-b394b8b11dd3,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/eclipse/jetty/server/Server.java,start
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,109e13f8-6287-456d-a9a5-4319b10b91f1,c12cb966-cf82-4313-ab06-6c43a19478ab,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/springframework/orm/hibernate3/HibernateOperations.java,loadAll
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,74a04c2f-f8d4-4140-9e5f-f8e0d8e8c1bd,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,67e5ef82-27c1-43f3-ad54-4baa92ae0d70
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,67e5ef82-27c1-43f3-ad54-4baa92ae0d70,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,8ce263d5-43ca-4841-aaff-c5e4075c36a6
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,8ce263d5-43ca-4841-aaff-c5e4075c36a6,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/springframework/web/context/support/WebApplicationContextUtils.java,getWebApplicationContext
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,8ce263d5-43ca-4841-aaff-c5e4075c36a6,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/springframework/web/context/support/XmlWebApplicationContext.java,getBeanFactory
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,861c61de-a908-43f8-bd2a-5e19128c0cef,8ce263d5-43ca-4841-aaff-c5e4075c36a6,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java,autowireBean
+6bac51d1-9031-41f0-b11f-6f3cb6150c86,4bff8a7e-e2d2-4ec0-8995-def6e5f9eb8e,e386d25c-1343-4b51-af60-bd1395da94f5,->,6bac51d1-9031-41f0-b11f-6f3cb6150c86,109e13f8-6287-456d-a9a5-4319b10b91f1,c12cb966-cf82-4313-ab06-6c43a19478ab

@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/ui/RootPanel.java,get
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/ui/RootPanel.java,add
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,ff66d0d0-ca2d-4ddd-a98a-991093d92635,4775bb11-26af-40b5-9340-e6f093ed8a7f
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/ui/RootPanel.java,get
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/ui/RootPanel.java,add
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/ui/RootPanel.java,get
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,2443a98a-8781-4300-b87e-fc48f7617f47,1264be4c-e2fc-4a80-a300-e9bb24f498cb,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/ui/RootPanel.java,add
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,c87ae3f3-297a-491a-8da5-850cdd7bbc71,36b804d3-bdb3-493f-9cf3-7c9516786fb3,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/user/client/Window.java,alert
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/jedfonner/examples/client/HelloButton.java,<clinit>,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/core/client/GWT.java,create
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/jedfonner/examples/client/HelloWidgetWorld.java,<clinit>,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/core/client/GWT.java,create
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,ff66d0d0-ca2d-4ddd-a98a-991093d92635,4775bb11-26af-40b5-9340-e6f093ed8a7f,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/dom/client/SpanElement.java,setInnerText
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/jedfonner/examples/client/HelloWorld.java,<clinit>,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,com/google/gwt/core/client/GWT.java,create
+c7348ce0-e1e9-4d00-9719-3fa03c489c92,4545aa53-1967-41bb-8868-d3a0b3e39626,ec2528c8-31b4-4bd5-af30-5a14e6271ce8,->,c7348ce0-e1e9-4d00-9719-3fa03c489c92,java/lang/String.java,length

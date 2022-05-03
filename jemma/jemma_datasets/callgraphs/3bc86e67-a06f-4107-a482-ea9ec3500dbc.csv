@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,0bc8d810-110d-478a-baae-1a6eec26c60d,deae1feb-7651-4b41-9c45-de8c77207086,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,java/awt/EventQueue.java,invokeLater
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,0bc8d810-110d-478a-baae-1a6eec26c60d,c5c494e6-365e-41eb-ad9c-a478bdc4b0e5,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,javax/swing/JFrame.java,setBounds
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,0bc8d810-110d-478a-baae-1a6eec26c60d,c5c494e6-365e-41eb-ad9c-a478bdc4b0e5,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,javax/swing/JFrame.java,setDefaultCloseOperation
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,0bc8d810-110d-478a-baae-1a6eec26c60d,c5c494e6-365e-41eb-ad9c-a478bdc4b0e5,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,javax/swing/JFrame.java,setTitle
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,view/MainWindow$1.java,run,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,view/MainWindow.java,access$000
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,view/MainWindow$1.java,run,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,javax/swing/JFrame.java,setVisible
+3bc86e67-a06f-4107-a482-ea9ec3500dbc,view/MainWindow$1.java,run,->,3bc86e67-a06f-4107-a482-ea9ec3500dbc,java/lang/Exception.java,printStackTrace

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1e97d85f-7985-498f-8f06-6a784435e0c0,21cc59a2-c40d-442b-a415-3dea6cf96618,fc19d01f-ad00-416b-8b2c-d909920b3470,->,1e97d85f-7985-498f-8f06-6a784435e0c0,3f9ad28a-7a7b-4203-8f8d-86fff06ef1ba,c49e7763-176d-4128-9768-edeb30ab8b15
+1e97d85f-7985-498f-8f06-6a784435e0c0,21cc59a2-c40d-442b-a415-3dea6cf96618,fc19d01f-ad00-416b-8b2c-d909920b3470,->,1e97d85f-7985-498f-8f06-6a784435e0c0,com/piaoyu/createpattern/Builder$Build.java,extend
+1e97d85f-7985-498f-8f06-6a784435e0c0,21cc59a2-c40d-442b-a415-3dea6cf96618,fc19d01f-ad00-416b-8b2c-d909920b3470,->,1e97d85f-7985-498f-8f06-6a784435e0c0,com/piaoyu/createpattern/Builder$Build.java,build
+1e97d85f-7985-498f-8f06-6a784435e0c0,ab35a589-e9f4-470a-bec1-6718a07496e3,0ae5f280-b362-4abc-bee3-5f436b1df6a2,->,1e97d85f-7985-498f-8f06-6a784435e0c0,java/io/ObjectOutputStream.java,writeObject
+1e97d85f-7985-498f-8f06-6a784435e0c0,ab35a589-e9f4-470a-bec1-6718a07496e3,0ae5f280-b362-4abc-bee3-5f436b1df6a2,->,1e97d85f-7985-498f-8f06-6a784435e0c0,java/io/ByteArrayOutputStream.java,toByteArray
+1e97d85f-7985-498f-8f06-6a784435e0c0,ab35a589-e9f4-470a-bec1-6718a07496e3,0ae5f280-b362-4abc-bee3-5f436b1df6a2,->,1e97d85f-7985-498f-8f06-6a784435e0c0,java/io/ObjectInputStream.java,readObject
+1e97d85f-7985-498f-8f06-6a784435e0c0,ab35a589-e9f4-470a-bec1-6718a07496e3,0ae5f280-b362-4abc-bee3-5f436b1df6a2,->,1e97d85f-7985-498f-8f06-6a784435e0c0,java/lang/Exception.java,printStackTrace
+1e97d85f-7985-498f-8f06-6a784435e0c0,com/piaoyu/createpattern/Singleton.java,values,->,1e97d85f-7985-498f-8f06-6a784435e0c0,com/piaoyu/createpattern/Singleton.java,clone
+1e97d85f-7985-498f-8f06-6a784435e0c0,com/piaoyu/createpattern/Singleton.java,valueOf,->,1e97d85f-7985-498f-8f06-6a784435e0c0,java/lang/Enum.java,valueOf
+1e97d85f-7985-498f-8f06-6a784435e0c0,3f9ad28a-7a7b-4203-8f8d-86fff06ef1ba,c49e7763-176d-4128-9768-edeb30ab8b15,->,1e97d85f-7985-498f-8f06-6a784435e0c0,java/io/PrintStream.java,println

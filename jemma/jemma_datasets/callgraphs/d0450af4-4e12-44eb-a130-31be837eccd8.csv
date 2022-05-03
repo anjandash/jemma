@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,getWidth
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuBar.java,setSize
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuBar.java,setAlignmentX
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuItem.java,addActionListener
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuItem.java,addActionListener
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuItem.java,addActionListener
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuBar.java,add
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenuBar.java,add
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenu.java,add
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,menu,->,d0450af4-4e12-44eb-a130-31be837eccd8,javax/swing/JMenu.java,add
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,mouseEntered,->,d0450af4-4e12-44eb-a130-31be837eccd8,java/io/PrintStream.java,println
+d0450af4-4e12-44eb-a130-31be837eccd8,aufgabe7/gui/Gui.java,mouseExited,->,d0450af4-4e12-44eb-a130-31be837eccd8,java/io/PrintStream.java,println
+d0450af4-4e12-44eb-a130-31be837eccd8,3b38a101-b616-4986-ba01-7e18d6e51871,de7bbec7-2427-49b3-add5-3d58bca6c519,->,d0450af4-4e12-44eb-a130-31be837eccd8,java/lang/Exception.java,getMessage
+d0450af4-4e12-44eb-a130-31be837eccd8,3b38a101-b616-4986-ba01-7e18d6e51871,de7bbec7-2427-49b3-add5-3d58bca6c519,->,d0450af4-4e12-44eb-a130-31be837eccd8,java/io/PrintStream.java,println

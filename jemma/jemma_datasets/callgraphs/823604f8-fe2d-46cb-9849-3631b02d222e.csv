@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+823604f8-fe2d-46cb-9849-3631b02d222e,ce13ec7d-0ac5-4279-a76d-a42f112c540f,b765d427-1402-4ffe-82f2-b390255fdec6,->,823604f8-fe2d-46cb-9849-3631b02d222e,org/bukkit/Bukkit.java,getPluginManager
+823604f8-fe2d-46cb-9849-3631b02d222e,ce13ec7d-0ac5-4279-a76d-a42f112c540f,b765d427-1402-4ffe-82f2-b390255fdec6,->,823604f8-fe2d-46cb-9849-3631b02d222e,org/bukkit/plugin/PluginManager.java,isPluginEnabled
+823604f8-fe2d-46cb-9849-3631b02d222e,ce13ec7d-0ac5-4279-a76d-a42f112c540f,b765d427-1402-4ffe-82f2-b390255fdec6,->,823604f8-fe2d-46cb-9849-3631b02d222e,org/bukkit/Bukkit.java,getPluginManager
+823604f8-fe2d-46cb-9849-3631b02d222e,ce13ec7d-0ac5-4279-a76d-a42f112c540f,b765d427-1402-4ffe-82f2-b390255fdec6,->,823604f8-fe2d-46cb-9849-3631b02d222e,org/bukkit/plugin/PluginManager.java,isPluginEnabled
+823604f8-fe2d-46cb-9849-3631b02d222e,ce13ec7d-0ac5-4279-a76d-a42f112c540f,bf0ded92-00ba-49e7-b55d-76104ce5d5b3,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/String.java,replaceAll
+823604f8-fe2d-46cb-9849-3631b02d222e,9b8213fb-1db8-485f-b832-fb33efaaa8d5,3dd5e67b-9bc2-4dc6-835f-d5fd542a24b3,->,823604f8-fe2d-46cb-9849-3631b02d222e,org/bukkit/Bukkit.java,getOnlinePlayers
+823604f8-fe2d-46cb-9849-3631b02d222e,9b8213fb-1db8-485f-b832-fb33efaaa8d5,3dd5e67b-9bc2-4dc6-835f-d5fd542a24b3,->,823604f8-fe2d-46cb-9849-3631b02d222e,org/bukkit/entity/Player.java,sendMessage
+823604f8-fe2d-46cb-9849-3631b02d222e,9b8213fb-1db8-485f-b832-fb33efaaa8d5,aa19c1f3-5d14-4235-957c-22dd0f1acf58,->,823604f8-fe2d-46cb-9849-3631b02d222e,9b8213fb-1db8-485f-b832-fb33efaaa8d5,689ac62d-9e99-46cf-b0ae-713c23257373
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,b96165c7-abe3-4c58-9bd8-ca536d03ede4,->,823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/Class.java,forName
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/StringBuilder.java,append
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/ClassNotFoundException.java,getMessage
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/StringBuilder.java,append
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/StringBuilder.java,append
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,java/lang/StringBuilder.java,toString
+823604f8-fe2d-46cb-9849-3631b02d222e,c12f90ed-2b9d-4f58-bc33-6e99340bb0fe,059026db-c6fd-40cc-8d54-23d33752c7ba,->,823604f8-fe2d-46cb-9849-3631b02d222e,9b8213fb-1db8-485f-b832-fb33efaaa8d5,689ac62d-9e99-46cf-b0ae-713c23257373

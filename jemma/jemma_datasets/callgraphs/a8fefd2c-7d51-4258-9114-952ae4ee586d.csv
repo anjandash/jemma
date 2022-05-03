@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,0306270f-1222-43d9-b947-9266704e2903,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,javax/persistence/EntityManager.java,persist
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,1eea4079-0e53-474d-b83b-00919ceb329f,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,javax/persistence/EntityManager.java,merge
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,8e84e792-f2d5-4ea5-a313-8474778282ae,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,javax/persistence/EntityManager.java,remove
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,6b50468d-aeac-4181-a0c7-d3def8fe825c,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,javax/persistence/EntityManager.java,find
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,java/lang/StringBuilder.java,append
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,java/lang/Class.java,getName
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,java/lang/StringBuilder.java,append
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,java/lang/StringBuilder.java,append
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,java/lang/StringBuilder.java,toString
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,javax/persistence/EntityManager.java,createQuery
+a8fefd2c-7d51-4258-9114-952ae4ee586d,a63ee82a-a34d-4280-a135-03e5779be18f,b7d94198-cd6b-4710-9f33-8fef4e2c1f0b,->,a8fefd2c-7d51-4258-9114-952ae4ee586d,javax/persistence/Query.java,getResultList

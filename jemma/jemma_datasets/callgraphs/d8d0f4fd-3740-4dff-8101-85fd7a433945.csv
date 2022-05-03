@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d8d0f4fd-3740-4dff-8101-85fd7a433945,mcgill/comp512/server/context/QueryType.java,values,->,d8d0f4fd-3740-4dff-8101-85fd7a433945,mcgill/comp512/server/context/QueryType.java,clone
+d8d0f4fd-3740-4dff-8101-85fd7a433945,mcgill/comp512/server/context/QueryType.java,valueOf,->,d8d0f4fd-3740-4dff-8101-85fd7a433945,java/lang/Enum.java,valueOf
+d8d0f4fd-3740-4dff-8101-85fd7a433945,mcgill/comp512/server/context/Operation.java,values,->,d8d0f4fd-3740-4dff-8101-85fd7a433945,mcgill/comp512/server/context/Operation.java,clone
+d8d0f4fd-3740-4dff-8101-85fd7a433945,mcgill/comp512/server/context/Operation.java,valueOf,->,d8d0f4fd-3740-4dff-8101-85fd7a433945,java/lang/Enum.java,valueOf
+d8d0f4fd-3740-4dff-8101-85fd7a433945,4a69b6f8-ae3b-4ffc-bf2c-11d7fb68b3fb,52859f74-bc40-4e53-b896-6d5cb1253e82,->,d8d0f4fd-3740-4dff-8101-85fd7a433945,4a69b6f8-ae3b-4ffc-bf2c-11d7fb68b3fb,2d7dfc8e-2224-4f9f-830e-572c12495fc1
+d8d0f4fd-3740-4dff-8101-85fd7a433945,4a69b6f8-ae3b-4ffc-bf2c-11d7fb68b3fb,52859f74-bc40-4e53-b896-6d5cb1253e82,->,d8d0f4fd-3740-4dff-8101-85fd7a433945,4a69b6f8-ae3b-4ffc-bf2c-11d7fb68b3fb,ca61a01a-a6e3-45b9-88d0-5c36f16ea0d0

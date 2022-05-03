@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/event/entity/EntityDeathEvent.java,getEntity
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/event/entity/EntityDeathEvent.java,getEntity
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/entity/Player.java,getKiller
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/entity/Player.java,getDisplayName
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/event/entity/EntityDeathEvent.java,getEntity
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/entity/LivingEntity.java,getKiller
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,5642157f-8aba-459c-87c0-3ccbe4618142,85c95bac-e93d-4274-9277-66674ab86985,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/entity/Player.java,getDisplayName
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,2321f6ef-41f3-4ebc-9556-5ce1eec03eb5,b7fbe780-ebbe-4213-95f9-1ab9ac18a7be,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/Bukkit.java,getPluginManager
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,2321f6ef-41f3-4ebc-9556-5ce1eec03eb5,b7fbe780-ebbe-4213-95f9-1ab9ac18a7be,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/plugin/PluginManager.java,registerEvents
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,2321f6ef-41f3-4ebc-9556-5ce1eec03eb5,d12c1d3d-57f4-4474-945d-95c81869cc43,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,org/bukkit/command/Command.java,getName
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,2321f6ef-41f3-4ebc-9556-5ce1eec03eb5,d12c1d3d-57f4-4474-945d-95c81869cc43,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,java/lang/String.java,toLowerCase
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,2321f6ef-41f3-4ebc-9556-5ce1eec03eb5,d12c1d3d-57f4-4474-945d-95c81869cc43,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,java/lang/String.java,equalsIgnoreCase
+3df9f06d-ecaf-44e7-8dbe-a55785e782c0,996a8a7b-383b-44cc-a50e-05ab5e39e8f9,a06f18e7-964f-46c7-a4a5-3ba5add4b465,->,3df9f06d-ecaf-44e7-8dbe-a55785e782c0,java/text/DecimalFormat.java,format

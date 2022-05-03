@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,c0edad2d-c3f6-46a9-a0fe-64d6cf9bc29e,392c2675-0344-49c5-a244-64afb6aa00c5,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,me/michaelkrauty/Sudo/Main.java,getServer
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,c0edad2d-c3f6-46a9-a0fe-64d6cf9bc29e,392c2675-0344-49c5-a244-64afb6aa00c5,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,org/bukkit/Server.java,getPluginCommand
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,c0edad2d-c3f6-46a9-a0fe-64d6cf9bc29e,392c2675-0344-49c5-a244-64afb6aa00c5,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,org/bukkit/command/PluginCommand.java,setExecutor
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/String.java,equalsIgnoreCase
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/String.java,equalsIgnoreCase
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/String.java,equalsIgnoreCase
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/String.java,equalsIgnoreCase
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/String.java,equalsIgnoreCase
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,me/michaelkrauty/Sudo/Main.java,getServer
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,org/bukkit/Server.java,getPlayer
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/StringBuilder.java,append
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/StringBuilder.java,append
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,java/lang/StringBuilder.java,toString
+f73ead4b-37ba-4279-85f4-bd49b7c71ce6,7c5601d2-f6d5-4785-b305-56dc79d0113f,0dda6e2a-6e54-4cb1-9055-7ab0ebe62a17,->,f73ead4b-37ba-4279-85f4-bd49b7c71ce6,org/bukkit/command/CommandSender.java,sendMessage

@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,e7e2fc4f-2e2d-40b2-b9e7-7f8699c156d1,5cf6b15d-2636-4969-854f-dbea59e314f6,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,fc33bf36-d4c4-4b38-b2d9-9effe2a78ca1,946b8ce2-774c-47a0-a9cc-ce44fe3a4704
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,bfe96262-6757-42a6-b868-10dffd984c8d,8bb7f430-08c0-43c9-a988-097cfdc248b4,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/lang/String.java,format
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,36e8b0b7-d879-43e0-94aa-925519297ef8,a15ed1f9-13fc-496c-a884-4b55ce8aabb8,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/lang/String.java,equals
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,36e8b0b7-d879-43e0-94aa-925519297ef8,a15ed1f9-13fc-496c-a884-4b55ce8aabb8,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/util/concurrent/atomic/AtomicInteger.java,incrementAndGet
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,36e8b0b7-d879-43e0-94aa-925519297ef8,a15ed1f9-13fc-496c-a884-4b55ce8aabb8,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/lang/Integer.java,valueOf
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,36e8b0b7-d879-43e0-94aa-925519297ef8,a15ed1f9-13fc-496c-a884-4b55ce8aabb8,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,fc33bf36-d4c4-4b38-b2d9-9effe2a78ca1,946b8ce2-774c-47a0-a9cc-ce44fe3a4704
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,36e8b0b7-d879-43e0-94aa-925519297ef8,a15ed1f9-13fc-496c-a884-4b55ce8aabb8,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/lang/String.java,format
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,51a894bd-4f26-4797-a3d7-8d1ae673dceb,3a289812-8b83-46c2-8fed-e11da634cf2b,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,javax/ws/rs/core/Response.java,ok
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,51a894bd-4f26-4797-a3d7-8d1ae673dceb,3a289812-8b83-46c2-8fed-e11da634cf2b,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,javax/ws/rs/core/Response$ResponseBuilder.java,build
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,51a894bd-4f26-4797-a3d7-8d1ae673dceb,3a289812-8b83-46c2-8fed-e11da634cf2b,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,51a894bd-4f26-4797-a3d7-8d1ae673dceb,3a289812-8b83-46c2-8fed-e11da634cf2b
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,8bbbedd3-4105-4388-904d-212bf02d9127,3b19cab8-4d5c-4545-8e2b-348a9cf3c7ab,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,1d44a155-3dec-4bcb-a50a-5ac0645205e0,7fc165f4-23f7-409b-a331-582bd1a1b85a
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,8bbbedd3-4105-4388-904d-212bf02d9127,3b19cab8-4d5c-4545-8e2b-348a9cf3c7ab,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,fc33bf36-d4c4-4b38-b2d9-9effe2a78ca1,946b8ce2-774c-47a0-a9cc-ce44fe3a4704
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,8bbbedd3-4105-4388-904d-212bf02d9127,3b19cab8-4d5c-4545-8e2b-348a9cf3c7ab,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/lang/String.java,format
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,org/glassfish/jersey/examples/helloworld/spring/JerseyResource.java,<clinit>,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/lang/Class.java,getName
+1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,org/glassfish/jersey/examples/helloworld/spring/JerseyResource.java,<clinit>,->,1c3b59eb-ecc3-4cd3-ba84-9e3fab682196,java/util/logging/Logger.java,getLogger

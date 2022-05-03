@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,da7720ef-cdb2-4c2b-bc52-92fedf29d95f,5c117b4b-98bd-4605-b84f-9a882dc963b2,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,javax/xml/ws/Service.java,getPort
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,da7720ef-cdb2-4c2b-bc52-92fedf29d95f,53e4ff95-d24f-4786-8dfc-563de93f2cd6,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,javax/xml/ws/Service.java,getPort
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,25d0d4bc-56d5-48a0-b012-27dd8639deb3,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,c378cfcc-8be0-4dbd-ba5d-604e861c9503
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,25d0d4bc-56d5-48a0-b012-27dd8639deb3,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,c378cfcc-8be0-4dbd-ba5d-604e861c9503
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,25d0d4bc-56d5-48a0-b012-27dd8639deb3,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,br/com/caelum/vraptor/Result.java,include
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,25d0d4bc-56d5-48a0-b012-27dd8639deb3,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,br/com/caelum/vraptor/Result.java,forwardTo
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,c378cfcc-8be0-4dbd-ba5d-604e861c9503,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,da7720ef-cdb2-4c2b-bc52-92fedf29d95f,5c117b4b-98bd-4605-b84f-9a882dc963b2
+aa15bc79-77db-49ad-ae5d-c02bb8c364ea,85e0c087-dd39-4d12-95ae-e43c97715434,c378cfcc-8be0-4dbd-ba5d-604e861c9503,->,aa15bc79-77db-49ad-ae5d-c02bb8c364ea,dd31f545-c05a-4af3-96b1-264bd76d9aac,f7350ad6-6f18-4ad3-99ed-4e74018271d1

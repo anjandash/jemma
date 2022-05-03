@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f01c66d3-94cc-4546-bbcb-cafb4d640704,gti310/tp2/io/FileSink.java,close,->,f01c66d3-94cc-4546-bbcb-cafb4d640704,java/io/DataOutputStream.java,close
+f01c66d3-94cc-4546-bbcb-cafb4d640704,gti310/tp2/io/FileSink.java,push,->,f01c66d3-94cc-4546-bbcb-cafb4d640704,java/io/DataOutputStream.java,write
+f01c66d3-94cc-4546-bbcb-cafb4d640704,gti310/tp2/io/FileSource.java,close,->,f01c66d3-94cc-4546-bbcb-cafb4d640704,java/io/DataInputStream.java,close
+f01c66d3-94cc-4546-bbcb-cafb4d640704,gti310/tp2/io/FileSource.java,pop,->,f01c66d3-94cc-4546-bbcb-cafb4d640704,java/io/DataInputStream.java,read
+f01c66d3-94cc-4546-bbcb-cafb4d640704,1e57cd84-cf3c-41b4-a83d-ad37e98dbe25,e33840f9-1fb0-4ab4-95ab-3d279eb4b542,->,f01c66d3-94cc-4546-bbcb-cafb4d640704,java/io/PrintStream.java,println
+f01c66d3-94cc-4546-bbcb-cafb4d640704,1e57cd84-cf3c-41b4-a83d-ad37e98dbe25,e33840f9-1fb0-4ab4-95ab-3d279eb4b542,->,f01c66d3-94cc-4546-bbcb-cafb4d640704,gti310/tp2/audio/WavAudioFilter.java,process

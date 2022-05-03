@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,values,->,50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,clone
+50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,valueOf,->,50a58805-b453-48c1-a861-756026e73455,java/lang/Enum.java,valueOf
+50a58805-b453-48c1-a861-756026e73455,com/dao/DAOFactory.java,getInstance,->,50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,ordinal
+50a58805-b453-48c1-a861-756026e73455,com/dao/DAOFactory$1.java,<clinit>,->,50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,values
+50a58805-b453-48c1-a861-756026e73455,com/dao/DAOFactory$1.java,<clinit>,->,50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,ordinal
+50a58805-b453-48c1-a861-756026e73455,com/dao/DAOFactory$1.java,<clinit>,->,50a58805-b453-48c1-a861-756026e73455,com/dao/SGBD.java,ordinal
+50a58805-b453-48c1-a861-756026e73455,66dbfa7e-ad40-4fba-b678-622a2c45cbc0,2ea6ddb1-e341-4940-ba57-b43967060d04,->,50a58805-b453-48c1-a861-756026e73455,com/dao/DAOFactory.java,getInstance
+50a58805-b453-48c1-a861-756026e73455,66dbfa7e-ad40-4fba-b678-622a2c45cbc0,2ea6ddb1-e341-4940-ba57-b43967060d04,->,50a58805-b453-48c1-a861-756026e73455,com/dao/DAOFactory.java,getPessoaDAO
+50a58805-b453-48c1-a861-756026e73455,66dbfa7e-ad40-4fba-b678-622a2c45cbc0,2ea6ddb1-e341-4940-ba57-b43967060d04,->,50a58805-b453-48c1-a861-756026e73455,277f5a2e-e8c4-4e25-bc9d-8803496af8e1,512c552b-e513-48a8-a51f-bfa113cbf88a

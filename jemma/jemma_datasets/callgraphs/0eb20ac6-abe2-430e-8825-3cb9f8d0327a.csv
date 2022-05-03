@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,60be3199-c576-4a3b-b53a-872029f6a4e5,00d07fb5-2cda-4d34-b838-437c4d4f9ba8,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,96fa38a1-f90f-4558-bd77-1a45a19c9c44,7779d188-c8a4-4040-8150-096adaf35e08
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,java/lang/Math.java,random
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel.java,access$000
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,96fa38a1-f90f-4558-bd77-1a45a19c9c44,0e273002-4e2f-48ae-98e1-c5f309493ba9
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,7da60acc-69f7-4b62-8702-c5ebf8f57815,f2b53f95-5510-4954-b8f4-f5fdf0da1d94
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel.java,access$000
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,96fa38a1-f90f-4558-bd77-1a45a19c9c44,0e273002-4e2f-48ae-98e1-c5f309493ba9
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel$1.java,actionPerformed,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,7da60acc-69f7-4b62-8702-c5ebf8f57815,70f6eccf-54fe-4567-ac7b-0df3b81f0e44
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,d82e9373-50da-4c3d-8654-d290654623a0,265b14f2-9fe4-40c3-800d-9965719dbf7b,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel.java,setLayout
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,d82e9373-50da-4c3d-8654-d290654623a0,265b14f2-9fe4-40c3-800d-9965719dbf7b,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel.java,setBackground
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,d82e9373-50da-4c3d-8654-d290654623a0,265b14f2-9fe4-40c3-800d-9965719dbf7b,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticePanel.java,add
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,d82e9373-50da-4c3d-8654-d290654623a0,32abf81f-d903-4aff-829e-95b4881cdbb3,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,javax/swing/JButton.java,addActionListener
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,c9c11556-8bfc-4813-b1d2-d53b8ba804d8,86d0ed9c-888c-4282-8daa-a37e87b51451,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticeFrame.java,setContentPane
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,c9c11556-8bfc-4813-b1d2-d53b8ba804d8,86d0ed9c-888c-4282-8daa-a37e87b51451,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticeFrame.java,setSize
+0eb20ac6-abe2-430e-8825-3cb9f8d0327a,c9c11556-8bfc-4813-b1d2-d53b8ba804d8,86d0ed9c-888c-4282-8daa-a37e87b51451,->,0eb20ac6-abe2-430e-8825-3cb9f8d0327a,practice/view/PracticeFrame.java,setVisible

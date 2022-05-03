@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+f4ba22e7-8c6c-4e1f-babc-7a67b64feb86,magicbiblio/entities/Author$AuthorBuilder.java,nameAsInstitution,->,f4ba22e7-8c6c-4e1f-babc-7a67b64feb86,java/lang/String.java,isEmpty

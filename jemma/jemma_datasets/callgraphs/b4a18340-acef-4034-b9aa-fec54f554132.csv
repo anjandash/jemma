@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b4a18340-acef-4034-b9aa-fec54f554132,c1537c19-6a00-4bfb-9ab5-575f52300252,dc08fc4c-4339-4790-b21b-73d859870651,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,append
+b4a18340-acef-4034-b9aa-fec54f554132,c1537c19-6a00-4bfb-9ab5-575f52300252,dc08fc4c-4339-4790-b21b-73d859870651,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,append
+b4a18340-acef-4034-b9aa-fec54f554132,c1537c19-6a00-4bfb-9ab5-575f52300252,dc08fc4c-4339-4790-b21b-73d859870651,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,toString
+b4a18340-acef-4034-b9aa-fec54f554132,c1537c19-6a00-4bfb-9ab5-575f52300252,dc08fc4c-4339-4790-b21b-73d859870651,->,b4a18340-acef-4034-b9aa-fec54f554132,java/io/PrintStream.java,println
+b4a18340-acef-4034-b9aa-fec54f554132,b675c438-b40b-41f9-bc38-2b7991b27e84,4a24b99a-a2fa-4121-afad-ecf865321242,->,b4a18340-acef-4034-b9aa-fec54f554132,java/io/PrintStream.java,println
+b4a18340-acef-4034-b9aa-fec54f554132,b675c438-b40b-41f9-bc38-2b7991b27e84,4a24b99a-a2fa-4121-afad-ecf865321242,->,b4a18340-acef-4034-b9aa-fec54f554132,java/io/PrintStream.java,println
+b4a18340-acef-4034-b9aa-fec54f554132,b675c438-b40b-41f9-bc38-2b7991b27e84,4a24b99a-a2fa-4121-afad-ecf865321242,->,b4a18340-acef-4034-b9aa-fec54f554132,java/io/PrintStream.java,println
+b4a18340-acef-4034-b9aa-fec54f554132,622bef8e-1c4f-4b85-ada7-de225fe602ef,5f82a434-e94e-4fa9-85f2-04cc431d9af1,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,append
+b4a18340-acef-4034-b9aa-fec54f554132,622bef8e-1c4f-4b85-ada7-de225fe602ef,5f82a434-e94e-4fa9-85f2-04cc431d9af1,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,append
+b4a18340-acef-4034-b9aa-fec54f554132,622bef8e-1c4f-4b85-ada7-de225fe602ef,5f82a434-e94e-4fa9-85f2-04cc431d9af1,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,append
+b4a18340-acef-4034-b9aa-fec54f554132,622bef8e-1c4f-4b85-ada7-de225fe602ef,5f82a434-e94e-4fa9-85f2-04cc431d9af1,->,b4a18340-acef-4034-b9aa-fec54f554132,java/lang/StringBuilder.java,toString
+b4a18340-acef-4034-b9aa-fec54f554132,622bef8e-1c4f-4b85-ada7-de225fe602ef,5f82a434-e94e-4fa9-85f2-04cc431d9af1,->,b4a18340-acef-4034-b9aa-fec54f554132,java/io/PrintStream.java,println

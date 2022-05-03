@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6602caf6-bf0d-436e-8fc1-a8fb457179db,adcf0d36-3182-4dc7-aaee-8c6c996af3bd,f25a983b-3394-4d95-a8cb-9ef7c714d66a,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,org/springframework/boot/SpringApplication.java,run
+6602caf6-bf0d-436e-8fc1-a8fb457179db,a9f0287b-b361-4a91-abe6-56655004d2cb,c9d606a9-a3c5-492f-a3be-c51b26c0fb86,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,javax/servlet/http/HttpServletResponse.java,setHeader
+6602caf6-bf0d-436e-8fc1-a8fb457179db,a9f0287b-b361-4a91-abe6-56655004d2cb,c9d606a9-a3c5-492f-a3be-c51b26c0fb86,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,javax/servlet/http/HttpServletResponse.java,setHeader
+6602caf6-bf0d-436e-8fc1-a8fb457179db,a9f0287b-b361-4a91-abe6-56655004d2cb,c9d606a9-a3c5-492f-a3be-c51b26c0fb86,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,javax/servlet/http/HttpServletResponse.java,setHeader
+6602caf6-bf0d-436e-8fc1-a8fb457179db,a9f0287b-b361-4a91-abe6-56655004d2cb,c9d606a9-a3c5-492f-a3be-c51b26c0fb86,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,javax/servlet/http/HttpServletResponse.java,setHeader
+6602caf6-bf0d-436e-8fc1-a8fb457179db,a9f0287b-b361-4a91-abe6-56655004d2cb,c9d606a9-a3c5-492f-a3be-c51b26c0fb86,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,javax/servlet/FilterChain.java,doFilter
+6602caf6-bf0d-436e-8fc1-a8fb457179db,7f20b1b9-f31f-4454-aa2d-e83d67abccef,479d4078-797c-43b6-b5df-b614ec90cdd2,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,java/io/PrintStream.java,println
+6602caf6-bf0d-436e-8fc1-a8fb457179db,7f20b1b9-f31f-4454-aa2d-e83d67abccef,479d4078-797c-43b6-b5df-b614ec90cdd2,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+6602caf6-bf0d-436e-8fc1-a8fb457179db,7f20b1b9-f31f-4454-aa2d-e83d67abccef,479d4078-797c-43b6-b5df-b614ec90cdd2,->,6602caf6-bf0d-436e-8fc1-a8fb457179db,java/lang/String.java,format

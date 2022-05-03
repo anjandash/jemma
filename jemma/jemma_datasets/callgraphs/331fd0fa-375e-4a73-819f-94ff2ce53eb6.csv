@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+331fd0fa-375e-4a73-819f-94ff2ce53eb6,4df1b3ff-7376-4fe3-8fab-3ba93983063f,12b49902-5aaf-4205-a1fd-7bec22319493,->,331fd0fa-375e-4a73-819f-94ff2ce53eb6,javax/persistence/Persistence.java,createEntityManagerFactory
+331fd0fa-375e-4a73-819f-94ff2ce53eb6,4df1b3ff-7376-4fe3-8fab-3ba93983063f,12b49902-5aaf-4205-a1fd-7bec22319493,->,331fd0fa-375e-4a73-819f-94ff2ce53eb6,javax/persistence/EntityManagerFactory.java,createEntityManager
+331fd0fa-375e-4a73-819f-94ff2ce53eb6,4df1b3ff-7376-4fe3-8fab-3ba93983063f,12b49902-5aaf-4205-a1fd-7bec22319493,->,331fd0fa-375e-4a73-819f-94ff2ce53eb6,javax/persistence/EntityManager.java,createQuery
+331fd0fa-375e-4a73-819f-94ff2ce53eb6,4df1b3ff-7376-4fe3-8fab-3ba93983063f,12b49902-5aaf-4205-a1fd-7bec22319493,->,331fd0fa-375e-4a73-819f-94ff2ce53eb6,javax/persistence/Query.java,getResultList
+331fd0fa-375e-4a73-819f-94ff2ce53eb6,53820420-32a2-4008-bf9a-6601757f56b2,f94db5eb-1571-432c-8622-1c1979a2104c,->,331fd0fa-375e-4a73-819f-94ff2ce53eb6,d1d6002b-910b-4c1e-8145-5e6ccb834cd5,aa7faef6-3d5d-464d-bb3a-d97d6c5ce33e

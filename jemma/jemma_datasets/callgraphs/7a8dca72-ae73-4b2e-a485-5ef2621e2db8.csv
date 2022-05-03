@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,fc57e930-4a35-4087-8730-d526029cc2eb,9039d6a4-a842-4e17-a4ba-5be427625b48,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/hibernate/cfg/Configuration.java,configure
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,fc57e930-4a35-4087-8730-d526029cc2eb,9039d6a4-a842-4e17-a4ba-5be427625b48,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/hibernate/tool/hbm2ddl/SchemaExport.java,create
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/springframework/security/core/context/SecurityContextHolder.java,getContext
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/springframework/security/core/context/SecurityContext.java,getAuthentication
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/springframework/security/core/Authentication.java,getPrincipal
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/springframework/security/core/userdetails/UserDetails.java,getUsername
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,org/springframework/security/core/userdetails/UserDetails.java,getPassword
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/lang/StringBuilder.java,append
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/lang/StringBuilder.java,append
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/lang/StringBuilder.java,toString
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/io/PrintStream.java,println
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/lang/StringBuilder.java,append
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/lang/StringBuilder.java,append
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/lang/StringBuilder.java,toString
+7a8dca72-ae73-4b2e-a485-5ef2621e2db8,b34bc338-6e6b-4db1-a8fc-e0838172f57a,ea11e32f-d4dd-49f8-ba5b-c00f49a3f0aa,->,7a8dca72-ae73-4b2e-a485-5ef2621e2db8,java/io/PrintStream.java,println

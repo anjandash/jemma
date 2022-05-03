@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,27d4e75a-11ca-4f5f-a627-7f3deafbee73,dac7b65d-5a5d-40d8-92c6-29b8d9a2af5c,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,org/chennnn/hbase/AppTest.java,assertTrue
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,a0582d92-2540-42bd-a7e0-2f27b2946eb0,f31c0d58-c0f5-45ed-b98b-1a62e36db5f4,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,java/io/PrintStream.java,println
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,ab329293-f322-4c54-a574-ceaa1a72c62b,40b7a002-a61b-4d2c-9b30-3104f504696a,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,org/chennnn/spring/AppTest.java,assertTrue
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,48ff58c9-9126-43d9-a1fd-6e3a4de9d028,b3fd0e35-0124-48af-95e5-d05198cebb42,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,java/io/PrintStream.java,println
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,9ddad7c9-1aa6-419d-ba9e-58c0a0001625,cae3b315-49bd-465b-b5dd-3aae445fd272,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,org/chennnn/hadoop/AppTest.java,assertTrue
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,af59f3c4-c1b8-460e-a9ed-72226a75e520,8bc0c5dd-9c8f-46fe-9c0a-4b8c8c5155d6,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,java/io/PrintStream.java,println
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,57b20fa7-09fb-4b74-9ba1-2a6826bc9bc6,7b692288-89cf-400e-aef0-5d1d61d66099,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,org/chennnn/structs/AppTest.java,assertTrue
+79a22fe6-3f90-4685-9aa3-2ce813fadffa,3e783fed-ce55-40e4-9dfd-db6733a66f61,78b807d2-5b13-43b0-87e7-5af8809786d4,->,79a22fe6-3f90-4685-9aa3-2ce813fadffa,java/io/PrintStream.java,println

@@ -1,0 +1,2 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e5f406dc-7832-4a62-b7fc-3613da96b3b6,532687d4-24f8-40f1-b8ac-ac349c18d5aa,edf7c6e1-50a8-47d1-8629-d3dd729284c2,->,e5f406dc-7832-4a62-b7fc-3613da96b3b6,my/concrete/SalaryPlusCommissionEmployee.java,getWeeklySalary

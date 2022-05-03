@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2b58926e-5a86-4832-be40-c14ef0ae4d85,da0960ae-a9ac-4e03-8ab9-70d1336bb7de,e18a61b2-b9ea-457e-9957-8a1cd3efbc91,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,javax/persistence/EntityManager.java,createQuery
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,javax/persistence/Query.java,getResultList
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/util/List.java,size
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/lang/StringBuilder.java,append
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/util/List.java,get
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,c635c37f-57d0-4cec-9aaf-7b4624029600,86479d43-764b-46f9-b6e7-4db0a0e98714
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/lang/StringBuilder.java,append
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/lang/StringBuilder.java,append
+2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/lang/StringBuilder.java,toString
+2b58926e-5a86-4832-be40-c14ef0ae4d85,0c66627e-5420-41ec-90dc-972c66b330e1,5e3b864a-be3d-4f7e-b673-f79ac51a44c1,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,96106d6d-4d07-4c57-b0b6-5bf68a2c3689,3094f1db-ff15-48b3-86d1-44aa225bcb00
+2b58926e-5a86-4832-be40-c14ef0ae4d85,0c66627e-5420-41ec-90dc-972c66b330e1,5e3b864a-be3d-4f7e-b673-f79ac51a44c1,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,java/io/PrintStream.java,println
+2b58926e-5a86-4832-be40-c14ef0ae4d85,cl/api/app/ORM.java,<clinit>,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,javax/persistence/Persistence.java,createEntityManagerFactory
+2b58926e-5a86-4832-be40-c14ef0ae4d85,cl/api/app/ORM.java,<clinit>,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,javax/persistence/EntityManagerFactory.java,createEntityManager
+2b58926e-5a86-4832-be40-c14ef0ae4d85,cl/api/app/ORM.java,<clinit>,->,2b58926e-5a86-4832-be40-c14ef0ae4d85,javax/persistence/EntityManager.java,getTransaction

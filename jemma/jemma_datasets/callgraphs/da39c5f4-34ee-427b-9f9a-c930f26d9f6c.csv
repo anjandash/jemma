@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,c7f8c274-9363-4922-83b4-21d683df755f,2dd92b92-349e-4368-915d-c4c2a0a3b7c2,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,org/ybs/siteidea/web/AppTest.java,assertTrue
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,f46c4be1-58a6-4266-a3cf-796cd7e83d84,4322cfda-e32b-493f-9180-69a30f2d6a8b,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,java/io/PrintStream.java,println
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,3f21f5a0-f71c-4f18-86f5-5b0936ac5861,d2ad5882-9373-4448-bd84-03e6995b9ff0,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,ybs/siteidea/dao/AppTest.java,assertTrue
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,b7495cec-1b6a-4332-b460-744379858a93,5be25239-135d-4f82-bbf6-eff3e482153e,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,java/io/PrintStream.java,println
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,43159dfe-a15d-480d-8082-f46b149bfcce,629f90b2-33f2-4748-8bc7-d266d53929d6,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,ybs/siteidea/dto/AppTest.java,assertTrue
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,46e2f079-000f-4698-b9ab-dcc213624dd2,5206c685-dc4f-4b67-a4a8-35c2beacbb42,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,java/io/PrintStream.java,println
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,5c9beb9a-a943-4d4b-8aff-06415ba376c3,875ef9a8-aa5c-4ea1-a264-b4d81f5c1357,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,ybs/siteidea/service/AppTest.java,assertTrue
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,19c39c67-c8f1-45f7-9c19-e9b157113c8b,3ed106e8-2f8b-487a-a566-731594940a51,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,java/io/PrintStream.java,println
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,191b9559-bf6b-4ca0-809f-f7965ed8361e,ad7a2fc9-268c-4470-8a93-054e629fec65,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,ybs/siteidea/common/AppTest.java,assertTrue
+da39c5f4-34ee-427b-9f9a-c930f26d9f6c,e03001d0-b9ee-40a8-9b44-cc05e1aa1ca9,c2853380-f05e-4daa-a727-d2ef130b90f0,->,da39c5f4-34ee-427b-9f9a-c930f26d9f6c,java/io/PrintStream.java,println

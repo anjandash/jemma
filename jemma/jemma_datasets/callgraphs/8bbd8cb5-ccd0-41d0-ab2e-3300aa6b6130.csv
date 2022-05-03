@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,com/lab111/labwork2/Cl3.java,meth3,->,8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,java/io/PrintStream.java,println
+8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,com/lab111/labwork2/Cl1.java,meth2,->,8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,java/io/PrintStream.java,println
+8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,com/lab111/labwork2/Cl1.java,meth1,->,8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,java/io/PrintStream.java,println
+8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,com/lab111/labwork2/Cl2.java,meth2,->,8bbd8cb5-ccd0-41d0-ab2e-3300aa6b6130,java/io/PrintStream.java,println

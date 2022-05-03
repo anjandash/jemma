@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e0acb708-b3be-435c-b51b-dc4b25257a8e,f3656382-cf88-462e-8df0-7edb2b2b0219,45bdc35a-8470-4238-8307-5cb2b48fea4f,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/io/PrintStream.java,println
+e0acb708-b3be-435c-b51b-dc4b25257a8e,f3656382-cf88-462e-8df0-7edb2b2b0219,45bdc35a-8470-4238-8307-5cb2b48fea4f,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/util/Scanner.java,nextInt
+e0acb708-b3be-435c-b51b-dc4b25257a8e,f3656382-cf88-462e-8df0-7edb2b2b0219,45bdc35a-8470-4238-8307-5cb2b48fea4f,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,org/simpleframework/xml/Serializer.java,write
+e0acb708-b3be-435c-b51b-dc4b25257a8e,f3656382-cf88-462e-8df0-7edb2b2b0219,45bdc35a-8470-4238-8307-5cb2b48fea4f,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,5033594d-f0e3-47dc-adf4-25a6c772d5ad,b33d81c5-894b-4bdb-ba48-85cfb3bcbfa0
+e0acb708-b3be-435c-b51b-dc4b25257a8e,f3656382-cf88-462e-8df0-7edb2b2b0219,45bdc35a-8470-4238-8307-5cb2b48fea4f,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/lang/String.java,equals
+e0acb708-b3be-435c-b51b-dc4b25257a8e,f3656382-cf88-462e-8df0-7edb2b2b0219,45bdc35a-8470-4238-8307-5cb2b48fea4f,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,cdd6e740-68b3-4a5a-a498-ad442391abc2,9f4c3c21-2e61-4750-9458-236046f77505
+e0acb708-b3be-435c-b51b-dc4b25257a8e,9ab5f39d-e6af-44e9-b534-6bbf5d7e3343,2c048364-cad7-47a8-8c36-c0d1aa793892,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/io/PrintStream.java,println
+e0acb708-b3be-435c-b51b-dc4b25257a8e,9ab5f39d-e6af-44e9-b534-6bbf5d7e3343,2c048364-cad7-47a8-8c36-c0d1aa793892,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/io/PrintStream.java,println
+e0acb708-b3be-435c-b51b-dc4b25257a8e,4a397009-30af-46b3-ba49-e2d937ac186d,78b92bb3-d483-4dde-bf60-7281f0806d22,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/io/PrintStream.java,println
+e0acb708-b3be-435c-b51b-dc4b25257a8e,4a397009-30af-46b3-ba49-e2d937ac186d,78b92bb3-d483-4dde-bf60-7281f0806d22,->,e0acb708-b3be-435c-b51b-dc4b25257a8e,java/io/PrintStream.java,println

@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8c0472e4-7fcf-4740-b948-08deb522db6a,5bf9acde-2779-4bd9-9680-d364492be5d5,7e2e2652-55f8-4d4b-ab36-369269e908ee,->,8c0472e4-7fcf-4740-b948-08deb522db6a,javax/xml/ws/Service.java,getPort
+8c0472e4-7fcf-4740-b948-08deb522db6a,5bf9acde-2779-4bd9-9680-d364492be5d5,9bcf4438-77ca-4e35-99a2-937924b39807,->,8c0472e4-7fcf-4740-b948-08deb522db6a,javax/xml/ws/Service.java,getPort
+8c0472e4-7fcf-4740-b948-08deb522db6a,706c83f5-1bf0-4933-96ea-d73191adea4a,fced661a-cbfa-46b9-8f51-b2e043964dd6,->,8c0472e4-7fcf-4740-b948-08deb522db6a,java/text/DateFormat.java,parse
+8c0472e4-7fcf-4740-b948-08deb522db6a,706c83f5-1bf0-4933-96ea-d73191adea4a,fced661a-cbfa-46b9-8f51-b2e043964dd6,->,8c0472e4-7fcf-4740-b948-08deb522db6a,java/lang/System.java,currentTimeMillis
+8c0472e4-7fcf-4740-b948-08deb522db6a,706c83f5-1bf0-4933-96ea-d73191adea4a,fced661a-cbfa-46b9-8f51-b2e043964dd6,->,8c0472e4-7fcf-4740-b948-08deb522db6a,java/util/Date.java,after
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,b83bd77b-5fc9-41dd-858a-d068bab4e54b,->,8c0472e4-7fcf-4740-b948-08deb522db6a,5bf9acde-2779-4bd9-9680-d364492be5d5,7e2e2652-55f8-4d4b-ab36-369269e908ee
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,b83bd77b-5fc9-41dd-858a-d068bab4e54b,->,8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,9902462f-0a71-477c-a45f-123cf32f54d9
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,b83bd77b-5fc9-41dd-858a-d068bab4e54b,->,8c0472e4-7fcf-4740-b948-08deb522db6a,18f1f06b-37ae-4956-9f1c-8d37e050c773,3f31dbeb-f268-4aa5-bac9-4f5726d74173
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,9902462f-0a71-477c-a45f-123cf32f54d9,->,8c0472e4-7fcf-4740-b948-08deb522db6a,java/util/GregorianCalendar.java,setTime
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,9902462f-0a71-477c-a45f-123cf32f54d9,->,8c0472e4-7fcf-4740-b948-08deb522db6a,javax/xml/datatype/DatatypeFactory.java,newInstance
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,9902462f-0a71-477c-a45f-123cf32f54d9,->,8c0472e4-7fcf-4740-b948-08deb522db6a,javax/xml/datatype/DatatypeFactory.java,newXMLGregorianCalendar
+8c0472e4-7fcf-4740-b948-08deb522db6a,834ee8ca-6bc4-40f2-b7c4-b7c0f4ad90ff,9902462f-0a71-477c-a45f-123cf32f54d9,->,8c0472e4-7fcf-4740-b948-08deb522db6a,javax/xml/datatype/DatatypeConfigurationException.java,printStackTrace
+8c0472e4-7fcf-4740-b948-08deb522db6a,c2d37747-ffc7-4966-be6b-215f2e3d80ac,a99ebbf2-eee3-43c4-b170-140370a40545,->,8c0472e4-7fcf-4740-b948-08deb522db6a,b809ba78-c23b-4f92-a7e3-398e6eeb3a29,ca4d1ab4-fea8-4a1e-b09b-eb86d8963540

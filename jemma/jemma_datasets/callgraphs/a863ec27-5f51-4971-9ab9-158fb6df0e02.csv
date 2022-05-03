@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a863ec27-5f51-4971-9ab9-158fb6df0e02,301de905-6f44-4944-9bb7-03b73e3669e1,8f35b18b-34ba-487c-890d-d3170b92c4d0,->,a863ec27-5f51-4971-9ab9-158fb6df0e02,org/springframework/ui/Model.java,addAttribute
+a863ec27-5f51-4971-9ab9-158fb6df0e02,301de905-6f44-4944-9bb7-03b73e3669e1,b3124f76-6f6e-4ca2-b76a-050e70d87f21,->,a863ec27-5f51-4971-9ab9-158fb6df0e02,3977fc71-6596-4fac-b40e-d2b3efb4d93d,2d14b829-2649-4587-890f-bf8675e3b577
+a863ec27-5f51-4971-9ab9-158fb6df0e02,301de905-6f44-4944-9bb7-03b73e3669e1,b3124f76-6f6e-4ca2-b76a-050e70d87f21,->,a863ec27-5f51-4971-9ab9-158fb6df0e02,org/springframework/ui/Model.java,addAttribute

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,ff724d3d-98b5-415a-a8a9-2121b70b9e34,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,87ea1ce0-6b88-4ef9-a271-e04a9e72d34b,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,8af79bc3-3c33-45d5-aaa4-f1916c0394ae,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,be6a1d12-682f-49b8-b866-8f49de6d9348,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,d83eca73-6f94-49d4-b5e5-ed42fcba1322,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,be891a1b-18fe-4d75-99fd-f6388e198576,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,d599d6a0-ad50-4d7a-9f71-e2847147bd9d,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,6f62185e-86c5-4893-a865-8b3aa00b4561,b4c74e9a-7d4e-46a6-ae41-6982aedc7f06,->,33823a26-424d-4db8-acb1-6f1a08734122,org/junit/Assert.java,fail
+33823a26-424d-4db8-acb1-6f1a08734122,service/impl/TranslationManagerImpl.java,createTranslation,->,33823a26-424d-4db8-acb1-6f1a08734122,fe632557-038e-4849-8f7c-130978d602c5,9d4e2508-0fe9-4e03-81c2-cc563fc6a1c7
+33823a26-424d-4db8-acb1-6f1a08734122,service/impl/TranslationManagerImpl.java,getTranslation,->,33823a26-424d-4db8-acb1-6f1a08734122,fe632557-038e-4849-8f7c-130978d602c5,e3b4b31f-e16e-4e64-a4bf-f61a79d78851
+33823a26-424d-4db8-acb1-6f1a08734122,service/impl/TranslationManagerImpl.java,listeTranslation,->,33823a26-424d-4db8-acb1-6f1a08734122,fe632557-038e-4849-8f7c-130978d602c5,35162f5f-a28b-43fb-95e5-b1bf80847db1
+33823a26-424d-4db8-acb1-6f1a08734122,service/impl/TranslationManagerImpl.java,updateTranslation,->,33823a26-424d-4db8-acb1-6f1a08734122,fe632557-038e-4849-8f7c-130978d602c5,7efdceed-9714-4ba4-990c-a5113f0a280f

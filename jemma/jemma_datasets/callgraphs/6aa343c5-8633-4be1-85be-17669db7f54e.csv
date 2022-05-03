@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6aa343c5-8633-4be1-85be-17669db7f54e,d3417967-b173-4d59-a5f3-91da5351375d,de37f5fd-2f32-4c5c-86e2-e0e77fcbc321,->,6aa343c5-8633-4be1-85be-17669db7f54e,java/io/PrintStream.java,print
+6aa343c5-8633-4be1-85be-17669db7f54e,d48f0b73-f44c-4118-8a11-b439e919658b,8cbe12e4-876b-4b71-bd52-bafa6048c5b5,->,6aa343c5-8633-4be1-85be-17669db7f54e,java/io/PrintStream.java,print
+6aa343c5-8633-4be1-85be-17669db7f54e,721dc963-0e29-4d59-9c03-be4a8f54f7ac,9140ef00-3458-42fb-876f-3f53b3b3d1b7,->,6aa343c5-8633-4be1-85be-17669db7f54e,java/io/PrintStream.java,print
+6aa343c5-8633-4be1-85be-17669db7f54e,b43ae9ad-cdc1-4379-b68e-b6a8833102b5,f484218c-4fae-4945-890f-6b05b104b26b,->,6aa343c5-8633-4be1-85be-17669db7f54e,java/io/PrintStream.java,print
+6aa343c5-8633-4be1-85be-17669db7f54e,4b4e6a1f-cd0f-4523-8ab1-5ac362d8950d,c71435b8-99bb-4376-a794-47efbffb818b,->,6aa343c5-8633-4be1-85be-17669db7f54e,java/io/PrintStream.java,print

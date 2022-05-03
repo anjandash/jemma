@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cf015dff-6874-4805-8efa-3f8fdd4e949b,2b17b448-1125-44f4-8a2e-b4845cb2035a,b8f14061-b54f-41fd-a99e-4c2834f3939a,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,java/lang/ref/ReferenceQueue.java,remove
+cf015dff-6874-4805-8efa-3f8fdd4e949b,2b17b448-1125-44f4-8a2e-b4845cb2035a,b8f14061-b54f-41fd-a99e-4c2834f3939a,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,e960dfd3-b6ae-457a-8431-c6e50dc732d9,cbdb54f2-3400-47ca-8279-686e4e518b4a
+cf015dff-6874-4805-8efa-3f8fdd4e949b,2b17b448-1125-44f4-8a2e-b4845cb2035a,b8f14061-b54f-41fd-a99e-4c2834f3939a,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,5dea9430-1ec2-489e-9527-63f4067d6cc6,95009305-9ced-4497-913a-a48aca654a9c
+cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,<clinit>,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,setName
+cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,<clinit>,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,setDaemon
+cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,<clinit>,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,setPriority
+cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,<clinit>,->,cf015dff-6874-4805-8efa-3f8fdd4e949b,org/fossnova/ref/CleanerThread.java,start

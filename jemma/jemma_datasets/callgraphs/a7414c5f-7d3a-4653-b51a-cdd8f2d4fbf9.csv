@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/elecciones/Habitante.java,setEdad,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/elecciones/Habitante.java,esMayor
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/elecciones/EspacioPublico.java,setExtension,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,java/lang/Double.java,doubleValue
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/elecciones/Inmueble.java,setHabitable,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,java/lang/String.java,equalsIgnoreCase
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,calculaArea,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,getAltura
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,calculaArea,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,getBase
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,calculaPerimetro,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,getAltura
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,calculaPerimetro,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Rectangulo.java,getBase
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,getPi,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,java/lang/Object.java,getClass
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,calculaArea,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,getRadio
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,calculaArea,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,getRadio
+a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,calculaPerimetro,->,a7414c5f-7d3a-4653-b51a-cdd8f2d4fbf9,com/zubiri/geometria/Circulo.java,getRadio

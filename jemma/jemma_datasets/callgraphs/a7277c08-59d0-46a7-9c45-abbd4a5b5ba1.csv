@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/ReminderType.java,values,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/ReminderType.java,clone
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/ReminderType.java,valueOf,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Enum.java,valueOf
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/Interval.java,values,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/Interval.java,clone
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/Interval.java,valueOf,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Enum.java,valueOf
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/EventType.java,values,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/EventType.java,clone
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/EventType.java,valueOf,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Enum.java,valueOf
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/PunishmentType.java,values,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/PunishmentType.java,clone
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,pl/kedziora/emilek/json/objects/enums/PunishmentType.java,valueOf,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Enum.java,valueOf
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,d049d4f3-55f5-4367-8667-81093d9b9eea,001a4d08-8c7e-4c93-a6cc-d9dc641d4ad0,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Object.java,getClass
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,d049d4f3-55f5-4367-8667-81093d9b9eea,001a4d08-8c7e-4c93-a6cc-d9dc641d4ad0,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Object.java,getClass
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,d049d4f3-55f5-4367-8667-81093d9b9eea,001a4d08-8c7e-4c93-a6cc-d9dc641d4ad0,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Long.java,equals
+a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,d049d4f3-55f5-4367-8667-81093d9b9eea,774a77f8-0945-4de2-97c2-6486bff365b8,->,a7277c08-59d0-46a7-9c45-abbd4a5b5ba1,java/lang/Long.java,hashCode

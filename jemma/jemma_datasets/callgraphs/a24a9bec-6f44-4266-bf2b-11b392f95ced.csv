@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a24a9bec-6f44-4266-bf2b-11b392f95ced,com/baidu/jprotobuf/pbrpc/CompressType.java,values,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,com/baidu/jprotobuf/pbrpc/CompressType.java,clone
+a24a9bec-6f44-4266-bf2b-11b392f95ced,com/baidu/jprotobuf/pbrpc/CompressType.java,valueOf,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/Enum.java,valueOf
+a24a9bec-6f44-4266-bf2b-11b392f95ced,0fae5bb9-d6e5-484f-b6fb-5310acac09c9,d823db22-9e29-4d65-aced-cf869c95f4f6,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/util/UUID.java,randomUUID
+a24a9bec-6f44-4266-bf2b-11b392f95ced,0fae5bb9-d6e5-484f-b6fb-5310acac09c9,d823db22-9e29-4d65-aced-cf869c95f4f6,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/util/UUID.java,toString
+a24a9bec-6f44-4266-bf2b-11b392f95ced,0fae5bb9-d6e5-484f-b6fb-5310acac09c9,d823db22-9e29-4d65-aced-cf869c95f4f6,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/String.java,hashCode
+a24a9bec-6f44-4266-bf2b-11b392f95ced,81015d6a-7170-475d-afb6-04de17dcfec5,bf3a34a9-17e3-4917-81f1-84d779834879,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/Long.java,valueOf
+a24a9bec-6f44-4266-bf2b-11b392f95ced,81015d6a-7170-475d-afb6-04de17dcfec5,bf3a34a9-17e3-4917-81f1-84d779834879,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/ThreadLocal.java,set
+a24a9bec-6f44-4266-bf2b-11b392f95ced,81015d6a-7170-475d-afb6-04de17dcfec5,a1b97827-c2c4-490b-bd02-efb99b73c05b,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/ThreadLocal.java,remove
+a24a9bec-6f44-4266-bf2b-11b392f95ced,b78f451d-1d72-43ae-8a4b-45f3e047f204,19012216-3ed8-4451-b0c1-cc578b90d4ea,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,24ba72a7-4fcf-4aa4-af96-c88454e17eb9,98ca7d7b-5117-435b-b596-adf7d1373275
+a24a9bec-6f44-4266-bf2b-11b392f95ced,b78f451d-1d72-43ae-8a4b-45f3e047f204,19012216-3ed8-4451-b0c1-cc578b90d4ea,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/Long.java,valueOf
+a24a9bec-6f44-4266-bf2b-11b392f95ced,b78f451d-1d72-43ae-8a4b-45f3e047f204,19012216-3ed8-4451-b0c1-cc578b90d4ea,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/util/Set.java,contains
+a24a9bec-6f44-4266-bf2b-11b392f95ced,b78f451d-1d72-43ae-8a4b-45f3e047f204,19012216-3ed8-4451-b0c1-cc578b90d4ea,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,junit/framework/Assert.java,assertFalse
+a24a9bec-6f44-4266-bf2b-11b392f95ced,b78f451d-1d72-43ae-8a4b-45f3e047f204,19012216-3ed8-4451-b0c1-cc578b90d4ea,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/lang/Long.java,valueOf
+a24a9bec-6f44-4266-bf2b-11b392f95ced,b78f451d-1d72-43ae-8a4b-45f3e047f204,19012216-3ed8-4451-b0c1-cc578b90d4ea,->,a24a9bec-6f44-4266-bf2b-11b392f95ced,java/util/Set.java,add

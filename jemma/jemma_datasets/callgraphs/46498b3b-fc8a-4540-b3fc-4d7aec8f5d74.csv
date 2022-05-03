@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardRarity.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardRarity.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardRarity.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Race.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Race.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Race.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Target.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Target.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Target.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Duration.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Duration.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/Duration.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/TriggerCondition.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/TriggerCondition.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/TriggerCondition.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardClass.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardClass.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardClass.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/StatusModifier.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/StatusModifier.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/StatusModifier.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardType.java,values,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardType.java,clone
+46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,enums/CardType.java,valueOf,->,46498b3b-fc8a-4540-b3fc-4d7aec8f5d74,java/lang/Enum.java,valueOf

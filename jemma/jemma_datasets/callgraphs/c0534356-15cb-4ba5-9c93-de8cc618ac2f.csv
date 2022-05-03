@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c0534356-15cb-4ba5-9c93-de8cc618ac2f,f6a780cb-f822-4e71-83ea-b7e65f8487cc,86ef2e56-218a-4e50-9829-fe822cc2811c,->,c0534356-15cb-4ba5-9c93-de8cc618ac2f,PlayProject/CAG/AppTest.java,assertTrue
+c0534356-15cb-4ba5-9c93-de8cc618ac2f,e7e3bc8b-cb99-45e3-abdf-695f1965a729,7cb203f5-2005-437b-9200-891e14bc9300,->,c0534356-15cb-4ba5-9c93-de8cc618ac2f,java/io/PrintStream.java,println

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ee56a103-f1a1-4a38-b6ab-da48be949924,bcb363d1-54d6-4413-b9a4-eaca884ce176,b39e02f1-20e1-42c9-9ba0-1bfb6c42c90f,->,ee56a103-f1a1-4a38-b6ab-da48be949924,519b3708-7354-4cf5-b3fd-22136aa6bb91,8ab9e5cb-1710-4f0c-8e15-958887ddf71e
+ee56a103-f1a1-4a38-b6ab-da48be949924,bcb363d1-54d6-4413-b9a4-eaca884ce176,b39e02f1-20e1-42c9-9ba0-1bfb6c42c90f,->,ee56a103-f1a1-4a38-b6ab-da48be949924,519b3708-7354-4cf5-b3fd-22136aa6bb91,8ab9e5cb-1710-4f0c-8e15-958887ddf71e
+ee56a103-f1a1-4a38-b6ab-da48be949924,bcb363d1-54d6-4413-b9a4-eaca884ce176,b39e02f1-20e1-42c9-9ba0-1bfb6c42c90f,->,ee56a103-f1a1-4a38-b6ab-da48be949924,519b3708-7354-4cf5-b3fd-22136aa6bb91,8ab9e5cb-1710-4f0c-8e15-958887ddf71e
+ee56a103-f1a1-4a38-b6ab-da48be949924,bcb363d1-54d6-4413-b9a4-eaca884ce176,9144e2ca-49ce-4e1c-9fa5-4dd8c8b47559,->,ee56a103-f1a1-4a38-b6ab-da48be949924,javax/xml/bind/JAXB.java,marshal
+ee56a103-f1a1-4a38-b6ab-da48be949924,519b3708-7354-4cf5-b3fd-22136aa6bb91,8ab9e5cb-1710-4f0c-8e15-958887ddf71e,->,ee56a103-f1a1-4a38-b6ab-da48be949924,java/util/List.java,add
+ee56a103-f1a1-4a38-b6ab-da48be949924,dc0ca6fb-9cf8-4254-88b0-d30c34d31a73,5e48ef81-42af-4079-b362-619e31ee63d4,->,ee56a103-f1a1-4a38-b6ab-da48be949924,javax/xml/bind/JAXB.java,marshal
+ee56a103-f1a1-4a38-b6ab-da48be949924,2b243e65-17a5-46ab-b04e-4db7a5bda495,e618d026-4154-4c0e-b13a-fba104ce031a,->,ee56a103-f1a1-4a38-b6ab-da48be949924,javax/xml/bind/JAXB.java,marshal
+ee56a103-f1a1-4a38-b6ab-da48be949924,7f673c17-fbea-4c6e-94aa-fe7ae8ebc350,d6f143ba-c4cf-41aa-b4fa-b6eb0b5a5bf9,->,ee56a103-f1a1-4a38-b6ab-da48be949924,javax/xml/bind/JAXB.java,marshal
+ee56a103-f1a1-4a38-b6ab-da48be949924,1f84b31f-0eec-44c1-8882-5cf70ad865b2,47452603-ff07-44cd-b9bc-613f5ca5d3b7,->,ee56a103-f1a1-4a38-b6ab-da48be949924,javax/xml/bind/JAXB.java,marshal
+ee56a103-f1a1-4a38-b6ab-da48be949924,f8cabd29-a26e-4f34-a217-cdde58fa2e00,974c942e-1c05-483f-be14-627444742c64,->,ee56a103-f1a1-4a38-b6ab-da48be949924,javax/xml/bind/JAXB.java,marshal

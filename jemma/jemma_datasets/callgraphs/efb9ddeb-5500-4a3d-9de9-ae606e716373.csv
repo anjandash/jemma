@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/AlgorithmParametersType$ChallengeFormat.java,isCheckDigits,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/Boolean.java,booleanValue
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/PINUsageModeType.java,values,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/PINUsageModeType.java,clone
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/PINUsageModeType.java,valueOf,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/Enum.java,valueOf
+efb9ddeb-5500-4a3d-9de9-ae606e716373,a7772328-8e22-46ff-bdb4-df06350dc0bc,6fc78b77-b65e-4ee8-8a34-a7f78aa2f032,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/PINUsageModeType.java,values
+efb9ddeb-5500-4a3d-9de9-ae606e716373,a7772328-8e22-46ff-bdb4-df06350dc0bc,6fc78b77-b65e-4ee8-8a34-a7f78aa2f032,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/String.java,equals
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/AlgorithmParametersType$ResponseFormat.java,isCheckDigits,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/Boolean.java,booleanValue
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/KeyUsageType.java,values,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/KeyUsageType.java,clone
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/KeyUsageType.java,valueOf,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/Enum.java,valueOf
+efb9ddeb-5500-4a3d-9de9-ae606e716373,4d1e252b-fbe4-4b1d-8585-a58e846a9d4b,a0dc5bd3-e6f2-4d9f-95af-0aa2659ece1c,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/KeyUsageType.java,values
+efb9ddeb-5500-4a3d-9de9-ae606e716373,4d1e252b-fbe4-4b1d-8585-a58e846a9d4b,a0dc5bd3-e6f2-4d9f-95af-0aa2659ece1c,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/String.java,equals
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/ValueFormatType.java,values,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/ValueFormatType.java,clone
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/ValueFormatType.java,valueOf,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/Enum.java,valueOf
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ec55acd9-72f0-48ce-a7c8-dce7ad0c6d21,8ee4732c-a97a-4b47-aec4-5c6699247964,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,ca/twokeys/xml/pskc/ValueFormatType.java,values
+efb9ddeb-5500-4a3d-9de9-ae606e716373,ec55acd9-72f0-48ce-a7c8-dce7ad0c6d21,8ee4732c-a97a-4b47-aec4-5c6699247964,->,efb9ddeb-5500-4a3d-9de9-ae606e716373,java/lang/String.java,equals

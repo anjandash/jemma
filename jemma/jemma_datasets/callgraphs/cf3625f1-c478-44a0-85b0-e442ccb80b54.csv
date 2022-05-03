@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cf3625f1-c478-44a0-85b0-e442ccb80b54,f04ef403-672f-4cb7-a452-1965cc484654,2ac635e7-cfb9-4e8c-9583-8fd3bb83f3c8,->,cf3625f1-c478-44a0-85b0-e442ccb80b54,com/test/dao/impl/UserDaoImpl.java,findByOther
+cf3625f1-c478-44a0-85b0-e442ccb80b54,30f447f8-cdc0-4492-8380-abe276df8414,bd03b319-263a-48cf-a2f8-ce0a4315ce49,->,cf3625f1-c478-44a0-85b0-e442ccb80b54,org/apache/ibatis/session/SqlSession.java,selectOne
+cf3625f1-c478-44a0-85b0-e442ccb80b54,9f46e8af-35af-4bbc-a621-a24687c5cccc,a9609b85-926d-47d4-976a-69a0c5a3dd39,->,cf3625f1-c478-44a0-85b0-e442ccb80b54,93c1c38b-1144-4967-8cf6-0eefedc724d7,abc6302d-b757-44b6-b0da-ef0eac967f3d
+cf3625f1-c478-44a0-85b0-e442ccb80b54,9f46e8af-35af-4bbc-a621-a24687c5cccc,a9609b85-926d-47d4-976a-69a0c5a3dd39,->,cf3625f1-c478-44a0-85b0-e442ccb80b54,879e613f-315c-4d06-8d05-b53e5f29c5a4,6c0d2889-8631-4b62-99e0-dbf37dafb8b1
+cf3625f1-c478-44a0-85b0-e442ccb80b54,9f46e8af-35af-4bbc-a621-a24687c5cccc,a9609b85-926d-47d4-976a-69a0c5a3dd39,->,cf3625f1-c478-44a0-85b0-e442ccb80b54,879e613f-315c-4d06-8d05-b53e5f29c5a4,1b1f7b52-d7f2-41f6-abe5-d6cd88eb6fed
+cf3625f1-c478-44a0-85b0-e442ccb80b54,94d4f488-5905-41e9-90d4-e5a7dd975b12,67701ca9-137d-45ec-821e-80b081d7de8d,->,cf3625f1-c478-44a0-85b0-e442ccb80b54,java/io/PrintStream.java,println

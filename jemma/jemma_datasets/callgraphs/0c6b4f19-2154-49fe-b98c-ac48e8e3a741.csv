@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,47ddb2ee-352d-4a5e-9c6b-e0233966e6e3,106a22f0-2f50-4b15-8990-73b5500c2007,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,47ddb2ee-352d-4a5e-9c6b-e0233966e6e3,106a22f0-2f50-4b15-8990-73b5500c2007,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,org/junit/Assert.java,fail
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,47ddb2ee-352d-4a5e-9c6b-e0233966e6e3,10826bdf-98e1-4464-8f61-05d934d7393c,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,47ddb2ee-352d-4a5e-9c6b-e0233966e6e3,88a4d39b-654d-4c66-bbf8-4c37a8fb2875,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,c03a189b-1e07-4fcf-9fd7-71ac3e2315b3,e336f317-9743-47bf-adeb-eadaf90b361a,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,c03a189b-1e07-4fcf-9fd7-71ac3e2315b3,e63d066f-5ad9-48a5-8b17-a3a335e092be,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,c03a189b-1e07-4fcf-9fd7-71ac3e2315b3,e63d066f-5ad9-48a5-8b17-a3a335e092be,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,org/junit/Assert.java,fail
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,c03a189b-1e07-4fcf-9fd7-71ac3e2315b3,9f5f28e0-e781-4b39-b6c3-3a57ecb74f13,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,3b8af0f0-6cae-4b19-8926-b2191150d465,440ec379-3f6e-4842-beaf-0de6b83655c3,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,3b8af0f0-6cae-4b19-8926-b2191150d465,e5996f25-02e2-4df6-b983-0918ef0a1c58,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,3b8af0f0-6cae-4b19-8926-b2191150d465,d05a4551-87ab-4bf5-90bf-6ab4bdcf2627,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,a4325eca-527f-4378-b2eb-225a173995be,06615bc8-65db-4ded-90c8-a230c1e69910,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,a4325eca-527f-4378-b2eb-225a173995be,eb311bf3-0b7c-459e-9697-1d47d2fe9091,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep
+0c6b4f19-2154-49fe-b98c-ac48e8e3a741,a4325eca-527f-4378-b2eb-225a173995be,e986ea81-c685-4e3f-beb5-d57df1ef9d5f,->,0c6b4f19-2154-49fe-b98c-ac48e8e3a741,java/util/concurrent/TimeUnit.java,sleep

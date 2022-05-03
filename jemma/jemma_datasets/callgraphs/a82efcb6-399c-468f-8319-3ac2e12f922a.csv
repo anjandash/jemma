@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+a82efcb6-399c-468f-8319-3ac2e12f922a,6c164eae-f0d5-433f-a030-4d6f0d21df61,95a8db1d-9246-41b6-bbc1-676c6cbe2194,->,a82efcb6-399c-468f-8319-3ac2e12f922a,602cbf3c-5596-4195-8796-612eea270af2,e97d311e-0229-4e7c-b62f-7fbf6e9d2219
+a82efcb6-399c-468f-8319-3ac2e12f922a,6c164eae-f0d5-433f-a030-4d6f0d21df61,95a8db1d-9246-41b6-bbc1-676c6cbe2194,->,a82efcb6-399c-468f-8319-3ac2e12f922a,org/hibernate/SessionFactory.java,openSession
+a82efcb6-399c-468f-8319-3ac2e12f922a,6c164eae-f0d5-433f-a030-4d6f0d21df61,95a8db1d-9246-41b6-bbc1-676c6cbe2194,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/lang/Object.java,getClass
+a82efcb6-399c-468f-8319-3ac2e12f922a,6c164eae-f0d5-433f-a030-4d6f0d21df61,95a8db1d-9246-41b6-bbc1-676c6cbe2194,->,a82efcb6-399c-468f-8319-3ac2e12f922a,602cbf3c-5596-4195-8796-612eea270af2,e97d311e-0229-4e7c-b62f-7fbf6e9d2219
+a82efcb6-399c-468f-8319-3ac2e12f922a,6c164eae-f0d5-433f-a030-4d6f0d21df61,95a8db1d-9246-41b6-bbc1-676c6cbe2194,->,a82efcb6-399c-468f-8319-3ac2e12f922a,org/hibernate/Session.java,load
+a82efcb6-399c-468f-8319-3ac2e12f922a,com/zzb/dao/BaseDAOImpl.java,<clinit>,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/lang/Class.java,desiredAssertionStatus
+a82efcb6-399c-468f-8319-3ac2e12f922a,8a7f0c01-1261-47ae-96ec-ebcec6d4422f,b26a7426-2ed1-4139-8331-17a19a86b76a,->,a82efcb6-399c-468f-8319-3ac2e12f922a,a4a7f533-b7e6-4430-b9c0-a02f6b11b515,7586ce5e-4846-4b8d-a3fc-8ee688e60b3d
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/io/PrintStream.java,println
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/io/PrintStream.java,println
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,com/zzb/vo/User.java,setId
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,cadf3941-c591-4b6f-8d23-8e325c756153,19af93a3-4178-4e7d-b379-e229515dc7a8
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/lang/StringBuilder.java,append
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,9fa313cf-8f80-466a-b9a3-4ed4e31fd57a,61b0ec97-acac-4871-a25f-e3a069c3d308
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/lang/StringBuilder.java,append
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/lang/StringBuilder.java,toString
+a82efcb6-399c-468f-8319-3ac2e12f922a,2fb3cff3-602e-48a7-a310-2927426750bd,eeda3334-eb61-4009-841e-7e5695ec71e2,->,a82efcb6-399c-468f-8319-3ac2e12f922a,java/io/PrintStream.java,println

@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6ff97765-98af-441c-8418-f66e1e497382,32c014fe-78f7-4d86-a024-f35343ab6f40,9f4b36b5-206c-4504-abee-45e25d27ee57,->,6ff97765-98af-441c-8418-f66e1e497382,java/util/concurrent/atomic/AtomicLong.java,incrementAndGet
+6ff97765-98af-441c-8418-f66e1e497382,32c014fe-78f7-4d86-a024-f35343ab6f40,9f4b36b5-206c-4504-abee-45e25d27ee57,->,6ff97765-98af-441c-8418-f66e1e497382,java/lang/String.java,format
+6ff97765-98af-441c-8418-f66e1e497382,1e169c44-a0f3-426c-9714-d344dfdfd1c9,7aec5bb6-686f-45e9-a0cd-9fc03cb418fc,->,6ff97765-98af-441c-8418-f66e1e497382,org/springframework/http/HttpHeaders.java,setContentType
+6ff97765-98af-441c-8418-f66e1e497382,1e169c44-a0f3-426c-9714-d344dfdfd1c9,7aec5bb6-686f-45e9-a0cd-9fc03cb418fc,->,6ff97765-98af-441c-8418-f66e1e497382,java/util/Arrays.java,asList
+6ff97765-98af-441c-8418-f66e1e497382,1e169c44-a0f3-426c-9714-d344dfdfd1c9,7aec5bb6-686f-45e9-a0cd-9fc03cb418fc,->,6ff97765-98af-441c-8418-f66e1e497382,org/springframework/http/HttpHeaders.java,setAccept
+6ff97765-98af-441c-8418-f66e1e497382,1e169c44-a0f3-426c-9714-d344dfdfd1c9,7aec5bb6-686f-45e9-a0cd-9fc03cb418fc,->,6ff97765-98af-441c-8418-f66e1e497382,org/springframework/web/client/RestTemplate.java,getForObject
+6ff97765-98af-441c-8418-f66e1e497382,1e169c44-a0f3-426c-9714-d344dfdfd1c9,7aec5bb6-686f-45e9-a0cd-9fc03cb418fc,->,6ff97765-98af-441c-8418-f66e1e497382,junit/framework/Assert.java,assertNotNull
+6ff97765-98af-441c-8418-f66e1e497382,d141f52e-a4c9-4239-80fe-1a0cd432bec5,2ad84ae8-eee0-4594-b795-aa9b114fe100,->,6ff97765-98af-441c-8418-f66e1e497382,org/springframework/boot/SpringApplication.java,run
+6ff97765-98af-441c-8418-f66e1e497382,d141f52e-a4c9-4239-80fe-1a0cd432bec5,2ad84ae8-eee0-4594-b795-aa9b114fe100,->,6ff97765-98af-441c-8418-f66e1e497382,java/io/PrintStream.java,println
+6ff97765-98af-441c-8418-f66e1e497382,d141f52e-a4c9-4239-80fe-1a0cd432bec5,2ad84ae8-eee0-4594-b795-aa9b114fe100,->,6ff97765-98af-441c-8418-f66e1e497382,org/springframework/context/ApplicationContext.java,getBeanDefinitionNames
+6ff97765-98af-441c-8418-f66e1e497382,d141f52e-a4c9-4239-80fe-1a0cd432bec5,2ad84ae8-eee0-4594-b795-aa9b114fe100,->,6ff97765-98af-441c-8418-f66e1e497382,java/util/Arrays.java,sort
+6ff97765-98af-441c-8418-f66e1e497382,d141f52e-a4c9-4239-80fe-1a0cd432bec5,2ad84ae8-eee0-4594-b795-aa9b114fe100,->,6ff97765-98af-441c-8418-f66e1e497382,java/io/PrintStream.java,println

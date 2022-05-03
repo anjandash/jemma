@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,e8724068-494e-4680-84c0-79380cd647e2,031bf489-52f8-4e57-8b97-c2d35e920639,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,java/io/PrintStream.java,println
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,e8724068-494e-4680-84c0-79380cd647e2,031bf489-52f8-4e57-8b97-c2d35e920639,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,java/util/Scanner.java,nextInt
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,e8724068-494e-4680-84c0-79380cd647e2,2afdef37-83d4-4e65-875e-28e017084201,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,6ec4c3a7-894b-468d-a876-4cdf9e334c38,f0921eb6-1622-4ed0-b932-3968ff5e417d
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,controller/Controller$GAME_STATE.java,values,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,controller/Controller$GAME_STATE.java,clone
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,controller/Controller$GAME_STATE.java,valueOf,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,java/lang/Enum.java,valueOf
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,9a5f2ca3-1a12-4933-b474-f25460defc33,66fea390-1b1a-43ac-a037-fae33be82690,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,org/junit/Assert.java,fail
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,6ec4c3a7-894b-468d-a876-4cdf9e334c38,f0921eb6-1622-4ed0-b932-3968ff5e417d,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,2031bc04-ae8b-4dc7-b284-80ab9d751aa8,edf02074-0115-4661-b440-45a6d9e547c1
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,6ee118dd-12fb-4366-9cf9-62b9f549f26a,3b7075a9-87e6-4752-bc50-2efec9c91031,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,org/junit/Assert.java,fail
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,c3978fa9-70cc-4f9a-b181-85faca7b6870,fd493096-b0b3-40c1-8eb3-8b2770abb177,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,org/junit/Assert.java,fail
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,11d6346a-2018-4082-9f6d-ed7c9e45a32a,c17fcd8a-3b38-415c-8d30-167cd9558b6e,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,org/junit/Assert.java,fail
+2db3843e-5c89-49b4-af0e-7c642b3f3e46,2a487acb-661c-4916-b489-d342c0a4896b,16c3aadf-88b6-4127-8b50-2def7b8419e7,->,2db3843e-5c89-49b4-af0e-7c642b3f3e46,org/junit/Assert.java,fail

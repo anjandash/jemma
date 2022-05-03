@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,10d8a5ef-c577-4d7f-b28c-8663b31759d7,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/io/PrintStream.java,println
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,10d8a5ef-c577-4d7f-b28c-8663b31759d7,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/util/List.java,add
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,7af00aad-def3-4374-a296-03f9dd2d9442,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,b431dd12-73a2-4720-9d68-74d8f9adfe4b
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,7af00aad-def3-4374-a296-03f9dd2d9442,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,c65cfc4a-4494-4ce3-bf28-fe9f8d170ed3,e518a659-5ac2-4f72-a595-8320c6004593
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,b431dd12-73a2-4720-9d68-74d8f9adfe4b,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/util/List.java,get
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,77c8eb14-183b-4d3e-a7e6-e2b174d438c1,0b7a898b-8660-4c60-b7aa-cf6372bac567,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,10d8a5ef-c577-4d7f-b28c-8663b31759d7
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,c65cfc4a-4494-4ce3-bf28-fe9f8d170ed3,f49df365-5d81-470e-a848-9e78f452246e,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/util/List.java,iterator
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,c65cfc4a-4494-4ce3-bf28-fe9f8d170ed3,f49df365-5d81-470e-a848-9e78f452246e,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/util/Iterator.java,hasNext
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,c65cfc4a-4494-4ce3-bf28-fe9f8d170ed3,f49df365-5d81-470e-a848-9e78f452246e,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/util/Iterator.java,next
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,c65cfc4a-4494-4ce3-bf28-fe9f8d170ed3,f49df365-5d81-470e-a848-9e78f452246e,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,dfc2b038-ba1e-4ef6-b44f-70f84bba44e0,7af00aad-def3-4374-a296-03f9dd2d9442
+148a55d9-27da-4e3a-a4d1-91fdd692ea19,c65cfc4a-4494-4ce3-bf28-fe9f8d170ed3,e518a659-5ac2-4f72-a595-8320c6004593,->,148a55d9-27da-4e3a-a4d1-91fdd692ea19,java/util/List.java,size

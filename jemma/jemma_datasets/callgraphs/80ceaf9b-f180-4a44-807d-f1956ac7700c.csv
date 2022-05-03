@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+80ceaf9b-f180-4a44-807d-f1956ac7700c,3d77beb1-50ef-4996-85ac-874b4e6296a3,cf01c735-5db2-456b-8f05-3d2e6ce9338a,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,java/util/HashMap.java,put
+80ceaf9b-f180-4a44-807d-f1956ac7700c,3d77beb1-50ef-4996-85ac-874b4e6296a3,cf01c735-5db2-456b-8f05-3d2e6ce9338a,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,java/util/HashMap.java,put
+80ceaf9b-f180-4a44-807d-f1956ac7700c,3d77beb1-50ef-4996-85ac-874b4e6296a3,cf01c735-5db2-456b-8f05-3d2e6ce9338a,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,java/util/HashMap.java,put
+80ceaf9b-f180-4a44-807d-f1956ac7700c,20434323-433c-41b2-8be0-444bc06ffa36,3fbe8cd6-baab-428e-a58c-2e296d09b98e,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,java/io/PrintStream.java,println
+80ceaf9b-f180-4a44-807d-f1956ac7700c,20434323-433c-41b2-8be0-444bc06ffa36,3fbe8cd6-baab-428e-a58c-2e296d09b98e,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,org/springframework/ui/Model.java,addAttribute
+80ceaf9b-f180-4a44-807d-f1956ac7700c,20434323-433c-41b2-8be0-444bc06ffa36,3fbe8cd6-baab-428e-a58c-2e296d09b98e,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,org/springframework/ui/Model.java,addAttribute
+80ceaf9b-f180-4a44-807d-f1956ac7700c,fa3cd641-0f06-4c23-98ce-e4341d627c08,a54bd4d4-7f6c-472c-adb8-13f849dc2afa,->,80ceaf9b-f180-4a44-807d-f1956ac7700c,java/io/PrintStream.java,println

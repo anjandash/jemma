@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+36d37ffc-0e0b-46e1-a0a0-1d482e06c947,965a2b2c-5428-4b7a-bc7a-85c8f1dfaa70,91248017-1f0f-404a-8bdd-92eaef002676,->,36d37ffc-0e0b-46e1-a0a0-1d482e06c947,org/springframework/boot/SpringApplication.java,run
+36d37ffc-0e0b-46e1-a0a0-1d482e06c947,1c75c242-8fa8-4bf0-bf0a-50ea4ee110ae,1f3b91dc-fa34-4c96-a473-a2fe2b1ffb82,->,36d37ffc-0e0b-46e1-a0a0-1d482e06c947,hu/qualysoft/spring/repository/CategoryRepository.java,findAll
+36d37ffc-0e0b-46e1-a0a0-1d482e06c947,1c75c242-8fa8-4bf0-bf0a-50ea4ee110ae,e18d5f88-54f4-4662-8456-1414cb0c1bf4,->,36d37ffc-0e0b-46e1-a0a0-1d482e06c947,696b5efe-25f0-40c0-aca8-2eb8140be845,c92e852a-81a5-4c26-a5a4-4acf5c529737
+36d37ffc-0e0b-46e1-a0a0-1d482e06c947,a718d36a-611a-4286-ab86-afa28f1dcac9,037c267e-eae3-4bc5-9f7c-8008f8b9170c,->,36d37ffc-0e0b-46e1-a0a0-1d482e06c947,java/util/List.java,add

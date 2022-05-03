@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/query/Query$Comparator.java,values,->,b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/query/Query$Comparator.java,clone
+b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/query/Query$Comparator.java,valueOf,->,b2e29e22-c8be-43e4-a44b-366a3aed8ed0,java/lang/Enum.java,valueOf
+b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/query/Query$Sort.java,values,->,b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/query/Query$Sort.java,clone
+b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/query/Query$Sort.java,valueOf,->,b2e29e22-c8be-43e4-a44b-366a3aed8ed0,java/lang/Enum.java,valueOf
+b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/annotation/Relationship.java,values,->,b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/annotation/Relationship.java,clone
+b2e29e22-c8be-43e4-a44b-366a3aed8ed0,com/xu_robert/simple2save/annotation/Relationship.java,valueOf,->,b2e29e22-c8be-43e4-a44b-366a3aed8ed0,java/lang/Enum.java,valueOf

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+02c2518f-7c28-4f9e-91a7-8858c751dde0,daa40b24-1d97-4ba5-9407-3acc4a7fcbbe,bb081da6-3e5f-4283-b307-b4ca2ee49129,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,org/springframework/web/servlet/ModelAndView.java,addObject
+02c2518f-7c28-4f9e-91a7-8858c751dde0,daa40b24-1d97-4ba5-9407-3acc4a7fcbbe,bb081da6-3e5f-4283-b307-b4ca2ee49129,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,org/springframework/web/servlet/ModelAndView.java,setViewName
+02c2518f-7c28-4f9e-91a7-8858c751dde0,19fae902-d75f-4f8b-98b0-107b38728675,d88d1dd0-0213-4bdc-a109-a38c95666b48,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,fb953f2a-4904-4d50-9c0e-f2daea1c7b19,65f5f8cc-4df2-42bf-9c48-bc7c3c73684c
+02c2518f-7c28-4f9e-91a7-8858c751dde0,19fae902-d75f-4f8b-98b0-107b38728675,d88d1dd0-0213-4bdc-a109-a38c95666b48,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,c5b5f2a8-0635-4f58-9418-d094236f2439,a3520376-df7f-42a0-a6b0-d1d12d50c2ed
+02c2518f-7c28-4f9e-91a7-8858c751dde0,19fae902-d75f-4f8b-98b0-107b38728675,d88d1dd0-0213-4bdc-a109-a38c95666b48,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,com/invito/dao/exception/DataAcessFailedException.java,printStackTrace
+02c2518f-7c28-4f9e-91a7-8858c751dde0,19fae902-d75f-4f8b-98b0-107b38728675,d88d1dd0-0213-4bdc-a109-a38c95666b48,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,com/invito/dao/exception/DataAcessFailedException.java,getMessage
+02c2518f-7c28-4f9e-91a7-8858c751dde0,com/common/enumerations/ErrorCodesEnum.java,values,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,com/common/enumerations/ErrorCodesEnum.java,clone
+02c2518f-7c28-4f9e-91a7-8858c751dde0,com/common/enumerations/ErrorCodesEnum.java,valueOf,->,02c2518f-7c28-4f9e-91a7-8858c751dde0,java/lang/Enum.java,valueOf

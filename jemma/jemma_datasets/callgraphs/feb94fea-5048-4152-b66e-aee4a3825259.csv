@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+feb94fea-5048-4152-b66e-aee4a3825259,29fcc71e-8a02-4b22-9cd1-54d5f09b19f5,a70aa4cd-d9b0-4541-9da3-d1854898a1a1,->,feb94fea-5048-4152-b66e-aee4a3825259,javax/persistence/EntityManager.java,createQuery
+feb94fea-5048-4152-b66e-aee4a3825259,29fcc71e-8a02-4b22-9cd1-54d5f09b19f5,a70aa4cd-d9b0-4541-9da3-d1854898a1a1,->,feb94fea-5048-4152-b66e-aee4a3825259,javax/persistence/Query.java,getResultList
+feb94fea-5048-4152-b66e-aee4a3825259,29fcc71e-8a02-4b22-9cd1-54d5f09b19f5,42442fce-77d9-4af2-b7bd-c8788a2cb733,->,feb94fea-5048-4152-b66e-aee4a3825259,java/lang/Integer.java,valueOf
+feb94fea-5048-4152-b66e-aee4a3825259,29fcc71e-8a02-4b22-9cd1-54d5f09b19f5,42442fce-77d9-4af2-b7bd-c8788a2cb733,->,feb94fea-5048-4152-b66e-aee4a3825259,javax/persistence/EntityManager.java,find
+feb94fea-5048-4152-b66e-aee4a3825259,f10e73a6-0c76-4a1f-86bd-23a512b3fd8a,cccb323d-cb43-42b4-9323-7d84a20fca2e,->,feb94fea-5048-4152-b66e-aee4a3825259,bbaf1645-dfd5-428f-b2d5-23132f927182,08d57749-4354-4b22-8bb9-c14aac8f206b
+feb94fea-5048-4152-b66e-aee4a3825259,f10e73a6-0c76-4a1f-86bd-23a512b3fd8a,28c5ca73-a248-423b-820b-be7f9959778d,->,feb94fea-5048-4152-b66e-aee4a3825259,javax/faces/component/html/HtmlInputHidden.java,getValue
+feb94fea-5048-4152-b66e-aee4a3825259,f10e73a6-0c76-4a1f-86bd-23a512b3fd8a,28c5ca73-a248-423b-820b-be7f9959778d,->,feb94fea-5048-4152-b66e-aee4a3825259,java/lang/Integer.java,intValue
+feb94fea-5048-4152-b66e-aee4a3825259,f10e73a6-0c76-4a1f-86bd-23a512b3fd8a,28c5ca73-a248-423b-820b-be7f9959778d,->,feb94fea-5048-4152-b66e-aee4a3825259,bbaf1645-dfd5-428f-b2d5-23132f927182,a74f7c7f-7e5d-4c92-9dfc-9e3a4ef152ec

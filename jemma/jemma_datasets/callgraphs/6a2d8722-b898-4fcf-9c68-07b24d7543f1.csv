@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,a25bfbcf-7161-4a52-8174-768e45cb2760,c99951f3-60e5-4754-a864-a09857d4332c,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,java/util/Map.java,get
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,com/lnsoft/yanfa/service/dict/query/LocalQueryServiceImpl.java,<clinit>,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,java/util/Map.java,put
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,com/lnsoft/yanfa/service/dict/query/LocalQueryServiceImpl.java,<clinit>,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,java/util/Map.java,put
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,com/lnsoft/yanfa/service/dict/query/RemoteQueryServiceImpl.java,search,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,java/util/Map.java,get
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,com/lnsoft/yanfa/service/dict/query/RemoteQueryServiceImpl.java,<clinit>,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,java/util/Map.java,put
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,com/lnsoft/yanfa/service/dict/query/RemoteQueryServiceImpl.java,<clinit>,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,java/util/Map.java,put
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,b0a6ba5f-900d-40db-ade4-8a56136fad81,d48fec29-73c5-46d9-9fe4-4945e0399b58,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,javax/servlet/http/HttpServletRequest.java,getParameter
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,b0a6ba5f-900d-40db-ade4-8a56136fad81,d48fec29-73c5-46d9-9fe4-4945e0399b58,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,1556412e-d165-4b3c-a96f-3358b47a21bd,baea9cb3-5744-4f99-9162-12f9bb3f46e1
+6a2d8722-b898-4fcf-9c68-07b24d7543f1,b0a6ba5f-900d-40db-ade4-8a56136fad81,d48fec29-73c5-46d9-9fe4-4945e0399b58,->,6a2d8722-b898-4fcf-9c68-07b24d7543f1,javax/servlet/http/HttpServletRequest.java,setAttribute

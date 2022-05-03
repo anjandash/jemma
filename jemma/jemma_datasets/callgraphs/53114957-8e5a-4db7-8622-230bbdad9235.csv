@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/Persistence.java,createEntityManagerFactory
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/EntityManagerFactory.java,createEntityManager
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/EntityManager.java,getTransaction
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/EntityTransaction.java,begin
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/EntityTransaction.java,commit
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/EntityManager.java,close
+53114957-8e5a-4db7-8622-230bbdad9235,6b898490-d6af-47d9-8e33-4c14798314d9,faaaed74-345f-4e25-8a32-ec821c438e3e,->,53114957-8e5a-4db7-8622-230bbdad9235,javax/persistence/EntityManagerFactory.java,close

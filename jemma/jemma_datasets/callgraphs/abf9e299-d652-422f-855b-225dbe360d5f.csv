@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+abf9e299-d652-422f-855b-225dbe360d5f,36462418-7bfc-4005-9a7a-bd133f756b98,acce0883-56d3-491d-9c76-906b207c1d61,->,abf9e299-d652-422f-855b-225dbe360d5f,java/util/List.java,size
+abf9e299-d652-422f-855b-225dbe360d5f,36462418-7bfc-4005-9a7a-bd133f756b98,59ef55ae-c00e-4b03-bfb3-145b910a8e4f,->,abf9e299-d652-422f-855b-225dbe360d5f,java/util/List.java,get
+abf9e299-d652-422f-855b-225dbe360d5f,36462418-7bfc-4005-9a7a-bd133f756b98,9ea64e1b-9b35-4f6b-80b6-df1db8c2b4a6,->,abf9e299-d652-422f-855b-225dbe360d5f,java/util/List.java,set
+abf9e299-d652-422f-855b-225dbe360d5f,9fa18d9a-c596-4819-a68b-0de2e27456c9,456a59c2-0984-40dd-ae70-65e3ff2471a4,->,abf9e299-d652-422f-855b-225dbe360d5f,java/util/List.java,get
+abf9e299-d652-422f-855b-225dbe360d5f,9fa18d9a-c596-4819-a68b-0de2e27456c9,62a62bee-e364-42e7-9acf-daddd8ef2367,->,abf9e299-d652-422f-855b-225dbe360d5f,java/util/List.java,set
+abf9e299-d652-422f-855b-225dbe360d5f,9fa18d9a-c596-4819-a68b-0de2e27456c9,76910a8e-dc52-4872-b10b-c962e21145bd,->,abf9e299-d652-422f-855b-225dbe360d5f,java/util/List.java,size

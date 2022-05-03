@@ -1,0 +1,17 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,170cda6b-f986-4ae6-9a20-12973a146c8c,6b923dd0-0230-45fd-96cd-d4b5e1ba46d2,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,app/App.java,setVisible
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/DirectionalLight.java,setInfluencingBounds
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/BranchGroup.java,addChild
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/AmbientLight.java,setInfluencingBounds
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/BranchGroup.java,addChild
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/Background.java,setApplicationBounds
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/BranchGroup.java,addChild
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/TransformGroup.java,setCapability
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/TransformGroup.java,setCapability
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/TransformGroup.java,setCapability
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/BranchGroup.java,addChild
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,org/jdesktop/j3d/loaders/vrml97/VrmlLoader.java,load
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,com/sun/j3d/loaders/Scene.java,getSceneGroup
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/TransformGroup.java,addChild
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,e225d64d-c9e3-4ac2-82a6-51842ce82516,82483deb-501e-448b-8e66-e309bde0c6f7,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,java/io/FileNotFoundException.java,printStackTrace
+742404bb-7b61-4a89-bed2-0b0b3dc17e3c,8aee61dc-aeb1-432a-9317-1b116d1478a0,0e61db8d-f1aa-4fb1-a045-4fd93987e4c5,->,742404bb-7b61-4a89-bed2-0b0b3dc17e3c,javax/media/j3d/Transform3D.java,setTranslation

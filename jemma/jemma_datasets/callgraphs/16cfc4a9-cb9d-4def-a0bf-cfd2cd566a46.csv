@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,bc0f57da-ea6f-40c4-a1a7-d48b55cf473c,->,16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,java/io/PrintStream.java,println
+16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,bc0f57da-ea6f-40c4-a1a7-d48b55cf473c,->,16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,03589630-12bc-4bea-af7f-7cdf81d3d55f
+16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,bc0f57da-ea6f-40c4-a1a7-d48b55cf473c,->,16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,java/util/ArrayList.java,size
+16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,03589630-12bc-4bea-af7f-7cdf81d3d55f,->,16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,java/io/PrintStream.java,println
+16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,03589630-12bc-4bea-af7f-7cdf81d3d55f,->,16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,java/io/File.java,exists
+16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,0017ac82-3b93-4870-bc79-63b94de869a9,03589630-12bc-4bea-af7f-7cdf81d3d55f,->,16cfc4a9-cb9d-4def-a0bf-cfd2cd566a46,java/io/PrintStream.java,println

@@ -1,0 +1,6 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9f5cbf8e-abc0-4f62-af68-74eddfabec79,ar/edu/utn/frba/dds/macowins/Negocio.java,vender,->,9f5cbf8e-abc0-4f62-af68-74eddfabec79,java/util/Collection.java,add
+9f5cbf8e-abc0-4f62-af68-74eddfabec79,ar/edu/utn/frba/dds/macowins/Negocio.java,gananciasDelDia,->,9f5cbf8e-abc0-4f62-af68-74eddfabec79,java/util/Collection.java,iterator
+9f5cbf8e-abc0-4f62-af68-74eddfabec79,ar/edu/utn/frba/dds/macowins/Negocio.java,gananciasDelDia,->,9f5cbf8e-abc0-4f62-af68-74eddfabec79,java/util/Iterator.java,hasNext
+9f5cbf8e-abc0-4f62-af68-74eddfabec79,ar/edu/utn/frba/dds/macowins/Negocio.java,gananciasDelDia,->,9f5cbf8e-abc0-4f62-af68-74eddfabec79,java/util/Iterator.java,next
+9f5cbf8e-abc0-4f62-af68-74eddfabec79,ar/edu/utn/frba/dds/macowins/Prenda.java,precioFinal,->,9f5cbf8e-abc0-4f62-af68-74eddfabec79,a920dbb5-a893-4107-bda8-19c72f1c68ca,d3984282-31f0-45f4-98d0-02868b285404

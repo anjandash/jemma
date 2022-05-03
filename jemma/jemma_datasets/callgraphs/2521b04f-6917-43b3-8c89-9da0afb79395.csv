@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+2521b04f-6917-43b3-8c89-9da0afb79395,ba409cb1-7b82-4eb3-b7fd-7b889168b678,b8b7adc8-75e1-4e03-bc89-f70e897c05cf,->,2521b04f-6917-43b3-8c89-9da0afb79395,com/anirudh/practice/King.java,move
+2521b04f-6917-43b3-8c89-9da0afb79395,ba409cb1-7b82-4eb3-b7fd-7b889168b678,b8b7adc8-75e1-4e03-bc89-f70e897c05cf,->,2521b04f-6917-43b3-8c89-9da0afb79395,org/junit/Assert.java,assertEquals
+2521b04f-6917-43b3-8c89-9da0afb79395,ba409cb1-7b82-4eb3-b7fd-7b889168b678,056f03cb-e1e6-44e5-b71e-675dc45fa915,->,2521b04f-6917-43b3-8c89-9da0afb79395,com/anirudh/practice/Queen.java,move
+2521b04f-6917-43b3-8c89-9da0afb79395,ba409cb1-7b82-4eb3-b7fd-7b889168b678,056f03cb-e1e6-44e5-b71e-675dc45fa915,->,2521b04f-6917-43b3-8c89-9da0afb79395,org/junit/Assert.java,assertEquals
+2521b04f-6917-43b3-8c89-9da0afb79395,ba409cb1-7b82-4eb3-b7fd-7b889168b678,49378461-bc81-48f4-a9e1-b1a24ef65078,->,2521b04f-6917-43b3-8c89-9da0afb79395,com/anirudh/practice/Bishop.java,move
+2521b04f-6917-43b3-8c89-9da0afb79395,ba409cb1-7b82-4eb3-b7fd-7b889168b678,49378461-bc81-48f4-a9e1-b1a24ef65078,->,2521b04f-6917-43b3-8c89-9da0afb79395,org/junit/Assert.java,assertEquals
+2521b04f-6917-43b3-8c89-9da0afb79395,5d19c97b-ed46-4225-a084-a4c7ee158945,13fdf651-a94c-4284-9b03-5d51203b273d,->,2521b04f-6917-43b3-8c89-9da0afb79395,ba1b732e-176d-4c4f-8b7a-46bac54ce726,bb5fa5f9-2b42-4126-9995-c760f9761b33

@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,setValidating
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addObjectCreate
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addObjectCreate
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addBeanPropertySetter
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addSetNext
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addObjectCreate
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addSetNext
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addObjectCreate
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addSetProperties
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addBeanPropertySetter
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,addSetNext
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,b83cc6a6-6950-4b50-9e36-d7a8c866caf3,9d9319c4-6633-4042-b35b-4067a42e8519,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,org/apache/commons/digester3/Digester.java,parse
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,cd6f7877-9069-4f7c-a768-03e647aa1add,0717a8d5-7116-48ab-9d31-8d59e6210e22,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,java/util/List.java,add
+fbdbb8c7-909b-4063-b77c-5e288e91fa1f,a5fe664a-2b88-425a-acda-da6df3bb71e0,a4331340-70c0-432a-999b-6d8106d74e4b,->,fbdbb8c7-909b-4063-b77c-5e288e91fa1f,java/util/List.java,add

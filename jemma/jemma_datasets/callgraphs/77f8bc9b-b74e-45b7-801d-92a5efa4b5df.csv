@@ -1,0 +1,4 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+77f8bc9b-b74e-45b7-801d-92a5efa4b5df,e18c0dbc-73f9-466b-aeb7-e77e0a2971b5,47945bcb-b377-414d-9e73-53102e25e819,->,77f8bc9b-b74e-45b7-801d-92a5efa4b5df,a5998330-0819-4e85-8424-9d1605e0fe0f,43e272ef-97f0-41c2-876d-d053d05c25ee
+77f8bc9b-b74e-45b7-801d-92a5efa4b5df,e18c0dbc-73f9-466b-aeb7-e77e0a2971b5,47945bcb-b377-414d-9e73-53102e25e819,->,77f8bc9b-b74e-45b7-801d-92a5efa4b5df,com/apos/test/ExampleServiceTests.java,assertEquals
+77f8bc9b-b74e-45b7-801d-92a5efa4b5df,b87cc490-f890-46b3-a450-3ba71cf6f64b,7ebfd74e-1c7b-44ac-a787-235b188fea1d,->,77f8bc9b-b74e-45b7-801d-92a5efa4b5df,org/junit/Assert.java,assertNotNull

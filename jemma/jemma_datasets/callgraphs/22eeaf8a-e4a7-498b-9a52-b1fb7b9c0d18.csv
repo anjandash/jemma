@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,14d38661-5657-40dc-a1db-24e93502fdf0,75148fda-64c9-4d79-bf83-a1c7a867ab8f,->,22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,org/edp/dao/AppTest.java,assertTrue
+22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,b40ed11f-57e4-45f6-a7c6-4e6464d1463e,3311ffd5-eeb7-4e1b-b244-ce8d76103740,->,22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,java/io/PrintStream.java,println
+22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,6a0c5a1a-7e51-4ba2-8d22-9c317b67fc3e,b94984d8-9bea-497f-9c70-82fd88531a6b,->,22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,org/edp/service/AppTest.java,assertTrue
+22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,9227c665-3bbf-408b-b51c-2705fe59bdf8,d49a99aa-d955-4bc3-acab-66ecf630d027,->,22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,java/io/PrintStream.java,println
+22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,61d40465-33b9-4cee-ba38-e2e276a80061,0f16c637-4f03-41ce-8117-9b7ac8920431,->,22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,org/edp/core/AppTest.java,assertTrue
+22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,608a13a8-e8d1-4817-a6f0-e8bacc34a7f5,5d2e936b-3e5f-43d4-87f6-b412f880ad67,->,22eeaf8a-e4a7-498b-9a52-b1fb7b9c0d18,java/io/PrintStream.java,println

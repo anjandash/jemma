@@ -1,0 +1,8 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,8dfd4287-6b25-449c-a7ea-ecae9ade4eba,55323088-4693-4379-aa8a-472ec64816cd,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,com/mb/dao/UserRepository.java,save
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,8dfd4287-6b25-449c-a7ea-ecae9ade4eba,0961e45a-921b-42c8-85e7-0a8c9668782a,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,com/mb/dao/UserRepository.java,findAll
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,1d2a67ca-3946-4db9-ad96-0427f37f0d0f,e66e5a2b-8f0d-4bd5-baab-370c3842faf8,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,org/neo4j/kernel/impl/util/FileUtils.java,deleteRecursively
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,1d2a67ca-3946-4db9-ad96-0427f37f0d0f,e66e5a2b-8f0d-4bd5-baab-370c3842faf8,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,org/springframework/boot/SpringApplication.java,run
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,1c830f46-6e5f-434b-bf82-d7fdbf79d71f,9e7d3876-9132-4119-9fa5-d5f19351d00f,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,org/neo4j/graphdb/factory/GraphDatabaseFactory.java,newEmbeddedDatabase
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,5a6ae37a-0124-401c-8ac2-d0ea4b7a6f00,c5306866-64aa-441e-b21e-7a390ab46a1e,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,8dfd4287-6b25-449c-a7ea-ecae9ade4eba,0961e45a-921b-42c8-85e7-0a8c9668782a
+ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,5a6ae37a-0124-401c-8ac2-d0ea4b7a6f00,c5306866-64aa-441e-b21e-7a390ab46a1e,->,ab037267-4744-4e8e-a5ba-e4bb2e0e8b21,8dfd4287-6b25-449c-a7ea-ecae9ade4eba,0961e45a-921b-42c8-85e7-0a8c9668782a

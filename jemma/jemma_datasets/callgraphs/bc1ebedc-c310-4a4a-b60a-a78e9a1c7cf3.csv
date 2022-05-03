@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,0293cc2c-2929-43d5-a524-ae7e078becc0,7a1fbdd9-55bc-48aa-9108-94b1af15023a,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,org/apache/commons/lang3/StringUtils.java,isNotBlank
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,0293cc2c-2929-43d5-a524-ae7e078becc0,7a1fbdd9-55bc-48aa-9108-94b1af15023a,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,org/apache/commons/lang3/StringUtils.java,isNotBlank
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,0293cc2c-2929-43d5-a524-ae7e078becc0,7a1fbdd9-55bc-48aa-9108-94b1af15023a,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,org/apache/commons/lang3/StringUtils.java,isNotBlank
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,0293cc2c-2929-43d5-a524-ae7e078becc0,7a1fbdd9-55bc-48aa-9108-94b1af15023a,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,java/lang/String.java,contains
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,0293cc2c-2929-43d5-a524-ae7e078becc0,7a1fbdd9-55bc-48aa-9108-94b1af15023a,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,java/lang/String.java,indexOf
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,0293cc2c-2929-43d5-a524-ae7e078becc0,7a1fbdd9-55bc-48aa-9108-94b1af15023a,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,java/lang/String.java,substring
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,net/ipetty/vo/OptionGroup.java,<clinit>,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,java/util/Set.java,add
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,net/ipetty/vo/OptionGroup.java,<clinit>,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,java/util/Set.java,add
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,net/ipetty/vo/OptionGroup.java,<clinit>,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,java/util/Set.java,add
+bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,613133c9-b299-4ea2-b967-4e743b062543,7d0f6ef9-54ac-4c71-80a8-13dbfb6b456b,->,bc1ebedc-c310-4a4a-b60a-a78e9a1c7cf3,org/apache/commons/lang3/builder/ToStringBuilder.java,reflectionToString

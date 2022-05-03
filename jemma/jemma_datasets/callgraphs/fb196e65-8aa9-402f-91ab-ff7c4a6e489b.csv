@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,67359c09-d2a3-44c3-ae17-f34891a6f57e,580a4899-1227-4647-bc35-d11d2c2a0d1d,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,67359c09-d2a3-44c3-ae17-f34891a6f57e,bb9d225e-95de-42c8-8dd8-33784e7fac22
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,67359c09-d2a3-44c3-ae17-f34891a6f57e,bb9d225e-95de-42c8-8dd8-33784e7fac22,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,io/dropwizard/setup/Environment.java,jersey
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,67359c09-d2a3-44c3-ae17-f34891a6f57e,bb9d225e-95de-42c8-8dd8-33784e7fac22,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,io/dropwizard/jersey/setup/JerseyEnvironment.java,register
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,67359c09-d2a3-44c3-ae17-f34891a6f57e,bb9d225e-95de-42c8-8dd8-33784e7fac22,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,67359c09-d2a3-44c3-ae17-f34891a6f57e,bb9d225e-95de-42c8-8dd8-33784e7fac22
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,d509cd4f-669f-4c98-b67c-fe4614172a2a,178ee610-ccaa-4007-b934-937a3b30ce5d,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,d509cd4f-669f-4c98-b67c-fe4614172a2a,178ee610-ccaa-4007-b934-937a3b30ce5d
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,8b14bf3b-92b6-4b23-945a-9e93902aece9,69175bb8-097f-496d-9612-d8a437a84b79,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,java/lang/Object.java,getClass
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,8b14bf3b-92b6-4b23-945a-9e93902aece9,69175bb8-097f-496d-9612-d8a437a84b79,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,java/lang/Object.java,getClass
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,8b14bf3b-92b6-4b23-945a-9e93902aece9,69175bb8-097f-496d-9612-d8a437a84b79,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,java/lang/String.java,equals
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,8b14bf3b-92b6-4b23-945a-9e93902aece9,d3a68e86-2696-40f8-90af-3c5ecf673b6e,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,java/lang/String.java,hashCode
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,12772316-ac36-4f02-96fd-49c32e006573,4466647c-64a3-4b90-97a9-907c3051dcaa,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,javax/ws/rs/core/Response.java,ok
+fb196e65-8aa9-402f-91ab-ff7c4a6e489b,12772316-ac36-4f02-96fd-49c32e006573,4466647c-64a3-4b90-97a9-907c3051dcaa,->,fb196e65-8aa9-402f-91ab-ff7c4a6e489b,javax/ws/rs/core/Response$ResponseBuilder.java,build

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+163202ef-b881-4df1-9a5d-96cb16b8ec96,56b52ecd-d44c-4919-998c-4d3627c1cf1c,48965af8-5799-43cd-a39e-f035014a8d25,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,app/dao/BaseHibernateDAO.java,setSessionFactory
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,e60383dd-e28e-405b-b7cf-2e770dd1f7d5,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,org/springframework/ui/Model.java,addAttribute
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,b478c33e-df06-47f0-8432-8a1d9a8f83f4,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,org/springframework/ui/Model.java,addAttribute
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,7555a54f-778a-49a0-a278-63e6bed85199,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,java/lang/StringBuilder.java,append
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,7555a54f-778a-49a0-a278-63e6bed85199,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,java/lang/StringBuilder.java,append
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,7555a54f-778a-49a0-a278-63e6bed85199,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,java/lang/StringBuilder.java,append
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,7555a54f-778a-49a0-a278-63e6bed85199,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,java/lang/StringBuilder.java,toString
+163202ef-b881-4df1-9a5d-96cb16b8ec96,aa7b3431-f5be-45c7-8c67-50eea41af383,7555a54f-778a-49a0-a278-63e6bed85199,->,163202ef-b881-4df1-9a5d-96cb16b8ec96,org/springframework/ui/Model.java,addAttribute

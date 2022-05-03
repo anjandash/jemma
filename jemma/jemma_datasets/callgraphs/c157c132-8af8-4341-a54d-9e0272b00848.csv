@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c157c132-8af8-4341-a54d-9e0272b00848,springstruts/model/dao/hibernate/DVDDAOImpl$1.java,doInHibernate,->,c157c132-8af8-4341-a54d-9e0272b00848,java/lang/StringBuilder.java,append
+c157c132-8af8-4341-a54d-9e0272b00848,springstruts/model/dao/hibernate/DVDDAOImpl$1.java,doInHibernate,->,c157c132-8af8-4341-a54d-9e0272b00848,java/lang/StringBuilder.java,append
+c157c132-8af8-4341-a54d-9e0272b00848,springstruts/model/dao/hibernate/DVDDAOImpl$1.java,doInHibernate,->,c157c132-8af8-4341-a54d-9e0272b00848,java/lang/StringBuilder.java,append
+c157c132-8af8-4341-a54d-9e0272b00848,springstruts/model/dao/hibernate/DVDDAOImpl$1.java,doInHibernate,->,c157c132-8af8-4341-a54d-9e0272b00848,java/lang/StringBuilder.java,toString
+c157c132-8af8-4341-a54d-9e0272b00848,springstruts/model/dao/hibernate/DVDDAOImpl$1.java,doInHibernate,->,c157c132-8af8-4341-a54d-9e0272b00848,org/hibernate/Session.java,createQuery
+c157c132-8af8-4341-a54d-9e0272b00848,springstruts/model/dao/hibernate/DVDDAOImpl$1.java,doInHibernate,->,c157c132-8af8-4341-a54d-9e0272b00848,org/hibernate/Query.java,list
+c157c132-8af8-4341-a54d-9e0272b00848,3e42baf1-e1a6-400c-a669-b84112e68364,e27d58b7-ff69-438a-8457-0037c88b5a75,->,c157c132-8af8-4341-a54d-9e0272b00848,org/springframework/orm/hibernate3/HibernateTemplate.java,executeFind
+c157c132-8af8-4341-a54d-9e0272b00848,3e42baf1-e1a6-400c-a669-b84112e68364,e27d58b7-ff69-438a-8457-0037c88b5a75,->,c157c132-8af8-4341-a54d-9e0272b00848,3e42baf1-e1a6-400c-a669-b84112e68364,e27d58b7-ff69-438a-8457-0037c88b5a75
+c157c132-8af8-4341-a54d-9e0272b00848,5f34e342-3978-47d7-858a-a03c0d7459bd,4453d818-49c3-434c-96d3-edf7debf989e,->,c157c132-8af8-4341-a54d-9e0272b00848,53bd24b8-ea02-4167-8b3a-3e3206ceebf7,701c6e43-d09a-44ab-b4e3-3b5e5c149d8c
+c157c132-8af8-4341-a54d-9e0272b00848,eec8e3ca-285f-429e-b122-f0bc7fc7c16c,b4754175-e353-4c77-91d9-41109ef694dd,->,c157c132-8af8-4341-a54d-9e0272b00848,javax/servlet/http/HttpServletRequest.java,getParameter
+c157c132-8af8-4341-a54d-9e0272b00848,eec8e3ca-285f-429e-b122-f0bc7fc7c16c,b4754175-e353-4c77-91d9-41109ef694dd,->,c157c132-8af8-4341-a54d-9e0272b00848,java/lang/String.java,equals
+c157c132-8af8-4341-a54d-9e0272b00848,eec8e3ca-285f-429e-b122-f0bc7fc7c16c,b4754175-e353-4c77-91d9-41109ef694dd,->,c157c132-8af8-4341-a54d-9e0272b00848,5f34e342-3978-47d7-858a-a03c0d7459bd,4453d818-49c3-434c-96d3-edf7debf989e
+c157c132-8af8-4341-a54d-9e0272b00848,eec8e3ca-285f-429e-b122-f0bc7fc7c16c,b4754175-e353-4c77-91d9-41109ef694dd,->,c157c132-8af8-4341-a54d-9e0272b00848,javax/servlet/http/HttpServletRequest.java,getSession
+c157c132-8af8-4341-a54d-9e0272b00848,eec8e3ca-285f-429e-b122-f0bc7fc7c16c,b4754175-e353-4c77-91d9-41109ef694dd,->,c157c132-8af8-4341-a54d-9e0272b00848,javax/servlet/http/HttpSession.java,setAttribute
+c157c132-8af8-4341-a54d-9e0272b00848,eec8e3ca-285f-429e-b122-f0bc7fc7c16c,b4754175-e353-4c77-91d9-41109ef694dd,->,c157c132-8af8-4341-a54d-9e0272b00848,org/apache/struts/action/ActionMapping.java,findForward

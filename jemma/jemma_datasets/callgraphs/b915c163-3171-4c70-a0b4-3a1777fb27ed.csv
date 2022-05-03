@@ -1,0 +1,7 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b915c163-3171-4c70-a0b4-3a1777fb27ed,91111a73-56ea-4885-a2d8-4b70d925f305,4ea60c26-e3cc-4d0b-a869-e4837f131e5d,->,b915c163-3171-4c70-a0b4-3a1777fb27ed,org/junit/Assert.java,assertNotNull
+b915c163-3171-4c70-a0b4-3a1777fb27ed,91111a73-56ea-4885-a2d8-4b70d925f305,4ea60c26-e3cc-4d0b-a869-e4837f131e5d,->,b915c163-3171-4c70-a0b4-3a1777fb27ed,org/junit/Assert.java,assertNotNull
+b915c163-3171-4c70-a0b4-3a1777fb27ed,91111a73-56ea-4885-a2d8-4b70d925f305,4ea60c26-e3cc-4d0b-a869-e4837f131e5d,->,b915c163-3171-4c70-a0b4-3a1777fb27ed,org/junit/Assert.java,assertNull
+b915c163-3171-4c70-a0b4-3a1777fb27ed,9d2e5e9d-f68a-437d-9c5c-78a36f02d02c,c20938c0-1a22-4a15-89b3-a7422f86def6,->,b915c163-3171-4c70-a0b4-3a1777fb27ed,org/junit/Assert.java,assertNotNull
+b915c163-3171-4c70-a0b4-3a1777fb27ed,9d2e5e9d-f68a-437d-9c5c-78a36f02d02c,c20938c0-1a22-4a15-89b3-a7422f86def6,->,b915c163-3171-4c70-a0b4-3a1777fb27ed,org/junit/Assert.java,assertNull
+b915c163-3171-4c70-a0b4-3a1777fb27ed,9d2e5e9d-f68a-437d-9c5c-78a36f02d02c,c20938c0-1a22-4a15-89b3-a7422f86def6,->,b915c163-3171-4c70-a0b4-3a1777fb27ed,org/junit/Assert.java,assertNotNull

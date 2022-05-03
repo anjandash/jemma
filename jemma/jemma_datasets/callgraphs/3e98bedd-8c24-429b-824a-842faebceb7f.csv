@@ -1,0 +1,12 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+3e98bedd-8c24-429b-824a-842faebceb7f,4fa919b0-4536-4c78-a9d8-64974578cc49,24515679-ee15-4004-a368-489b102d244f,->,3e98bedd-8c24-429b-824a-842faebceb7f,7797196d-83cd-453f-8cbe-c247859157b2,dfd1568c-d064-4187-8336-029211a37e5f
+3e98bedd-8c24-429b-824a-842faebceb7f,518557f1-2a03-4159-898c-5d3a9be24866,4315b7a4-8d1a-4937-a7d4-aaafe65a0482,->,3e98bedd-8c24-429b-824a-842faebceb7f,4fa919b0-4536-4c78-a9d8-64974578cc49,24515679-ee15-4004-a368-489b102d244f
+3e98bedd-8c24-429b-824a-842faebceb7f,518557f1-2a03-4159-898c-5d3a9be24866,4315b7a4-8d1a-4937-a7d4-aaafe65a0482,->,3e98bedd-8c24-429b-824a-842faebceb7f,org/springframework/ui/Model.java,addAttribute
+3e98bedd-8c24-429b-824a-842faebceb7f,7797196d-83cd-453f-8cbe-c247859157b2,f05b1f54-ec2a-4702-bce1-5b5d6f063586,->,3e98bedd-8c24-429b-824a-842faebceb7f,02e19200-c2ae-4a2c-9645-ac816bb64cbe,cd19d989-d1bb-407c-9ecf-444e4248f8be
+3e98bedd-8c24-429b-824a-842faebceb7f,7797196d-83cd-453f-8cbe-c247859157b2,dfd1568c-d064-4187-8336-029211a37e5f,->,3e98bedd-8c24-429b-824a-842faebceb7f,02e19200-c2ae-4a2c-9645-ac816bb64cbe,8083cc3b-29dd-4435-a3bd-96dda15eb887
+3e98bedd-8c24-429b-824a-842faebceb7f,37d9bdcf-1ef4-41c2-8b6e-754359e4667f,ae77d14d-6bb8-46b9-b953-b6728e744e7d,->,3e98bedd-8c24-429b-824a-842faebceb7f,4fa919b0-4536-4c78-a9d8-64974578cc49,24515679-ee15-4004-a368-489b102d244f
+3e98bedd-8c24-429b-824a-842faebceb7f,37d9bdcf-1ef4-41c2-8b6e-754359e4667f,ae77d14d-6bb8-46b9-b953-b6728e744e7d,->,3e98bedd-8c24-429b-824a-842faebceb7f,org/junit/Assert.java,assertNotNull
+3e98bedd-8c24-429b-824a-842faebceb7f,37d9bdcf-1ef4-41c2-8b6e-754359e4667f,ae77d14d-6bb8-46b9-b953-b6728e744e7d,->,3e98bedd-8c24-429b-824a-842faebceb7f,java/util/List.java,iterator
+3e98bedd-8c24-429b-824a-842faebceb7f,37d9bdcf-1ef4-41c2-8b6e-754359e4667f,ae77d14d-6bb8-46b9-b953-b6728e744e7d,->,3e98bedd-8c24-429b-824a-842faebceb7f,java/util/Iterator.java,hasNext
+3e98bedd-8c24-429b-824a-842faebceb7f,37d9bdcf-1ef4-41c2-8b6e-754359e4667f,ae77d14d-6bb8-46b9-b953-b6728e744e7d,->,3e98bedd-8c24-429b-824a-842faebceb7f,java/util/Iterator.java,next
+3e98bedd-8c24-429b-824a-842faebceb7f,37d9bdcf-1ef4-41c2-8b6e-754359e4667f,ae77d14d-6bb8-46b9-b953-b6728e744e7d,->,3e98bedd-8c24-429b-824a-842faebceb7f,java/io/PrintStream.java,println

@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,c2307ece-9631-45cc-a7b4-44295311eb98,a3a1d77a-ee75-46dc-b037-b54037a35944,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/AppTest.java,assertTrue
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,e05a53a9-bb9e-400c-ae72-fe31baf025da,18f5103c-ea4e-461f-9719-bde14cfd583e,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,164f67c7-a6ee-4991-9d0b-800bd4b33f46,fbbdecc6-ec64-4d0e-81a3-9a49c2ea55ca
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/HouseNames.java,values,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/HouseNames.java,clone
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/HouseNames.java,valueOf,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,java/lang/Enum.java,valueOf
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/Titles.java,values,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/Titles.java,clone
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/Titles.java,valueOf,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,java/lang/Enum.java,valueOf
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/RelationshipTypes.java,values,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/RelationshipTypes.java,clone
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/RelationshipTypes.java,valueOf,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,java/lang/Enum.java,valueOf
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/PeopleFirstNames.java,values,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/PeopleFirstNames.java,clone
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/PeopleFirstNames.java,valueOf,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,java/lang/Enum.java,valueOf
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/PersonalityTypes.java,values,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/PersonalityTypes.java,clone
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/people/PersonalityTypes.java,valueOf,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,java/lang/Enum.java,valueOf
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/holdings/HoldingsNames.java,values,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/holdings/HoldingsNames.java,clone
+4a10e2bc-3eaf-41d7-bba8-e80329fbac38,got/sim/holdings/HoldingsNames.java,valueOf,->,4a10e2bc-3eaf-41d7-bba8-e80329fbac38,java/lang/Enum.java,valueOf

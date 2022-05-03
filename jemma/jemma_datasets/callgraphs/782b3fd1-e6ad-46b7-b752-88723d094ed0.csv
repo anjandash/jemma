@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+782b3fd1-e6ad-46b7-b752-88723d094ed0,br/com/sca/model/Status.java,values,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,br/com/sca/model/Status.java,clone
+782b3fd1-e6ad-46b7-b752-88723d094ed0,br/com/sca/model/Status.java,valueOf,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,java/lang/Enum.java,valueOf
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,6420d8e1-a5ad-4582-9f54-758c551b1975,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,javax/persistence/EntityManager.java,find
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,6ceaf4be-51c1-49f6-8899-62fa66009906,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,javax/persistence/EntityManager.java,persist
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,5b4e0591-443e-4cf5-b92e-d95d8f5c7d7f,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,javax/persistence/EntityManager.java,merge
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,950513d2-1bc2-47b1-948e-2d21272193fd,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,javax/persistence/EntityManager.java,remove
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,e30959b6-0978-4546-81db-f3e15bf34405,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,java/lang/StringBuilder.java,append
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,e30959b6-0978-4546-81db-f3e15bf34405,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,java/lang/Class.java,getName
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,e30959b6-0978-4546-81db-f3e15bf34405,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,java/lang/StringBuilder.java,append
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,e30959b6-0978-4546-81db-f3e15bf34405,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,java/lang/StringBuilder.java,toString
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,e30959b6-0978-4546-81db-f3e15bf34405,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,javax/persistence/EntityManager.java,createQuery
+782b3fd1-e6ad-46b7-b752-88723d094ed0,69f0d056-5d52-4cb4-8ead-9038ff542892,e30959b6-0978-4546-81db-f3e15bf34405,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,javax/persistence/Query.java,getResultList
+782b3fd1-e6ad-46b7-b752-88723d094ed0,720e4f97-24ac-4ba7-afc7-da41ac0347ec,2530c736-2d77-4119-8156-1e3afd8ef807,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,br/com/sca/dao/FuncionalidadeDAO.java,save
+782b3fd1-e6ad-46b7-b752-88723d094ed0,34dc0493-15a0-45f6-9182-4605ca68c4fd,fd3ae3d1-9a02-4858-98c8-f5cb8a4ab8ab,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,efbeb32e-6cbd-4c55-a87f-e6d9b38866b2,991ba532-81b2-4bc0-a4b3-7e15e2e70912
+782b3fd1-e6ad-46b7-b752-88723d094ed0,34dc0493-15a0-45f6-9182-4605ca68c4fd,fd3ae3d1-9a02-4858-98c8-f5cb8a4ab8ab,->,782b3fd1-e6ad-46b7-b752-88723d094ed0,720e4f97-24ac-4ba7-afc7-da41ac0347ec,2530c736-2d77-4119-8156-1e3afd8ef807

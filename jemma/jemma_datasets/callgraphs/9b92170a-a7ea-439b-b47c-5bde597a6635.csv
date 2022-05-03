@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9b92170a-a7ea-439b-b47c-5bde597a6635,e2e3cef3-39ca-493b-bc41-cb2185d5a0ba,2d0dfdcb-7571-44ae-9e57-b60878a7147b,->,9b92170a-a7ea-439b-b47c-5bde597a6635,javax/xml/ws/Service.java,getPort
+9b92170a-a7ea-439b-b47c-5bde597a6635,e2e3cef3-39ca-493b-bc41-cb2185d5a0ba,a439b4ad-1283-4d31-96d3-62c74578d2e5,->,9b92170a-a7ea-439b-b47c-5bde597a6635,javax/xml/ws/Service.java,getPort
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,28829c04-eea9-4b33-a81d-91644c2e4a18,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/io/PrintStream.java,println
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,28829c04-eea9-4b33-a81d-91644c2e4a18,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/io/PrintStream.java,println
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,28829c04-eea9-4b33-a81d-91644c2e4a18,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/lang/Thread.java,sleep
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,javax/xml/ws/Endpoint.java,publish
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/lang/StringBuilder.java,append
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/lang/StringBuilder.java,append
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/lang/StringBuilder.java,toString
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/io/PrintStream.java,println
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/io/PrintStream.java,println
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/io/InputStream.java,read
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,java/io/PrintStream.java,println
+9b92170a-a7ea-439b-b47c-5bde597a6635,8d1c072d-3a6e-49eb-b960-c0268db002b2,5192f5d7-5681-45ec-a5eb-05a7d04556b3,->,9b92170a-a7ea-439b-b47c-5bde597a6635,javax/xml/ws/Endpoint.java,stop

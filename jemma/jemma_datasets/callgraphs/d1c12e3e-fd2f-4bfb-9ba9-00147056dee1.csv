@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,4770e640-e5f4-4feb-99a5-3da7a31e811c,70dfd975-58de-4864-98f0-915c7f705c35,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,d82ff2d3-df1d-48c2-85e1-4d8423577127,e5ae18b2-7f2b-4f40-b521-fda452ce6051,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,d82ff2d3-df1d-48c2-85e1-4d8423577127,e0b129dc-2986-4acd-a538-69cc2714d0e9,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,bfd359d8-8ca6-4317-be03-d8dbc5f875aa,43affaff-0442-452c-a87f-30aca268266b,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,9376ca00-2759-4bb8-b2fc-6710e680b380,f9e07511-3576-4ca9-8fc1-2a1c2728e97f,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,597f1184-0eaf-4ae2-bdaa-d03cf45b5748,01f734cd-829d-4e9a-bfdf-36200dd21546,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,a9057e15-f5e7-4a5e-af34-2a4a73192640,6ccb9753-8d2c-4aeb-8b7e-f019944a9213,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals
+d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,f2e2479b-7cc0-4549-a23e-a02995606f86,70d774c7-2749-4064-8e22-f54745eb3bcd,->,d1c12e3e-fd2f-4bfb-9ba9-00147056dee1,org/testng/Assert.java,assertEquals

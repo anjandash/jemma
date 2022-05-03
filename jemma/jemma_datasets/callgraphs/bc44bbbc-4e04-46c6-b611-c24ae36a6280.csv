@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,HelloWorld.java,sayHello,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/slf4j/Logger.java,info
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,HelloWorld.java,<clinit>,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/slf4j/LoggerFactory.java,getLogger
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,HelloWorldTest.java,testHello,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,HelloWorld.java,sayHello
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,HelloWorldTest.java,testHello,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/hamcrest/core/Is.java,is
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,HelloWorldTest.java,testHello,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/junit/Assert.java,assertThat
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,161f6254-355b-495e-a199-9074b4c37ef2,c37fc29f-7ed5-4e02-899f-9d05c131b992,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,b31c0393-16bd-4c0e-9992-882036f97dd6,dd514a82-df79-4772-808b-b9958bea9b11
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,161f6254-355b-495e-a199-9074b4c37ef2,c37fc29f-7ed5-4e02-899f-9d05c131b992,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/hamcrest/core/Is.java,is
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,161f6254-355b-495e-a199-9074b4c37ef2,c37fc29f-7ed5-4e02-899f-9d05c131b992,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/junit/Assert.java,assertThat
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,b31c0393-16bd-4c0e-9992-882036f97dd6,dd514a82-df79-4772-808b-b9958bea9b11,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/slf4j/Logger.java,info
+bc44bbbc-4e04-46c6-b611-c24ae36a6280,davenkin/HelloWorld.java,<clinit>,->,bc44bbbc-4e04-46c6-b611-c24ae36a6280,org/slf4j/LoggerFactory.java,getLogger

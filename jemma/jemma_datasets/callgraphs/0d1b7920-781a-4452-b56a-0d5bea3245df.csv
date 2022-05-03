@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,443989df-5ebb-4b7b-a173-7219f9cb2465,->,0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864
+0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864,->,0d1b7920-781a-4452-b56a-0d5bea3245df,io/dropwizard/setup/Environment.java,jersey
+0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864,->,0d1b7920-781a-4452-b56a-0d5bea3245df,io/dropwizard/jersey/setup/JerseyEnvironment.java,register
+0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864,->,0d1b7920-781a-4452-b56a-0d5bea3245df,io/dropwizard/setup/Environment.java,jersey
+0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864,->,0d1b7920-781a-4452-b56a-0d5bea3245df,io/dropwizard/jersey/setup/JerseyEnvironment.java,setUrlPattern
+0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864,->,0d1b7920-781a-4452-b56a-0d5bea3245df,1f8990c5-6211-48da-86b3-f5560fee3379,ce7906e3-417a-449c-9e60-a486c2891864
+0d1b7920-781a-4452-b56a-0d5bea3245df,1c1b34a2-7d20-45ab-bee6-572ef929ba0b,f7bce7b9-49df-49c2-a131-f28b316d6aa4,->,0d1b7920-781a-4452-b56a-0d5bea3245df,javax/ws/rs/core/Response.java,ok
+0d1b7920-781a-4452-b56a-0d5bea3245df,1c1b34a2-7d20-45ab-bee6-572ef929ba0b,f7bce7b9-49df-49c2-a131-f28b316d6aa4,->,0d1b7920-781a-4452-b56a-0d5bea3245df,javax/ws/rs/core/Response$ResponseBuilder.java,build

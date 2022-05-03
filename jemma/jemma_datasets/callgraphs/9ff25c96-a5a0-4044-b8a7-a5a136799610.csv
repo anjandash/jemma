@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9ff25c96-a5a0-4044-b8a7-a5a136799610,0b8f53c9-150e-477c-93f7-a813b670dbcb,21768a3e-d18f-4347-8456-39bdf1a4903d,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,org/apache/commons/lang3/builder/ToStringBuilder.java,reflectionToString
+9ff25c96-a5a0-4044-b8a7-a5a136799610,f630d8e5-114c-41ab-b5db-e3e40f174fbd,65d14418-5c7a-4566-9c8e-dcac28595867,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,0b8f53c9-150e-477c-93f7-a813b670dbcb,f2193253-2aad-44f0-89f2-9584c1383aed
+9ff25c96-a5a0-4044-b8a7-a5a136799610,4ca0c9b3-d70e-4247-afc2-96ef9f9531ff,2161b3bf-ceb4-4abf-92a9-553a63aac455,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,org/springside/samples/quickservice/repository/TaskDao.java,findAll
+9ff25c96-a5a0-4044-b8a7-a5a136799610,f87ab164-4eb0-47e5-aa53-c6fb79b59047,c8d5bc01-97cf-4b25-87c8-d01acff3bc3f,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,org/springframework/boot/SpringApplication.java,run
+9ff25c96-a5a0-4044-b8a7-a5a136799610,9ac6ef4d-c819-417a-af73-126a51f4a02e,11bccec8-7986-4eae-b7d8-5de209342af1,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,4ca0c9b3-d70e-4247-afc2-96ef9f9531ff,2161b3bf-ceb4-4abf-92a9-553a63aac455
+9ff25c96-a5a0-4044-b8a7-a5a136799610,org/springside/samples/quickservice/rest/TaskRestController.java,<clinit>,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,org/slf4j/LoggerFactory.java,getLogger
+9ff25c96-a5a0-4044-b8a7-a5a136799610,7f6f47bb-0996-4e6a-b829-2a4281001424,8ed140fa-15ec-4650-a060-c8e7be28f767,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,org/springframework/boot/SpringApplication.java,setShowBanner
+9ff25c96-a5a0-4044-b8a7-a5a136799610,7f6f47bb-0996-4e6a-b829-2a4281001424,8ed140fa-15ec-4650-a060-c8e7be28f767,->,9ff25c96-a5a0-4044-b8a7-a5a136799610,org/springframework/boot/SpringApplication.java,run

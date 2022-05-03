@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+9103061b-28aa-42ea-8e76-c0ab790526fb,e0fe4c20-20db-4fc5-91bb-de6950dd69ce,40d13a6b-6a65-4154-976e-f46d1cd6ae62,->,9103061b-28aa-42ea-8e76-c0ab790526fb,java/io/PrintStream.java,println
+9103061b-28aa-42ea-8e76-c0ab790526fb,8d0c91df-708b-4a4c-b3aa-5e8c53d61fbd,908faaf4-08a9-4dae-8618-cf5659e8d21e,->,9103061b-28aa-42ea-8e76-c0ab790526fb,javax/xml/ws/Service.java,create
+9103061b-28aa-42ea-8e76-c0ab790526fb,8d0c91df-708b-4a4c-b3aa-5e8c53d61fbd,908faaf4-08a9-4dae-8618-cf5659e8d21e,->,9103061b-28aa-42ea-8e76-c0ab790526fb,javax/xml/ws/Service.java,getPort
+9103061b-28aa-42ea-8e76-c0ab790526fb,8d0c91df-708b-4a4c-b3aa-5e8c53d61fbd,908faaf4-08a9-4dae-8618-cf5659e8d21e,->,9103061b-28aa-42ea-8e76-c0ab790526fb,4398b762-1919-4410-8fcc-a138e91ece73,43008595-b0db-424d-9eac-d8675443be55
+9103061b-28aa-42ea-8e76-c0ab790526fb,8d0c91df-708b-4a4c-b3aa-5e8c53d61fbd,908faaf4-08a9-4dae-8618-cf5659e8d21e,->,9103061b-28aa-42ea-8e76-c0ab790526fb,java/io/PrintStream.java,println
+9103061b-28aa-42ea-8e76-c0ab790526fb,839c638a-fc3c-4e15-83a7-6a791de49475,81940dda-9b39-40ad-bd79-c22ed9892710,->,9103061b-28aa-42ea-8e76-c0ab790526fb,javax/xml/ws/Service.java,create
+9103061b-28aa-42ea-8e76-c0ab790526fb,839c638a-fc3c-4e15-83a7-6a791de49475,81940dda-9b39-40ad-bd79-c22ed9892710,->,9103061b-28aa-42ea-8e76-c0ab790526fb,javax/xml/ws/Service.java,getPort
+9103061b-28aa-42ea-8e76-c0ab790526fb,839c638a-fc3c-4e15-83a7-6a791de49475,81940dda-9b39-40ad-bd79-c22ed9892710,->,9103061b-28aa-42ea-8e76-c0ab790526fb,7a4fa3e0-68af-4d48-9038-1eacc4d67bc9,e107cebf-bb08-43c3-9094-d067b6862849
+9103061b-28aa-42ea-8e76-c0ab790526fb,839c638a-fc3c-4e15-83a7-6a791de49475,81940dda-9b39-40ad-bd79-c22ed9892710,->,9103061b-28aa-42ea-8e76-c0ab790526fb,java/io/PrintStream.java,println
+9103061b-28aa-42ea-8e76-c0ab790526fb,839c638a-fc3c-4e15-83a7-6a791de49475,81940dda-9b39-40ad-bd79-c22ed9892710,->,9103061b-28aa-42ea-8e76-c0ab790526fb,7a4fa3e0-68af-4d48-9038-1eacc4d67bc9,5a152fc9-3179-4527-848b-7d6631d589ad
+9103061b-28aa-42ea-8e76-c0ab790526fb,1b08d1ff-1cc9-43d7-8b8a-0a09c762910e,a1dc99b4-0e7c-46ca-a671-130acc43ec3d,->,9103061b-28aa-42ea-8e76-c0ab790526fb,javax/xml/ws/Endpoint.java,publish
+9103061b-28aa-42ea-8e76-c0ab790526fb,1b08d1ff-1cc9-43d7-8b8a-0a09c762910e,a1dc99b4-0e7c-46ca-a671-130acc43ec3d,->,9103061b-28aa-42ea-8e76-c0ab790526fb,javax/xml/ws/Endpoint.java,publish

@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4f93f42d-7c32-496a-9aea-87d1352e62f2,5cebdb9d-cb7e-4b3b-9cd4-ad0711aa95fd,6ba8a982-3962-4bac-946a-d4da37075f55,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,java/io/PrintStream.java,println
+4f93f42d-7c32-496a-9aea-87d1352e62f2,b1bdbd6e-e527-4ae0-b975-1f8f3c6386a9,0b698281-2cc0-40a3-a0cd-d2da0d982130,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,fb86f831-8395-4d3c-86f0-69dd2a46846a,0f40f892-eb17-4609-8abf-620e98400289
+4f93f42d-7c32-496a-9aea-87d1352e62f2,b1bdbd6e-e527-4ae0-b975-1f8f3c6386a9,0b698281-2cc0-40a3-a0cd-d2da0d982130,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,org/junit/Assert.java,assertEquals
+4f93f42d-7c32-496a-9aea-87d1352e62f2,b1bdbd6e-e527-4ae0-b975-1f8f3c6386a9,0b698281-2cc0-40a3-a0cd-d2da0d982130,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,fb86f831-8395-4d3c-86f0-69dd2a46846a,0f40f892-eb17-4609-8abf-620e98400289
+4f93f42d-7c32-496a-9aea-87d1352e62f2,b1bdbd6e-e527-4ae0-b975-1f8f3c6386a9,0b698281-2cc0-40a3-a0cd-d2da0d982130,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,org/junit/Assert.java,assertEquals
+4f93f42d-7c32-496a-9aea-87d1352e62f2,b1bdbd6e-e527-4ae0-b975-1f8f3c6386a9,0b698281-2cc0-40a3-a0cd-d2da0d982130,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,5cebdb9d-cb7e-4b3b-9cd4-ad0711aa95fd,6ba8a982-3962-4bac-946a-d4da37075f55
+4f93f42d-7c32-496a-9aea-87d1352e62f2,b1bdbd6e-e527-4ae0-b975-1f8f3c6386a9,0b698281-2cc0-40a3-a0cd-d2da0d982130,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,org/junit/Assert.java,assertTrue
+4f93f42d-7c32-496a-9aea-87d1352e62f2,twalters/experiments/canYouExtendUtilClass/MyUtilsExtensionTest.java,<clinit>,->,4f93f42d-7c32-496a-9aea-87d1352e62f2,twalters/experiments/canYouExtendUtilClass/MyUtilsExtension.java,someManipulation

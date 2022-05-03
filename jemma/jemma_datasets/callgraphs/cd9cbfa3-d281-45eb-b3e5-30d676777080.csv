@@ -1,0 +1,13 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+cd9cbfa3-d281-45eb-b3e5-30d676777080,27d3ea0e-1024-459c-a4c8-80beffc3bb39,327bc017-4818-4847-8a27-60a380807645,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/ui/Model.java,asMap
+cd9cbfa3-d281-45eb-b3e5-30d676777080,27d3ea0e-1024-459c-a4c8-80beffc3bb39,327bc017-4818-4847-8a27-60a380807645,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,java/util/Map.java,get
+cd9cbfa3-d281-45eb-b3e5-30d676777080,27d3ea0e-1024-459c-a4c8-80beffc3bb39,327bc017-4818-4847-8a27-60a380807645,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,java/util/List.java,get
+cd9cbfa3-d281-45eb-b3e5-30d676777080,1b7663da-808d-4667-be31-5db0634ef7bb,ae3f16ec-e079-43cb-a313-1b5f5b0a3260,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,java/lang/System.java,getenv
+cd9cbfa3-d281-45eb-b3e5-30d676777080,1b7663da-808d-4667-be31-5db0634ef7bb,ae3f16ec-e079-43cb-a313-1b5f5b0a3260,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,java/lang/String.java,isEmpty
+cd9cbfa3-d281-45eb-b3e5-30d676777080,1b7663da-808d-4667-be31-5db0634ef7bb,ae3f16ec-e079-43cb-a313-1b5f5b0a3260,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,java/lang/System.java,setProperty
+cd9cbfa3-d281-45eb-b3e5-30d676777080,1b7663da-808d-4667-be31-5db0634ef7bb,ae3f16ec-e079-43cb-a313-1b5f5b0a3260,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/boot/SpringApplication.java,run
+cd9cbfa3-d281-45eb-b3e5-30d676777080,dc2f9c76-5078-47a5-9192-5e0c7d4a0e8b,23c8c4bd-42c5-4c3d-922b-05265f0e6f02,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/social/connect/ConnectionRepository.java,findPrimaryConnection
+cd9cbfa3-d281-45eb-b3e5-30d676777080,dc2f9c76-5078-47a5-9192-5e0c7d4a0e8b,23c8c4bd-42c5-4c3d-922b-05265f0e6f02,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/social/twitter/api/Twitter.java,searchOperations
+cd9cbfa3-d281-45eb-b3e5-30d676777080,dc2f9c76-5078-47a5-9192-5e0c7d4a0e8b,23c8c4bd-42c5-4c3d-922b-05265f0e6f02,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/social/twitter/api/SearchOperations.java,search
+cd9cbfa3-d281-45eb-b3e5-30d676777080,dc2f9c76-5078-47a5-9192-5e0c7d4a0e8b,23c8c4bd-42c5-4c3d-922b-05265f0e6f02,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/social/twitter/api/SearchResults.java,getTweets
+cd9cbfa3-d281-45eb-b3e5-30d676777080,dc2f9c76-5078-47a5-9192-5e0c7d4a0e8b,23c8c4bd-42c5-4c3d-922b-05265f0e6f02,->,cd9cbfa3-d281-45eb-b3e5-30d676777080,org/springframework/web/servlet/mvc/support/RedirectAttributes.java,addFlashAttribute

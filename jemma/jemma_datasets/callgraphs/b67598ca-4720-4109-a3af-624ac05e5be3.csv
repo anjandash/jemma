@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+b67598ca-4720-4109-a3af-624ac05e5be3,c01e773a-8c2a-4ac6-83a0-88ae3cfdbadf,825f966b-6fa2-4312-a141-2d06f7988104,->,b67598ca-4720-4109-a3af-624ac05e5be3,66644c48-4f2b-454b-b7e6-1b4170fd1db8,bc0a77b9-66e3-4eb6-953c-1778e950a963
+b67598ca-4720-4109-a3af-624ac05e5be3,c01e773a-8c2a-4ac6-83a0-88ae3cfdbadf,825f966b-6fa2-4312-a141-2d06f7988104,->,b67598ca-4720-4109-a3af-624ac05e5be3,66644c48-4f2b-454b-b7e6-1b4170fd1db8,a232ac71-c305-411f-b557-fc752a224992
+b67598ca-4720-4109-a3af-624ac05e5be3,c01e773a-8c2a-4ac6-83a0-88ae3cfdbadf,825f966b-6fa2-4312-a141-2d06f7988104,->,b67598ca-4720-4109-a3af-624ac05e5be3,66644c48-4f2b-454b-b7e6-1b4170fd1db8,dbb917d6-9c23-4bd9-a378-87ed3c175311
+b67598ca-4720-4109-a3af-624ac05e5be3,c01e773a-8c2a-4ac6-83a0-88ae3cfdbadf,825f966b-6fa2-4312-a141-2d06f7988104,->,b67598ca-4720-4109-a3af-624ac05e5be3,org/springframework/security/core/authority/AuthorityUtils.java,createAuthorityList

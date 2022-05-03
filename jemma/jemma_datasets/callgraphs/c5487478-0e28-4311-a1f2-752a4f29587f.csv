@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+c5487478-0e28-4311-a1f2-752a4f29587f,org/jasoft/app/platform/domain/NodeAttribute$Type.java,values,->,c5487478-0e28-4311-a1f2-752a4f29587f,org/jasoft/app/platform/domain/NodeAttribute$Type.java,clone
+c5487478-0e28-4311-a1f2-752a4f29587f,org/jasoft/app/platform/domain/NodeAttribute$Type.java,valueOf,->,c5487478-0e28-4311-a1f2-752a4f29587f,java/lang/Enum.java,valueOf

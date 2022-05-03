@@ -1,0 +1,10 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+64bdd245-6b9a-4f02-8938-a9337cb7e457,b7b93cd5-a0f3-4dd5-8449-e98ee1249f6a,17fdb93f-bac3-4254-b069-992a9ac4c498,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,java/lang/Double.java,valueOf
+64bdd245-6b9a-4f02-8938-a9337cb7e457,5c7d39c1-8153-4a1d-8637-c554e1b4810e,d431ba2b-6903-4a57-8209-4df8ce649b48,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,javax/enterprise/inject/spi/InjectionPoint.java,getMember
+64bdd245-6b9a-4f02-8938-a9337cb7e457,5c7d39c1-8153-4a1d-8637-c554e1b4810e,d431ba2b-6903-4a57-8209-4df8ce649b48,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,java/lang/reflect/Member.java,getDeclaringClass
+64bdd245-6b9a-4f02-8938-a9337cb7e457,5c7d39c1-8153-4a1d-8637-c554e1b4810e,d431ba2b-6903-4a57-8209-4df8ce649b48,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,java/lang/Class.java,getName
+64bdd245-6b9a-4f02-8938-a9337cb7e457,5c7d39c1-8153-4a1d-8637-c554e1b4810e,d431ba2b-6903-4a57-8209-4df8ce649b48,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,java/util/logging/Logger.java,getLogger
+64bdd245-6b9a-4f02-8938-a9337cb7e457,6a84c072-52a1-4bc3-9d37-419a73b9ced3,19117078-acbf-49bc-a4b9-91c6ff43426b,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,javax/xml/ws/Service.java,create
+64bdd245-6b9a-4f02-8938-a9337cb7e457,6a84c072-52a1-4bc3-9d37-419a73b9ced3,19117078-acbf-49bc-a4b9-91c6ff43426b,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,javax/xml/ws/Service.java,getPort
+64bdd245-6b9a-4f02-8938-a9337cb7e457,6a84c072-52a1-4bc3-9d37-419a73b9ced3,19117078-acbf-49bc-a4b9-91c6ff43426b,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,0754f851-9806-4c1f-89a5-99325f33a177,b76223bc-8d92-474e-91a3-409e54d8215f
+64bdd245-6b9a-4f02-8938-a9337cb7e457,6a84c072-52a1-4bc3-9d37-419a73b9ced3,19117078-acbf-49bc-a4b9-91c6ff43426b,->,64bdd245-6b9a-4f02-8938-a9337cb7e457,java/io/PrintStream.java,println

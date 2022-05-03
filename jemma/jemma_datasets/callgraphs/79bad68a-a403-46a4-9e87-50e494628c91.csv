@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+79bad68a-a403-46a4-9e87-50e494628c91,c602b93a-7772-4b1d-8cd8-1e26ceeb8ea5,8ff918b4-b80d-48b2-b483-bd3b46487c00,->,79bad68a-a403-46a4-9e87-50e494628c91,javax/xml/ws/Service.java,getPort
+79bad68a-a403-46a4-9e87-50e494628c91,c602b93a-7772-4b1d-8cd8-1e26ceeb8ea5,b6faa87f-742e-408a-9736-62ae59b0e2c1,->,79bad68a-a403-46a4-9e87-50e494628c91,javax/xml/ws/Service.java,getPort
+79bad68a-a403-46a4-9e87-50e494628c91,de/bitapp/paper/page/PageService.java,<clinit>,->,79bad68a-a403-46a4-9e87-50e494628c91,java/lang/Class.java,getName
+79bad68a-a403-46a4-9e87-50e494628c91,de/bitapp/paper/page/PageService.java,<clinit>,->,79bad68a-a403-46a4-9e87-50e494628c91,java/util/logging/Logger.java,getLogger
+79bad68a-a403-46a4-9e87-50e494628c91,de/bitapp/paper/page/PageService.java,<clinit>,->,79bad68a-a403-46a4-9e87-50e494628c91,java/util/logging/Logger.java,log
+79bad68a-a403-46a4-9e87-50e494628c91,78396faa-6d04-4213-9f59-07dbc0e6baeb,7e958a50-c627-4c30-8e00-b38163d74576,->,79bad68a-a403-46a4-9e87-50e494628c91,java/util/logging/Logger.java,info
+79bad68a-a403-46a4-9e87-50e494628c91,78396faa-6d04-4213-9f59-07dbc0e6baeb,7e958a50-c627-4c30-8e00-b38163d74576,->,79bad68a-a403-46a4-9e87-50e494628c91,java/io/PrintStream.java,println
+79bad68a-a403-46a4-9e87-50e494628c91,78396faa-6d04-4213-9f59-07dbc0e6baeb,7e958a50-c627-4c30-8e00-b38163d74576,->,79bad68a-a403-46a4-9e87-50e494628c91,java/io/PrintStream.java,println
+79bad68a-a403-46a4-9e87-50e494628c91,de/bitapp/paper/page/PageServicePortTypeImpl.java,<clinit>,->,79bad68a-a403-46a4-9e87-50e494628c91,java/lang/Class.java,getName
+79bad68a-a403-46a4-9e87-50e494628c91,de/bitapp/paper/page/PageServicePortTypeImpl.java,<clinit>,->,79bad68a-a403-46a4-9e87-50e494628c91,java/util/logging/Logger.java,getLogger

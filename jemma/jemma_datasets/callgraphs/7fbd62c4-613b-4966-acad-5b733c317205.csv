@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7fbd62c4-613b-4966-acad-5b733c317205,com/friendLocator/utils/constants/UserRole.java,values,->,7fbd62c4-613b-4966-acad-5b733c317205,com/friendLocator/utils/constants/UserRole.java,clone
+7fbd62c4-613b-4966-acad-5b733c317205,com/friendLocator/utils/constants/UserRole.java,valueOf,->,7fbd62c4-613b-4966-acad-5b733c317205,java/lang/Enum.java,valueOf

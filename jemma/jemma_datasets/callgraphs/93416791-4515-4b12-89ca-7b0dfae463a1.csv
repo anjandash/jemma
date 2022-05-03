@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+93416791-4515-4b12-89ca-7b0dfae463a1,82756c94-c268-4d6a-97ef-a79bcdb14381,5b9b7dc7-d39d-400d-b6ff-e7fd84d20dab,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,booleanValue
+93416791-4515-4b12-89ca-7b0dfae463a1,82756c94-c268-4d6a-97ef-a79bcdb14381,5b9b7dc7-d39d-400d-b6ff-e7fd84d20dab,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,valueOf
+93416791-4515-4b12-89ca-7b0dfae463a1,82756c94-c268-4d6a-97ef-a79bcdb14381,86548b25-0931-439f-be4b-ec22b65b2799,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,booleanValue
+93416791-4515-4b12-89ca-7b0dfae463a1,82756c94-c268-4d6a-97ef-a79bcdb14381,86548b25-0931-439f-be4b-ec22b65b2799,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,valueOf
+93416791-4515-4b12-89ca-7b0dfae463a1,671e57d4-04ed-4e95-8d66-b68f909c9483,12bef6fd-6619-4998-9de3-85bf01e47571,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,booleanValue
+93416791-4515-4b12-89ca-7b0dfae463a1,671e57d4-04ed-4e95-8d66-b68f909c9483,12bef6fd-6619-4998-9de3-85bf01e47571,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,valueOf
+93416791-4515-4b12-89ca-7b0dfae463a1,671e57d4-04ed-4e95-8d66-b68f909c9483,cba95bed-0409-4c2a-94a9-7741a6bce9cc,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,booleanValue
+93416791-4515-4b12-89ca-7b0dfae463a1,671e57d4-04ed-4e95-8d66-b68f909c9483,cba95bed-0409-4c2a-94a9-7741a6bce9cc,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/Boolean.java,valueOf
+93416791-4515-4b12-89ca-7b0dfae463a1,net/elliptium/phoneutria/s3/impl/S3Path.java,<clinit>,->,93416791-4515-4b12-89ca-7b0dfae463a1,org/slf4j/LoggerFactory.java,getLogger
+93416791-4515-4b12-89ca-7b0dfae463a1,net/elliptium/phoneutria/s3/impl/S3Path.java,<clinit>,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/util/regex/Pattern.java,compile
+93416791-4515-4b12-89ca-7b0dfae463a1,614b59e1-96fa-4767-9cf9-bee302e0edc9,31127a1c-8331-4171-a22b-3150435ee6a4,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/String.java,trim
+93416791-4515-4b12-89ca-7b0dfae463a1,614b59e1-96fa-4767-9cf9-bee302e0edc9,31127a1c-8331-4171-a22b-3150435ee6a4,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/String.java,startsWith
+93416791-4515-4b12-89ca-7b0dfae463a1,614b59e1-96fa-4767-9cf9-bee302e0edc9,31127a1c-8331-4171-a22b-3150435ee6a4,->,93416791-4515-4b12-89ca-7b0dfae463a1,java/lang/String.java,startsWith

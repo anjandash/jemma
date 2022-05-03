@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,eu/pmsoft/testkata/testngguice/domain/Role.java,values,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,eu/pmsoft/testkata/testngguice/domain/Role.java,clone
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,eu/pmsoft/testkata/testngguice/domain/Role.java,valueOf,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,java/lang/Enum.java,valueOf
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,ce027628-0a8a-4c1e-822e-b6c188424dcb,e6d6c049-2239-4d6d-85b4-07ffdbea9652,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,eu/pmsoft/testkata/testngguice/impl/controller/ControllerLayerModule.java,bind
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,ce027628-0a8a-4c1e-822e-b6c188424dcb,e6d6c049-2239-4d6d-85b4-07ffdbea9652,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,com/google/inject/binder/AnnotatedBindingBuilder.java,to
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,ce027628-0a8a-4c1e-822e-b6c188424dcb,e6d6c049-2239-4d6d-85b4-07ffdbea9652,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,eu/pmsoft/testkata/testngguice/impl/controller/ControllerLayerModule.java,bind
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,ce027628-0a8a-4c1e-822e-b6c188424dcb,e6d6c049-2239-4d6d-85b4-07ffdbea9652,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,com/google/inject/binder/AnnotatedBindingBuilder.java,to
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,5b05a06e-0793-40fe-8b8f-9153b82d0041,2ca7f961-6f7f-4623-9616-8f971542a7d5,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,org/junit/Assert.java,assertNotNull
+7df5ad80-02c4-49d9-9abc-a11ec4a263ec,5b05a06e-0793-40fe-8b8f-9153b82d0041,2ca7f961-6f7f-4623-9616-8f971542a7d5,->,7df5ad80-02c4-49d9-9abc-a11ec4a263ec,org/junit/Assert.java,assertNotNull

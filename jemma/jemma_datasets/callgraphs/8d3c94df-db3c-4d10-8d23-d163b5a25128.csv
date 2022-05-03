@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+8d3c94df-db3c-4d10-8d23-d163b5a25128,com/cts/timesheet/model/UserRole.java,values,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,com/cts/timesheet/model/UserRole.java,clone
+8d3c94df-db3c-4d10-8d23-d163b5a25128,com/cts/timesheet/model/UserRole.java,valueOf,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,java/lang/Enum.java,valueOf
+8d3c94df-db3c-4d10-8d23-d163b5a25128,7e3a7b08-f5b3-4957-aed0-19d2cff9aee0,c89fe2ce-efe8-4f4d-bcc9-752f2c481737,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,com/cts/timesheet/dao/UserDaoImpl.java,getHibernateTemplate
+8d3c94df-db3c-4d10-8d23-d163b5a25128,7e3a7b08-f5b3-4957-aed0-19d2cff9aee0,c89fe2ce-efe8-4f4d-bcc9-752f2c481737,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,org/springframework/orm/hibernate3/HibernateTemplate.java,save
+8d3c94df-db3c-4d10-8d23-d163b5a25128,6d3120ca-9f61-4a89-b3c5-7e289fa059b6,1e0347f4-64cc-4424-b2aa-fc307d2c3953,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,org/springframework/context/ApplicationContext.java,getBean
+8d3c94df-db3c-4d10-8d23-d163b5a25128,6d3120ca-9f61-4a89-b3c5-7e289fa059b6,c3fdd579-1c26-4010-9d75-6870c402011d,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,java/lang/Integer.java,valueOf
+8d3c94df-db3c-4d10-8d23-d163b5a25128,6d3120ca-9f61-4a89-b3c5-7e289fa059b6,c3fdd579-1c26-4010-9d75-6870c402011d,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,cef9d806-aa72-47fe-b72b-6c1745933d70,6810d6b7-fef1-47d8-b1c6-19442d41f4c6
+8d3c94df-db3c-4d10-8d23-d163b5a25128,6d3120ca-9f61-4a89-b3c5-7e289fa059b6,c3fdd579-1c26-4010-9d75-6870c402011d,->,8d3c94df-db3c-4d10-8d23-d163b5a25128,org/junit/Assert.java,assertTrue

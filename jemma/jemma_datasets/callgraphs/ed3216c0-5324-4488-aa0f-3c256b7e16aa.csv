@@ -1,0 +1,16 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,7a20feba-8508-4a74-bc87-f4bd4669761d,20465dd1-c433-41cd-abaf-23a7162038dc,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/io/PrintStream.java,println
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,7a20feba-8508-4a74-bc87-f4bd4669761d,c976cc2b-8724-422e-ad23-3331d3acfa13,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/lang/StringBuilder.java,append
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,7a20feba-8508-4a74-bc87-f4bd4669761d,c976cc2b-8724-422e-ad23-3331d3acfa13,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/lang/StringBuilder.java,append
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,7a20feba-8508-4a74-bc87-f4bd4669761d,c976cc2b-8724-422e-ad23-3331d3acfa13,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/lang/StringBuilder.java,toString
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/util/ArrayList.java,add
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/util/ArrayList.java,add
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/util/ArrayList.java,toString
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/io/PrintStream.java,println
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/util/ArrayList.java,add
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/util/ArrayList.java,toString
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,63167ed8-dc57-43aa-a3de-856fbc90175a,7043acdc-f031-41a9-bb38-7ae1139887eb,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/io/PrintStream.java,println
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,19d41d12-82c6-45ec-a40b-e26fddc965e7,788fe542-c1be-4a81-b920-9c0beb44b10d,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/io/PrintStream.java,println
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,19d41d12-82c6-45ec-a40b-e26fddc965e7,4aefd443-1bb7-4e3a-b8ea-40ae38683417,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/lang/StringBuilder.java,append
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,19d41d12-82c6-45ec-a40b-e26fddc965e7,4aefd443-1bb7-4e3a-b8ea-40ae38683417,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/lang/StringBuilder.java,append
+ed3216c0-5324-4488-aa0f-3c256b7e16aa,19d41d12-82c6-45ec-a40b-e26fddc965e7,4aefd443-1bb7-4e3a-b8ea-40ae38683417,->,ed3216c0-5324-4488-aa0f-3c256b7e16aa,java/lang/StringBuilder.java,toString

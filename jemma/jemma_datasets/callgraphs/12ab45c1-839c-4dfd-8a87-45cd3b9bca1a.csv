@@ -1,0 +1,9 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,2ae3ba75-a1bd-49a8-b7f8-6d2e21f83d4b,0031f2bb-38e2-4f74-b2b8-a32cf12c9f2b,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,javax/persistence/EntityManager.java,persist
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,2ae3ba75-a1bd-49a8-b7f8-6d2e21f83d4b,05dd7f1b-b651-4b9a-a30b-19c59720c1a6,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,javax/persistence/EntityManager.java,createQuery
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,2ae3ba75-a1bd-49a8-b7f8-6d2e21f83d4b,05dd7f1b-b651-4b9a-a30b-19c59720c1a6,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,javax/persistence/Query.java,getResultList
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,4516a561-755d-4f44-b0dd-b650a2fcdcd3,2e17106b-528f-43c9-a5f6-dfefa6d42904,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,2ae3ba75-a1bd-49a8-b7f8-6d2e21f83d4b,05dd7f1b-b651-4b9a-a30b-19c59720c1a6
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,4516a561-755d-4f44-b0dd-b650a2fcdcd3,401bf31c-17ff-418c-8e65-605e172fd147,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,2ae3ba75-a1bd-49a8-b7f8-6d2e21f83d4b,0031f2bb-38e2-4f74-b2b8-a32cf12c9f2b
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,4516a561-755d-4f44-b0dd-b650a2fcdcd3,401bf31c-17ff-418c-8e65-605e172fd147,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,2ae3ba75-a1bd-49a8-b7f8-6d2e21f83d4b,05dd7f1b-b651-4b9a-a30b-19c59720c1a6
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,cf34311d-d91d-4ead-857d-def2f3243e78,df001ce2-c2d9-4c81-9738-ac207bfd40e2,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,javax/persistence/EntityManagerFactory.java,createEntityManager
+12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,cf34311d-d91d-4ead-857d-def2f3243e78,727e8a71-2670-4bf8-af2d-c8bffcebef25,->,12ab45c1-839c-4dfd-8a87-45cd3b9bca1a,javax/persistence/EntityManager.java,close

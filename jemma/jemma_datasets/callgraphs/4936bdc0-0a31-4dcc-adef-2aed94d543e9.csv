@@ -1,0 +1,3 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+4936bdc0-0a31-4dcc-adef-2aed94d543e9,eu/appbucket/rothar/web/domain/asset/AssetStatus.java,values,->,4936bdc0-0a31-4dcc-adef-2aed94d543e9,eu/appbucket/rothar/web/domain/asset/AssetStatus.java,clone
+4936bdc0-0a31-4dcc-adef-2aed94d543e9,eu/appbucket/rothar/web/domain/asset/AssetStatus.java,valueOf,->,4936bdc0-0a31-4dcc-adef-2aed94d543e9,java/lang/Enum.java,valueOf

@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Color.java,values,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Color.java,clone
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Color.java,valueOf,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,java/lang/Enum.java,valueOf
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Country.java,values,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Country.java,clone
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Country.java,valueOf,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,java/lang/Enum.java,valueOf
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Model.java,values,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Model.java,clone
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Model.java,valueOf,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,java/lang/Enum.java,valueOf
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Size.java,values,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Size.java,clone
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Size.java,valueOf,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,java/lang/Enum.java,valueOf
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Brand.java,values,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Brand.java,clone
+d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,com/sneakertradeph/domain/Brand.java,valueOf,->,d3fcaf7f-d3dd-4a62-b688-41480e4cf2ca,java/lang/Enum.java,valueOf

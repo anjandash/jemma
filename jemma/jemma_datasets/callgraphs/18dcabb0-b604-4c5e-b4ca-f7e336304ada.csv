@@ -1,0 +1,15 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,c93f204f-3ab6-49b3-8b2b-c5ca69ebea87,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,net/smktarunabhakti/penjualan/dao/BarangDao.java,save
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,7c80601d-575f-4233-b790-720776051163,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,b0f161e0-1948-439b-9596-69523a903cad,933f5fcd-63f9-448c-b074-b12af979e3c6
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,7c80601d-575f-4233-b790-720776051163,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,net/smktarunabhakti/penjualan/dao/BarangDao.java,delete
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,8ef5f4fa-a186-4e34-b1fc-04c98922275c,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,net/smktarunabhakti/penjualan/dao/BarangDao.java,findAll
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,7a131dfd-43fe-49ba-9b6f-dbebf7577972,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,org/springframework/util/StringUtils.java,hasText
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,7a131dfd-43fe-49ba-9b6f-dbebf7577972,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,net/smktarunabhakti/penjualan/dao/BarangDao.java,findOne
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,2003246c-4bf6-41a3-b290-e3f46c6fe2ec,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,net/smktarunabhakti/penjualan/dao/BarangDao.java,count
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f232ae0e-03cb-4cfe-a6db-0ecafe425502,2003246c-4bf6-41a3-b290-e3f46c6fe2ec,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,java/lang/Long.java,valueOf
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,f0637070-ec8d-4540-aabe-753a6c020108,a8cc31ae-10ed-4716-ac76-e08a456c4b1c,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,net/smktarunabhakti/penjualan/AppTest.java,assertTrue
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,00debe1e-e6b9-4c77-8e3f-91847fbd0d96,5f85f25f-1cb2-451f-8f73-0766485039d3,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,org/springframework/context/ApplicationContext.java,getBean
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,00debe1e-e6b9-4c77-8e3f-91847fbd0d96,5f85f25f-1cb2-451f-8f73-0766485039d3,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,00debe1e-e6b9-4c77-8e3f-91847fbd0d96,b453a0f5-ae07-4878-8c67-29f4a4fa6f20
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,00debe1e-e6b9-4c77-8e3f-91847fbd0d96,b453a0f5-ae07-4878-8c67-29f4a4fa6f20,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,b0f161e0-1948-439b-9596-69523a903cad,61b2f7ce-0114-4d5c-8c1a-706883a8427c
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,00debe1e-e6b9-4c77-8e3f-91847fbd0d96,b453a0f5-ae07-4878-8c67-29f4a4fa6f20,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,b0f161e0-1948-439b-9596-69523a903cad,6c250598-71fd-4f61-973a-309452a0d4fb
+18dcabb0-b604-4c5e-b4ca-f7e336304ada,00debe1e-e6b9-4c77-8e3f-91847fbd0d96,b453a0f5-ae07-4878-8c67-29f4a4fa6f20,->,18dcabb0-b604-4c5e-b4ca-f7e336304ada,2e26f84a-4fa6-4433-ab3c-af9cdf20d11b,44bfe8e8-4a80-4dee-b09e-dc1ce789932c

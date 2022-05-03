@@ -1,0 +1,11 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/StatusCode.java,values,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/StatusCode.java,clone
+11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/StatusCode.java,valueOf,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,java/lang/Enum.java,valueOf
+11cb8daa-90f2-48c4-b6cd-2364493ada93,3c46f859-8454-48b8-9ea1-498ea9905287,8967d6fd-c1f5-4f8b-9c65-771ac34f8bf8,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/StatusCode.java,values
+11cb8daa-90f2-48c4-b6cd-2364493ada93,3c46f859-8454-48b8-9ea1-498ea9905287,8967d6fd-c1f5-4f8b-9c65-771ac34f8bf8,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,java/lang/String.java,equals
+11cb8daa-90f2-48c4-b6cd-2364493ada93,4caafac9-bb25-445e-8e19-ba313254c5e9,a34e74c6-886f-41fc-9e94-6c1e3e7c428b,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,javax/xml/ws/Service.java,getPort
+11cb8daa-90f2-48c4-b6cd-2364493ada93,4caafac9-bb25-445e-8e19-ba313254c5e9,8bbd2daa-654a-4351-925a-6160e87e9c82,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,javax/xml/ws/Service.java,getPort
+11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/QStatus.java,values,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/QStatus.java,clone
+11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/QStatus.java,valueOf,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,java/lang/Enum.java,valueOf
+11cb8daa-90f2-48c4-b6cd-2364493ada93,6808929c-60cc-498b-93ca-a4ddb3a451d9,d49864d1-b44d-4047-8161-cd82dd57176b,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,transfer/service/QStatus.java,values
+11cb8daa-90f2-48c4-b6cd-2364493ada93,6808929c-60cc-498b-93ca-a4ddb3a451d9,d49864d1-b44d-4047-8161-cd82dd57176b,->,11cb8daa-90f2-48c4-b6cd-2364493ada93,java/lang/String.java,equals

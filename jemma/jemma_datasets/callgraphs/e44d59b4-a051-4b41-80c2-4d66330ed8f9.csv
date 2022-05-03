@@ -1,0 +1,14 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,dcb75be1-6164-4696-8a6f-e3af73441201,ec2f64f7-cc65-4627-8a91-a319e8f40108,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,javax/servlet/http/HttpServletResponse.java,setContentType
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,dcb75be1-6164-4696-8a6f-e3af73441201,ec2f64f7-cc65-4627-8a91-a319e8f40108,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,javax/servlet/http/HttpServletResponse.java,getWriter
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,dcb75be1-6164-4696-8a6f-e3af73441201,ec2f64f7-cc65-4627-8a91-a319e8f40108,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,java/io/PrintWriter.java,println
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,83f387fc-09ba-4efe-a86a-8dcd4e4fcdf5,24d89137-0ca7-44ed-906d-b45040ae9377,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,java/util/Map.java,put
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,83f387fc-09ba-4efe-a86a-8dcd4e4fcdf5,24d89137-0ca7-44ed-906d-b45040ae9377,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,java/util/Map.java,put
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,83f387fc-09ba-4efe-a86a-8dcd4e4fcdf5,97dde279-ed21-48e1-afd9-5fa872ff4693,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,java/lang/Integer.java,intValue
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,83f387fc-09ba-4efe-a86a-8dcd4e4fcdf5,97dde279-ed21-48e1-afd9-5fa872ff4693,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,java/util/ArrayList.java,get
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,com/ndch/ineed/ProviderInterface.java,<clinit>,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,83f387fc-09ba-4efe-a86a-8dcd4e4fcdf5,24d89137-0ca7-44ed-906d-b45040ae9377
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,com/ndch/ineed/ProviderInterface.java,<clinit>,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,1dff93f0-3af0-4eb2-af62-a951b0c2fa78,1596b09a-2527-4f4b-bd76-7cea39f22b01
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,com/ndch/ineed/ProviderInterface.java,<clinit>,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,1dff93f0-3af0-4eb2-af62-a951b0c2fa78,59c83854-c201-4d9c-ad92-e10c25718c68
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,com/ndch/ineed/ProviderInterface.java,<clinit>,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,1dff93f0-3af0-4eb2-af62-a951b0c2fa78,d0302dc3-275d-48c2-958e-101860e27688
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,com/ndch/ineed/ProviderInterface.java,<clinit>,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,1dff93f0-3af0-4eb2-af62-a951b0c2fa78,90215936-be7a-43fb-bc29-1c31070749d8
+e44d59b4-a051-4b41-80c2-4d66330ed8f9,com/ndch/ineed/ProviderInterface.java,<clinit>,->,e44d59b4-a051-4b41-80c2-4d66330ed8f9,java/util/ArrayList.java,add

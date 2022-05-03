@@ -1,0 +1,5 @@
+caller_project_id,caller_class_id,caller_method_id,CALL_DIRECTION,callee_project_id,callee_class_id,callee_method_id
+45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,a5b52e2b-6c65-4a62-8d17-0416950a372c,630226f7-8465-4108-84e2-177cbbba5bff,->,45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,java/lang/StringBuilder.java,append
+45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,a5b52e2b-6c65-4a62-8d17-0416950a372c,630226f7-8465-4108-84e2-177cbbba5bff,->,45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,java/lang/StringBuilder.java,append
+45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,a5b52e2b-6c65-4a62-8d17-0416950a372c,630226f7-8465-4108-84e2-177cbbba5bff,->,45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,java/lang/StringBuilder.java,append
+45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,a5b52e2b-6c65-4a62-8d17-0416950a372c,630226f7-8465-4108-84e2-177cbbba5bff,->,45681ad2-a1a8-4d5d-8c0a-ce1a3ae96d89,java/lang/StringBuilder.java,toString
