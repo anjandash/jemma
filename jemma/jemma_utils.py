@@ -5,6 +5,7 @@ author: @anjandash
 license: MIT
 """
 
+import sys
 import pandas as pd 
 
 
@@ -70,6 +71,16 @@ def get_project_id_by_path(project_path):
         return df.iloc[0]["project_id"]
     return None
 
+def get_project_id_by_method_id(method_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['method_id'] == method_id.strip()]
+
+    if df.shape[0] == 1:
+        return df.iloc[0]['project_id']
+    return None
 
 def get_project_name(project_id):
     """
@@ -122,6 +133,18 @@ def get_class_id_by_path(class_path):
     if df.shape[0] == 1:
         return df.iloc[0]['class_id']
     return None
+
+
+def get_class_id_by_method_id(method_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['method_id'] == method_id.strip()]
+
+    if df.shape[0] == 1:
+        return df.iloc[0]['class_id']
+    return None    
 
 
 def get_class_name(class_id):
@@ -209,13 +232,25 @@ def get_representations(representation, methods):
 def get_callees(method_id):
     """
     """
-    # get project_id from method_id
-    # get project_id-based callgraph csv (e.g. /path/to/Giganticode_50PLUS_DB_ALLCALLGRAPHS_MEGANODE_bucket_0a0dc599-0991-4902-a3c0-5c27a8647d8e_.csv)
-    pass
+
+    project_id = get_project_id_by_method_id(method_id)
+    project_cg = sys.path[0] + "/jemma_datasets/callgraphs/" + project_id + ".csv"
+
+    df = pd.read_csv(project_cg, header=0)
+    df = df[df["caller_method_id"] == method_id]
+    
+    callees = df["callee_method_id"].tolist()
+    return list(set(callees))
 
 def get_callers(method_id):
     """
     """
-    # get project_id from method_id
-    # get project_id-based callgraph csv (e.g. /path/to/Giganticode_50PLUS_DB_ALLCALLGRAPHS_MEGANODE_bucket_0a0dc599-0991-4902-a3c0-5c27a8647d8e_.csv)    
-    pass
+
+    project_id = get_project_id_by_method_id(method_id)
+    project_cg = sys.path[0] + "/jemma_datasets/callgraphs/" + project_id + ".csv"
+
+    df = pd.read_csv(project_cg, header=0)
+    df = df[df["callee_method_id"] == method_id]
+    
+    callers = df["caller_method_id"].tolist()
+    return list(set(callers))
