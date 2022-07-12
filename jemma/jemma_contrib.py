@@ -42,3 +42,26 @@ def add_metrics(metric, metric_values, method_ids):
 
     dn = pd.concat([df, dc], ignore_index=True)
     dn.to_csv(mi[:-4] + ".contrib.csv", index=False)
+
+
+def add_properties(property, property_values, method_ids):
+    """
+    Concatenate new property values to local csv
+
+    Parameters:
+    * property        : str - property code
+    * property_values : list(str) or list(int) - list of property values
+    * method_ids      : list(str) - list of unique method ids
+
+    Returns:
+    * null
+    """
+
+    mi = sys.path[0] + "/jemma_datasets/properties/Jemma_Properties_" + property + ".csv"
+    df = pd.read_csv(mi, header=0)
+
+    metric_header = metric_headers.get(property, "NOT_FOUND") # for CMPX it's cyclomatic_complexity
+    dc = pd.DataFrame(zip(method_ids, property_values), columns=["method_id", metric_header])
+
+    dn = pd.concat([df, dc], ignore_index=True)
+    dn.to_csv(mi[:-4] + ".contrib.csv", index=False)    

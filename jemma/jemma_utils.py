@@ -6,6 +6,7 @@ license: MIT
 """
 
 import sys
+import uuid
 import pandas as pd 
 
 
@@ -27,6 +28,20 @@ representations = {
     "C2SQ": "./data/Giganticode_50PLUS_DB_representations_C2SQ_CENTOS.csv",
 }
 
+properties_label = {
+    "CMPX": "cyclomatic_complexity",
+    "MXIN": "max_indent",
+    "NAME": "method_name",
+    "NMLT": "num_literals",
+    "NMOP": "num_operators",
+    "NMPR": "num_parameters",
+    "NMRT": "num_returns",
+    "NMTK": "num_tokens",
+    "NTID": "num_identifiers",
+    "NUID": "num_unique_identifiers",
+    "SLOC": "source_lines_of_code",
+    "TLOC": "total_lines_of_code",    
+}
 
 
 # *************** #
@@ -71,6 +86,18 @@ def get_project_id_by_path(project_path):
         return df.iloc[0]["project_id"]
     return None
 
+def get_project_id_class_id(class_id):
+    """
+    """
+
+    df = pd.read_csv(classes_csv, header=0)
+    df = df[df['class_id'] == class_id.strip()]
+
+    if df.shape[0] == 1:
+        return df.iloc[0]['project_id']
+    return None
+
+
 def get_project_id_by_method_id(method_id):
     """
     """
@@ -105,6 +132,54 @@ def get_project_path(project_id):
         return df.iloc[0]["project_path"]
     return None
 
+def get_project_size_by_classes(project_id):
+    """
+    """
+
+    df = pd.read_csv(classes_csv, header=0)
+    df = df[df['project_id'] == project_id.strip()]
+    return df.shape[0]
+
+def get_project_size_by_methods(project_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['project_id'] == project_id.strip()]
+    return df.shape[0]
+
+def get_project_class_ids(project_id):    
+    """
+    """
+
+    df = pd.read_csv(classes_csv, header=0)
+    df = df[df['project_id'] == project_id.strip()]
+    return df['class_id'].tolist()
+
+def get_project_method_ids(project_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['project_id'] == project_id.strip()]
+    return df['method_id'].tolist()
+
+def get_project_class_names(project_id):    
+    """
+    """
+
+    df = pd.read_csv(classes_csv, header=0)
+    df = df[df['project_id'] == project_id.strip()]
+    return df['class_name'].tolist()
+
+def get_project_method_names(project_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['project_id'] == project_id.strip()]
+    return df['method_name'].tolist()
+                
 
 # *************** #
 #     classes     #
@@ -171,6 +246,33 @@ def get_class_path(class_id):
     return None
 
 
+def get_class_size_by_methods(class_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['class_id'] == class_id.strip()]
+    return df.shape[0]        
+
+def get_class_method_ids(class_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['class_id'] == class_id.strip()]
+    return df['method_id'].tolist()    
+
+def get_class_method_names(class_id):
+    """
+    """
+
+    df = pd.read_csv(methods_csv, header=0)
+    df = df[df['class_id'] == class_id.strip()]
+    return df['method_name'].tolist()    
+
+
+
+
 # *************** #
 #     methods     #
 # *************** #
@@ -211,6 +313,18 @@ def get_properties(property, methods):
 
     return df_f
 
+def get_balanced_properties(property):
+    df_p = pd.read_csv(properties.get(property, None), header=0)
+
+    lbls = list(set(df_p[properties_label.get(property, None)].tolist()))
+    minc = min([len(df_p[properties_label.get(property, None) == lbl].tolist()) for lbl in lbls])
+
+    df_l = [df_p[properties_label.get(property, None) == lbl].tolist().head(minc) for lbl in lbls]
+    df_f = pd.concat(df_l, ignore_index=True)
+
+    return df_f
+
+
 def get_representations(representation, methods):
     """
     Get representation values of a list of methods
@@ -228,6 +342,8 @@ def get_representations(representation, methods):
     df_f = pd.merge(df_r, df_m, on="method_id")
 
     return df_f
+
+
 
 def get_callees(method_id):
     """
@@ -254,3 +370,38 @@ def get_callers(method_id):
     
     callers = df["caller_method_id"].tolist()
     return list(set(callers))
+
+def get_caller_context(method_id, n_neighborhood):
+    pass 
+
+def get_callee_context(method_id, n_neighborhood):
+    pass
+
+
+
+
+# def is_valid(mid):
+#     try:
+#         uuid.UUID(str(mid))
+#         return True
+#     except ValueError:
+#         return False    
+
+# def get_caller_methods(pid, methods_list, n_size, df):
+#     if n_size == 0 or len(methods_list) == 0:
+#         return []
+
+#     return_val = []
+#     for mid in methods_list: 
+#         df = df[df["callee_method_id"] == mid]
+#         callers = df["caller_method_id"].tolist()
+#         callers = [item for item in callers if is_valid(item)]
+#         callers = list(set(callers))
+
+#         if mid in callers: 
+#             callers = list(filter(lambda x: x != mid, callers))
+#         #print(f"For mid: {mid} the callers are: {callers}")
+
+#         n_size = n_size - 1
+#         return_val.append([callers, get_caller_methods(pid, callers, n_size, df)])
+#     return return_val

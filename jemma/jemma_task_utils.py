@@ -371,6 +371,13 @@ def get_metrics(metric, method_ids):
     df = df[df["method_id"].isin(method_ids)]
     return df
 
+def get_properties(property, method_ids):
+
+    mt = sys.path[0] + "/jemma_datasets/properties/Jemma_Properties_Methods_" + property + ".csv"
+    df = pd.read_csv(mt, header=0)
+    df = df[df["method_id"].isin(method_ids)]
+    return df    
+
 
 def get_representations(representation, method_ids):
     mt = sys.path[0] + "/jemma_datasets/representations/Jemma_Representations_Methods_" + representation + ".csv"
